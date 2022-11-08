@@ -1,67 +1,43 @@
 HOME_1 As screen:
     Fill: =RGBA(237, 237, 237, 1)
-    LoadingSpinnerColor: =RGBA(0, 120, 212, 1)
+    LoadingSpinnerColor: =RGBA(100, 118, 132, 1)
 
     Rectangle411270 As rectangle:
-        BorderColor: =RGBA(0, 0, 0, 0)
-        BorderStyle: =BorderStyle.None
-        DisabledFill: =RGBA(166, 166, 166, 1)
+        BorderColor: =RGBA(32, 54, 71, 1)
         DisplayMode: =DisplayMode.View
-        Fill: =RGBA(141, 28, 61, 1)
-        FocusedBorderThickness: =4
+        Fill: =RGBA(100, 118, 132, 1)
         Height: =318
-        HoverFill: =RGBA(0, 120, 212, 1)
-        PressedFill: =RGBA(0, 120, 212, 1)
         Width: =640
         ZIndex: =1
 
     Rectangle411251 As rectangle:
-        BorderColor: =RGBA(0, 0, 0, 0)
-        BorderStyle: =BorderStyle.None
-        DisabledFill: =RGBA(166, 166, 166, 1)
+        BorderColor: =RGBA(32, 54, 71, 1)
         DisplayMode: =DisplayMode.View
-        Fill: =RGBA(255, 255, 255, 1)
-        FocusedBorderThickness: =4
+        Fill: =RGBA(100, 118, 132, 1)
         Height: =87
-        HoverFill: =RGBA(0, 120, 212, 1)
-        PressedFill: =RGBA(0, 120, 212, 1)
         Width: =566
         X: =38
         Y: =541
         ZIndex: =17
 
     Rectangle411254 As rectangle:
-        BorderColor: =RGBA(0, 0, 0, 0)
-        BorderStyle: =BorderStyle.None
-        DisabledFill: =RGBA(166, 166, 166, 1)
+        BorderColor: =RGBA(32, 54, 71, 1)
         DisplayMode: =DisplayMode.View
-        Fill: =RGBA(236.7533, 238.5567, 247.8469, 1)
-        FocusedBorderThickness: =4
+        Fill: =RGBA(100, 118, 132, 1)
         Height: =52
-        HoverFill: =RGBA(0, 120, 212, 1)
-        PressedFill: =RGBA(0, 120, 212, 1)
         Width: =62
         X: =54
         Y: =558
         ZIndex: =19
 
     Label411256 As label:
-        BorderColor: =RGBA(0, 0, 0, 0)
-        BorderStyle: =BorderStyle.None
-        Color: =RGBA(49.57158, 50.31819, 54.1644, 1)
-        DisabledBorderColor: =RGBA(0, 0, 0, 0)
+        BorderColor: =RGBA(32, 54, 71, 1)
+        Color: =RGBA(0, 0, 0, 1)
         DisabledColor: =RGBA(166, 166, 166, 1)
         DisplayMode: =DisplayMode.View
-        FocusedBorderThickness: =4
         Height: =21
-        LineHeight: =1.210227
-        PaddingBottom: =0
-        PaddingLeft: =0
-        PaddingRight: =0
-        PaddingTop: =0
         Size: =15
         Text: ="Lively Inc."
-        VerticalAlign: =VerticalAlign.Top
         Width: =143
         X: =137
         Y: =561
@@ -69,44 +45,26 @@ HOME_1 As screen:
 
     Label411257 As label:
         Align: =Align.Right
-        BorderColor: =RGBA(0, 0, 0, 0)
-        BorderStyle: =BorderStyle.None
-        Color: =RGBA(49.57158, 50.31819, 54.1644, 1)
-        DisabledBorderColor: =RGBA(0, 0, 0, 0)
+        BorderColor: =RGBA(32, 54, 71, 1)
+        Color: =RGBA(0, 0, 0, 1)
         DisabledColor: =RGBA(166, 166, 166, 1)
         DisplayMode: =DisplayMode.View
-        FocusedBorderThickness: =4
         Height: =27
-        LineHeight: =1.210227
-        PaddingBottom: =0
-        PaddingLeft: =0
-        PaddingRight: =0
-        PaddingTop: =0
         Size: =15
         Text: ="432.21"
-        VerticalAlign: =VerticalAlign.Top
         Width: =155
         X: =400
         Y: =561
         ZIndex: =21
 
     Label411258 As label:
-        BorderColor: =RGBA(0, 0, 0, 0)
-        BorderStyle: =BorderStyle.None
-        Color: =RGBA(130.9658, 132.2845, 139.0778, 1)
-        DisabledBorderColor: =RGBA(0, 0, 0, 0)
+        BorderColor: =RGBA(32, 54, 71, 1)
+        Color: =RGBA(0, 0, 0, 1)
         DisabledColor: =RGBA(166, 166, 166, 1)
         DisplayMode: =DisplayMode.View
-        FocusedBorderThickness: =4
         Height: =18
-        LineHeight: =1.210227
-        PaddingBottom: =0
-        PaddingLeft: =0
-        PaddingRight: =0
-        PaddingTop: =0
-        Size: =9
+        Size: =21
         Text: ="4º Puesto"
-        VerticalAlign: =VerticalAlign.Top
         Width: =128
         X: =137
         Y: =588
@@ -114,162 +72,94 @@ HOME_1 As screen:
 
     Label411259 As label:
         Align: =Align.Right
-        BorderColor: =RGBA(0, 0, 0, 0)
-        BorderStyle: =BorderStyle.None
-        Color: =RGBA(34.72691, 179.0948, 112.7001, 1)
-        DisabledBorderColor: =RGBA(0, 0, 0, 0)
+        BorderColor: =RGBA(32, 54, 71, 1)
+        Color: =RGBA(0, 0, 0, 1)
         DisabledColor: =RGBA(166, 166, 166, 1)
         DisplayMode: =DisplayMode.View
-        FocusedBorderThickness: =4
         Height: =18
-        LineHeight: =1.210227
-        PaddingBottom: =0
-        PaddingLeft: =0
-        PaddingRight: =0
-        PaddingTop: =0
-        Size: =9
+        Size: =21
         Text: ="Puntos"
-        VerticalAlign: =VerticalAlign.Top
         Width: =113
         X: =442
         Y: =592
         ZIndex: =23
 
     Label411279 As label:
-        BorderColor: =RGBA(0, 0, 0, 0)
-        BorderStyle: =BorderStyle.None
-        Color: =RGBA(141, 28, 61, 1)
-        DisabledBorderColor: =RGBA(0, 0, 0, 0)
+        BorderColor: =RGBA(32, 54, 71, 1)
+        Color: =RGBA(0, 0, 0, 1)
         DisabledColor: =RGBA(166, 166, 166, 1)
-        FocusedBorderThickness: =4
-        FontWeight: =FontWeight.Bold
         Height: =15
-        LineHeight: =1.210227
-        PaddingBottom: =0
-        PaddingLeft: =0
-        PaddingRight: =0
-        PaddingTop: =0
-        Size: =9
+        Size: =21
         Text: ="Mi Perfil"
-        VerticalAlign: =VerticalAlign.Top
         Width: =84
         X: =78.4058227539063
         Y: =154.709716796875
         ZIndex: =38
 
     Image411283 As image:
-        BorderColor: =RGBA(0, 0, 0, 0)
-        BorderStyle: =BorderStyle.None
-        BorderThickness: =2
-        DisabledBorderColor: =RGBA(0, 0, 0, 0)
-        DisabledFill: =RGBA(0, 0, 0, 0)
-        FocusedBorderThickness: =4
+        BorderColor: =RGBA(32, 54, 71, 1)
+        DisabledBorderColor: =RGBA(166, 166, 166, 1)
+        DisabledFill: =RGBA(244, 244, 244, 1)
         Height: =16.5684204101563
-        HoverBorderColor: =RGBA(0, 0, 0, 0)
-        HoverFill: =RGBA(0, 0, 0, 0)
         Image: =image411283
-        PressedBorderColor: =RGBA(0, 0, 0, 0)
-        PressedFill: =RGBA(0, 0, 0, 0)
         Width: =1.74948310852051
         X: =238.057006835938
         Y: =160.381286621094
         ZIndex: =39
 
     Image411284 As image:
-        BorderColor: =RGBA(0, 0, 0, 0)
-        BorderStyle: =BorderStyle.None
-        BorderThickness: =2
-        DisabledBorderColor: =RGBA(0, 0, 0, 0)
-        DisabledFill: =RGBA(0, 0, 0, 0)
-        FocusedBorderThickness: =4
+        BorderColor: =RGBA(32, 54, 71, 1)
+        DisabledBorderColor: =RGBA(166, 166, 166, 1)
+        DisabledFill: =RGBA(244, 244, 244, 1)
         Height: =26.5094604492188
-        HoverBorderColor: =RGBA(0, 0, 0, 0)
-        HoverFill: =RGBA(0, 0, 0, 0)
         Image: =image411284
-        PressedBorderColor: =RGBA(0, 0, 0, 0)
-        PressedFill: =RGBA(0, 0, 0, 0)
         Width: =1.74948310852051
         X: =227.559982299805
         Y: =150.440246582031
         ZIndex: =40
 
     Image411285 As image:
-        BorderColor: =RGBA(0, 0, 0, 0)
-        BorderStyle: =BorderStyle.None
-        BorderThickness: =2
-        DisabledBorderColor: =RGBA(0, 0, 0, 0)
-        DisabledFill: =RGBA(0, 0, 0, 0)
-        FocusedBorderThickness: =4
+        BorderColor: =RGBA(32, 54, 71, 1)
+        DisabledBorderColor: =RGBA(166, 166, 166, 1)
+        DisabledFill: =RGBA(244, 244, 244, 1)
         Height: =9.9410400390625
-        HoverBorderColor: =RGBA(0, 0, 0, 0)
-        HoverFill: =RGBA(0, 0, 0, 0)
         Image: =image411285
-        PressedBorderColor: =RGBA(0, 0, 0, 0)
-        PressedFill: =RGBA(0, 0, 0, 0)
         Width: =1.74948120117188
         X: =217.063110351563
         Y: =167.008666992188
         ZIndex: =41
 
     Label411287 As label:
-        BorderColor: =RGBA(0, 0, 0, 0)
-        BorderStyle: =BorderStyle.None
-        Color: =RGBA(141, 28, 61, 1)
-        DisabledBorderColor: =RGBA(0, 0, 0, 0)
+        BorderColor: =RGBA(32, 54, 71, 1)
+        Color: =RGBA(0, 0, 0, 1)
         DisabledColor: =RGBA(166, 166, 166, 1)
-        FocusedBorderThickness: =4
         Height: =15
-        LineHeight: =1.210227
-        PaddingBottom: =0
-        PaddingLeft: =0
-        PaddingRight: =0
-        PaddingTop: =0
-        Size: =9
+        Size: =21
         Text: ="Nueva Apuesta"
-        VerticalAlign: =VerticalAlign.Top
         Width: =111.25772857666
         X: =253
         Y: =155.104125976563
         ZIndex: =42
 
     Label411290 As label:
-        BorderColor: =RGBA(0, 0, 0, 0)
-        BorderStyle: =BorderStyle.None
-        Color: =RGBA(255, 255, 255, 1)
-        DisabledBorderColor: =RGBA(0, 0, 0, 0)
+        BorderColor: =RGBA(32, 54, 71, 1)
+        Color: =RGBA(0, 0, 0, 1)
         DisabledColor: =RGBA(166, 166, 166, 1)
-        FocusedBorderThickness: =4
         Height: =44
-        LineHeight: =1.210227
-        PaddingBottom: =0
-        PaddingLeft: =0
-        PaddingRight: =0
-        PaddingTop: =0
         Size: =30
         Text: ="83838 "
-        VerticalAlign: =VerticalAlign.Top
         Width: =185
         X: =31
         Y: =97
         ZIndex: =43
 
     Label411291 As label:
-        BorderColor: =RGBA(0, 0, 0, 0)
-        BorderStyle: =BorderStyle.None
-        Color: =RGBA(229.8547, 233.9424, 255, 1)
-        DisabledBorderColor: =RGBA(0, 0, 0, 0)
+        BorderColor: =RGBA(32, 54, 71, 1)
+        Color: =RGBA(0, 0, 0, 1)
         DisabledColor: =RGBA(166, 166, 166, 1)
-        FocusedBorderThickness: =4
-        FontWeight: =FontWeight.Bold
         Height: =23
-        LineHeight: =1.210227
-        PaddingBottom: =0
-        PaddingLeft: =0
-        PaddingRight: =0
-        PaddingTop: =0
         Size: =15
         Text: ="Puntos Totales"
-        VerticalAlign: =VerticalAlign.Top
         Width: =232
         X: =33
         Y: =151
@@ -277,19 +167,10 @@ HOME_1 As screen:
 
     Label411297 As label:
         Align: =Align.Center
-        BorderColor: =RGBA(0, 0, 0, 0)
-        BorderStyle: =BorderStyle.None
-        Color: =RGBA(255, 255, 255, 1)
-        DisabledBorderColor: =RGBA(0, 0, 0, 0)
+        BorderColor: =RGBA(32, 54, 71, 1)
+        Color: =RGBA(0, 0, 0, 1)
         DisabledColor: =RGBA(166, 166, 166, 1)
-        FocusedBorderThickness: =4
-        FontWeight: =FontWeight.Lighter
         Height: =43
-        LineHeight: =1.210227
-        PaddingBottom: =0
-        PaddingLeft: =0
-        PaddingRight: =0
-        PaddingTop: =0
         Size: =20
         Text: ="Inicio"
         Width: =267
@@ -299,26 +180,16 @@ HOME_1 As screen:
 
     Button3 As button:
         Align: =Align.Right
-        BorderColor: =RGBA(0, 0, 0, 0)
         Color: =RGBA(141, 28, 61, 1)
-        DisabledBorderColor: =RGBA(0, 0, 0, 0)
+        DisabledBorderColor: =RGBA(166, 166, 166, 1)
         DisabledColor: =RGBA(166, 166, 166, 1)
         DisabledFill: =RGBA(244, 244, 244, 1)
         Fill: =RGBA(255, 255, 255, 1)
         FocusedBorderColor: =ColorFade(Self.Fill, -75%)
-        Font: =Font.'Segoe UI'
         Height: =100
-        HoverBorderColor: =RGBA(0, 0, 0, 0)
         HoverColor: =RGBA(255, 255, 255, 1)
-        HoverFill: =ColorFade(RGBA(0, 120, 212, 1), -10%)
+        HoverFill: =ColorFade(RGBA(100, 118, 132, 1), -20%)
         PaddingRight: =20
-        PressedBorderColor: =ColorFade(RGBA(0, 120, 212, 1), -50%)
-        PressedColor: =RGBA(255, 255, 255, 1)
-        PressedFill: =ColorFade(RGBA(0, 120, 212, 1), -30%)
-        RadiusBottomLeft: =0
-        RadiusBottomRight: =0
-        RadiusTopLeft: =0
-        RadiusTopRight: =0
         Size: =18
         Text: |-
             ="Nueva
@@ -329,110 +200,67 @@ HOME_1 As screen:
         ZIndex: =46
 
     Icon4 As icon.Money:
-        BorderColor: =RGBA(166, 166, 166, 1)
+        BorderColor: =RGBA(32, 54, 71, 1)
         Color: =RGBA(141, 28, 61, 1)
-        DisabledBorderColor: =RGBA(0, 0, 0, 0)
-        DisabledColor: =RGBA(220, 220, 220, 1)
-        DisabledFill: =RGBA(0, 0, 0, 0)
-        FocusedBorderThickness: =4
-        HoverBorderColor: =RGBA(0, 0, 0, 0)
-        HoverColor: =ColorFade(RGBA(0, 120, 212, 1), -30%)
-        HoverFill: =RGBA(0, 0, 0, 0)
+        DisabledBorderColor: =RGBA(166, 166, 166, 1)
+        DisabledColor: =RGBA(244, 244, 244, 1)
         Icon: =Icon.Money
-        PressedBorderColor: =RGBA(0, 0, 0, 0)
-        PressedColor: =ColorFade(RGBA(0, 120, 212, 1), -30%)
-        PressedFill: =RGBA(0, 0, 0, 0)
         X: =379
         Y: =208
         ZIndex: =48
 
     Icon7 As icon.Leave:
-        BorderColor: =RGBA(166, 166, 166, 1)
+        BorderColor: =RGBA(32, 54, 71, 1)
         Color: =RGBA(255, 255, 255, 1)
-        DisabledBorderColor: =RGBA(0, 0, 0, 0)
-        DisabledColor: =RGBA(220, 220, 220, 1)
-        DisabledFill: =RGBA(0, 0, 0, 0)
-        FocusedBorderThickness: =4
+        DisabledBorderColor: =RGBA(166, 166, 166, 1)
+        DisabledColor: =RGBA(244, 244, 244, 1)
         Height: =43
-        HoverBorderColor: =RGBA(0, 0, 0, 0)
-        HoverColor: =ColorFade(RGBA(0, 120, 212, 1), -30%)
-        HoverFill: =RGBA(0, 0, 0, 0)
         Icon: =Icon.Leave
-        PressedBorderColor: =RGBA(0, 0, 0, 0)
-        PressedColor: =ColorFade(RGBA(0, 120, 212, 1), -30%)
-        PressedFill: =RGBA(0, 0, 0, 0)
         Width: =46
         X: =558
         Y: =29
         ZIndex: =50
 
     Icon8 As icon.Reload:
-        BorderColor: =RGBA(166, 166, 166, 1)
+        BorderColor: =RGBA(32, 54, 71, 1)
         Color: =RGBA(255, 255, 255, 1)
-        DisabledBorderColor: =RGBA(0, 0, 0, 0)
-        DisabledColor: =RGBA(220, 220, 220, 1)
-        DisabledFill: =RGBA(0, 0, 0, 0)
-        FocusedBorderThickness: =4
+        DisabledBorderColor: =RGBA(166, 166, 166, 1)
+        DisabledColor: =RGBA(244, 244, 244, 1)
         Height: =42
-        HoverBorderColor: =RGBA(0, 0, 0, 0)
-        HoverColor: =ColorFade(RGBA(0, 120, 212, 1), -30%)
-        HoverFill: =RGBA(0, 0, 0, 0)
         Icon: =Icon.Reload
-        PressedBorderColor: =RGBA(0, 0, 0, 0)
-        PressedColor: =ColorFade(RGBA(0, 120, 212, 1), -30%)
-        PressedFill: =RGBA(0, 0, 0, 0)
         Width: =46
         X: =38
         Y: =30
         ZIndex: =51
 
     Rectangle411251_1 As rectangle:
-        BorderColor: =RGBA(0, 0, 0, 0)
-        BorderStyle: =BorderStyle.None
-        DisabledFill: =RGBA(166, 166, 166, 1)
+        BorderColor: =RGBA(32, 54, 71, 1)
         DisplayMode: =DisplayMode.View
-        Fill: =RGBA(255, 255, 255, 1)
-        FocusedBorderThickness: =4
+        Fill: =RGBA(100, 118, 132, 1)
         Height: =87
-        HoverFill: =RGBA(0, 120, 212, 1)
-        PressedFill: =RGBA(0, 120, 212, 1)
         Width: =566
         X: =38
         Y: =654
         ZIndex: =52
 
     Rectangle411254_1 As rectangle:
-        BorderColor: =RGBA(0, 0, 0, 0)
-        BorderStyle: =BorderStyle.None
-        DisabledFill: =RGBA(166, 166, 166, 1)
+        BorderColor: =RGBA(32, 54, 71, 1)
         DisplayMode: =DisplayMode.View
-        Fill: =RGBA(236.7533, 238.5567, 247.8469, 1)
-        FocusedBorderThickness: =4
+        Fill: =RGBA(100, 118, 132, 1)
         Height: =52
-        HoverFill: =RGBA(0, 120, 212, 1)
-        PressedFill: =RGBA(0, 120, 212, 1)
         Width: =62
         X: =54
         Y: =671
         ZIndex: =53
 
     Label411256_1 As label:
-        BorderColor: =RGBA(0, 0, 0, 0)
-        BorderStyle: =BorderStyle.None
-        Color: =RGBA(49.57158, 50.31819, 54.1644, 1)
-        DisabledBorderColor: =RGBA(0, 0, 0, 0)
+        BorderColor: =RGBA(32, 54, 71, 1)
+        Color: =RGBA(0, 0, 0, 1)
         DisabledColor: =RGBA(166, 166, 166, 1)
         DisplayMode: =DisplayMode.View
-        FocusedBorderThickness: =4
         Height: =21
-        LineHeight: =1.210227
-        PaddingBottom: =0
-        PaddingLeft: =0
-        PaddingRight: =0
-        PaddingTop: =0
         Size: =15
         Text: ="Lively Inc."
-        VerticalAlign: =VerticalAlign.Top
         Width: =143
         X: =137
         Y: =674
@@ -440,44 +268,26 @@ HOME_1 As screen:
 
     Label411257_1 As label:
         Align: =Align.Right
-        BorderColor: =RGBA(0, 0, 0, 0)
-        BorderStyle: =BorderStyle.None
-        Color: =RGBA(49.57158, 50.31819, 54.1644, 1)
-        DisabledBorderColor: =RGBA(0, 0, 0, 0)
+        BorderColor: =RGBA(32, 54, 71, 1)
+        Color: =RGBA(0, 0, 0, 1)
         DisabledColor: =RGBA(166, 166, 166, 1)
         DisplayMode: =DisplayMode.View
-        FocusedBorderThickness: =4
         Height: =27
-        LineHeight: =1.210227
-        PaddingBottom: =0
-        PaddingLeft: =0
-        PaddingRight: =0
-        PaddingTop: =0
         Size: =15
         Text: ="432.21"
-        VerticalAlign: =VerticalAlign.Top
         Width: =155
         X: =400
         Y: =674
         ZIndex: =55
 
     Label411258_1 As label:
-        BorderColor: =RGBA(0, 0, 0, 0)
-        BorderStyle: =BorderStyle.None
-        Color: =RGBA(130.9658, 132.2845, 139.0778, 1)
-        DisabledBorderColor: =RGBA(0, 0, 0, 0)
+        BorderColor: =RGBA(32, 54, 71, 1)
+        Color: =RGBA(0, 0, 0, 1)
         DisabledColor: =RGBA(166, 166, 166, 1)
         DisplayMode: =DisplayMode.View
-        FocusedBorderThickness: =4
         Height: =18
-        LineHeight: =1.210227
-        PaddingBottom: =0
-        PaddingLeft: =0
-        PaddingRight: =0
-        PaddingTop: =0
-        Size: =9
+        Size: =21
         Text: ="4º Puesto"
-        VerticalAlign: =VerticalAlign.Top
         Width: =128
         X: =137
         Y: =701
@@ -485,74 +295,46 @@ HOME_1 As screen:
 
     Label411259_1 As label:
         Align: =Align.Right
-        BorderColor: =RGBA(0, 0, 0, 0)
-        BorderStyle: =BorderStyle.None
-        Color: =RGBA(34.72691, 179.0948, 112.7001, 1)
-        DisabledBorderColor: =RGBA(0, 0, 0, 0)
+        BorderColor: =RGBA(32, 54, 71, 1)
+        Color: =RGBA(0, 0, 0, 1)
         DisabledColor: =RGBA(166, 166, 166, 1)
         DisplayMode: =DisplayMode.View
-        FocusedBorderThickness: =4
         Height: =18
-        LineHeight: =1.210227
-        PaddingBottom: =0
-        PaddingLeft: =0
-        PaddingRight: =0
-        PaddingTop: =0
-        Size: =9
+        Size: =21
         Text: ="Puntos"
-        VerticalAlign: =VerticalAlign.Top
         Width: =113
         X: =442
         Y: =705
         ZIndex: =57
 
     Rectangle411251_2 As rectangle:
-        BorderColor: =RGBA(0, 0, 0, 0)
-        BorderStyle: =BorderStyle.None
-        DisabledFill: =RGBA(166, 166, 166, 1)
+        BorderColor: =RGBA(32, 54, 71, 1)
         DisplayMode: =DisplayMode.View
-        Fill: =RGBA(255, 255, 255, 1)
-        FocusedBorderThickness: =4
+        Fill: =RGBA(100, 118, 132, 1)
         Height: =87
-        HoverFill: =RGBA(0, 120, 212, 1)
-        PressedFill: =RGBA(0, 120, 212, 1)
         Width: =566
         X: =38
         Y: =765
         ZIndex: =58
 
     Rectangle411254_2 As rectangle:
-        BorderColor: =RGBA(0, 0, 0, 0)
-        BorderStyle: =BorderStyle.None
-        DisabledFill: =RGBA(166, 166, 166, 1)
+        BorderColor: =RGBA(32, 54, 71, 1)
         DisplayMode: =DisplayMode.View
-        Fill: =RGBA(236.7533, 238.5567, 247.8469, 1)
-        FocusedBorderThickness: =4
+        Fill: =RGBA(100, 118, 132, 1)
         Height: =52
-        HoverFill: =RGBA(0, 120, 212, 1)
-        PressedFill: =RGBA(0, 120, 212, 1)
         Width: =62
         X: =54
         Y: =782
         ZIndex: =59
 
     Label411256_2 As label:
-        BorderColor: =RGBA(0, 0, 0, 0)
-        BorderStyle: =BorderStyle.None
-        Color: =RGBA(49.57158, 50.31819, 54.1644, 1)
-        DisabledBorderColor: =RGBA(0, 0, 0, 0)
+        BorderColor: =RGBA(32, 54, 71, 1)
+        Color: =RGBA(0, 0, 0, 1)
         DisabledColor: =RGBA(166, 166, 166, 1)
         DisplayMode: =DisplayMode.View
-        FocusedBorderThickness: =4
         Height: =21
-        LineHeight: =1.210227
-        PaddingBottom: =0
-        PaddingLeft: =0
-        PaddingRight: =0
-        PaddingTop: =0
         Size: =15
         Text: ="Lively Inc."
-        VerticalAlign: =VerticalAlign.Top
         Width: =143
         X: =137
         Y: =785
@@ -560,44 +342,26 @@ HOME_1 As screen:
 
     Label411257_2 As label:
         Align: =Align.Right
-        BorderColor: =RGBA(0, 0, 0, 0)
-        BorderStyle: =BorderStyle.None
-        Color: =RGBA(49.57158, 50.31819, 54.1644, 1)
-        DisabledBorderColor: =RGBA(0, 0, 0, 0)
+        BorderColor: =RGBA(32, 54, 71, 1)
+        Color: =RGBA(0, 0, 0, 1)
         DisabledColor: =RGBA(166, 166, 166, 1)
         DisplayMode: =DisplayMode.View
-        FocusedBorderThickness: =4
         Height: =27
-        LineHeight: =1.210227
-        PaddingBottom: =0
-        PaddingLeft: =0
-        PaddingRight: =0
-        PaddingTop: =0
         Size: =15
         Text: ="432.21"
-        VerticalAlign: =VerticalAlign.Top
         Width: =155
         X: =400
         Y: =785
         ZIndex: =61
 
     Label411258_2 As label:
-        BorderColor: =RGBA(0, 0, 0, 0)
-        BorderStyle: =BorderStyle.None
-        Color: =RGBA(130.9658, 132.2845, 139.0778, 1)
-        DisabledBorderColor: =RGBA(0, 0, 0, 0)
+        BorderColor: =RGBA(32, 54, 71, 1)
+        Color: =RGBA(0, 0, 0, 1)
         DisabledColor: =RGBA(166, 166, 166, 1)
         DisplayMode: =DisplayMode.View
-        FocusedBorderThickness: =4
         Height: =18
-        LineHeight: =1.210227
-        PaddingBottom: =0
-        PaddingLeft: =0
-        PaddingRight: =0
-        PaddingTop: =0
-        Size: =9
+        Size: =21
         Text: ="4º Puesto"
-        VerticalAlign: =VerticalAlign.Top
         Width: =128
         X: =137
         Y: =812
@@ -605,74 +369,46 @@ HOME_1 As screen:
 
     Label411259_2 As label:
         Align: =Align.Right
-        BorderColor: =RGBA(0, 0, 0, 0)
-        BorderStyle: =BorderStyle.None
-        Color: =RGBA(34.72691, 179.0948, 112.7001, 1)
-        DisabledBorderColor: =RGBA(0, 0, 0, 0)
+        BorderColor: =RGBA(32, 54, 71, 1)
+        Color: =RGBA(0, 0, 0, 1)
         DisabledColor: =RGBA(166, 166, 166, 1)
         DisplayMode: =DisplayMode.View
-        FocusedBorderThickness: =4
         Height: =18
-        LineHeight: =1.210227
-        PaddingBottom: =0
-        PaddingLeft: =0
-        PaddingRight: =0
-        PaddingTop: =0
-        Size: =9
+        Size: =21
         Text: ="Puntos"
-        VerticalAlign: =VerticalAlign.Top
         Width: =113
         X: =442
         Y: =816
         ZIndex: =63
 
     Rectangle411251_3 As rectangle:
-        BorderColor: =RGBA(0, 0, 0, 0)
-        BorderStyle: =BorderStyle.None
-        DisabledFill: =RGBA(166, 166, 166, 1)
+        BorderColor: =RGBA(32, 54, 71, 1)
         DisplayMode: =DisplayMode.View
-        Fill: =RGBA(255, 255, 255, 1)
-        FocusedBorderThickness: =4
+        Fill: =RGBA(100, 118, 132, 1)
         Height: =87
-        HoverFill: =RGBA(0, 120, 212, 1)
-        PressedFill: =RGBA(0, 120, 212, 1)
         Width: =566
         X: =38
         Y: =875
         ZIndex: =64
 
     Rectangle411254_3 As rectangle:
-        BorderColor: =RGBA(0, 0, 0, 0)
-        BorderStyle: =BorderStyle.None
-        DisabledFill: =RGBA(166, 166, 166, 1)
+        BorderColor: =RGBA(32, 54, 71, 1)
         DisplayMode: =DisplayMode.View
-        Fill: =RGBA(236.7533, 238.5567, 247.8469, 1)
-        FocusedBorderThickness: =4
+        Fill: =RGBA(100, 118, 132, 1)
         Height: =52
-        HoverFill: =RGBA(0, 120, 212, 1)
-        PressedFill: =RGBA(0, 120, 212, 1)
         Width: =62
         X: =54
         Y: =892
         ZIndex: =65
 
     Label411256_3 As label:
-        BorderColor: =RGBA(0, 0, 0, 0)
-        BorderStyle: =BorderStyle.None
-        Color: =RGBA(49.57158, 50.31819, 54.1644, 1)
-        DisabledBorderColor: =RGBA(0, 0, 0, 0)
+        BorderColor: =RGBA(32, 54, 71, 1)
+        Color: =RGBA(0, 0, 0, 1)
         DisabledColor: =RGBA(166, 166, 166, 1)
         DisplayMode: =DisplayMode.View
-        FocusedBorderThickness: =4
         Height: =21
-        LineHeight: =1.210227
-        PaddingBottom: =0
-        PaddingLeft: =0
-        PaddingRight: =0
-        PaddingTop: =0
         Size: =15
         Text: ="Lively Inc."
-        VerticalAlign: =VerticalAlign.Top
         Width: =143
         X: =137
         Y: =895
@@ -680,44 +416,26 @@ HOME_1 As screen:
 
     Label411257_3 As label:
         Align: =Align.Right
-        BorderColor: =RGBA(0, 0, 0, 0)
-        BorderStyle: =BorderStyle.None
-        Color: =RGBA(49.57158, 50.31819, 54.1644, 1)
-        DisabledBorderColor: =RGBA(0, 0, 0, 0)
+        BorderColor: =RGBA(32, 54, 71, 1)
+        Color: =RGBA(0, 0, 0, 1)
         DisabledColor: =RGBA(166, 166, 166, 1)
         DisplayMode: =DisplayMode.View
-        FocusedBorderThickness: =4
         Height: =27
-        LineHeight: =1.210227
-        PaddingBottom: =0
-        PaddingLeft: =0
-        PaddingRight: =0
-        PaddingTop: =0
         Size: =15
         Text: ="432.21"
-        VerticalAlign: =VerticalAlign.Top
         Width: =155
         X: =400
         Y: =895
         ZIndex: =67
 
     Label411258_3 As label:
-        BorderColor: =RGBA(0, 0, 0, 0)
-        BorderStyle: =BorderStyle.None
-        Color: =RGBA(130.9658, 132.2845, 139.0778, 1)
-        DisabledBorderColor: =RGBA(0, 0, 0, 0)
+        BorderColor: =RGBA(32, 54, 71, 1)
+        Color: =RGBA(0, 0, 0, 1)
         DisabledColor: =RGBA(166, 166, 166, 1)
         DisplayMode: =DisplayMode.View
-        FocusedBorderThickness: =4
         Height: =18
-        LineHeight: =1.210227
-        PaddingBottom: =0
-        PaddingLeft: =0
-        PaddingRight: =0
-        PaddingTop: =0
-        Size: =9
+        Size: =21
         Text: ="4º Puesto"
-        VerticalAlign: =VerticalAlign.Top
         Width: =128
         X: =137
         Y: =922
@@ -725,74 +443,46 @@ HOME_1 As screen:
 
     Label411259_3 As label:
         Align: =Align.Right
-        BorderColor: =RGBA(0, 0, 0, 0)
-        BorderStyle: =BorderStyle.None
-        Color: =RGBA(34.72691, 179.0948, 112.7001, 1)
-        DisabledBorderColor: =RGBA(0, 0, 0, 0)
+        BorderColor: =RGBA(32, 54, 71, 1)
+        Color: =RGBA(0, 0, 0, 1)
         DisabledColor: =RGBA(166, 166, 166, 1)
         DisplayMode: =DisplayMode.View
-        FocusedBorderThickness: =4
         Height: =18
-        LineHeight: =1.210227
-        PaddingBottom: =0
-        PaddingLeft: =0
-        PaddingRight: =0
-        PaddingTop: =0
-        Size: =9
+        Size: =21
         Text: ="Puntos"
-        VerticalAlign: =VerticalAlign.Top
         Width: =113
         X: =442
         Y: =926
         ZIndex: =69
 
     Rectangle411251_4 As rectangle:
-        BorderColor: =RGBA(0, 0, 0, 0)
-        BorderStyle: =BorderStyle.None
-        DisabledFill: =RGBA(166, 166, 166, 1)
+        BorderColor: =RGBA(32, 54, 71, 1)
         DisplayMode: =DisplayMode.View
-        Fill: =RGBA(255, 255, 255, 1)
-        FocusedBorderThickness: =4
+        Fill: =RGBA(100, 118, 132, 1)
         Height: =87
-        HoverFill: =RGBA(0, 120, 212, 1)
-        PressedFill: =RGBA(0, 120, 212, 1)
         Width: =566
         X: =38
         Y: =995
         ZIndex: =70
 
     Rectangle411254_4 As rectangle:
-        BorderColor: =RGBA(0, 0, 0, 0)
-        BorderStyle: =BorderStyle.None
-        DisabledFill: =RGBA(166, 166, 166, 1)
+        BorderColor: =RGBA(32, 54, 71, 1)
         DisplayMode: =DisplayMode.View
-        Fill: =RGBA(236.7533, 238.5567, 247.8469, 1)
-        FocusedBorderThickness: =4
+        Fill: =RGBA(100, 118, 132, 1)
         Height: =52
-        HoverFill: =RGBA(0, 120, 212, 1)
-        PressedFill: =RGBA(0, 120, 212, 1)
         Width: =62
         X: =54
         Y: =1012
         ZIndex: =71
 
     Label411256_4 As label:
-        BorderColor: =RGBA(0, 0, 0, 0)
-        BorderStyle: =BorderStyle.None
-        Color: =RGBA(49.57158, 50.31819, 54.1644, 1)
-        DisabledBorderColor: =RGBA(0, 0, 0, 0)
+        BorderColor: =RGBA(32, 54, 71, 1)
+        Color: =RGBA(0, 0, 0, 1)
         DisabledColor: =RGBA(166, 166, 166, 1)
         DisplayMode: =DisplayMode.View
-        FocusedBorderThickness: =4
         Height: =21
-        LineHeight: =1.210227
-        PaddingBottom: =0
-        PaddingLeft: =0
-        PaddingRight: =0
-        PaddingTop: =0
         Size: =15
         Text: ="Lively Inc."
-        VerticalAlign: =VerticalAlign.Top
         Width: =143
         X: =137
         Y: =1015
@@ -800,44 +490,26 @@ HOME_1 As screen:
 
     Label411257_4 As label:
         Align: =Align.Right
-        BorderColor: =RGBA(0, 0, 0, 0)
-        BorderStyle: =BorderStyle.None
-        Color: =RGBA(49.57158, 50.31819, 54.1644, 1)
-        DisabledBorderColor: =RGBA(0, 0, 0, 0)
+        BorderColor: =RGBA(32, 54, 71, 1)
+        Color: =RGBA(0, 0, 0, 1)
         DisabledColor: =RGBA(166, 166, 166, 1)
         DisplayMode: =DisplayMode.View
-        FocusedBorderThickness: =4
         Height: =27
-        LineHeight: =1.210227
-        PaddingBottom: =0
-        PaddingLeft: =0
-        PaddingRight: =0
-        PaddingTop: =0
         Size: =15
         Text: ="432.21"
-        VerticalAlign: =VerticalAlign.Top
         Width: =155
         X: =400
         Y: =1015
         ZIndex: =73
 
     Label411258_4 As label:
-        BorderColor: =RGBA(0, 0, 0, 0)
-        BorderStyle: =BorderStyle.None
-        Color: =RGBA(130.9658, 132.2845, 139.0778, 1)
-        DisabledBorderColor: =RGBA(0, 0, 0, 0)
+        BorderColor: =RGBA(32, 54, 71, 1)
+        Color: =RGBA(0, 0, 0, 1)
         DisabledColor: =RGBA(166, 166, 166, 1)
         DisplayMode: =DisplayMode.View
-        FocusedBorderThickness: =4
         Height: =18
-        LineHeight: =1.210227
-        PaddingBottom: =0
-        PaddingLeft: =0
-        PaddingRight: =0
-        PaddingTop: =0
-        Size: =9
+        Size: =21
         Text: ="4º Puesto"
-        VerticalAlign: =VerticalAlign.Top
         Width: =128
         X: =137
         Y: =1042
@@ -845,168 +517,101 @@ HOME_1 As screen:
 
     Label411259_4 As label:
         Align: =Align.Right
-        BorderColor: =RGBA(0, 0, 0, 0)
-        BorderStyle: =BorderStyle.None
-        Color: =RGBA(34.72691, 179.0948, 112.7001, 1)
-        DisabledBorderColor: =RGBA(0, 0, 0, 0)
+        BorderColor: =RGBA(32, 54, 71, 1)
+        Color: =RGBA(0, 0, 0, 1)
         DisabledColor: =RGBA(166, 166, 166, 1)
         DisplayMode: =DisplayMode.View
-        FocusedBorderThickness: =4
         Height: =18
-        LineHeight: =1.210227
-        PaddingBottom: =0
-        PaddingLeft: =0
-        PaddingRight: =0
-        PaddingTop: =0
-        Size: =9
+        Size: =21
         Text: ="Puntos"
-        VerticalAlign: =VerticalAlign.Top
         Width: =113
         X: =442
         Y: =1046
         ZIndex: =75
 
     Rectangle2 As rectangle:
-        BorderColor: =RGBA(0, 0, 0, 0)
-        BorderStyle: =BorderStyle.None
-        BorderThickness: =2
-        DisabledFill: =RGBA(166, 166, 166, 1)
+        BorderColor: =RGBA(32, 54, 71, 1)
         DisplayMode: =DisplayMode.View
         Fill: =RGBA(35, 179, 113, 1)
-        FocusedBorderThickness: =4
         Height: =173
-        HoverFill: =RGBA(0, 120, 212, 1)
-        PressedFill: =RGBA(0, 120, 212, 1)
         Width: =566
         X: =38
         Y: =340
         ZIndex: =76
 
     Label411256_5 As label:
-        BorderColor: =RGBA(0, 0, 0, 0)
-        BorderStyle: =BorderStyle.None
+        BorderColor: =RGBA(32, 54, 71, 1)
         Color: =RGBA(255, 255, 255, 1)
-        DisabledBorderColor: =RGBA(0, 0, 0, 0)
         DisabledColor: =RGBA(166, 166, 166, 1)
         DisplayMode: =DisplayMode.View
-        FocusedBorderThickness: =4
         FontWeight: =FontWeight.Bold
         Height: =39
-        LineHeight: =1.210227
-        PaddingBottom: =0
-        PaddingLeft: =0
-        PaddingRight: =0
-        PaddingTop: =0
         Size: =25
         Text: ="Primer Puesto"
-        VerticalAlign: =VerticalAlign.Top
         Width: =322
         X: =57
         Y: =355
         ZIndex: =77
 
     Label411256_6 As label:
-        BorderColor: =RGBA(0, 0, 0, 0)
-        BorderStyle: =BorderStyle.None
+        BorderColor: =RGBA(32, 54, 71, 1)
         Color: =RGBA(255, 255, 255, 1)
-        DisabledBorderColor: =RGBA(0, 0, 0, 0)
         DisabledColor: =RGBA(166, 166, 166, 1)
         DisplayMode: =DisplayMode.View
-        FocusedBorderThickness: =4
         Height: =22
-        LineHeight: =1.210227
-        PaddingBottom: =0
-        PaddingLeft: =0
-        PaddingRight: =0
-        PaddingTop: =0
         Size: =15
         Text: ="Hernesto Perez"
-        VerticalAlign: =VerticalAlign.Top
         Width: =249
         X: =60
         Y: =403
         ZIndex: =78
 
     Label411256_7 As label:
-        BorderColor: =RGBA(0, 0, 0, 0)
-        BorderStyle: =BorderStyle.None
+        BorderColor: =RGBA(32, 54, 71, 1)
         Color: =RGBA(255, 255, 255, 1)
-        DisabledBorderColor: =RGBA(0, 0, 0, 0)
         DisabledColor: =RGBA(166, 166, 166, 1)
         DisplayMode: =DisplayMode.View
-        FocusedBorderThickness: =4
         Height: =29
-        LineHeight: =1.210227
-        PaddingBottom: =0
-        PaddingLeft: =0
-        PaddingRight: =0
-        PaddingTop: =0
         Size: =15
         Text: ="89999"
-        VerticalAlign: =VerticalAlign.Top
         Width: =96
         X: =66
         Y: =458
         ZIndex: =79
 
     Label411256_8 As label:
-        BorderColor: =RGBA(0, 0, 0, 0)
-        BorderStyle: =BorderStyle.None
+        BorderColor: =RGBA(32, 54, 71, 1)
         Color: =RGBA(237, 237, 237, 1)
-        DisabledBorderColor: =RGBA(0, 0, 0, 0)
         DisabledColor: =RGBA(166, 166, 166, 1)
         DisplayMode: =DisplayMode.View
-        FocusedBorderThickness: =4
         Height: =29
-        LineHeight: =1.210227
-        PaddingBottom: =0
-        PaddingLeft: =0
-        PaddingRight: =0
-        PaddingTop: =0
         Size: =15
         Text: ="Puntos"
-        VerticalAlign: =VerticalAlign.Top
         Width: =96
         X: =137
         Y: =457
         ZIndex: =80
 
     Label411256_9 As label:
-        BorderColor: =RGBA(0, 0, 0, 0)
-        BorderStyle: =BorderStyle.None
+        BorderColor: =RGBA(32, 54, 71, 1)
         Color: =RGBA(237, 237, 237, 1)
-        DisabledBorderColor: =RGBA(0, 0, 0, 0)
         DisabledColor: =RGBA(166, 166, 166, 1)
         DisplayMode: =DisplayMode.View
-        FocusedBorderThickness: =4
         Height: =29
-        LineHeight: =1.210227
-        PaddingBottom: =0
-        PaddingLeft: =0
-        PaddingRight: =0
-        PaddingTop: =0
         Size: =12
         Text: ="Qatar-2022"
-        VerticalAlign: =VerticalAlign.Top
         Width: =96
         X: =462
         Y: =397
         ZIndex: =81
 
     Image1 As image:
-        BorderColor: =RGBA(0, 0, 0, 0)
-        BorderStyle: =BorderStyle.None
-        BorderThickness: =2
-        DisabledBorderColor: =RGBA(0, 0, 0, 0)
-        DisabledFill: =RGBA(0, 0, 0, 0)
+        BorderColor: =RGBA(32, 54, 71, 1)
+        DisabledBorderColor: =RGBA(166, 166, 166, 1)
+        DisabledFill: =RGBA(244, 244, 244, 1)
         DisplayMode: =DisplayMode.View
-        FocusedBorderThickness: =4
         Height: =104
-        HoverBorderColor: =RGBA(0, 0, 0, 0)
-        HoverFill: =RGBA(0, 0, 0, 0)
         Image: =corona
-        PressedBorderColor: =RGBA(0, 0, 0, 0)
-        PressedFill: =RGBA(0, 0, 0, 0)
         Width: =104
         X: =475
         Y: =403
@@ -1020,26 +625,16 @@ HOME_1 As screen:
         ZIndex: =95
 
         Button3_1 As button:
-            BorderColor: =RGBA(0, 0, 0, 0)
             Color: =RGBA(141, 28, 61, 1)
-            DisabledBorderColor: =RGBA(0, 0, 0, 0)
+            DisabledBorderColor: =RGBA(166, 166, 166, 1)
             DisabledColor: =RGBA(166, 166, 166, 1)
             DisabledFill: =RGBA(244, 244, 244, 1)
             Fill: =RGBA(255, 255, 255, 1)
             FocusedBorderColor: =ColorFade(Self.Fill, -75%)
-            Font: =Font.'Segoe UI'
             Height: =100
-            HoverBorderColor: =RGBA(0, 0, 0, 0)
             HoverColor: =RGBA(255, 255, 255, 1)
-            HoverFill: =ColorFade(RGBA(0, 120, 212, 1), -10%)
+            HoverFill: =ColorFade(RGBA(100, 118, 132, 1), -20%)
             PaddingRight: =15
-            PressedBorderColor: =ColorFade(RGBA(0, 120, 212, 1), -50%)
-            PressedColor: =RGBA(255, 255, 255, 1)
-            PressedFill: =ColorFade(RGBA(0, 120, 212, 1), -30%)
-            RadiusBottomLeft: =0
-            RadiusBottomRight: =0
-            RadiusTopLeft: =0
-            RadiusTopRight: =0
             Size: =18
             Text: ="Mi Perfil"
             Width: =282
@@ -1048,20 +643,12 @@ HOME_1 As screen:
             ZIndex: =47
 
         Icon6 As icon.Person:
-            BorderColor: =RGBA(166, 166, 166, 1)
+            BorderColor: =RGBA(32, 54, 71, 1)
             Color: =RGBA(141, 28, 61, 1)
-            DisabledBorderColor: =RGBA(0, 0, 0, 0)
-            DisabledColor: =RGBA(220, 220, 220, 1)
-            DisabledFill: =RGBA(0, 0, 0, 0)
-            FocusedBorderThickness: =4
+            DisabledBorderColor: =RGBA(166, 166, 166, 1)
+            DisabledColor: =RGBA(244, 244, 244, 1)
             Height: =65
-            HoverBorderColor: =RGBA(0, 0, 0, 0)
-            HoverColor: =ColorFade(RGBA(0, 120, 212, 1), -30%)
-            HoverFill: =RGBA(0, 0, 0, 0)
             Icon: =Icon.Person
-            PressedBorderColor: =RGBA(0, 0, 0, 0)
-            PressedColor: =ColorFade(RGBA(0, 120, 212, 1), -30%)
-            PressedFill: =RGBA(0, 0, 0, 0)
             X: =54
             Y: =208
             ZIndex: =49

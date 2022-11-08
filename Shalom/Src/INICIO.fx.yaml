@@ -1,87 +1,50 @@
 INICIO As screen:
-    Fill: =RGBA(0, 0, 0, 0)
-    LoadingSpinnerColor: =RGBA(0, 120, 212, 1)
+    LoadingSpinnerColor: =RGBA(100, 118, 132, 1)
 
     "'Rect.SIng' As rectangle":
-        BorderColor: =RGBA(0, 0, 0, 0)
-        BorderStyle: =BorderStyle.None
-        BorderThickness: =2
-        DisabledFill: =RGBA(166, 166, 166, 1)
+        BorderColor: =RGBA(32, 54, 71, 1)
         Fill: =RGBA(237, 237, 237, 1)
-        FocusedBorderThickness: =4
-        HoverFill: =RGBA(0, 120, 212, 1)
-        PressedFill: =RGBA(0, 120, 212, 1)
         Width: =549
         X: =35
         Y: =908
         ZIndex: =1
 
     "'foto mundial' As image":
-        BorderColor: =RGBA(0, 0, 0, 0)
-        BorderStyle: =BorderStyle.None
-        DisabledBorderColor: =RGBA(0, 0, 0, 0)
-        DisabledFill: =RGBA(0, 0, 0, 0)
-        FocusedBorderThickness: =4
+        BorderColor: =RGBA(32, 54, 71, 1)
+        DisabledBorderColor: =RGBA(166, 166, 166, 1)
+        DisabledFill: =RGBA(244, 244, 244, 1)
         Height: =349
-        HoverBorderColor: =RGBA(0, 0, 0, 0)
-        HoverFill: =RGBA(0, 0, 0, 0)
         Image: =image1128
-        PressedBorderColor: =RGBA(0, 0, 0, 0)
-        PressedFill: =RGBA(0, 0, 0, 0)
         Width: =291
         X: =173
         Y: =143
         ZIndex: =2
 
     bienvenido As label:
-        BorderColor: =RGBA(0, 0, 0, 0)
-        BorderStyle: =BorderStyle.None
+        BorderColor: =RGBA(32, 54, 71, 1)
         Color: =RGBA(0, 0, 0, 1)
-        DisabledBorderColor: =RGBA(0, 0, 0, 0)
         DisabledColor: =RGBA(166, 166, 166, 1)
-        FocusedBorderThickness: =4
-        FontWeight: =FontWeight.Bold
         Height: =53
-        LineHeight: =1.210227
-        PaddingBottom: =0
-        PaddingLeft: =0
-        PaddingRight: =0
-        PaddingTop: =0
         Size: =30
         Text: ="Bienvenido"
-        VerticalAlign: =VerticalAlign.Top
         Width: =250
         X: =60
         Y: =536
         ZIndex: =4
 
     Rectangle241114 As rectangle:
-        BorderColor: =RGBA(0, 0, 0, 0)
-        BorderStyle: =BorderStyle.None
-        DisabledFill: =RGBA(166, 166, 166, 1)
+        BorderColor: =RGBA(32, 54, 71, 1)
         Fill: =RGBA(219, 219, 219, 1)
-        FocusedBorderThickness: =4
         Height: =94
-        HoverFill: =RGBA(0, 120, 212, 1)
-        PressedFill: =RGBA(0, 120, 212, 1)
         Width: =569
         X: =35
         Y: =20
         ZIndex: =5
 
     shalombet As label:
-        BorderColor: =RGBA(0, 0, 0, 0)
-        BorderStyle: =BorderStyle.None
+        BorderColor: =RGBA(32, 54, 71, 1)
         Color: =RGBA(0, 0, 0, 1)
-        DisabledBorderColor: =RGBA(0, 0, 0, 0)
         DisabledColor: =RGBA(0, 0, 0, 1)
-        FocusedBorderThickness: =4
-        FontWeight: =FontWeight.Bold
-        LineHeight: =1.210227
-        PaddingBottom: =0
-        PaddingLeft: =0
-        PaddingRight: =0
-        PaddingTop: =0
         Size: =30
         Text: ="Shalom"
         Width: =160
@@ -90,49 +53,32 @@ INICIO As screen:
         ZIndex: =6
 
     contraseña As label:
-        BorderColor: =RGBA(0, 0, 0, 0)
-        BorderStyle: =BorderStyle.None
-        Color: =RGBA(102, 102, 102, 1)
-        DisabledBorderColor: =RGBA(0, 0, 0, 0)
+        BorderColor: =RGBA(32, 54, 71, 1)
+        Color: =RGBA(0, 0, 0, 1)
         DisabledColor: =RGBA(166, 166, 166, 1)
-        FocusedBorderThickness: =4
         Height: =21
-        LineHeight: =1.210227
-        PaddingBottom: =0
-        PaddingLeft: =0
-        PaddingRight: =0
-        PaddingTop: =0
         Size: =15
         Text: |-
             ="Contraseña:"
-        VerticalAlign: =VerticalAlign.Bottom
         Width: =160
         X: =60
         Y: =750
         ZIndex: =7
 
     Contraseña As text:
-        BorderColor: =RGBA(166, 166, 166, 1)
+        BorderColor: =RGBA(32, 54, 71, 1)
         BorderThickness: =2
-        Color: =RGBA(51, 51, 51, 1)
+        Color: =RGBA(0, 0, 0, 1)
         Default: =""
-        DisabledBorderColor: =RGBA(0, 0, 0, 0)
+        DisabledBorderColor: =RGBA(166, 166, 166, 1)
         DisabledColor: =RGBA(166, 166, 166, 1)
         DisabledFill: =RGBA(244, 244, 244, 1)
         FocusedBorderThickness: =4
-        Font: =Font.'Segoe UI'
         Height: =66
         HoverBorderColor: =ColorFade(RGBA(0, 120, 212, 1), -30%)
-        HoverColor: =RGBA(51, 51, 51, 1)
+        HoverColor: =RGBA(0, 0, 0, 1)
         HoverFill: =RGBA(255, 255, 255, 1)
         Mode: =TextMode.Password
-        PressedBorderColor: =RGBA(0, 120, 212, 1)
-        PressedColor: =RGBA(51, 51, 51, 1)
-        PressedFill: =RGBA(255, 255, 255, 1)
-        RadiusBottomLeft: =0
-        RadiusBottomRight: =0
-        RadiusTopLeft: =0
-        RadiusTopRight: =0
         Size: =21
         Width: =498
         X: =60
@@ -140,26 +86,16 @@ INICIO As screen:
         ZIndex: =8
 
     LogIn As button:
-        BorderColor: =RGBA(0, 0, 0, 0)
-        DisabledBorderColor: =RGBA(0, 0, 0, 0)
+        DisabledBorderColor: =RGBA(166, 166, 166, 1)
         DisabledColor: =RGBA(166, 166, 166, 1)
         DisabledFill: =RGBA(244, 244, 244, 1)
         Fill: =RGBA(149, 149, 149, 1)
         FocusedBorderColor: =ColorFade(Self.Fill, -75%)
-        Font: =Font.'Segoe UI'
         FontWeight: =FontWeight.Semibold
         Height: =70
-        HoverBorderColor: =RGBA(0, 0, 0, 0)
         HoverColor: =RGBA(255, 255, 255, 1)
-        HoverFill: =ColorFade(RGBA(0, 120, 212, 1), -10%)
+        HoverFill: =ColorFade(RGBA(100, 118, 132, 1), -20%)
         OnSelect: =Navigate(INICIO)
-        PressedBorderColor: =ColorFade(RGBA(0, 120, 212, 1), -50%)
-        PressedColor: =RGBA(255, 255, 255, 1)
-        PressedFill: =ColorFade(RGBA(0, 120, 212, 1), -30%)
-        RadiusBottomLeft: =0
-        RadiusBottomRight: =0
-        RadiusTopLeft: =0
-        RadiusTopRight: =0
         Size: =24
         Text: ="LogIn"
         Width: =233
@@ -168,47 +104,30 @@ INICIO As screen:
         ZIndex: =9
 
     usuario As label:
-        BorderColor: =RGBA(0, 0, 0, 0)
-        BorderStyle: =BorderStyle.None
-        Color: =RGBA(102, 102, 102, 1)
-        DisabledBorderColor: =RGBA(0, 0, 0, 0)
+        BorderColor: =RGBA(32, 54, 71, 1)
+        Color: =RGBA(0, 0, 0, 1)
         DisabledColor: =RGBA(166, 166, 166, 1)
-        FocusedBorderThickness: =4
         Height: =21
-        LineHeight: =1.210227
-        PaddingBottom: =0
-        PaddingLeft: =0
-        PaddingRight: =0
-        PaddingTop: =0
         Size: =15
         Text: ="Usuario"
-        VerticalAlign: =VerticalAlign.Bottom
         Width: =160
         X: =60
         Y: =608
         ZIndex: =10
 
     Usuario As text:
-        BorderColor: =RGBA(166, 166, 166, 1)
+        BorderColor: =RGBA(32, 54, 71, 1)
         BorderThickness: =2
-        Color: =RGBA(51, 51, 51, 1)
+        Color: =RGBA(0, 0, 0, 1)
         Default: ="Usuario"
-        DisabledBorderColor: =RGBA(0, 0, 0, 0)
+        DisabledBorderColor: =RGBA(166, 166, 166, 1)
         DisabledColor: =RGBA(166, 166, 166, 1)
         DisabledFill: =RGBA(244, 244, 244, 1)
         FocusedBorderThickness: =4
-        Font: =Font.'Segoe UI'
         Height: =66
         HoverBorderColor: =ColorFade(RGBA(0, 120, 212, 1), -30%)
-        HoverColor: =RGBA(51, 51, 51, 1)
+        HoverColor: =RGBA(0, 0, 0, 1)
         HoverFill: =RGBA(255, 255, 255, 1)
-        PressedBorderColor: =RGBA(0, 120, 212, 1)
-        PressedColor: =RGBA(51, 51, 51, 1)
-        PressedFill: =RGBA(255, 255, 255, 1)
-        RadiusBottomLeft: =0
-        RadiusBottomRight: =0
-        RadiusTopLeft: =0
-        RadiusTopRight: =0
         Size: =21
         Width: =498
         X: =60
@@ -217,27 +136,17 @@ INICIO As screen:
 
     OlvideContraseña As button:
         Align: =Align.Left
-        BorderColor: =RGBA(0, 0, 0, 0)
         Color: =RGBA(141, 28, 61, 1)
-        DisabledBorderColor: =RGBA(0, 0, 0, 0)
+        DisabledBorderColor: =RGBA(166, 166, 166, 1)
         DisabledColor: =RGBA(166, 166, 166, 1)
         DisabledFill: =RGBA(244, 244, 244, 1)
         Fill: =RGBA(255, 255, 255, 1)
         FocusedBorderColor: =ColorFade(Self.Fill, -75%)
-        Font: =Font.'Segoe UI'
         FontWeight: =FontWeight.Semibold
-        HoverBorderColor: =RGBA(0, 0, 0, 0)
         HoverColor: =RGBA(255, 255, 255, 1)
-        HoverFill: =ColorFade(RGBA(0, 120, 212, 1), -10%)
+        HoverFill: =ColorFade(RGBA(100, 118, 132, 1), -20%)
         OnSelect: |
             =Navigate('RECOVER PASSWORD')
-        PressedBorderColor: =ColorFade(RGBA(0, 120, 212, 1), -50%)
-        PressedColor: =RGBA(255, 255, 255, 1)
-        PressedFill: =ColorFade(RGBA(0, 120, 212, 1), -30%)
-        RadiusBottomLeft: =0
-        RadiusBottomRight: =0
-        RadiusTopLeft: =0
-        RadiusTopRight: =0
         Size: =15
         Text: ="Olvide mi contraseña"
         Underline: =true
@@ -247,27 +156,17 @@ INICIO As screen:
         ZIndex: =12
 
     SingIn As button:
-        BorderColor: =RGBA(0, 0, 0, 0)
-        DisabledBorderColor: =RGBA(0, 0, 0, 0)
+        DisabledBorderColor: =RGBA(166, 166, 166, 1)
         DisabledColor: =RGBA(166, 166, 166, 1)
         DisabledFill: =RGBA(244, 244, 244, 1)
         Fill: =RGBA(141, 28, 61, 1)
         FocusedBorderColor: =ColorFade(Self.Fill, -75%)
-        Font: =Font.'Segoe UI'
         FontWeight: =FontWeight.Semibold
         Height: =70
-        HoverBorderColor: =RGBA(0, 0, 0, 0)
         HoverColor: =RGBA(255, 255, 255, 1)
-        HoverFill: =ColorFade(RGBA(0, 120, 212, 1), -10%)
+        HoverFill: =ColorFade(RGBA(100, 118, 132, 1), -20%)
         OnSelect: |
             =Navigate(SINGINNEWUSER)
-        PressedBorderColor: =ColorFade(RGBA(0, 120, 212, 1), -50%)
-        PressedColor: =RGBA(255, 255, 255, 1)
-        PressedFill: =ColorFade(RGBA(0, 120, 212, 1), -30%)
-        RadiusBottomLeft: =0
-        RadiusBottomRight: =0
-        RadiusTopLeft: =0
-        RadiusTopRight: =0
         Size: =24
         Text: ="Sing In"
         Width: =242
@@ -276,36 +175,19 @@ INICIO As screen:
         ZIndex: =13
 
     salida As icon.Leave:
-        BorderColor: =RGBA(166, 166, 166, 1)
+        BorderColor: =RGBA(32, 54, 71, 1)
         Color: =RGBA(141, 28, 61, 1)
-        DisabledBorderColor: =RGBA(0, 0, 0, 0)
-        DisabledColor: =RGBA(220, 220, 220, 1)
-        DisabledFill: =RGBA(0, 0, 0, 0)
-        FocusedBorderThickness: =4
-        HoverBorderColor: =RGBA(0, 0, 0, 0)
-        HoverColor: =ColorFade(RGBA(0, 120, 212, 1), -30%)
-        HoverFill: =RGBA(0, 0, 0, 0)
+        DisabledBorderColor: =RGBA(166, 166, 166, 1)
+        DisabledColor: =RGBA(244, 244, 244, 1)
         Icon: =Icon.Leave
-        PressedBorderColor: =RGBA(0, 0, 0, 0)
-        PressedColor: =ColorFade(RGBA(0, 120, 212, 1), -30%)
-        PressedFill: =RGBA(0, 0, 0, 0)
         X: =494
         Y: =32
         ZIndex: =14
 
     shalombet_1 As label:
-        BorderColor: =RGBA(0, 0, 0, 0)
-        BorderStyle: =BorderStyle.None
+        BorderColor: =RGBA(32, 54, 71, 1)
         Color: =RGBA(141, 28, 61, 1)
-        DisabledBorderColor: =RGBA(0, 0, 0, 0)
         DisabledColor: =RGBA(0, 0, 0, 1)
-        FocusedBorderThickness: =4
-        FontWeight: =FontWeight.Bold
-        LineHeight: =1.210227
-        PaddingBottom: =0
-        PaddingLeft: =0
-        PaddingRight: =0
-        PaddingTop: =0
         Size: =30
         Text: ="Bet!"
         Width: =160
