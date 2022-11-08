@@ -30,7 +30,7 @@ APUESTA_GRUPO_H As screen:
         PaddingRight: =0
         PaddingTop: =0
         Size: =30
-        Text: ="GRUPO A"
+        Text: ="GRUPO H"
         VerticalAlign: =VerticalAlign.Top
         Width: =352
         X: =144
@@ -115,7 +115,7 @@ APUESTA_GRUPO_H As screen:
         PaddingRight: =0
         PaddingTop: =0
         Size: =15
-        Text: ="Bélgica"
+        Text: ="Portugal"
         VerticalAlign: =VerticalAlign.Top
         Width: =135
         X: =48
@@ -152,7 +152,7 @@ APUESTA_GRUPO_H As screen:
         PaddingRight: =0
         PaddingTop: =0
         Size: =15
-        Text: ="Bélgica"
+        Text: ="Uruguay"
         VerticalAlign: =VerticalAlign.Top
         Width: =135
         X: =48
@@ -337,7 +337,7 @@ APUESTA_GRUPO_H As screen:
         PaddingRight: =0
         PaddingTop: =0
         Size: =15
-        Text: ="Bélgica"
+        Text: ="Ghana"
         VerticalAlign: =VerticalAlign.Top
         Width: =135
         X: =456
