@@ -300,7 +300,7 @@ APUESTA_GRUPO_A As screen:
         PaddingRight: =0
         PaddingTop: =0
         Size: =15
-        Text: ="Bélgica"
+        Text: ="Ecuador"
         VerticalAlign: =VerticalAlign.Top
         Width: =135
         X: =48
@@ -485,7 +485,7 @@ APUESTA_GRUPO_A As screen:
         PaddingRight: =0
         PaddingTop: =0
         Size: =15
-        Text: ="Bélgica"
+        Text: ="Países Bajos"
         VerticalAlign: =VerticalAlign.Top
         Width: =135
         X: =456
@@ -522,7 +522,7 @@ APUESTA_GRUPO_A As screen:
         PaddingRight: =0
         PaddingTop: =0
         Size: =15
-        Text: ="Bélgica"
+        Text: ="Senegal"
         VerticalAlign: =VerticalAlign.Top
         Width: =135
         X: =456
@@ -557,7 +557,7 @@ APUESTA_GRUPO_A As screen:
         Y: =271
         ZIndex: =39
 
-    TextInput3_1 As text:
+    LabelSenegal2 As text:
         BorderColor: =RGBA(166, 166, 166, 1)
         BorderThickness: =2
         Color: =RGBA(51, 51, 51, 1)
@@ -585,7 +585,7 @@ APUESTA_GRUPO_A As screen:
         Y: =393
         ZIndex: =40
 
-    TextInput3_2 As text:
+    LabelQatar3 As text:
         BorderColor: =RGBA(166, 166, 166, 1)
         BorderThickness: =2
         Color: =RGBA(51, 51, 51, 1)
@@ -613,7 +613,7 @@ APUESTA_GRUPO_A As screen:
         Y: =524
         ZIndex: =41
 
-    TextInput3_3 As text:
+    LabelEcuador4 As text:
         BorderColor: =RGBA(166, 166, 166, 1)
         BorderThickness: =2
         Color: =RGBA(51, 51, 51, 1)
@@ -641,7 +641,7 @@ APUESTA_GRUPO_A As screen:
         Y: =646
         ZIndex: =42
 
-    TextInput3_4 As text:
+    LabelQatar5 As text:
         BorderColor: =RGBA(166, 166, 166, 1)
         BorderThickness: =2
         Color: =RGBA(51, 51, 51, 1)
@@ -669,7 +669,7 @@ APUESTA_GRUPO_A As screen:
         Y: =765
         ZIndex: =43
 
-    TextInput3_5 As text:
+    LabelEcuador6 As text:
         BorderColor: =RGBA(166, 166, 166, 1)
         BorderThickness: =2
         Color: =RGBA(51, 51, 51, 1)

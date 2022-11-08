@@ -9884,19 +9884,19 @@
             {
               "logicalLocations": [
                 {
-                  "fullyQualifiedName": "APUESTA_GRUPO_A.TextInput3_1.AccessibleLabel"
+                  "fullyQualifiedName": "APUESTA_GRUPO_A.LabelSenegal2.AccessibleLabel"
                 }
               ],
               "physicalLocation": {
                 "address": {
-                  "fullyQualifiedName": "APUESTA_GRUPO_A.TextInput3_1.AccessibleLabel",
+                  "fullyQualifiedName": "APUESTA_GRUPO_A.LabelSenegal2.AccessibleLabel",
                   "relativeAddress": 0
                 }
               },
               "properties": {
                 "member": "AccessibleLabel",
                 "module": "APUESTA_GRUPO_A",
-                "type": "APUESTA_GRUPO_A.TextInput3_1"
+                "type": "APUESTA_GRUPO_A.LabelSenegal2"
               }
             }
           ],
@@ -10124,19 +10124,19 @@
             {
               "logicalLocations": [
                 {
-                  "fullyQualifiedName": "APUESTA_GRUPO_A.TextInput3_2.AccessibleLabel"
+                  "fullyQualifiedName": "APUESTA_GRUPO_A.LabelQatar3.AccessibleLabel"
                 }
               ],
               "physicalLocation": {
                 "address": {
-                  "fullyQualifiedName": "APUESTA_GRUPO_A.TextInput3_2.AccessibleLabel",
+                  "fullyQualifiedName": "APUESTA_GRUPO_A.LabelQatar3.AccessibleLabel",
                   "relativeAddress": 0
                 }
               },
               "properties": {
                 "member": "AccessibleLabel",
                 "module": "APUESTA_GRUPO_A",
-                "type": "APUESTA_GRUPO_A.TextInput3_2"
+                "type": "APUESTA_GRUPO_A.LabelQatar3"
               }
             }
           ],
@@ -10364,19 +10364,19 @@
             {
               "logicalLocations": [
                 {
-                  "fullyQualifiedName": "APUESTA_GRUPO_A.TextInput3_3.AccessibleLabel"
+                  "fullyQualifiedName": "APUESTA_GRUPO_A.LabelEcuador4.AccessibleLabel"
                 }
               ],
               "physicalLocation": {
                 "address": {
-                  "fullyQualifiedName": "APUESTA_GRUPO_A.TextInput3_3.AccessibleLabel",
+                  "fullyQualifiedName": "APUESTA_GRUPO_A.LabelEcuador4.AccessibleLabel",
                   "relativeAddress": 0
                 }
               },
               "properties": {
                 "member": "AccessibleLabel",
                 "module": "APUESTA_GRUPO_A",
-                "type": "APUESTA_GRUPO_A.TextInput3_3"
+                "type": "APUESTA_GRUPO_A.LabelEcuador4"
               }
             }
           ],
@@ -10604,19 +10604,19 @@
             {
               "logicalLocations": [
                 {
-                  "fullyQualifiedName": "APUESTA_GRUPO_A.TextInput3_4.AccessibleLabel"
+                  "fullyQualifiedName": "APUESTA_GRUPO_A.LabelQatar5.AccessibleLabel"
                 }
               ],
               "physicalLocation": {
                 "address": {
-                  "fullyQualifiedName": "APUESTA_GRUPO_A.TextInput3_4.AccessibleLabel",
+                  "fullyQualifiedName": "APUESTA_GRUPO_A.LabelQatar5.AccessibleLabel",
                   "relativeAddress": 0
                 }
               },
               "properties": {
                 "member": "AccessibleLabel",
                 "module": "APUESTA_GRUPO_A",
-                "type": "APUESTA_GRUPO_A.TextInput3_4"
+                "type": "APUESTA_GRUPO_A.LabelQatar5"
               }
             }
           ],
@@ -10844,19 +10844,19 @@
             {
               "logicalLocations": [
                 {
-                  "fullyQualifiedName": "APUESTA_GRUPO_A.TextInput3_5.AccessibleLabel"
+                  "fullyQualifiedName": "APUESTA_GRUPO_A.LabelEcuador6.AccessibleLabel"
                 }
               ],
               "physicalLocation": {
                 "address": {
-                  "fullyQualifiedName": "APUESTA_GRUPO_A.TextInput3_5.AccessibleLabel",
+                  "fullyQualifiedName": "APUESTA_GRUPO_A.LabelEcuador6.AccessibleLabel",
                   "relativeAddress": 0
                 }
               },
               "properties": {
                 "member": "AccessibleLabel",
                 "module": "APUESTA_GRUPO_A",
-                "type": "APUESTA_GRUPO_A.TextInput3_5"
+                "type": "APUESTA_GRUPO_A.LabelEcuador6"
               }
             }
           ],
