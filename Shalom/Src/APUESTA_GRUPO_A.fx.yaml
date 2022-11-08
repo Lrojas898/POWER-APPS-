@@ -115,7 +115,7 @@ APUESTA_GRUPO_A As screen:
         PaddingRight: =0
         PaddingTop: =0
         Size: =15
-        Text: ="Bélgica"
+        Text: ="Qatar"
         VerticalAlign: =VerticalAlign.Top
         Width: =135
         X: =48
@@ -337,7 +337,7 @@ APUESTA_GRUPO_A As screen:
         PaddingRight: =0
         PaddingTop: =0
         Size: =15
-        Text: ="Bélgica"
+        Text: ="Ecuador"
         VerticalAlign: =VerticalAlign.Top
         Width: =135
         X: =456
