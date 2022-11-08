@@ -30,7 +30,7 @@ APUESTA_GRUPO_G As screen:
         PaddingRight: =0
         PaddingTop: =0
         Size: =30
-        Text: ="GRUPO A"
+        Text: ="GRUPO G"
         VerticalAlign: =VerticalAlign.Top
         Width: =352
         X: =144
@@ -115,7 +115,7 @@ APUESTA_GRUPO_G As screen:
         PaddingRight: =0
         PaddingTop: =0
         Size: =15
-        Text: ="Bélgica"
+        Text: ="Brasil"
         VerticalAlign: =VerticalAlign.Top
         Width: =135
         X: =48

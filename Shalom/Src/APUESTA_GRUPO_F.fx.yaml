@@ -30,7 +30,7 @@ APUESTA_GRUPO_F As screen:
         PaddingRight: =0
         PaddingTop: =0
         Size: =30
-        Text: ="GRUPO A"
+        Text: ="GRUPO F"
         VerticalAlign: =VerticalAlign.Top
         Width: =352
         X: =144
@@ -152,7 +152,7 @@ APUESTA_GRUPO_F As screen:
         PaddingRight: =0
         PaddingTop: =0
         Size: =15
-        Text: ="Bélgica"
+        Text: ="Marruecos"
         VerticalAlign: =VerticalAlign.Top
         Width: =135
         X: =48
@@ -226,7 +226,7 @@ APUESTA_GRUPO_F As screen:
         PaddingRight: =0
         PaddingTop: =0
         Size: =15
-        Text: ="Bélgica"
+        Text: ="Canadá"
         VerticalAlign: =VerticalAlign.Top
         Width: =135
         X: =48
@@ -300,7 +300,7 @@ APUESTA_GRUPO_F As screen:
         PaddingRight: =0
         PaddingTop: =0
         Size: =15
-        Text: ="Bélgica"
+        Text: ="Canadá"
         VerticalAlign: =VerticalAlign.Top
         Width: =135
         X: =48
@@ -337,7 +337,7 @@ APUESTA_GRUPO_F As screen:
         PaddingRight: =0
         PaddingTop: =0
         Size: =15
-        Text: ="Bélgica"
+        Text: ="Canadá"
         VerticalAlign: =VerticalAlign.Top
         Width: =135
         X: =456
@@ -374,7 +374,7 @@ APUESTA_GRUPO_F As screen:
         PaddingRight: =0
         PaddingTop: =0
         Size: =15
-        Text: ="Bélgica"
+        Text: ="Croacia"
         VerticalAlign: =VerticalAlign.Top
         Width: =135
         X: =456
@@ -411,7 +411,7 @@ APUESTA_GRUPO_F As screen:
         PaddingRight: =0
         PaddingTop: =0
         Size: =15
-        Text: ="Bélgica"
+        Text: ="Marruecos"
         VerticalAlign: =VerticalAlign.Top
         Width: =135
         X: =456
@@ -448,7 +448,7 @@ APUESTA_GRUPO_F As screen:
         PaddingRight: =0
         PaddingTop: =0
         Size: =15
-        Text: ="Bélgica"
+        Text: ="Croacia"
         VerticalAlign: =VerticalAlign.Top
         Width: =135
         X: =456
@@ -485,7 +485,7 @@ APUESTA_GRUPO_F As screen:
         PaddingRight: =0
         PaddingTop: =0
         Size: =15
-        Text: ="Bélgica"
+        Text: ="Croacia"
         VerticalAlign: =VerticalAlign.Top
         Width: =135
         X: =456
@@ -522,7 +522,7 @@ APUESTA_GRUPO_F As screen:
         PaddingRight: =0
         PaddingTop: =0
         Size: =15
-        Text: ="Bélgica"
+        Text: ="Marruecos"
         VerticalAlign: =VerticalAlign.Top
         Width: =135
         X: =456
