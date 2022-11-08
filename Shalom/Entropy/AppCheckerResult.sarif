@@ -10154,36 +10154,6 @@
             {
               "logicalLocations": [
                 {
-                  "fullyQualifiedName": "GRUPOS_4.Image891188.AccessibleLabel"
-                }
-              ],
-              "physicalLocation": {
-                "address": {
-                  "fullyQualifiedName": "GRUPOS_4.Image891188.AccessibleLabel",
-                  "relativeAddress": 0
-                }
-              },
-              "properties": {
-                "member": "AccessibleLabel",
-                "module": "GRUPOS_4",
-                "type": "GRUPOS_4.Image891188"
-              }
-            }
-          ],
-          "message": {
-            "id": "issue"
-          },
-          "properties": {
-            "level": "Medium"
-          },
-          "ruleId": "acc-AccessibleLabelNeeded",
-          "ruleIndex": 0
-        },
-        {
-          "locations": [
-            {
-              "logicalLocations": [
-                {
                   "fullyQualifiedName": "GRUPOS_4.Image891188.TabIndex"
                 }
               ],
@@ -10214,19 +10184,19 @@
             {
               "logicalLocations": [
                 {
-                  "fullyQualifiedName": "GRUPOS_4.Image891191.AccessibleLabel"
+                  "fullyQualifiedName": "GRUPOS_4.Image891188.AccessibleLabel"
                 }
               ],
               "physicalLocation": {
                 "address": {
-                  "fullyQualifiedName": "GRUPOS_4.Image891191.AccessibleLabel",
+                  "fullyQualifiedName": "GRUPOS_4.Image891188.AccessibleLabel",
                   "relativeAddress": 0
                 }
               },
               "properties": {
                 "member": "AccessibleLabel",
                 "module": "GRUPOS_4",
-                "type": "GRUPOS_4.Image891191"
+                "type": "GRUPOS_4.Image891188"
               }
             }
           ],
@@ -10274,19 +10244,19 @@
             {
               "logicalLocations": [
                 {
-                  "fullyQualifiedName": "GRUPOS_4.Image891196.AccessibleLabel"
+                  "fullyQualifiedName": "GRUPOS_4.Image891191.AccessibleLabel"
                 }
               ],
               "physicalLocation": {
                 "address": {
-                  "fullyQualifiedName": "GRUPOS_4.Image891196.AccessibleLabel",
+                  "fullyQualifiedName": "GRUPOS_4.Image891191.AccessibleLabel",
                   "relativeAddress": 0
                 }
               },
               "properties": {
                 "member": "AccessibleLabel",
                 "module": "GRUPOS_4",
-                "type": "GRUPOS_4.Image891196"
+                "type": "GRUPOS_4.Image891191"
               }
             }
           ],
@@ -10334,19 +10304,19 @@
             {
               "logicalLocations": [
                 {
-                  "fullyQualifiedName": "GRUPOS_4.Image891190.AccessibleLabel"
+                  "fullyQualifiedName": "GRUPOS_4.Image891196.AccessibleLabel"
                 }
               ],
               "physicalLocation": {
                 "address": {
-                  "fullyQualifiedName": "GRUPOS_4.Image891190.AccessibleLabel",
+                  "fullyQualifiedName": "GRUPOS_4.Image891196.AccessibleLabel",
                   "relativeAddress": 0
                 }
               },
               "properties": {
                 "member": "AccessibleLabel",
                 "module": "GRUPOS_4",
-                "type": "GRUPOS_4.Image891190"
+                "type": "GRUPOS_4.Image891196"
               }
             }
           ],
@@ -10394,19 +10364,19 @@
             {
               "logicalLocations": [
                 {
-                  "fullyQualifiedName": "GRUPOS_4.Image891192.AccessibleLabel"
+                  "fullyQualifiedName": "GRUPOS_4.Image891190.AccessibleLabel"
                 }
               ],
               "physicalLocation": {
                 "address": {
-                  "fullyQualifiedName": "GRUPOS_4.Image891192.AccessibleLabel",
+                  "fullyQualifiedName": "GRUPOS_4.Image891190.AccessibleLabel",
                   "relativeAddress": 0
                 }
               },
               "properties": {
                 "member": "AccessibleLabel",
                 "module": "GRUPOS_4",
-                "type": "GRUPOS_4.Image891192"
+                "type": "GRUPOS_4.Image891190"
               }
             }
           ],
@@ -10454,19 +10424,19 @@
             {
               "logicalLocations": [
                 {
-                  "fullyQualifiedName": "GRUPOS_4.Image891197.AccessibleLabel"
+                  "fullyQualifiedName": "GRUPOS_4.Image891192.AccessibleLabel"
                 }
               ],
               "physicalLocation": {
                 "address": {
-                  "fullyQualifiedName": "GRUPOS_4.Image891197.AccessibleLabel",
+                  "fullyQualifiedName": "GRUPOS_4.Image891192.AccessibleLabel",
                   "relativeAddress": 0
                 }
               },
               "properties": {
                 "member": "AccessibleLabel",
                 "module": "GRUPOS_4",
-                "type": "GRUPOS_4.Image891197"
+                "type": "GRUPOS_4.Image891192"
               }
             }
           ],
@@ -10514,19 +10484,19 @@
             {
               "logicalLocations": [
                 {
-                  "fullyQualifiedName": "GRUPOS_4.Image891189.AccessibleLabel"
+                  "fullyQualifiedName": "GRUPOS_4.Image891197.AccessibleLabel"
                 }
               ],
               "physicalLocation": {
                 "address": {
-                  "fullyQualifiedName": "GRUPOS_4.Image891189.AccessibleLabel",
+                  "fullyQualifiedName": "GRUPOS_4.Image891197.AccessibleLabel",
                   "relativeAddress": 0
                 }
               },
               "properties": {
                 "member": "AccessibleLabel",
                 "module": "GRUPOS_4",
-                "type": "GRUPOS_4.Image891189"
+                "type": "GRUPOS_4.Image891197"
               }
             }
           ],
@@ -10574,19 +10544,19 @@
             {
               "logicalLocations": [
                 {
-                  "fullyQualifiedName": "GRUPOS_4.Image891193.AccessibleLabel"
+                  "fullyQualifiedName": "GRUPOS_4.Image891189.AccessibleLabel"
                 }
               ],
               "physicalLocation": {
                 "address": {
-                  "fullyQualifiedName": "GRUPOS_4.Image891193.AccessibleLabel",
+                  "fullyQualifiedName": "GRUPOS_4.Image891189.AccessibleLabel",
                   "relativeAddress": 0
                 }
               },
               "properties": {
                 "member": "AccessibleLabel",
                 "module": "GRUPOS_4",
-                "type": "GRUPOS_4.Image891193"
+                "type": "GRUPOS_4.Image891189"
               }
             }
           ],
@@ -10634,19 +10604,19 @@
             {
               "logicalLocations": [
                 {
-                  "fullyQualifiedName": "GRUPOS_4.Image891195.AccessibleLabel"
+                  "fullyQualifiedName": "GRUPOS_4.Image891193.AccessibleLabel"
                 }
               ],
               "physicalLocation": {
                 "address": {
-                  "fullyQualifiedName": "GRUPOS_4.Image891195.AccessibleLabel",
+                  "fullyQualifiedName": "GRUPOS_4.Image891193.AccessibleLabel",
                   "relativeAddress": 0
                 }
               },
               "properties": {
                 "member": "AccessibleLabel",
                 "module": "GRUPOS_4",
-                "type": "GRUPOS_4.Image891195"
+                "type": "GRUPOS_4.Image891193"
               }
             }
           ],
@@ -10694,19 +10664,19 @@
             {
               "logicalLocations": [
                 {
-                  "fullyQualifiedName": "GRUPOS_4.Image891194.AccessibleLabel"
+                  "fullyQualifiedName": "GRUPOS_4.Image891195.AccessibleLabel"
                 }
               ],
               "physicalLocation": {
                 "address": {
-                  "fullyQualifiedName": "GRUPOS_4.Image891194.AccessibleLabel",
+                  "fullyQualifiedName": "GRUPOS_4.Image891195.AccessibleLabel",
                   "relativeAddress": 0
                 }
               },
               "properties": {
                 "member": "AccessibleLabel",
                 "module": "GRUPOS_4",
-                "type": "GRUPOS_4.Image891194"
+                "type": "GRUPOS_4.Image891195"
               }
             }
           ],
@@ -10754,19 +10724,19 @@
             {
               "logicalLocations": [
                 {
-                  "fullyQualifiedName": "GRUPOS_4.Rectangle891203.AccessibleLabel"
+                  "fullyQualifiedName": "GRUPOS_4.Image891194.AccessibleLabel"
                 }
               ],
               "physicalLocation": {
                 "address": {
-                  "fullyQualifiedName": "GRUPOS_4.Rectangle891203.AccessibleLabel",
+                  "fullyQualifiedName": "GRUPOS_4.Image891194.AccessibleLabel",
                   "relativeAddress": 0
                 }
               },
               "properties": {
                 "member": "AccessibleLabel",
                 "module": "GRUPOS_4",
-                "type": "GRUPOS_4.Rectangle891203"
+                "type": "GRUPOS_4.Image891194"
               }
             }
           ],
@@ -10814,19 +10784,19 @@
             {
               "logicalLocations": [
                 {
-                  "fullyQualifiedName": "GRUPOS_4.Rectangle891213.AccessibleLabel"
+                  "fullyQualifiedName": "GRUPOS_4.Rectangle891203.AccessibleLabel"
                 }
               ],
               "physicalLocation": {
                 "address": {
-                  "fullyQualifiedName": "GRUPOS_4.Rectangle891213.AccessibleLabel",
+                  "fullyQualifiedName": "GRUPOS_4.Rectangle891203.AccessibleLabel",
                   "relativeAddress": 0
                 }
               },
               "properties": {
                 "member": "AccessibleLabel",
                 "module": "GRUPOS_4",
-                "type": "GRUPOS_4.Rectangle891213"
+                "type": "GRUPOS_4.Rectangle891203"
               }
             }
           ],
@@ -10874,19 +10844,19 @@
             {
               "logicalLocations": [
                 {
-                  "fullyQualifiedName": "GRUPOS_4.Image601160.AccessibleLabel"
+                  "fullyQualifiedName": "GRUPOS_4.Rectangle891213.AccessibleLabel"
                 }
               ],
               "physicalLocation": {
                 "address": {
-                  "fullyQualifiedName": "GRUPOS_4.Image601160.AccessibleLabel",
+                  "fullyQualifiedName": "GRUPOS_4.Rectangle891213.AccessibleLabel",
                   "relativeAddress": 0
                 }
               },
               "properties": {
                 "member": "AccessibleLabel",
                 "module": "GRUPOS_4",
-                "type": "GRUPOS_4.Image601160"
+                "type": "GRUPOS_4.Rectangle891213"
               }
             }
           ],
@@ -10934,19 +10904,19 @@
             {
               "logicalLocations": [
                 {
-                  "fullyQualifiedName": "GRUPOS_4.Image651141.AccessibleLabel"
+                  "fullyQualifiedName": "GRUPOS_4.Image601160.AccessibleLabel"
                 }
               ],
               "physicalLocation": {
                 "address": {
-                  "fullyQualifiedName": "GRUPOS_4.Image651141.AccessibleLabel",
+                  "fullyQualifiedName": "GRUPOS_4.Image601160.AccessibleLabel",
                   "relativeAddress": 0
                 }
               },
               "properties": {
                 "member": "AccessibleLabel",
                 "module": "GRUPOS_4",
-                "type": "GRUPOS_4.Image651141"
+                "type": "GRUPOS_4.Image601160"
               }
             }
           ],
@@ -10988,6 +10958,36 @@
           },
           "ruleId": "acc-TabIndexShouldBeDefinedForInteractiveControl",
           "ruleIndex": 1
+        },
+        {
+          "locations": [
+            {
+              "logicalLocations": [
+                {
+                  "fullyQualifiedName": "GRUPOS_4.Image651141.AccessibleLabel"
+                }
+              ],
+              "physicalLocation": {
+                "address": {
+                  "fullyQualifiedName": "GRUPOS_4.Image651141.AccessibleLabel",
+                  "relativeAddress": 0
+                }
+              },
+              "properties": {
+                "member": "AccessibleLabel",
+                "module": "GRUPOS_4",
+                "type": "GRUPOS_4.Image651141"
+              }
+            }
+          ],
+          "message": {
+            "id": "issue"
+          },
+          "properties": {
+            "level": "Medium"
+          },
+          "ruleId": "acc-AccessibleLabelNeeded",
+          "ruleIndex": 0
         },
         {
           "locations": [
@@ -11054,36 +11054,6 @@
             {
               "logicalLocations": [
                 {
-                  "fullyQualifiedName": "GRUPOS_4.Rectangle891216.AccessibleLabel"
-                }
-              ],
-              "physicalLocation": {
-                "address": {
-                  "fullyQualifiedName": "GRUPOS_4.Rectangle891216.AccessibleLabel",
-                  "relativeAddress": 0
-                }
-              },
-              "properties": {
-                "member": "AccessibleLabel",
-                "module": "GRUPOS_4",
-                "type": "GRUPOS_4.Rectangle891216"
-              }
-            }
-          ],
-          "message": {
-            "id": "issue"
-          },
-          "properties": {
-            "level": "Medium"
-          },
-          "ruleId": "acc-AccessibleLabelNeeded",
-          "ruleIndex": 0
-        },
-        {
-          "locations": [
-            {
-              "logicalLocations": [
-                {
                   "fullyQualifiedName": "GRUPOS_4.Rectangle891216.TabIndex"
                 }
               ],
@@ -11114,19 +11084,19 @@
             {
               "logicalLocations": [
                 {
-                  "fullyQualifiedName": "GRUPOS_4.Rectangle891209.AccessibleLabel"
+                  "fullyQualifiedName": "GRUPOS_4.Rectangle891216.AccessibleLabel"
                 }
               ],
               "physicalLocation": {
                 "address": {
-                  "fullyQualifiedName": "GRUPOS_4.Rectangle891209.AccessibleLabel",
+                  "fullyQualifiedName": "GRUPOS_4.Rectangle891216.AccessibleLabel",
                   "relativeAddress": 0
                 }
               },
               "properties": {
                 "member": "AccessibleLabel",
                 "module": "GRUPOS_4",
-                "type": "GRUPOS_4.Rectangle891209"
+                "type": "GRUPOS_4.Rectangle891216"
               }
             }
           ],
@@ -11174,19 +11144,19 @@
             {
               "logicalLocations": [
                 {
-                  "fullyQualifiedName": "GRUPOS_4.Image601168.AccessibleLabel"
+                  "fullyQualifiedName": "GRUPOS_4.Rectangle891209.AccessibleLabel"
                 }
               ],
               "physicalLocation": {
                 "address": {
-                  "fullyQualifiedName": "GRUPOS_4.Image601168.AccessibleLabel",
+                  "fullyQualifiedName": "GRUPOS_4.Rectangle891209.AccessibleLabel",
                   "relativeAddress": 0
                 }
               },
               "properties": {
                 "member": "AccessibleLabel",
                 "module": "GRUPOS_4",
-                "type": "GRUPOS_4.Image601168"
+                "type": "GRUPOS_4.Rectangle891209"
               }
             }
           ],
@@ -11234,19 +11204,19 @@
             {
               "logicalLocations": [
                 {
-                  "fullyQualifiedName": "GRUPOS_4.Image601186.AccessibleLabel"
+                  "fullyQualifiedName": "GRUPOS_4.Image601168.AccessibleLabel"
                 }
               ],
               "physicalLocation": {
                 "address": {
-                  "fullyQualifiedName": "GRUPOS_4.Image601186.AccessibleLabel",
+                  "fullyQualifiedName": "GRUPOS_4.Image601168.AccessibleLabel",
                   "relativeAddress": 0
                 }
               },
               "properties": {
                 "member": "AccessibleLabel",
                 "module": "GRUPOS_4",
-                "type": "GRUPOS_4.Image601186"
+                "type": "GRUPOS_4.Image601168"
               }
             }
           ],
@@ -11288,6 +11258,36 @@
           },
           "ruleId": "acc-TabIndexShouldBeDefinedForInteractiveControl",
           "ruleIndex": 1
+        },
+        {
+          "locations": [
+            {
+              "logicalLocations": [
+                {
+                  "fullyQualifiedName": "GRUPOS_4.Image601186.AccessibleLabel"
+                }
+              ],
+              "physicalLocation": {
+                "address": {
+                  "fullyQualifiedName": "GRUPOS_4.Image601186.AccessibleLabel",
+                  "relativeAddress": 0
+                }
+              },
+              "properties": {
+                "member": "AccessibleLabel",
+                "module": "GRUPOS_4",
+                "type": "GRUPOS_4.Image601186"
+              }
+            }
+          ],
+          "message": {
+            "id": "issue"
+          },
+          "properties": {
+            "level": "Medium"
+          },
+          "ruleId": "acc-AccessibleLabelNeeded",
+          "ruleIndex": 0
         },
         {
           "locations": [
@@ -11354,36 +11354,6 @@
             {
               "logicalLocations": [
                 {
-                  "fullyQualifiedName": "GRUPOS_4.Rectangle891220.AccessibleLabel"
-                }
-              ],
-              "physicalLocation": {
-                "address": {
-                  "fullyQualifiedName": "GRUPOS_4.Rectangle891220.AccessibleLabel",
-                  "relativeAddress": 0
-                }
-              },
-              "properties": {
-                "member": "AccessibleLabel",
-                "module": "GRUPOS_4",
-                "type": "GRUPOS_4.Rectangle891220"
-              }
-            }
-          ],
-          "message": {
-            "id": "issue"
-          },
-          "properties": {
-            "level": "Medium"
-          },
-          "ruleId": "acc-AccessibleLabelNeeded",
-          "ruleIndex": 0
-        },
-        {
-          "locations": [
-            {
-              "logicalLocations": [
-                {
                   "fullyQualifiedName": "GRUPOS_4.Rectangle891220.TabIndex"
                 }
               ],
@@ -11414,19 +11384,19 @@
             {
               "logicalLocations": [
                 {
-                  "fullyQualifiedName": "GRUPOS_4.Image601158.AccessibleLabel"
+                  "fullyQualifiedName": "GRUPOS_4.Rectangle891220.AccessibleLabel"
                 }
               ],
               "physicalLocation": {
                 "address": {
-                  "fullyQualifiedName": "GRUPOS_4.Image601158.AccessibleLabel",
+                  "fullyQualifiedName": "GRUPOS_4.Rectangle891220.AccessibleLabel",
                   "relativeAddress": 0
                 }
               },
               "properties": {
                 "member": "AccessibleLabel",
                 "module": "GRUPOS_4",
-                "type": "GRUPOS_4.Image601158"
+                "type": "GRUPOS_4.Rectangle891220"
               }
             }
           ],
@@ -11474,6 +11444,36 @@
             {
               "logicalLocations": [
                 {
+                  "fullyQualifiedName": "GRUPOS_4.Image601158.AccessibleLabel"
+                }
+              ],
+              "physicalLocation": {
+                "address": {
+                  "fullyQualifiedName": "GRUPOS_4.Image601158.AccessibleLabel",
+                  "relativeAddress": 0
+                }
+              },
+              "properties": {
+                "member": "AccessibleLabel",
+                "module": "GRUPOS_4",
+                "type": "GRUPOS_4.Image601158"
+              }
+            }
+          ],
+          "message": {
+            "id": "issue"
+          },
+          "properties": {
+            "level": "Medium"
+          },
+          "ruleId": "acc-AccessibleLabelNeeded",
+          "ruleIndex": 0
+        },
+        {
+          "locations": [
+            {
+              "logicalLocations": [
+                {
                   "fullyQualifiedName": "GRUPOS_4.Label891221.TabIndex"
                 }
               ],
@@ -11487,6 +11487,36 @@
                 "member": "TabIndex",
                 "module": "GRUPOS_4",
                 "type": "GRUPOS_4.Label891221"
+              }
+            }
+          ],
+          "message": {
+            "id": "issue"
+          },
+          "properties": {
+            "level": "Medium"
+          },
+          "ruleId": "acc-TabIndexShouldBeDefinedForInteractiveControl",
+          "ruleIndex": 1
+        },
+        {
+          "locations": [
+            {
+              "logicalLocations": [
+                {
+                  "fullyQualifiedName": "GRUPOS_4.Rectangle891227.TabIndex"
+                }
+              ],
+              "physicalLocation": {
+                "address": {
+                  "fullyQualifiedName": "GRUPOS_4.Rectangle891227.TabIndex",
+                  "relativeAddress": 0
+                }
+              },
+              "properties": {
+                "member": "TabIndex",
+                "module": "GRUPOS_4",
+                "type": "GRUPOS_4.Rectangle891227"
               }
             }
           ],
@@ -11534,19 +11564,19 @@
             {
               "logicalLocations": [
                 {
-                  "fullyQualifiedName": "GRUPOS_4.Rectangle891227.TabIndex"
+                  "fullyQualifiedName": "GRUPOS_4.Rectangle891229.TabIndex"
                 }
               ],
               "physicalLocation": {
                 "address": {
-                  "fullyQualifiedName": "GRUPOS_4.Rectangle891227.TabIndex",
+                  "fullyQualifiedName": "GRUPOS_4.Rectangle891229.TabIndex",
                   "relativeAddress": 0
                 }
               },
               "properties": {
                 "member": "TabIndex",
                 "module": "GRUPOS_4",
-                "type": "GRUPOS_4.Rectangle891227"
+                "type": "GRUPOS_4.Rectangle891229"
               }
             }
           ],
@@ -11594,19 +11624,19 @@
             {
               "logicalLocations": [
                 {
-                  "fullyQualifiedName": "GRUPOS_4.Rectangle891229.TabIndex"
+                  "fullyQualifiedName": "GRUPOS_4.Image601123.TabIndex"
                 }
               ],
               "physicalLocation": {
                 "address": {
-                  "fullyQualifiedName": "GRUPOS_4.Rectangle891229.TabIndex",
+                  "fullyQualifiedName": "GRUPOS_4.Image601123.TabIndex",
                   "relativeAddress": 0
                 }
               },
               "properties": {
                 "member": "TabIndex",
                 "module": "GRUPOS_4",
-                "type": "GRUPOS_4.Rectangle891229"
+                "type": "GRUPOS_4.Image601123"
               }
             }
           ],
@@ -11654,19 +11684,19 @@
             {
               "logicalLocations": [
                 {
-                  "fullyQualifiedName": "GRUPOS_4.Image601123.TabIndex"
+                  "fullyQualifiedName": "GRUPOS_4.Label891228.TabIndex"
                 }
               ],
               "physicalLocation": {
                 "address": {
-                  "fullyQualifiedName": "GRUPOS_4.Image601123.TabIndex",
+                  "fullyQualifiedName": "GRUPOS_4.Label891228.TabIndex",
                   "relativeAddress": 0
                 }
               },
               "properties": {
                 "member": "TabIndex",
                 "module": "GRUPOS_4",
-                "type": "GRUPOS_4.Image601123"
+                "type": "GRUPOS_4.Label891228"
               }
             }
           ],
@@ -11684,19 +11714,19 @@
             {
               "logicalLocations": [
                 {
-                  "fullyQualifiedName": "GRUPOS_4.Label891228.TabIndex"
+                  "fullyQualifiedName": "GRUPOS_4.Rectangle413257.TabIndex"
                 }
               ],
               "physicalLocation": {
                 "address": {
-                  "fullyQualifiedName": "GRUPOS_4.Label891228.TabIndex",
+                  "fullyQualifiedName": "GRUPOS_4.Rectangle413257.TabIndex",
                   "relativeAddress": 0
                 }
               },
               "properties": {
                 "member": "TabIndex",
                 "module": "GRUPOS_4",
-                "type": "GRUPOS_4.Label891228"
+                "type": "GRUPOS_4.Rectangle413257"
               }
             }
           ],
@@ -11738,36 +11768,6 @@
           },
           "ruleId": "acc-AccessibleLabelNeeded",
           "ruleIndex": 0
-        },
-        {
-          "locations": [
-            {
-              "logicalLocations": [
-                {
-                  "fullyQualifiedName": "GRUPOS_4.Rectangle413257.TabIndex"
-                }
-              ],
-              "physicalLocation": {
-                "address": {
-                  "fullyQualifiedName": "GRUPOS_4.Rectangle413257.TabIndex",
-                  "relativeAddress": 0
-                }
-              },
-              "properties": {
-                "member": "TabIndex",
-                "module": "GRUPOS_4",
-                "type": "GRUPOS_4.Rectangle413257"
-              }
-            }
-          ],
-          "message": {
-            "id": "issue"
-          },
-          "properties": {
-            "level": "Medium"
-          },
-          "ruleId": "acc-TabIndexShouldBeDefinedForInteractiveControl",
-          "ruleIndex": 1
         },
         {
           "locations": [
@@ -11924,36 +11924,6 @@
             {
               "logicalLocations": [
                 {
-                  "fullyQualifiedName": "GRUPOS_4.Rectangle413258.AccessibleLabel"
-                }
-              ],
-              "physicalLocation": {
-                "address": {
-                  "fullyQualifiedName": "GRUPOS_4.Rectangle413258.AccessibleLabel",
-                  "relativeAddress": 0
-                }
-              },
-              "properties": {
-                "member": "AccessibleLabel",
-                "module": "GRUPOS_4",
-                "type": "GRUPOS_4.Rectangle413258"
-              }
-            }
-          ],
-          "message": {
-            "id": "issue"
-          },
-          "properties": {
-            "level": "Medium"
-          },
-          "ruleId": "acc-AccessibleLabelNeeded",
-          "ruleIndex": 0
-        },
-        {
-          "locations": [
-            {
-              "logicalLocations": [
-                {
                   "fullyQualifiedName": "GRUPOS_4.Rectangle413258.TabIndex"
                 }
               ],
@@ -11978,6 +11948,36 @@
           },
           "ruleId": "acc-TabIndexShouldBeDefinedForInteractiveControl",
           "ruleIndex": 1
+        },
+        {
+          "locations": [
+            {
+              "logicalLocations": [
+                {
+                  "fullyQualifiedName": "GRUPOS_4.Rectangle413258.AccessibleLabel"
+                }
+              ],
+              "physicalLocation": {
+                "address": {
+                  "fullyQualifiedName": "GRUPOS_4.Rectangle413258.AccessibleLabel",
+                  "relativeAddress": 0
+                }
+              },
+              "properties": {
+                "member": "AccessibleLabel",
+                "module": "GRUPOS_4",
+                "type": "GRUPOS_4.Rectangle413258"
+              }
+            }
+          ],
+          "message": {
+            "id": "issue"
+          },
+          "properties": {
+            "level": "Medium"
+          },
+          "ruleId": "acc-AccessibleLabelNeeded",
+          "ruleIndex": 0
         },
         {
           "locations": [
@@ -20127,6 +20127,66 @@
                 "member": "TabIndex",
                 "module": "PERFIL",
                 "type": "PERFIL.Icon13"
+              }
+            }
+          ],
+          "message": {
+            "id": "issue"
+          },
+          "properties": {
+            "level": "Medium"
+          },
+          "ruleId": "acc-TabIndexShouldBeDefinedForInteractiveControl",
+          "ruleIndex": 1
+        },
+        {
+          "locations": [
+            {
+              "logicalLocations": [
+                {
+                  "fullyQualifiedName": "GRUPOS.Icon3_2.AccessibleLabel"
+                }
+              ],
+              "physicalLocation": {
+                "address": {
+                  "fullyQualifiedName": "GRUPOS.Icon3_2.AccessibleLabel",
+                  "relativeAddress": 0
+                }
+              },
+              "properties": {
+                "member": "AccessibleLabel",
+                "module": "GRUPOS",
+                "type": "GRUPOS.Icon3_2"
+              }
+            }
+          ],
+          "message": {
+            "id": "issue"
+          },
+          "properties": {
+            "level": "Medium"
+          },
+          "ruleId": "acc-AccessibleLabelNeeded",
+          "ruleIndex": 0
+        },
+        {
+          "locations": [
+            {
+              "logicalLocations": [
+                {
+                  "fullyQualifiedName": "GRUPOS.Icon3_2.TabIndex"
+                }
+              ],
+              "physicalLocation": {
+                "address": {
+                  "fullyQualifiedName": "GRUPOS.Icon3_2.TabIndex",
+                  "relativeAddress": 0
+                }
+              },
+              "properties": {
+                "member": "TabIndex",
+                "module": "GRUPOS",
+                "type": "GRUPOS.Icon3_2"
               }
             }
           ],
