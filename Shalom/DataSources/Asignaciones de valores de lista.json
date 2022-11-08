@@ -1,0 +1,145 @@
+[
+  {
+    "CdsFCBContext": "{\"FileType\":true,\"ImageExternalStorage\":true}",
+    "EntitySetName": "picklistmappings",
+    "IsHidden": false,
+    "IsSampleData": false,
+    "IsWritable": true,
+    "LogicalName": "picklistmapping",
+    "MaxGetRowsCount": 500,
+    "Name": "Asignaciones de valores de lista",
+    "NativeCDSDataSourceInfoNameMapping": {
+      "columnmappingid": "Identificador de asignación de columna",
+      "componentstate": "Estado del componente",
+      "createdby": "Autor",
+      "createdon": "CreatedOn",
+      "createdonbehalfby": "Autor (delegado)",
+      "introducedversion": "Versión introducida",
+      "ismanaged": "Est.",
+      "modifiedby": "Modificado por",
+      "modifiedon": "Fecha de modificación",
+      "modifiedonbehalfby": "Modificado por (delegado)",
+      "overwritetime": "Hora de sobrescritura del registro",
+      "picklistmappingid": "PickListMappingId",
+      "picklistmappingidunique": "PickListMappingIdUnique",
+      "processcode": "Código de proceso",
+      "solutionid": "Solución",
+      "sourcevalue": "Valor de origen",
+      "statecode": "Estado",
+      "statuscode": "Razón para el estado",
+      "targetvalue": "Valor de destino"
+    },
+    "PreferredName": "Asignaciones de valores de lista",
+    "Type": "NativeCDSDataSourceInfo"
+  },
+  {
+    "DisplayName": "Asignaciones de valores de lista (Vistas)",
+    "Name": "_picklistmapping_views",
+    "RelatedEntityName": "Asignaciones de valores de lista",
+    "TrimmedViewName": true,
+    "Type": "ViewInfo",
+    "ViewInfoNameMapping": {}
+  },
+  {
+    "DisplayName": "Estado del componente",
+    "Name": "componentstate",
+    "OptionSetInfoNameMapping": {
+      "0": "Publicado",
+      "1": "Sin publicar",
+      "2": "Eliminado",
+      "3": "Eliminados sin publicar"
+    },
+    "OptionSetIsBooleanValued": false,
+    "OptionSetIsGlobal": true,
+    "OptionSetReference": {
+      "OptionSetReferenceItem0": {
+        "OptionSetReferenceColumnName": "componentstate",
+        "OptionSetReferenceEntityName": "Asignaciones de valores de lista"
+      }
+    },
+    "OptionSetTypeKey": "PicklistType",
+    "RelatedColumnInvariantName": "componentstate",
+    "RelatedEntityName": "Asignaciones de valores de lista",
+    "Type": "OptionSetInfo"
+  },
+  {
+    "DisplayName": "Es un componente administrado",
+    "Name": "ismanaged",
+    "OptionSetInfoNameMapping": {
+      "0": "No administrado",
+      "1": "Administrado"
+    },
+    "OptionSetIsBooleanValued": true,
+    "OptionSetIsGlobal": true,
+    "OptionSetReference": {
+      "OptionSetReferenceItem0": {
+        "OptionSetReferenceColumnName": "ismanaged",
+        "OptionSetReferenceEntityName": "Asignaciones de valores de lista"
+      }
+    },
+    "OptionSetTypeKey": "BooleanType",
+    "RelatedColumnInvariantName": "ismanaged",
+    "RelatedEntityName": "Asignaciones de valores de lista",
+    "Type": "OptionSetInfo"
+  },
+  {
+    "DisplayName": "Código de proceso (Asignaciones de valores de lista)",
+    "Name": "picklistmapping_processcode",
+    "OptionSetInfoNameMapping": {
+      "1": "Proceso",
+      "2": "Omitir",
+      "3": "Interno",
+      "4": "Sin asignar"
+    },
+    "OptionSetIsBooleanValued": false,
+    "OptionSetIsGlobal": false,
+    "OptionSetReference": {
+      "OptionSetReferenceItem0": {
+        "OptionSetReferenceColumnName": "processcode",
+        "OptionSetReferenceEntityName": "Asignaciones de valores de lista"
+      }
+    },
+    "OptionSetTypeKey": "PicklistType",
+    "RelatedColumnInvariantName": "processcode",
+    "RelatedEntityName": "Asignaciones de valores de lista",
+    "Type": "OptionSetInfo"
+  },
+  {
+    "DisplayName": "Estado (Asignaciones de valores de lista)",
+    "Name": "picklistmapping_statecode",
+    "OptionSetInfoNameMapping": {
+      "0": "Activo"
+    },
+    "OptionSetIsBooleanValued": false,
+    "OptionSetIsGlobal": false,
+    "OptionSetReference": {
+      "OptionSetReferenceItem0": {
+        "OptionSetReferenceColumnName": "statecode",
+        "OptionSetReferenceEntityName": "Asignaciones de valores de lista"
+      }
+    },
+    "OptionSetTypeKey": "StateType",
+    "RelatedColumnInvariantName": "statecode",
+    "RelatedEntityName": "Asignaciones de valores de lista",
+    "Type": "OptionSetInfo"
+  },
+  {
+    "DisplayName": "Razón para el estado (Asignaciones de valores de lista)",
+    "Name": "picklistmapping_statuscode",
+    "OptionSetInfoNameMapping": {
+      "0": "Activo"
+    },
+    "OptionSetIsBooleanValued": false,
+    "OptionSetIsGlobal": false,
+    "OptionSetReference": {
+      "OptionSetReferenceItem0": {
+        "OptionSetReferenceColumnName": "statuscode",
+        "OptionSetReferenceEntityName": "Asignaciones de valores de lista"
+      }
+    },
+    "OptionSetTypeKey": "StatusType",
+    "RelatedColumnInvariantName": "statuscode",
+    "RelatedEntityName": "Asignaciones de valores de lista",
+    "Type": "OptionSetInfo"
+  }
+]

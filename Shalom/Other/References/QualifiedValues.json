@@ -1,0 +1,14 @@
+{
+  "QualifiedValues": [
+    {
+      "Kind": "default.cds_activitypointer_forms",
+      "Namespace": "Actividades (Formularios)",
+      "Values": {}
+    },
+    {
+      "Kind": "default.cds_picklistmapping_forms",
+      "Namespace": "Asignaciones de valores de lista (Formularios)",
+      "Values": {}
+    }
+  ]
+}
