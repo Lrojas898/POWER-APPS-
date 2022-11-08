@@ -2024,19 +2024,19 @@
             {
               "logicalLocations": [
                 {
-                  "fullyQualifiedName": "APUESTA_GRUPO_A.TextInput3.AccessibleLabel"
+                  "fullyQualifiedName": "APUESTA_GRUPO_A.LabelQatar1.AccessibleLabel"
                 }
               ],
               "physicalLocation": {
                 "address": {
-                  "fullyQualifiedName": "APUESTA_GRUPO_A.TextInput3.AccessibleLabel",
+                  "fullyQualifiedName": "APUESTA_GRUPO_A.LabelQatar1.AccessibleLabel",
                   "relativeAddress": 0
                 }
               },
               "properties": {
                 "member": "AccessibleLabel",
                 "module": "APUESTA_GRUPO_A",
-                "type": "APUESTA_GRUPO_A.TextInput3"
+                "type": "APUESTA_GRUPO_A.LabelQatar1"
               }
             }
           ],
