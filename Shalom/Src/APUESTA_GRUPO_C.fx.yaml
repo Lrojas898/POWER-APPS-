@@ -10,6 +10,7 @@ APUESTA_GRUPO_C As screen:
         FocusedBorderThickness: =4
         Height: =116
         HoverFill: =RGBA(0, 120, 212, 1)
+        OnSelect: =Back(Transition)
         PressedFill: =RGBA(0, 120, 212, 1)
         Width: =640
         ZIndex: =1
@@ -985,6 +986,7 @@ APUESTA_GRUPO_C As screen:
         HoverColor: =ColorFade(RGBA(0, 120, 212, 1), -30%)
         HoverFill: =RGBA(0, 0, 0, 0)
         Icon: =Icon.ArrowLeft
+        OnSelect: =Back(Transition)
         PressedBorderColor: =RGBA(0, 0, 0, 0)
         PressedColor: =ColorFade(RGBA(0, 120, 212, 1), -30%)
         PressedFill: =RGBA(0, 0, 0, 0)
