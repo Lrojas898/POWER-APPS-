@@ -89,29 +89,7 @@ INICIO As screen:
         Y: =47
         ZIndex: =6
 
-    contraseña As label:
-        BorderColor: =RGBA(0, 0, 0, 0)
-        BorderStyle: =BorderStyle.None
-        Color: =RGBA(102, 102, 102, 1)
-        DisabledBorderColor: =RGBA(0, 0, 0, 0)
-        DisabledColor: =RGBA(166, 166, 166, 1)
-        FocusedBorderThickness: =4
-        Height: =21
-        LineHeight: =1.210227
-        PaddingBottom: =0
-        PaddingLeft: =0
-        PaddingRight: =0
-        PaddingTop: =0
-        Size: =15
-        Text: |-
-            ="Contraseña:"
-        VerticalAlign: =VerticalAlign.Bottom
-        Width: =160
-        X: =60
-        Y: =750
-        ZIndex: =7
-
-    Contraseña As text:
+    "'Contraseña input' As text":
         BorderColor: =RGBA(166, 166, 166, 1)
         BorderThickness: =2
         Color: =RGBA(51, 51, 51, 1)
@@ -152,7 +130,8 @@ INICIO As screen:
         HoverBorderColor: =RGBA(0, 0, 0, 0)
         HoverColor: =RGBA(255, 255, 255, 1)
         HoverFill: =ColorFade(RGBA(0, 120, 212, 1), -10%)
-        OnSelect: =Navigate(INICIO)
+        OnSelect: |
+            =If(!IsBlank(LookUp('Usuarios de Shalom bet', Usuarios='Usuario input'And contraseña='Contraseña input').'Usuarios',Navigate(INICIO)
         PressedBorderColor: =ColorFade(RGBA(0, 120, 212, 1), -50%)
         PressedColor: =RGBA(255, 255, 255, 1)
         PressedFill: =ColorFade(RGBA(0, 120, 212, 1), -30%)
@@ -188,7 +167,7 @@ INICIO As screen:
         Y: =608
         ZIndex: =10
 
-    Usuario As text:
+    "'Usuario input' As text":
         BorderColor: =RGBA(166, 166, 166, 1)
         BorderThickness: =2
         Color: =RGBA(51, 51, 51, 1)
