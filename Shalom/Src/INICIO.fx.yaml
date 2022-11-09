@@ -93,7 +93,7 @@ INICIO As screen:
         BorderColor: =RGBA(166, 166, 166, 1)
         BorderThickness: =2
         Color: =RGBA(51, 51, 51, 1)
-        Default: =""
+        Default: ="Contraseña"
         DisabledBorderColor: =RGBA(0, 0, 0, 0)
         DisabledColor: =RGBA(166, 166, 166, 1)
         DisabledFill: =RGBA(244, 244, 244, 1)
@@ -107,10 +107,10 @@ INICIO As screen:
         PressedBorderColor: =RGBA(0, 120, 212, 1)
         PressedColor: =RGBA(51, 51, 51, 1)
         PressedFill: =RGBA(255, 255, 255, 1)
-        RadiusBottomLeft: =0
-        RadiusBottomRight: =0
-        RadiusTopLeft: =0
-        RadiusTopRight: =0
+        RadiusBottomLeft: =25
+        RadiusBottomRight: =25
+        RadiusTopLeft: =25
+        RadiusTopRight: =25
         Size: =21
         Width: =498
         X: =60
@@ -131,7 +131,7 @@ INICIO As screen:
         HoverColor: =RGBA(255, 255, 255, 1)
         HoverFill: =ColorFade(RGBA(0, 120, 212, 1), -10%)
         OnSelect: |
-            =If(!IsBlank(LookUp('Usuarios de Shalom bet', Usuarios='Usuario input'And contraseña='Contraseña input').'Usuarios',Navigate(INICIO)
+            =If(!IsBlank(LookUp('Usuarios de Shalom bet', Usuarios='Usuario input' And Contraseña='Contraseña input'). Usuarios),Navigate(INICIO), Reset('Usuario input'), Reset('Contraseña input')
         PressedBorderColor: =ColorFade(RGBA(0, 120, 212, 1), -50%)
         PressedColor: =RGBA(255, 255, 255, 1)
         PressedFill: =ColorFade(RGBA(0, 120, 212, 1), -30%)
@@ -146,7 +146,7 @@ INICIO As screen:
         Y: =923
         ZIndex: =9
 
-    usuario As label:
+    contraseña As label:
         BorderColor: =RGBA(0, 0, 0, 0)
         BorderStyle: =BorderStyle.None
         Color: =RGBA(102, 102, 102, 1)
@@ -160,11 +160,11 @@ INICIO As screen:
         PaddingRight: =0
         PaddingTop: =0
         Size: =15
-        Text: ="Usuario"
+        Text: ="Contraseña"
         VerticalAlign: =VerticalAlign.Bottom
         Width: =160
-        X: =60
-        Y: =608
+        X: =80
+        Y: =768
         ZIndex: =10
 
     "'Usuario input' As text":
@@ -184,10 +184,10 @@ INICIO As screen:
         PressedBorderColor: =RGBA(0, 120, 212, 1)
         PressedColor: =RGBA(51, 51, 51, 1)
         PressedFill: =RGBA(255, 255, 255, 1)
-        RadiusBottomLeft: =0
-        RadiusBottomRight: =0
-        RadiusTopLeft: =0
-        RadiusTopRight: =0
+        RadiusBottomLeft: =25
+        RadiusBottomRight: =25
+        RadiusTopLeft: =25
+        RadiusTopRight: =25
         Size: =21
         Width: =498
         X: =60
@@ -291,4 +291,25 @@ INICIO As screen:
         X: =208
         Y: =47
         ZIndex: =15
+
+    usuario_1 As label:
+        BorderColor: =RGBA(0, 0, 0, 0)
+        BorderStyle: =BorderStyle.None
+        Color: =RGBA(102, 102, 102, 1)
+        DisabledBorderColor: =RGBA(0, 0, 0, 0)
+        DisabledColor: =RGBA(166, 166, 166, 1)
+        FocusedBorderThickness: =4
+        Height: =21
+        LineHeight: =1.210227
+        PaddingBottom: =0
+        PaddingLeft: =0
+        PaddingRight: =0
+        PaddingTop: =0
+        Size: =15
+        Text: ="Usuario"
+        VerticalAlign: =VerticalAlign.Bottom
+        Width: =160
+        X: =80
+        Y: =628
+        ZIndex: =16
 
