@@ -38,7 +38,7 @@
     "DatasetName": "https://icesiedu-my.sharepoint.com/personal/1080040897_u_icesi_edu_co",
     "EncodeDataset": true,
     "IsSampleData": false,
-    "IsWritable": false,
+    "IsWritable": true,
     "Name": "Users",
     "Type": "ConnectedDataSourceInfo"
   }
