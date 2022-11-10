@@ -134,6 +134,7 @@ SINGINNEWUSER As screen:
     Form1 As form:
         BorderColor: =RGBA(166, 166, 166, 1)
         DataSource: =Table1
+        Height: =980
         Width: =640
         Y: =40
         ZIndex: =50
@@ -152,7 +153,7 @@ SINGINNEWUSER As screen:
             Update: =DataCardValue1.Text
             Width: =640
             X: =0
-            Y: =0
+            Y: =4
             ZIndex: =1
 
             DataCardKey1 As label:
@@ -268,7 +269,7 @@ SINGINNEWUSER As screen:
             Update: =DataCardValue2.Text
             Width: =640
             X: =0
-            Y: =1
+            Y: =2
             ZIndex: =1
 
             DataCardKey2 As label:
@@ -384,7 +385,7 @@ SINGINNEWUSER As screen:
             Update: =DataCardValue3.Text
             Width: =640
             X: =0
-            Y: =2
+            Y: =1
             ZIndex: =1
 
             DataCardKey3 As label:
@@ -616,7 +617,7 @@ SINGINNEWUSER As screen:
             Update: =DataCardValue5.Text
             Width: =640
             X: =0
-            Y: =4
+            Y: =5
             ZIndex: =1
 
             DataCardKey5 As label:
@@ -732,7 +733,7 @@ SINGINNEWUSER As screen:
             Update: =DataCardValue6.Text
             Width: =640
             X: =0
-            Y: =5
+            Y: =0
             ZIndex: =1
 
             DataCardKey6 As label:
