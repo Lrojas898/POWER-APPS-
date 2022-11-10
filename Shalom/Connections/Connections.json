@@ -1,4 +1,29 @@
 {
+  "365dcfbf-553b-407d-a567-23f3e8bdfc4d": {
+    "connectionParameters": {
+      "sku": "Enterprise"
+    },
+    "connectionRef": {
+      "displayName": "SharePoint",
+      "iconUri": "https://connectoricons-prod.azureedge.net/releases/v1.0.1610-greyhound-localization-RelayFix/1.0.1610.3091/sharepointonline/icon.png",
+      "id": "/providers/microsoft.powerapps/apis/shared_sharepointonline"
+    },
+    "datasets": {
+      "https://icesiedu-my.sharepoint.com/personal/1080040897_u_icesi_edu_co": {
+        "dataSources": {
+          "Users": {
+            "tableName": "772e51d8-ebe3-41fc-9f15-ee75190af5a8"
+          }
+        }
+      }
+    },
+    "dataSources": [
+      "Users"
+    ],
+    "dependencies": {},
+    "dependents": [],
+    "id": "365dcfbf-553b-407d-a567-23f3e8bdfc4d"
+  },
   "86339610-381e-46bc-aee5-dff1f22d06d1": {
     "connectionParameters": {
       "sku": "Enterprise"
