@@ -22574,49 +22574,19 @@
             {
               "logicalLocations": [
                 {
-                  "fullyQualifiedName": "INICIO.usuario_1.TabIndex"
+                  "fullyQualifiedName": "INICIO.Userinput.AccessibleLabel"
                 }
               ],
               "physicalLocation": {
                 "address": {
-                  "fullyQualifiedName": "INICIO.usuario_1.TabIndex",
-                  "relativeAddress": 0
-                }
-              },
-              "properties": {
-                "member": "TabIndex",
-                "module": "INICIO",
-                "type": "INICIO.usuario_1"
-              }
-            }
-          ],
-          "message": {
-            "id": "issue"
-          },
-          "properties": {
-            "level": "Medium"
-          },
-          "ruleId": "acc-TabIndexShouldBeDefinedForInteractiveControl",
-          "ruleIndex": 0
-        },
-        {
-          "locations": [
-            {
-              "logicalLocations": [
-                {
-                  "fullyQualifiedName": "INICIO.UsuarioInput.AccessibleLabel"
-                }
-              ],
-              "physicalLocation": {
-                "address": {
-                  "fullyQualifiedName": "INICIO.UsuarioInput.AccessibleLabel",
+                  "fullyQualifiedName": "INICIO.Userinput.AccessibleLabel",
                   "relativeAddress": 0
                 }
               },
               "properties": {
                 "member": "AccessibleLabel",
                 "module": "INICIO",
-                "type": "INICIO.UsuarioInput"
+                "type": "INICIO.Userinput"
               }
             }
           ],
@@ -22634,49 +22604,19 @@
             {
               "logicalLocations": [
                 {
-                  "fullyQualifiedName": "INICIO.contraseña.TabIndex"
+                  "fullyQualifiedName": "INICIO.contrainput.AccessibleLabel"
                 }
               ],
               "physicalLocation": {
                 "address": {
-                  "fullyQualifiedName": "INICIO.contraseña.TabIndex",
-                  "relativeAddress": 0
-                }
-              },
-              "properties": {
-                "member": "TabIndex",
-                "module": "INICIO",
-                "type": "INICIO.contraseña"
-              }
-            }
-          ],
-          "message": {
-            "id": "issue"
-          },
-          "properties": {
-            "level": "Medium"
-          },
-          "ruleId": "acc-TabIndexShouldBeDefinedForInteractiveControl",
-          "ruleIndex": 0
-        },
-        {
-          "locations": [
-            {
-              "logicalLocations": [
-                {
-                  "fullyQualifiedName": "INICIO.'Contraseña input'.AccessibleLabel"
-                }
-              ],
-              "physicalLocation": {
-                "address": {
-                  "fullyQualifiedName": "INICIO.'Contraseña input'.AccessibleLabel",
+                  "fullyQualifiedName": "INICIO.contrainput.AccessibleLabel",
                   "relativeAddress": 0
                 }
               },
               "properties": {
                 "member": "AccessibleLabel",
                 "module": "INICIO",
-                "type": "INICIO.'Contraseña input'"
+                "type": "INICIO.contrainput"
               }
             }
           ],
