@@ -2,6 +2,7 @@ SINGINNEWUSER As screen:
     LoadingSpinnerColor: =RGBA(0, 120, 212, 1)
 
     SigninTitle As label:
+        Align: =Align.Center
         BorderColor: =RGBA(0, 0, 0, 0)
         BorderStyle: =BorderStyle.None
         Color: =RGBA(141, 28, 61, 1)
@@ -19,7 +20,7 @@ SINGINNEWUSER As screen:
         Text: ="Sign-in Information"
         VerticalAlign: =VerticalAlign.Top
         Width: =523
-        X: =26
+        X: =57
         Y: =77
         ZIndex: =19
 
@@ -61,8 +62,8 @@ SINGINNEWUSER As screen:
             Size: =30
             Text: ="Shalom"
             Width: =165
-            X: =61
-            Y: =39
+            X: =63
+            Y: =29
             ZIndex: =34
 
         shalombet_5 As label:
@@ -82,8 +83,8 @@ SINGINNEWUSER As screen:
             Size: =30
             Text: ="Bet!"
             Width: =165
-            X: =213
-            Y: =39
+            X: =217
+            Y: =29
             ZIndex: =35
 
         Icon3_1 As icon.Home:
