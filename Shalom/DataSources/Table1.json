@@ -9,6 +9,7 @@
     "ConnectedDataSourceInfoNameMapping": {
       "__PowerAppsId__": "Row id",
       "Apellido": "Apellido",
+      "Columna1": "Columna1",
       "Contraseña": "Contraseña",
       "Email": "Email",
       "ID": "ID",
