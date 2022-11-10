@@ -1,29 +1,4 @@
 {
-  "365dcfbf-553b-407d-a567-23f3e8bdfc4d": {
-    "connectionParameters": {
-      "sku": "Enterprise"
-    },
-    "connectionRef": {
-      "displayName": "SharePoint",
-      "iconUri": "https://connectoricons-prod.azureedge.net/releases/v1.0.1610-greyhound-localization-RelayFix/1.0.1610.3091/sharepointonline/icon.png",
-      "id": "/providers/microsoft.powerapps/apis/shared_sharepointonline"
-    },
-    "datasets": {
-      "https://icesiedu-my.sharepoint.com/personal/1080040897_u_icesi_edu_co": {
-        "dataSources": {
-          "Users": {
-            "tableName": "772e51d8-ebe3-41fc-9f15-ee75190af5a8"
-          }
-        }
-      }
-    },
-    "dataSources": [
-      "Users"
-    ],
-    "dependencies": {},
-    "dependents": [],
-    "id": "365dcfbf-553b-407d-a567-23f3e8bdfc4d"
-  },
   "86339610-381e-46bc-aee5-dff1f22d06d1": {
     "connectionParameters": {
       "sku": "Enterprise"
@@ -67,6 +42,31 @@
       "86339610-381e-46bc-aee5-dff1f22d06d1"
     ],
     "id": "de7e7649-6084-4d7a-a2d3-4d2d9fcd30ea"
+  },
+  "e4727618-6dfa-429e-ba17-3fbf27494ec5": {
+    "connectionParameters": {
+      "sku": "Enterprise"
+    },
+    "connectionRef": {
+      "displayName": "SharePoint",
+      "iconUri": "https://connectoricons-prod.azureedge.net/releases/v1.0.1610-greyhound-localization-RelayFix/1.0.1610.3091/sharepointonline/icon.png",
+      "id": "/providers/microsoft.powerapps/apis/shared_sharepointonline"
+    },
+    "datasets": {
+      "https://icesiedu-my.sharepoint.com/personal/1080040897_u_icesi_edu_co": {
+        "dataSources": {
+          "Users": {
+            "tableName": "772e51d8-ebe3-41fc-9f15-ee75190af5a8"
+          }
+        }
+      }
+    },
+    "dataSources": [
+      "Users"
+    ],
+    "dependencies": {},
+    "dependents": [],
+    "id": "e4727618-6dfa-429e-ba17-3fbf27494ec5"
   },
   "fc9f8153-7379-420a-a728-e78396a7ab29": {
     "connectionParameters": {

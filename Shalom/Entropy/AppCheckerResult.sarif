@@ -104,6 +104,46 @@
                   "relativeAddress": 0
                 },
                 "region": {
+                  "charLength": 10,
+                  "charOffset": 47,
+                  "snippet": {
+                    "text": "Contraseña"
+                  }
+                }
+              },
+              "properties": {
+                "member": "OnSelect",
+                "module": "INICIO",
+                "type": "INICIO.LogIn"
+              }
+            }
+          ],
+          "message": {
+            "arguments": [
+              "Contraseña"
+            ],
+            "id": "issue"
+          },
+          "properties": {
+            "level": "High"
+          },
+          "ruleId": "app-ErrInvalidName",
+          "ruleIndex": 2
+        },
+        {
+          "locations": [
+            {
+              "logicalLocations": [
+                {
+                  "fullyQualifiedName": "INICIO.LogIn.OnSelect"
+                }
+              ],
+              "physicalLocation": {
+                "address": {
+                  "fullyQualifiedName": "INICIO.LogIn.OnSelect",
+                  "relativeAddress": 0
+                },
+                "region": {
                   "charLength": 1,
                   "charOffset": 57,
                   "snippet": {
@@ -120,7 +160,7 @@
           ],
           "message": {
             "arguments": [
-              "Text",
+              "Error",
               "Control"
             ],
             "id": "issue"
@@ -170,7 +210,7 @@
             "level": "High"
           },
           "ruleId": "app-ErrBadArity",
-          "ruleIndex": 2
+          "ruleIndex": 3
         },
         {
           "locations": [
@@ -211,86 +251,6 @@
             "level": "High"
           },
           "ruleId": "app-ErrBadArityMinimum",
-          "ruleIndex": 3
-        },
-        {
-          "locations": [
-            {
-              "logicalLocations": [
-                {
-                  "fullyQualifiedName": "SINGINNEWUSER.SubmitSignIn_1.OnSelect"
-                }
-              ],
-              "physicalLocation": {
-                "address": {
-                  "fullyQualifiedName": "SINGINNEWUSER.SubmitSignIn_1.OnSelect",
-                  "relativeAddress": 0
-                },
-                "region": {
-                  "charLength": 5,
-                  "charOffset": 8,
-                  "snippet": {
-                    "text": "Form1"
-                  }
-                }
-              },
-              "properties": {
-                "member": "OnSelect",
-                "module": "SINGINNEWUSER",
-                "type": "SINGINNEWUSER.SubmitSignIn_1"
-              }
-            }
-          ],
-          "message": {
-            "arguments": [
-              "Form1"
-            ],
-            "id": "issue"
-          },
-          "properties": {
-            "level": "High"
-          },
-          "ruleId": "app-ErrInvalidName",
-          "ruleIndex": 4
-        },
-        {
-          "locations": [
-            {
-              "logicalLocations": [
-                {
-                  "fullyQualifiedName": "SINGINNEWUSER.SubmitSignIn.OnSelect"
-                }
-              ],
-              "physicalLocation": {
-                "address": {
-                  "fullyQualifiedName": "SINGINNEWUSER.SubmitSignIn.OnSelect",
-                  "relativeAddress": 0
-                },
-                "region": {
-                  "charLength": 5,
-                  "charOffset": 11,
-                  "snippet": {
-                    "text": "Form1"
-                  }
-                }
-              },
-              "properties": {
-                "member": "OnSelect",
-                "module": "SINGINNEWUSER",
-                "type": "SINGINNEWUSER.SubmitSignIn"
-              }
-            }
-          ],
-          "message": {
-            "arguments": [
-              "Form1"
-            ],
-            "id": "issue"
-          },
-          "properties": {
-            "level": "High"
-          },
-          "ruleId": "app-ErrInvalidName",
           "ruleIndex": 4
         },
         {
@@ -5411,6 +5371,126 @@
                 "member": "AccessibleLabel",
                 "module": "RECOVER PASSWORD",
                 "type": "'RECOVER PASSWORD'.email"
+              }
+            }
+          ],
+          "message": {
+            "id": "issue"
+          },
+          "properties": {
+            "level": "Medium"
+          },
+          "ruleId": "acc-AccessibleLabelNeeded",
+          "ruleIndex": 5
+        },
+        {
+          "locations": [
+            {
+              "logicalLocations": [
+                {
+                  "fullyQualifiedName": "SINGINNEWUSER.Form2.Title_DataCard2.DataCardValue5.AccessibleLabel"
+                }
+              ],
+              "physicalLocation": {
+                "address": {
+                  "fullyQualifiedName": "SINGINNEWUSER.Form2.Title_DataCard2.DataCardValue5.AccessibleLabel",
+                  "relativeAddress": 0
+                }
+              },
+              "properties": {
+                "member": "AccessibleLabel",
+                "module": "SINGINNEWUSER",
+                "type": "SINGINNEWUSER.Form2.Title_DataCard2.DataCardValue5"
+              }
+            }
+          ],
+          "message": {
+            "id": "issue"
+          },
+          "properties": {
+            "level": "Medium"
+          },
+          "ruleId": "acc-AccessibleLabelNeeded",
+          "ruleIndex": 5
+        },
+        {
+          "locations": [
+            {
+              "logicalLocations": [
+                {
+                  "fullyQualifiedName": "SINGINNEWUSER.Form2.User_DataCard2.DataCardValue6.AccessibleLabel"
+                }
+              ],
+              "physicalLocation": {
+                "address": {
+                  "fullyQualifiedName": "SINGINNEWUSER.Form2.User_DataCard2.DataCardValue6.AccessibleLabel",
+                  "relativeAddress": 0
+                }
+              },
+              "properties": {
+                "member": "AccessibleLabel",
+                "module": "SINGINNEWUSER",
+                "type": "SINGINNEWUSER.Form2.User_DataCard2.DataCardValue6"
+              }
+            }
+          ],
+          "message": {
+            "id": "issue"
+          },
+          "properties": {
+            "level": "Medium"
+          },
+          "ruleId": "acc-AccessibleLabelNeeded",
+          "ruleIndex": 5
+        },
+        {
+          "locations": [
+            {
+              "logicalLocations": [
+                {
+                  "fullyQualifiedName": "SINGINNEWUSER.Form2.Contrasena_DataCard1.DataCardValue7.AccessibleLabel"
+                }
+              ],
+              "physicalLocation": {
+                "address": {
+                  "fullyQualifiedName": "SINGINNEWUSER.Form2.Contrasena_DataCard1.DataCardValue7.AccessibleLabel",
+                  "relativeAddress": 0
+                }
+              },
+              "properties": {
+                "member": "AccessibleLabel",
+                "module": "SINGINNEWUSER",
+                "type": "SINGINNEWUSER.Form2.Contrasena_DataCard1.DataCardValue7"
+              }
+            }
+          ],
+          "message": {
+            "id": "issue"
+          },
+          "properties": {
+            "level": "Medium"
+          },
+          "ruleId": "acc-AccessibleLabelNeeded",
+          "ruleIndex": 5
+        },
+        {
+          "locations": [
+            {
+              "logicalLocations": [
+                {
+                  "fullyQualifiedName": "SINGINNEWUSER.Form2.'Datos adjuntos_DataCard2'.DataCardValue8.AccessibleLabel"
+                }
+              ],
+              "physicalLocation": {
+                "address": {
+                  "fullyQualifiedName": "SINGINNEWUSER.Form2.'Datos adjuntos_DataCard2'.DataCardValue8.AccessibleLabel",
+                  "relativeAddress": 0
+                }
+              },
+              "properties": {
+                "member": "AccessibleLabel",
+                "module": "SINGINNEWUSER",
+                "type": "SINGINNEWUSER.Form2.'Datos adjuntos_DataCard2'.DataCardValue8"
               }
             }
           ],
@@ -24245,6 +24325,23 @@
               }
             },
             {
+              "id": "app-ErrInvalidName",
+              "messageStrings": {
+                "issue": {
+                  "text": "Name isn't valid. '{0}' isn't recognized."
+                }
+              },
+              "properties": {
+                "componentType": "app",
+                "howToFix": [
+                  "Remove or correct the reference to the name that isn't valid."
+                ],
+                "level": "High",
+                "primaryCategory": "formula",
+                "whyFix": ""
+              }
+            },
+            {
               "id": "app-ErrBadArity",
               "messageStrings": {
                 "issue": {
@@ -24267,23 +24364,6 @@
               },
               "properties": {
                 "componentType": "app",
-                "level": "High",
-                "primaryCategory": "formula",
-                "whyFix": ""
-              }
-            },
-            {
-              "id": "app-ErrInvalidName",
-              "messageStrings": {
-                "issue": {
-                  "text": "Name isn't valid. '{0}' isn't recognized."
-                }
-              },
-              "properties": {
-                "componentType": "app",
-                "howToFix": [
-                  "Remove or correct the reference to the name that isn't valid."
-                ],
                 "level": "High",
                 "primaryCategory": "formula",
                 "whyFix": ""
