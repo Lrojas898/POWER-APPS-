@@ -16,9 +16,8 @@ SINGINNEWUSER As screen:
         PaddingLeft: =0
         PaddingRight: =0
         PaddingTop: =0
-        Size: =30
+        Size: =20
         Text: ="Sign-in Information"
-        VerticalAlign: =VerticalAlign.Top
         Width: =523
         X: =57
         Y: =77
