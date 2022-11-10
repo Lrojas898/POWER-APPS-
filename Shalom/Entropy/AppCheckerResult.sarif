@@ -23744,6 +23744,36 @@
             {
               "logicalLocations": [
                 {
+                  "fullyQualifiedName": "App.ingl"
+                }
+              ],
+              "physicalLocation": {
+                "address": {
+                  "fullyQualifiedName": "App.ingl",
+                  "relativeAddress": 0
+                }
+              },
+              "properties": {
+                "member": "ingl",
+                "module": "App",
+                "type": "App"
+              }
+            }
+          ],
+          "message": {
+            "id": "issue"
+          },
+          "properties": {
+            "level": "Medium"
+          },
+          "ruleId": "app-UnusedMediaResources",
+          "ruleIndex": 2
+        },
+        {
+          "locations": [
+            {
+              "logicalLocations": [
+                {
                   "fullyQualifiedName": "App.túnez"
                 }
               ],
@@ -23755,6 +23785,36 @@
               },
               "properties": {
                 "member": "túnez",
+                "module": "App",
+                "type": "App"
+              }
+            }
+          ],
+          "message": {
+            "id": "issue"
+          },
+          "properties": {
+            "level": "Medium"
+          },
+          "ruleId": "app-UnusedMediaResources",
+          "ruleIndex": 2
+        },
+        {
+          "locations": [
+            {
+              "logicalLocations": [
+                {
+                  "fullyQualifiedName": "App.Bandera-de-Inglaterra_1"
+                }
+              ],
+              "physicalLocation": {
+                "address": {
+                  "fullyQualifiedName": "App.Bandera-de-Inglaterra_1",
+                  "relativeAddress": 0
+                }
+              },
+              "properties": {
+                "member": "Bandera-de-Inglaterra_1",
                 "module": "App",
                 "type": "App"
               }
