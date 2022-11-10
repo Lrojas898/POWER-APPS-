@@ -1,0 +1,26 @@
+[
+  {
+    "ApiId": "/providers/microsoft.powerapps/apis/shared_excel",
+    "CdpRevision": {
+      "BaseUrl": "/",
+      "LastChangedTimeString": "2022-09-26T19:44:16.4010000Z",
+      "RevisionNumber": 1
+    },
+    "ConnectedDataSourceInfoNameMapping": {
+      "__PowerAppsId__": "Row id",
+      "Apellido": "Apellido",
+      "Contraseña": "Contraseña",
+      "Email": "Email",
+      "ID": "ID",
+      "Nombre": "Nombre",
+      "Telefono": "Telefono",
+      "Usuario": "Usuario"
+    },
+    "DatasetName": "b!a1xa3RSSfU6ruxcJHjJatB0Gfd-GMXdOrAhQBlPQv2HmA8JJUQBLT71_K2-rM4CE.013FRY3XEK3CIBWCAHQNF3EBB7RGM34SPM",
+    "EncodeDataset": true,
+    "IsSampleData": false,
+    "IsWritable": true,
+    "Name": "Table1",
+    "Type": "ConnectedDataSourceInfo"
+  }
+]
