@@ -26,31 +26,6 @@
     "dependents": [],
     "id": "86339610-381e-46bc-aee5-dff1f22d06d1"
   },
-  "8a915946-3a86-4882-af4c-4af9a2e9d461": {
-    "connectionParameters": {
-      "sku": "Enterprise"
-    },
-    "connectionRef": {
-      "displayName": "SharePoint",
-      "iconUri": "https://connectoricons-prod.azureedge.net/releases/v1.0.1607/1.0.1607.3068/sharepointonline/icon.png",
-      "id": "/providers/microsoft.powerapps/apis/shared_sharepointonline"
-    },
-    "datasets": {
-      "https://icesiedu-my.sharepoint.com/personal/1080040897_u_icesi_edu_co": {
-        "dataSources": {
-          "Usuarios de Shalom bet": {
-            "tableName": "2a91a4f6-1677-46de-b0c6-83f163a192bb"
-          }
-        }
-      }
-    },
-    "dataSources": [
-      "Usuarios de Shalom bet"
-    ],
-    "dependencies": {},
-    "dependents": [],
-    "id": "8a915946-3a86-4882-af4c-4af9a2e9d461"
-  },
   "de7e7649-6084-4d7a-a2d3-4d2d9fcd30ea": {
     "connectionParameters": {
       "sku": "Enterprise"
