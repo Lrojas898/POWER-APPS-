@@ -122,7 +122,7 @@ SINGINNEWUSER As screen:
         HoverColor: =RGBA(255, 255, 255, 1)
         HoverFill: =ColorFade(RGBA(0, 120, 212, 1), -10%)
         OnSelect: |+
-            =SubmitForm(Form2)
+            =SubmitForm(SinInForm)
             
         PressedBorderColor: =ColorFade(RGBA(0, 120, 212, 1), -50%)
         PressedColor: =RGBA(255, 255, 255, 1)
@@ -151,7 +151,7 @@ SINGINNEWUSER As screen:
         HoverBorderColor: =RGBA(0, 0, 0, 0)
         HoverColor: =RGBA(255, 255, 255, 1)
         HoverFill: =ColorFade(RGBA(0, 120, 212, 1), -10%)
-        OnSelect: =NewForm(Form2)
+        OnSelect: =NewForm(SinInForm)
         PressedBorderColor: =ColorFade(RGBA(0, 120, 212, 1), -50%)
         PressedColor: =RGBA(255, 255, 255, 1)
         PressedFill: =ColorFade(RGBA(0, 120, 212, 1), -30%)
@@ -166,7 +166,7 @@ SINGINNEWUSER As screen:
         Y: =1065
         ZIndex: =51
 
-    Form2 As form:
+    SinInForm As form:
         BorderColor: =RGBA(166, 166, 166, 1)
         DataSource: =Users
         Height: =574
