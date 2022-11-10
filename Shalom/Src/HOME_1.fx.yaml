@@ -28,7 +28,7 @@ HOME_1 As screen:
         Width: =566
         X: =38
         Y: =541
-        ZIndex: =17
+        ZIndex: =2
 
     Rectangle411254 As rectangle:
         BorderColor: =RGBA(0, 0, 0, 0)
@@ -43,7 +43,7 @@ HOME_1 As screen:
         Width: =62
         X: =54
         Y: =558
-        ZIndex: =19
+        ZIndex: =3
 
     Label411256 As label:
         BorderColor: =RGBA(0, 0, 0, 0)
@@ -65,7 +65,7 @@ HOME_1 As screen:
         Width: =143
         X: =137
         Y: =561
-        ZIndex: =20
+        ZIndex: =4
 
     Label411257 As label:
         Align: =Align.Right
@@ -88,7 +88,7 @@ HOME_1 As screen:
         Width: =155
         X: =400
         Y: =561
-        ZIndex: =21
+        ZIndex: =5
 
     Label411258 As label:
         BorderColor: =RGBA(0, 0, 0, 0)
@@ -110,7 +110,7 @@ HOME_1 As screen:
         Width: =128
         X: =137
         Y: =588
-        ZIndex: =22
+        ZIndex: =6
 
     Label411259 As label:
         Align: =Align.Right
@@ -133,104 +133,7 @@ HOME_1 As screen:
         Width: =113
         X: =442
         Y: =592
-        ZIndex: =23
-
-    Label411279 As label:
-        BorderColor: =RGBA(0, 0, 0, 0)
-        BorderStyle: =BorderStyle.None
-        Color: =RGBA(141, 28, 61, 1)
-        DisabledBorderColor: =RGBA(0, 0, 0, 0)
-        DisabledColor: =RGBA(166, 166, 166, 1)
-        FocusedBorderThickness: =4
-        FontWeight: =FontWeight.Bold
-        Height: =15
-        LineHeight: =1.210227
-        PaddingBottom: =0
-        PaddingLeft: =0
-        PaddingRight: =0
-        PaddingTop: =0
-        Size: =9
-        Text: ="Mi Perfil"
-        VerticalAlign: =VerticalAlign.Top
-        Width: =84
-        X: =78.4058227539063
-        Y: =154.709716796875
-        ZIndex: =38
-
-    Image411283 As image:
-        BorderColor: =RGBA(0, 0, 0, 0)
-        BorderStyle: =BorderStyle.None
-        BorderThickness: =2
-        DisabledBorderColor: =RGBA(0, 0, 0, 0)
-        DisabledFill: =RGBA(0, 0, 0, 0)
-        FocusedBorderThickness: =4
-        Height: =16.5684204101563
-        HoverBorderColor: =RGBA(0, 0, 0, 0)
-        HoverFill: =RGBA(0, 0, 0, 0)
-        Image: =image411283
-        PressedBorderColor: =RGBA(0, 0, 0, 0)
-        PressedFill: =RGBA(0, 0, 0, 0)
-        Width: =1.74948310852051
-        X: =238.057006835938
-        Y: =160.381286621094
-        ZIndex: =39
-
-    Image411284 As image:
-        BorderColor: =RGBA(0, 0, 0, 0)
-        BorderStyle: =BorderStyle.None
-        BorderThickness: =2
-        DisabledBorderColor: =RGBA(0, 0, 0, 0)
-        DisabledFill: =RGBA(0, 0, 0, 0)
-        FocusedBorderThickness: =4
-        Height: =26.5094604492188
-        HoverBorderColor: =RGBA(0, 0, 0, 0)
-        HoverFill: =RGBA(0, 0, 0, 0)
-        Image: =image411284
-        PressedBorderColor: =RGBA(0, 0, 0, 0)
-        PressedFill: =RGBA(0, 0, 0, 0)
-        Width: =1.74948310852051
-        X: =227.559982299805
-        Y: =150.440246582031
-        ZIndex: =40
-
-    Image411285 As image:
-        BorderColor: =RGBA(0, 0, 0, 0)
-        BorderStyle: =BorderStyle.None
-        BorderThickness: =2
-        DisabledBorderColor: =RGBA(0, 0, 0, 0)
-        DisabledFill: =RGBA(0, 0, 0, 0)
-        FocusedBorderThickness: =4
-        Height: =9.9410400390625
-        HoverBorderColor: =RGBA(0, 0, 0, 0)
-        HoverFill: =RGBA(0, 0, 0, 0)
-        Image: =image411285
-        PressedBorderColor: =RGBA(0, 0, 0, 0)
-        PressedFill: =RGBA(0, 0, 0, 0)
-        Width: =1.74948120117188
-        X: =217.063110351563
-        Y: =167.008666992188
-        ZIndex: =41
-
-    Label411287 As label:
-        BorderColor: =RGBA(0, 0, 0, 0)
-        BorderStyle: =BorderStyle.None
-        Color: =RGBA(141, 28, 61, 1)
-        DisabledBorderColor: =RGBA(0, 0, 0, 0)
-        DisabledColor: =RGBA(166, 166, 166, 1)
-        FocusedBorderThickness: =4
-        Height: =15
-        LineHeight: =1.210227
-        PaddingBottom: =0
-        PaddingLeft: =0
-        PaddingRight: =0
-        PaddingTop: =0
-        Size: =9
-        Text: ="Nueva Apuesta"
-        VerticalAlign: =VerticalAlign.Top
-        Width: =111.25772857666
-        X: =253
-        Y: =155.104125976563
-        ZIndex: =42
+        ZIndex: =7
 
     Label411290 As label:
         BorderColor: =RGBA(0, 0, 0, 0)
@@ -251,7 +154,7 @@ HOME_1 As screen:
         Width: =185
         X: =31
         Y: =97
-        ZIndex: =43
+        ZIndex: =8
 
     Label411291 As label:
         BorderColor: =RGBA(0, 0, 0, 0)
@@ -271,9 +174,9 @@ HOME_1 As screen:
         Text: ="Puntos Totales"
         VerticalAlign: =VerticalAlign.Top
         Width: =232
-        X: =33
-        Y: =151
-        ZIndex: =44
+        X: =38
+        Y: =154
+        ZIndex: =9
 
     Label411297 As label:
         Align: =Align.Center
@@ -295,7 +198,7 @@ HOME_1 As screen:
         Width: =267
         X: =186
         Y: =29
-        ZIndex: =45
+        ZIndex: =10
 
     Button3 As button:
         Align: =Align.Right
@@ -327,7 +230,7 @@ HOME_1 As screen:
         Width: =252
         X: =352
         Y: =191
-        ZIndex: =46
+        ZIndex: =11
 
     Icon4 As icon.Money:
         BorderColor: =RGBA(166, 166, 166, 1)
@@ -345,7 +248,7 @@ HOME_1 As screen:
         PressedFill: =RGBA(0, 0, 0, 0)
         X: =379
         Y: =208
-        ZIndex: =48
+        ZIndex: =13
 
     Icon7 As icon.Leave:
         BorderColor: =RGBA(166, 166, 166, 1)
@@ -365,7 +268,7 @@ HOME_1 As screen:
         Width: =46
         X: =558
         Y: =29
-        ZIndex: =50
+        ZIndex: =15
 
     Icon8 As icon.Reload:
         BorderColor: =RGBA(166, 166, 166, 1)
@@ -385,7 +288,7 @@ HOME_1 As screen:
         Width: =46
         X: =38
         Y: =30
-        ZIndex: =51
+        ZIndex: =16
 
     Rectangle411251_1 As rectangle:
         BorderColor: =RGBA(0, 0, 0, 0)
@@ -400,7 +303,7 @@ HOME_1 As screen:
         Width: =566
         X: =38
         Y: =654
-        ZIndex: =52
+        ZIndex: =17
 
     Rectangle411254_1 As rectangle:
         BorderColor: =RGBA(0, 0, 0, 0)
@@ -415,7 +318,7 @@ HOME_1 As screen:
         Width: =62
         X: =54
         Y: =671
-        ZIndex: =53
+        ZIndex: =18
 
     Label411256_1 As label:
         BorderColor: =RGBA(0, 0, 0, 0)
@@ -437,7 +340,7 @@ HOME_1 As screen:
         Width: =143
         X: =137
         Y: =674
-        ZIndex: =54
+        ZIndex: =19
 
     Label411257_1 As label:
         Align: =Align.Right
@@ -460,7 +363,7 @@ HOME_1 As screen:
         Width: =155
         X: =400
         Y: =674
-        ZIndex: =55
+        ZIndex: =20
 
     Label411258_1 As label:
         BorderColor: =RGBA(0, 0, 0, 0)
@@ -482,7 +385,7 @@ HOME_1 As screen:
         Width: =128
         X: =137
         Y: =701
-        ZIndex: =56
+        ZIndex: =21
 
     Label411259_1 As label:
         Align: =Align.Right
@@ -505,7 +408,7 @@ HOME_1 As screen:
         Width: =113
         X: =442
         Y: =705
-        ZIndex: =57
+        ZIndex: =22
 
     Rectangle411251_2 As rectangle:
         BorderColor: =RGBA(0, 0, 0, 0)
@@ -520,7 +423,7 @@ HOME_1 As screen:
         Width: =566
         X: =38
         Y: =765
-        ZIndex: =58
+        ZIndex: =23
 
     Rectangle411254_2 As rectangle:
         BorderColor: =RGBA(0, 0, 0, 0)
@@ -535,7 +438,7 @@ HOME_1 As screen:
         Width: =62
         X: =54
         Y: =782
-        ZIndex: =59
+        ZIndex: =24
 
     Label411256_2 As label:
         BorderColor: =RGBA(0, 0, 0, 0)
@@ -557,7 +460,7 @@ HOME_1 As screen:
         Width: =143
         X: =137
         Y: =785
-        ZIndex: =60
+        ZIndex: =25
 
     Label411257_2 As label:
         Align: =Align.Right
@@ -580,7 +483,7 @@ HOME_1 As screen:
         Width: =155
         X: =400
         Y: =785
-        ZIndex: =61
+        ZIndex: =26
 
     Label411258_2 As label:
         BorderColor: =RGBA(0, 0, 0, 0)
@@ -602,7 +505,7 @@ HOME_1 As screen:
         Width: =128
         X: =137
         Y: =812
-        ZIndex: =62
+        ZIndex: =27
 
     Label411259_2 As label:
         Align: =Align.Right
@@ -625,7 +528,7 @@ HOME_1 As screen:
         Width: =113
         X: =442
         Y: =816
-        ZIndex: =63
+        ZIndex: =28
 
     Rectangle411251_3 As rectangle:
         BorderColor: =RGBA(0, 0, 0, 0)
@@ -640,7 +543,7 @@ HOME_1 As screen:
         Width: =566
         X: =38
         Y: =875
-        ZIndex: =64
+        ZIndex: =29
 
     Rectangle411254_3 As rectangle:
         BorderColor: =RGBA(0, 0, 0, 0)
@@ -655,7 +558,7 @@ HOME_1 As screen:
         Width: =62
         X: =54
         Y: =892
-        ZIndex: =65
+        ZIndex: =30
 
     Label411256_3 As label:
         BorderColor: =RGBA(0, 0, 0, 0)
@@ -677,7 +580,7 @@ HOME_1 As screen:
         Width: =143
         X: =137
         Y: =895
-        ZIndex: =66
+        ZIndex: =31
 
     Label411257_3 As label:
         Align: =Align.Right
@@ -700,7 +603,7 @@ HOME_1 As screen:
         Width: =155
         X: =400
         Y: =895
-        ZIndex: =67
+        ZIndex: =32
 
     Label411258_3 As label:
         BorderColor: =RGBA(0, 0, 0, 0)
@@ -722,7 +625,7 @@ HOME_1 As screen:
         Width: =128
         X: =137
         Y: =922
-        ZIndex: =68
+        ZIndex: =33
 
     Label411259_3 As label:
         Align: =Align.Right
@@ -745,7 +648,7 @@ HOME_1 As screen:
         Width: =113
         X: =442
         Y: =926
-        ZIndex: =69
+        ZIndex: =34
 
     Rectangle411251_4 As rectangle:
         BorderColor: =RGBA(0, 0, 0, 0)
@@ -760,7 +663,7 @@ HOME_1 As screen:
         Width: =566
         X: =38
         Y: =995
-        ZIndex: =70
+        ZIndex: =35
 
     Rectangle411254_4 As rectangle:
         BorderColor: =RGBA(0, 0, 0, 0)
@@ -775,7 +678,7 @@ HOME_1 As screen:
         Width: =62
         X: =54
         Y: =1012
-        ZIndex: =71
+        ZIndex: =36
 
     Label411256_4 As label:
         BorderColor: =RGBA(0, 0, 0, 0)
@@ -797,7 +700,7 @@ HOME_1 As screen:
         Width: =143
         X: =137
         Y: =1015
-        ZIndex: =72
+        ZIndex: =37
 
     Label411257_4 As label:
         Align: =Align.Right
@@ -820,7 +723,7 @@ HOME_1 As screen:
         Width: =155
         X: =400
         Y: =1015
-        ZIndex: =73
+        ZIndex: =38
 
     Label411258_4 As label:
         BorderColor: =RGBA(0, 0, 0, 0)
@@ -842,7 +745,7 @@ HOME_1 As screen:
         Width: =128
         X: =137
         Y: =1042
-        ZIndex: =74
+        ZIndex: =39
 
     Label411259_4 As label:
         Align: =Align.Right
@@ -865,7 +768,7 @@ HOME_1 As screen:
         Width: =113
         X: =442
         Y: =1046
-        ZIndex: =75
+        ZIndex: =40
 
     Rectangle2 As rectangle:
         BorderColor: =RGBA(0, 0, 0, 0)
@@ -881,7 +784,7 @@ HOME_1 As screen:
         Width: =566
         X: =38
         Y: =340
-        ZIndex: =76
+        ZIndex: =41
 
     Label411256_5 As label:
         BorderColor: =RGBA(0, 0, 0, 0)
@@ -904,7 +807,7 @@ HOME_1 As screen:
         Width: =322
         X: =57
         Y: =355
-        ZIndex: =77
+        ZIndex: =42
 
     Label411256_6 As label:
         BorderColor: =RGBA(0, 0, 0, 0)
@@ -926,7 +829,7 @@ HOME_1 As screen:
         Width: =249
         X: =60
         Y: =403
-        ZIndex: =78
+        ZIndex: =43
 
     Label411256_7 As label:
         BorderColor: =RGBA(0, 0, 0, 0)
@@ -948,7 +851,7 @@ HOME_1 As screen:
         Width: =96
         X: =66
         Y: =458
-        ZIndex: =79
+        ZIndex: =44
 
     Label411256_8 As label:
         BorderColor: =RGBA(0, 0, 0, 0)
@@ -970,7 +873,7 @@ HOME_1 As screen:
         Width: =96
         X: =137
         Y: =457
-        ZIndex: =80
+        ZIndex: =45
 
     Label411256_9 As label:
         BorderColor: =RGBA(0, 0, 0, 0)
@@ -992,7 +895,7 @@ HOME_1 As screen:
         Width: =96
         X: =462
         Y: =397
-        ZIndex: =81
+        ZIndex: =46
 
     Image1 As image:
         BorderColor: =RGBA(0, 0, 0, 0)
@@ -1011,7 +914,7 @@ HOME_1 As screen:
         Width: =104
         X: =475
         Y: =403
-        ZIndex: =82
+        ZIndex: =47
 
     Group3 As group:
         Height: =5
@@ -1048,7 +951,7 @@ HOME_1 As screen:
             Width: =282
             X: =33
             Y: =191
-            ZIndex: =47
+            ZIndex: =12
 
         Icon6 As icon.Person:
             BorderColor: =RGBA(166, 166, 166, 1)
@@ -1069,5 +972,5 @@ HOME_1 As screen:
             PressedFill: =RGBA(0, 0, 0, 0)
             X: =54
             Y: =208
-            ZIndex: =49
+            ZIndex: =14
 
