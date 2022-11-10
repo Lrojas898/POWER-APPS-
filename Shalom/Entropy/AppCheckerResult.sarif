@@ -21286,19 +21286,19 @@
             {
               "logicalLocations": [
                 {
-                  "fullyQualifiedName": "SINGINNEWUSER.Form1.Apellido_DataCard1.DataCardValue1.AccessibleLabel"
+                  "fullyQualifiedName": "SINGINNEWUSER.SingIN.Apellido_DataCard1.DataCardValue1.AccessibleLabel"
                 }
               ],
               "physicalLocation": {
                 "address": {
-                  "fullyQualifiedName": "SINGINNEWUSER.Form1.Apellido_DataCard1.DataCardValue1.AccessibleLabel",
+                  "fullyQualifiedName": "SINGINNEWUSER.SingIN.Apellido_DataCard1.DataCardValue1.AccessibleLabel",
                   "relativeAddress": 0
                 }
               },
               "properties": {
                 "member": "AccessibleLabel",
                 "module": "SINGINNEWUSER",
-                "type": "SINGINNEWUSER.Form1.Apellido_DataCard1.DataCardValue1"
+                "type": "SINGINNEWUSER.SingIN.Apellido_DataCard1.DataCardValue1"
               }
             }
           ],
@@ -21316,19 +21316,19 @@
             {
               "logicalLocations": [
                 {
-                  "fullyQualifiedName": "SINGINNEWUSER.Form1.Contraseña_DataCard1.DataCardValue2.AccessibleLabel"
+                  "fullyQualifiedName": "SINGINNEWUSER.SingIN.Contraseña_DataCard1.DataCardValue2.AccessibleLabel"
                 }
               ],
               "physicalLocation": {
                 "address": {
-                  "fullyQualifiedName": "SINGINNEWUSER.Form1.Contraseña_DataCard1.DataCardValue2.AccessibleLabel",
+                  "fullyQualifiedName": "SINGINNEWUSER.SingIN.Contraseña_DataCard1.DataCardValue2.AccessibleLabel",
                   "relativeAddress": 0
                 }
               },
               "properties": {
                 "member": "AccessibleLabel",
                 "module": "SINGINNEWUSER",
-                "type": "SINGINNEWUSER.Form1.Contraseña_DataCard1.DataCardValue2"
+                "type": "SINGINNEWUSER.SingIN.Contraseña_DataCard1.DataCardValue2"
               }
             }
           ],
@@ -21346,19 +21346,19 @@
             {
               "logicalLocations": [
                 {
-                  "fullyQualifiedName": "SINGINNEWUSER.Form1.Email_DataCard1.DataCardValue3.AccessibleLabel"
+                  "fullyQualifiedName": "SINGINNEWUSER.SingIN.Email_DataCard1.DataCardValue3.AccessibleLabel"
                 }
               ],
               "physicalLocation": {
                 "address": {
-                  "fullyQualifiedName": "SINGINNEWUSER.Form1.Email_DataCard1.DataCardValue3.AccessibleLabel",
+                  "fullyQualifiedName": "SINGINNEWUSER.SingIN.Email_DataCard1.DataCardValue3.AccessibleLabel",
                   "relativeAddress": 0
                 }
               },
               "properties": {
                 "member": "AccessibleLabel",
                 "module": "SINGINNEWUSER",
-                "type": "SINGINNEWUSER.Form1.Email_DataCard1.DataCardValue3"
+                "type": "SINGINNEWUSER.SingIN.Email_DataCard1.DataCardValue3"
               }
             }
           ],
@@ -21376,19 +21376,19 @@
             {
               "logicalLocations": [
                 {
-                  "fullyQualifiedName": "SINGINNEWUSER.Form1.Nombre_DataCard1.DataCardValue4.AccessibleLabel"
+                  "fullyQualifiedName": "SINGINNEWUSER.SingIN.Nombre_DataCard1.DataCardValue4.AccessibleLabel"
                 }
               ],
               "physicalLocation": {
                 "address": {
-                  "fullyQualifiedName": "SINGINNEWUSER.Form1.Nombre_DataCard1.DataCardValue4.AccessibleLabel",
+                  "fullyQualifiedName": "SINGINNEWUSER.SingIN.Nombre_DataCard1.DataCardValue4.AccessibleLabel",
                   "relativeAddress": 0
                 }
               },
               "properties": {
                 "member": "AccessibleLabel",
                 "module": "SINGINNEWUSER",
-                "type": "SINGINNEWUSER.Form1.Nombre_DataCard1.DataCardValue4"
+                "type": "SINGINNEWUSER.SingIN.Nombre_DataCard1.DataCardValue4"
               }
             }
           ],
@@ -21406,19 +21406,19 @@
             {
               "logicalLocations": [
                 {
-                  "fullyQualifiedName": "SINGINNEWUSER.Form1.ID_DataCard1.DataCardValue5.AccessibleLabel"
+                  "fullyQualifiedName": "SINGINNEWUSER.SingIN.ID_DataCard1.DataCardValue5.AccessibleLabel"
                 }
               ],
               "physicalLocation": {
                 "address": {
-                  "fullyQualifiedName": "SINGINNEWUSER.Form1.ID_DataCard1.DataCardValue5.AccessibleLabel",
+                  "fullyQualifiedName": "SINGINNEWUSER.SingIN.ID_DataCard1.DataCardValue5.AccessibleLabel",
                   "relativeAddress": 0
                 }
               },
               "properties": {
                 "member": "AccessibleLabel",
                 "module": "SINGINNEWUSER",
-                "type": "SINGINNEWUSER.Form1.ID_DataCard1.DataCardValue5"
+                "type": "SINGINNEWUSER.SingIN.ID_DataCard1.DataCardValue5"
               }
             }
           ],
@@ -21436,19 +21436,19 @@
             {
               "logicalLocations": [
                 {
-                  "fullyQualifiedName": "SINGINNEWUSER.Form1.Usuario_DataCard1.DataCardValue6.AccessibleLabel"
+                  "fullyQualifiedName": "SINGINNEWUSER.SingIN.Usuario_DataCard1.DataCardValue6.AccessibleLabel"
                 }
               ],
               "physicalLocation": {
                 "address": {
-                  "fullyQualifiedName": "SINGINNEWUSER.Form1.Usuario_DataCard1.DataCardValue6.AccessibleLabel",
+                  "fullyQualifiedName": "SINGINNEWUSER.SingIN.Usuario_DataCard1.DataCardValue6.AccessibleLabel",
                   "relativeAddress": 0
                 }
               },
               "properties": {
                 "member": "AccessibleLabel",
                 "module": "SINGINNEWUSER",
-                "type": "SINGINNEWUSER.Form1.Usuario_DataCard1.DataCardValue6"
+                "type": "SINGINNEWUSER.SingIN.Usuario_DataCard1.DataCardValue6"
               }
             }
           ],
@@ -21466,19 +21466,19 @@
             {
               "logicalLocations": [
                 {
-                  "fullyQualifiedName": "SINGINNEWUSER.Form1.Telefono_DataCard1.DataCardValue7.AccessibleLabel"
+                  "fullyQualifiedName": "SINGINNEWUSER.SingIN.Telefono_DataCard1.DataCardValue7.AccessibleLabel"
                 }
               ],
               "physicalLocation": {
                 "address": {
-                  "fullyQualifiedName": "SINGINNEWUSER.Form1.Telefono_DataCard1.DataCardValue7.AccessibleLabel",
+                  "fullyQualifiedName": "SINGINNEWUSER.SingIN.Telefono_DataCard1.DataCardValue7.AccessibleLabel",
                   "relativeAddress": 0
                 }
               },
               "properties": {
                 "member": "AccessibleLabel",
                 "module": "SINGINNEWUSER",
-                "type": "SINGINNEWUSER.Form1.Telefono_DataCard1.DataCardValue7"
+                "type": "SINGINNEWUSER.SingIN.Telefono_DataCard1.DataCardValue7"
               }
             }
           ],
