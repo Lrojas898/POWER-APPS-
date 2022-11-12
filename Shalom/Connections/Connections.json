@@ -26,6 +26,23 @@
     "dependents": [],
     "id": "86339610-381e-46bc-aee5-dff1f22d06d1"
   },
+  "c911f75e-d1af-4ef7-91a6-576d31d57190": {
+    "connectionParameters": {
+      "sku": "Enterprise"
+    },
+    "connectionRef": {
+      "displayName": "Usuarios de Office 365",
+      "iconUri": "https://connectoricons-prod.azureedge.net/releases/v1.0.1593/1.0.1593.2980/office365users/icon.png",
+      "id": "/providers/microsoft.powerapps/apis/shared_office365users"
+    },
+    "datasets": {},
+    "dataSources": [
+      "UsuariosdeOffice365"
+    ],
+    "dependencies": {},
+    "dependents": [],
+    "id": "c911f75e-d1af-4ef7-91a6-576d31d57190"
+  },
   "de7e7649-6084-4d7a-a2d3-4d2d9fcd30ea": {
     "connectionParameters": {
       "sku": "Enterprise"
@@ -67,22 +84,5 @@
     "dependencies": {},
     "dependents": [],
     "id": "e4727618-6dfa-429e-ba17-3fbf27494ec5"
-  },
-  "fc9f8153-7379-420a-a728-e78396a7ab29": {
-    "connectionParameters": {
-      "sku": "Enterprise"
-    },
-    "connectionRef": {
-      "displayName": "Usuarios de Office 365",
-      "iconUri": "https://connectoricons-prod.azureedge.net/releases/v1.0.1593/1.0.1593.2980/office365users/icon.png",
-      "id": "/providers/microsoft.powerapps/apis/shared_office365users"
-    },
-    "datasets": {},
-    "dataSources": [
-      "UsuariosdeOffice365"
-    ],
-    "dependencies": {},
-    "dependents": [],
-    "id": "fc9f8153-7379-420a-a728-e78396a7ab29"
   }
 }
