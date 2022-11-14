@@ -132,7 +132,7 @@ INICIO As screen:
         HoverColor: =RGBA(255, 255, 255, 1)
         HoverFill: =ColorFade(RGBA(0, 120, 212, 1), -10%)
         OnSelect: |
-            =If(!IsBlank(LookUp(Table1,Usuario=Userinput.Text And Password=contrainput.Text)), Navigate(HOME_1))
+            =If(!IsBlank(LookUp(Tabla2,Usuario=Userinput.Text And Password=contrainput.Text)), Navigate(HOME_1))
         PressedBorderColor: =ColorFade(RGBA(0, 120, 212, 1), -50%)
         PressedColor: =RGBA(255, 255, 255, 1)
         PressedFill: =ColorFade(RGBA(0, 120, 212, 1), -30%)

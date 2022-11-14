@@ -15,10 +15,18 @@
             "tableName": "Table1"
           }
         }
+      },
+      "b!a1xa3RSSfU6ruxcJHjJatB0Gfd-GMXdOrAhQBlPQv2HmA8JJUQBLT71_K2-rM4CE.013FRY3XHDGNDCX76CHBE2N7QYK6IQGLAL": {
+        "dataSources": {
+          "Tabla2": {
+            "tableName": "Tabla2"
+          }
+        }
       }
     },
     "dataSources": [
-      "Table1"
+      "Table1",
+      "Tabla2"
     ],
     "dependencies": {
       "fileSource": "de7e7649-6084-4d7a-a2d3-4d2d9fcd30ea"
@@ -38,7 +46,8 @@
     "datasets": {},
     "dataSources": [
       "UsuariosdeOffice365",
-      "UsuariosdeOffice365_1"
+      "UsuariosdeOffice365_1",
+      "UsuariosdeOffice365_2"
     ],
     "dependencies": {},
     "dependents": [],

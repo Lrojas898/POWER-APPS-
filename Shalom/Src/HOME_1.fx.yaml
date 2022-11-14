@@ -152,8 +152,8 @@ HOME_1 As screen:
         Text: ="83838 "
         VerticalAlign: =VerticalAlign.Top
         Width: =185
-        X: =31
-        Y: =97
+        X: =38
+        Y: =91
         ZIndex: =8
 
     Label411291 As label:
