@@ -517,8 +517,8 @@ APUESTA_GRUPO_B As screen:
         PressedBorderColor: =RGBA(0, 0, 0, 0)
         PressedColor: =ColorFade(RGBA(0, 120, 212, 1), -30%)
         PressedFill: =RGBA(0, 0, 0, 0)
-        X: =494
-        Y: =35
+        X: =496
+        Y: =16
         ZIndex: =57
 
     Icon13_2 As icon.ArrowLeft:

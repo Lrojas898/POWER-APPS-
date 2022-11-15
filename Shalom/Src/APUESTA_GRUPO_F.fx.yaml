@@ -8,7 +8,7 @@ APUESTA_GRUPO_F As screen:
         DisabledFill: =RGBA(166, 166, 166, 1)
         Fill: =RGBA(141, 28, 61, 1)
         FocusedBorderThickness: =4
-        Height: =116
+        Height: =94
         HoverFill: =RGBA(0, 120, 212, 1)
         PressedFill: =RGBA(0, 120, 212, 1)
         Width: =640
@@ -34,7 +34,7 @@ APUESTA_GRUPO_F As screen:
         VerticalAlign: =VerticalAlign.Top
         Width: =352
         X: =144
-        Y: =36
+        Y: =26
         ZIndex: =4
 
     Label941542_5 As label:
@@ -969,8 +969,8 @@ APUESTA_GRUPO_F As screen:
         PressedBorderColor: =RGBA(0, 0, 0, 0)
         PressedColor: =ColorFade(RGBA(0, 120, 212, 1), -30%)
         PressedFill: =RGBA(0, 0, 0, 0)
-        X: =494
-        Y: =35
+        X: =496
+        Y: =16
         ZIndex: =57
 
     Icon13_6 As icon.ArrowLeft:
@@ -987,8 +987,8 @@ APUESTA_GRUPO_F As screen:
         PressedBorderColor: =RGBA(0, 0, 0, 0)
         PressedColor: =ColorFade(RGBA(0, 120, 212, 1), -30%)
         PressedFill: =RGBA(0, 0, 0, 0)
-        X: =40
-        Y: =40
+        X: =48
+        Y: =16
         ZIndex: =58
 
     Image751376_1 As image:
