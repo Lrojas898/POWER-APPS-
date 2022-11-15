@@ -56,7 +56,7 @@ APUESTA_GRUPO_C As screen:
             ="Predice los resultados de los partidos, llena los espacios a continuación y cliquea en guardar: "
         Width: =575
         X: =32
-        Y: =141
+        Y: =103
         ZIndex: =13
 
     Rectangle751536_25 As rectangle:

@@ -55,7 +55,7 @@ APUESTA_GRUPO_F As screen:
             ="Predice los resultados de los partidos, llena los espacios a continuación y cliquea en guardar: "
         Width: =575
         X: =32
-        Y: =141
+        Y: =103
         ZIndex: =13
 
     Rectangle751536_61 As rectangle:
@@ -2171,4 +2171,25 @@ APUESTA_GRUPO_F As screen:
         X: =227
         Y: =1055
         ZIndex: =72
+
+    Icon8_6 As icon.Reload:
+        BorderColor: =RGBA(166, 166, 166, 1)
+        Color: =RGBA(141, 28, 61, 1)
+        DisabledBorderColor: =RGBA(0, 0, 0, 0)
+        DisabledColor: =RGBA(220, 220, 220, 1)
+        DisabledFill: =RGBA(0, 0, 0, 0)
+        FocusedBorderThickness: =4
+        Height: =42
+        HoverBorderColor: =RGBA(0, 0, 0, 0)
+        HoverColor: =ColorFade(RGBA(0, 120, 212, 1), -30%)
+        HoverFill: =RGBA(0, 0, 0, 0)
+        Icon: =Icon.Reload
+        OnSelect: =NewForm(GRUPOFFORM)
+        PressedBorderColor: =RGBA(0, 0, 0, 0)
+        PressedColor: =ColorFade(RGBA(0, 120, 212, 1), -30%)
+        PressedFill: =RGBA(0, 0, 0, 0)
+        Width: =46
+        X: =32
+        Y: =197
+        ZIndex: =73
 

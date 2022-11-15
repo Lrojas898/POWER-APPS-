@@ -314,19 +314,19 @@
             {
               "logicalLocations": [
                 {
-                  "fullyQualifiedName": "APUESTA_GRUPO_H.TextInput3_84.AccessibleLabel"
+                  "fullyQualifiedName": "APUESTA_GRUPO_H.GRUPOHFORM.'U_GrupoH6.6_DataCard1'.DataCardValue102.AccessibleLabel"
                 }
               ],
               "physicalLocation": {
                 "address": {
-                  "fullyQualifiedName": "APUESTA_GRUPO_H.TextInput3_84.AccessibleLabel",
+                  "fullyQualifiedName": "APUESTA_GRUPO_H.GRUPOHFORM.'U_GrupoH6.6_DataCard1'.DataCardValue102.AccessibleLabel",
                   "relativeAddress": 0
                 }
               },
               "properties": {
                 "member": "AccessibleLabel",
                 "module": "APUESTA_GRUPO_H",
-                "type": "APUESTA_GRUPO_H.TextInput3_84"
+                "type": "APUESTA_GRUPO_H.GRUPOHFORM.'U_GrupoH6.6_DataCard1'.DataCardValue102"
               }
             }
           ],
@@ -344,19 +344,19 @@
             {
               "logicalLocations": [
                 {
-                  "fullyQualifiedName": "APUESTA_GRUPO_H.TextInput3_85.AccessibleLabel"
+                  "fullyQualifiedName": "APUESTA_GRUPO_H.GRUPOHFORM.U_GrupoH6_DataCard1.DataCardValue101.AccessibleLabel"
                 }
               ],
               "physicalLocation": {
                 "address": {
-                  "fullyQualifiedName": "APUESTA_GRUPO_H.TextInput3_85.AccessibleLabel",
+                  "fullyQualifiedName": "APUESTA_GRUPO_H.GRUPOHFORM.U_GrupoH6_DataCard1.DataCardValue101.AccessibleLabel",
                   "relativeAddress": 0
                 }
               },
               "properties": {
                 "member": "AccessibleLabel",
                 "module": "APUESTA_GRUPO_H",
-                "type": "APUESTA_GRUPO_H.TextInput3_85"
+                "type": "APUESTA_GRUPO_H.GRUPOHFORM.U_GrupoH6_DataCard1.DataCardValue101"
               }
             }
           ],
@@ -614,19 +614,19 @@
             {
               "logicalLocations": [
                 {
-                  "fullyQualifiedName": "APUESTA_GRUPO_H.TextInput3_86.AccessibleLabel"
+                  "fullyQualifiedName": "APUESTA_GRUPO_H.GRUPOHFORM.'U_GrupoH5.5_DataCard1'.DataCardValue100.AccessibleLabel"
                 }
               ],
               "physicalLocation": {
                 "address": {
-                  "fullyQualifiedName": "APUESTA_GRUPO_H.TextInput3_86.AccessibleLabel",
+                  "fullyQualifiedName": "APUESTA_GRUPO_H.GRUPOHFORM.'U_GrupoH5.5_DataCard1'.DataCardValue100.AccessibleLabel",
                   "relativeAddress": 0
                 }
               },
               "properties": {
                 "member": "AccessibleLabel",
                 "module": "APUESTA_GRUPO_H",
-                "type": "APUESTA_GRUPO_H.TextInput3_86"
+                "type": "APUESTA_GRUPO_H.GRUPOHFORM.'U_GrupoH5.5_DataCard1'.DataCardValue100"
               }
             }
           ],
@@ -644,19 +644,19 @@
             {
               "logicalLocations": [
                 {
-                  "fullyQualifiedName": "APUESTA_GRUPO_H.TextInput3_87.AccessibleLabel"
+                  "fullyQualifiedName": "APUESTA_GRUPO_H.GRUPOHFORM.U_GrupoH5_DataCard1.DataCardValue99.AccessibleLabel"
                 }
               ],
               "physicalLocation": {
                 "address": {
-                  "fullyQualifiedName": "APUESTA_GRUPO_H.TextInput3_87.AccessibleLabel",
+                  "fullyQualifiedName": "APUESTA_GRUPO_H.GRUPOHFORM.U_GrupoH5_DataCard1.DataCardValue99.AccessibleLabel",
                   "relativeAddress": 0
                 }
               },
               "properties": {
                 "member": "AccessibleLabel",
                 "module": "APUESTA_GRUPO_H",
-                "type": "APUESTA_GRUPO_H.TextInput3_87"
+                "type": "APUESTA_GRUPO_H.GRUPOHFORM.U_GrupoH5_DataCard1.DataCardValue99"
               }
             }
           ],
@@ -1034,19 +1034,19 @@
             {
               "logicalLocations": [
                 {
-                  "fullyQualifiedName": "APUESTA_GRUPO_H.TextInput3_88.AccessibleLabel"
+                  "fullyQualifiedName": "APUESTA_GRUPO_H.GRUPOHFORM.'U_GrupoH4.4_DataCard1'.DataCardValue98.AccessibleLabel"
                 }
               ],
               "physicalLocation": {
                 "address": {
-                  "fullyQualifiedName": "APUESTA_GRUPO_H.TextInput3_88.AccessibleLabel",
+                  "fullyQualifiedName": "APUESTA_GRUPO_H.GRUPOHFORM.'U_GrupoH4.4_DataCard1'.DataCardValue98.AccessibleLabel",
                   "relativeAddress": 0
                 }
               },
               "properties": {
                 "member": "AccessibleLabel",
                 "module": "APUESTA_GRUPO_H",
-                "type": "APUESTA_GRUPO_H.TextInput3_88"
+                "type": "APUESTA_GRUPO_H.GRUPOHFORM.'U_GrupoH4.4_DataCard1'.DataCardValue98"
               }
             }
           ],
@@ -1064,19 +1064,19 @@
             {
               "logicalLocations": [
                 {
-                  "fullyQualifiedName": "APUESTA_GRUPO_H.TextInput3_89.AccessibleLabel"
+                  "fullyQualifiedName": "APUESTA_GRUPO_H.GRUPOHFORM.U_GrupoH4_DataCard1.DataCardValue97.AccessibleLabel"
                 }
               ],
               "physicalLocation": {
                 "address": {
-                  "fullyQualifiedName": "APUESTA_GRUPO_H.TextInput3_89.AccessibleLabel",
+                  "fullyQualifiedName": "APUESTA_GRUPO_H.GRUPOHFORM.U_GrupoH4_DataCard1.DataCardValue97.AccessibleLabel",
                   "relativeAddress": 0
                 }
               },
               "properties": {
                 "member": "AccessibleLabel",
                 "module": "APUESTA_GRUPO_H",
-                "type": "APUESTA_GRUPO_H.TextInput3_89"
+                "type": "APUESTA_GRUPO_H.GRUPOHFORM.U_GrupoH4_DataCard1.DataCardValue97"
               }
             }
           ],
@@ -1394,19 +1394,19 @@
             {
               "logicalLocations": [
                 {
-                  "fullyQualifiedName": "APUESTA_GRUPO_H.TextInput3_90.AccessibleLabel"
+                  "fullyQualifiedName": "APUESTA_GRUPO_H.GRUPOHFORM.'U_GrupoH3.3_DataCard1'.DataCardValue96.AccessibleLabel"
                 }
               ],
               "physicalLocation": {
                 "address": {
-                  "fullyQualifiedName": "APUESTA_GRUPO_H.TextInput3_90.AccessibleLabel",
+                  "fullyQualifiedName": "APUESTA_GRUPO_H.GRUPOHFORM.'U_GrupoH3.3_DataCard1'.DataCardValue96.AccessibleLabel",
                   "relativeAddress": 0
                 }
               },
               "properties": {
                 "member": "AccessibleLabel",
                 "module": "APUESTA_GRUPO_H",
-                "type": "APUESTA_GRUPO_H.TextInput3_90"
+                "type": "APUESTA_GRUPO_H.GRUPOHFORM.'U_GrupoH3.3_DataCard1'.DataCardValue96"
               }
             }
           ],
@@ -1424,19 +1424,19 @@
             {
               "logicalLocations": [
                 {
-                  "fullyQualifiedName": "APUESTA_GRUPO_H.TextInput3_91.AccessibleLabel"
+                  "fullyQualifiedName": "APUESTA_GRUPO_H.GRUPOHFORM.U_GrupoH3_DataCard1.DataCardValue95.AccessibleLabel"
                 }
               ],
               "physicalLocation": {
                 "address": {
-                  "fullyQualifiedName": "APUESTA_GRUPO_H.TextInput3_91.AccessibleLabel",
+                  "fullyQualifiedName": "APUESTA_GRUPO_H.GRUPOHFORM.U_GrupoH3_DataCard1.DataCardValue95.AccessibleLabel",
                   "relativeAddress": 0
                 }
               },
               "properties": {
                 "member": "AccessibleLabel",
                 "module": "APUESTA_GRUPO_H",
-                "type": "APUESTA_GRUPO_H.TextInput3_91"
+                "type": "APUESTA_GRUPO_H.GRUPOHFORM.U_GrupoH3_DataCard1.DataCardValue95"
               }
             }
           ],
@@ -1754,19 +1754,19 @@
             {
               "logicalLocations": [
                 {
-                  "fullyQualifiedName": "APUESTA_GRUPO_H.TextInput3_92.AccessibleLabel"
+                  "fullyQualifiedName": "APUESTA_GRUPO_H.GRUPOHFORM.'U_GrupoH2.2_DataCard1'.DataCardValue94.AccessibleLabel"
                 }
               ],
               "physicalLocation": {
                 "address": {
-                  "fullyQualifiedName": "APUESTA_GRUPO_H.TextInput3_92.AccessibleLabel",
+                  "fullyQualifiedName": "APUESTA_GRUPO_H.GRUPOHFORM.'U_GrupoH2.2_DataCard1'.DataCardValue94.AccessibleLabel",
                   "relativeAddress": 0
                 }
               },
               "properties": {
                 "member": "AccessibleLabel",
                 "module": "APUESTA_GRUPO_H",
-                "type": "APUESTA_GRUPO_H.TextInput3_92"
+                "type": "APUESTA_GRUPO_H.GRUPOHFORM.'U_GrupoH2.2_DataCard1'.DataCardValue94"
               }
             }
           ],
@@ -1784,19 +1784,19 @@
             {
               "logicalLocations": [
                 {
-                  "fullyQualifiedName": "APUESTA_GRUPO_H.TextInput3_93.AccessibleLabel"
+                  "fullyQualifiedName": "APUESTA_GRUPO_H.GRUPOHFORM.U_GrupoH2_DataCard1.DataCardValue93.AccessibleLabel"
                 }
               ],
               "physicalLocation": {
                 "address": {
-                  "fullyQualifiedName": "APUESTA_GRUPO_H.TextInput3_93.AccessibleLabel",
+                  "fullyQualifiedName": "APUESTA_GRUPO_H.GRUPOHFORM.U_GrupoH2_DataCard1.DataCardValue93.AccessibleLabel",
                   "relativeAddress": 0
                 }
               },
               "properties": {
                 "member": "AccessibleLabel",
                 "module": "APUESTA_GRUPO_H",
-                "type": "APUESTA_GRUPO_H.TextInput3_93"
+                "type": "APUESTA_GRUPO_H.GRUPOHFORM.U_GrupoH2_DataCard1.DataCardValue93"
               }
             }
           ],
@@ -2114,19 +2114,19 @@
             {
               "logicalLocations": [
                 {
-                  "fullyQualifiedName": "APUESTA_GRUPO_H.TextInput3_94.AccessibleLabel"
+                  "fullyQualifiedName": "APUESTA_GRUPO_H.GRUPOHFORM.'U_GrupoH1.1_DataCard1'.DataCardValue92.AccessibleLabel"
                 }
               ],
               "physicalLocation": {
                 "address": {
-                  "fullyQualifiedName": "APUESTA_GRUPO_H.TextInput3_94.AccessibleLabel",
+                  "fullyQualifiedName": "APUESTA_GRUPO_H.GRUPOHFORM.'U_GrupoH1.1_DataCard1'.DataCardValue92.AccessibleLabel",
                   "relativeAddress": 0
                 }
               },
               "properties": {
                 "member": "AccessibleLabel",
                 "module": "APUESTA_GRUPO_H",
-                "type": "APUESTA_GRUPO_H.TextInput3_94"
+                "type": "APUESTA_GRUPO_H.GRUPOHFORM.'U_GrupoH1.1_DataCard1'.DataCardValue92"
               }
             }
           ],
@@ -2144,19 +2144,19 @@
             {
               "logicalLocations": [
                 {
-                  "fullyQualifiedName": "APUESTA_GRUPO_H.TextInput3_95.AccessibleLabel"
+                  "fullyQualifiedName": "APUESTA_GRUPO_H.GRUPOHFORM.U_GrupoH1_DataCard1.DataCardValue91.AccessibleLabel"
                 }
               ],
               "physicalLocation": {
                 "address": {
-                  "fullyQualifiedName": "APUESTA_GRUPO_H.TextInput3_95.AccessibleLabel",
+                  "fullyQualifiedName": "APUESTA_GRUPO_H.GRUPOHFORM.U_GrupoH1_DataCard1.DataCardValue91.AccessibleLabel",
                   "relativeAddress": 0
                 }
               },
               "properties": {
                 "member": "AccessibleLabel",
                 "module": "APUESTA_GRUPO_H",
-                "type": "APUESTA_GRUPO_H.TextInput3_95"
+                "type": "APUESTA_GRUPO_H.GRUPOHFORM.U_GrupoH1_DataCard1.DataCardValue91"
               }
             }
           ],
@@ -22707,6 +22707,186 @@
                 "member": "TabIndex",
                 "module": "APUESTA_GRUPO_A",
                 "type": "APUESTA_GRUPO_A.Icon8_1"
+              }
+            }
+          ],
+          "message": {
+            "id": "issue"
+          },
+          "properties": {
+            "level": "Medium"
+          },
+          "ruleId": "acc-TabIndexShouldBeDefinedForInteractiveControl",
+          "ruleIndex": 1
+        },
+        {
+          "locations": [
+            {
+              "logicalLocations": [
+                {
+                  "fullyQualifiedName": "APUESTA_GRUPO_F.Icon8_6.AccessibleLabel"
+                }
+              ],
+              "physicalLocation": {
+                "address": {
+                  "fullyQualifiedName": "APUESTA_GRUPO_F.Icon8_6.AccessibleLabel",
+                  "relativeAddress": 0
+                }
+              },
+              "properties": {
+                "member": "AccessibleLabel",
+                "module": "APUESTA_GRUPO_F",
+                "type": "APUESTA_GRUPO_F.Icon8_6"
+              }
+            }
+          ],
+          "message": {
+            "id": "issue"
+          },
+          "properties": {
+            "level": "Medium"
+          },
+          "ruleId": "acc-AccessibleLabelNeeded",
+          "ruleIndex": 0
+        },
+        {
+          "locations": [
+            {
+              "logicalLocations": [
+                {
+                  "fullyQualifiedName": "APUESTA_GRUPO_F.Icon8_6.TabIndex"
+                }
+              ],
+              "physicalLocation": {
+                "address": {
+                  "fullyQualifiedName": "APUESTA_GRUPO_F.Icon8_6.TabIndex",
+                  "relativeAddress": 0
+                }
+              },
+              "properties": {
+                "member": "TabIndex",
+                "module": "APUESTA_GRUPO_F",
+                "type": "APUESTA_GRUPO_F.Icon8_6"
+              }
+            }
+          ],
+          "message": {
+            "id": "issue"
+          },
+          "properties": {
+            "level": "Medium"
+          },
+          "ruleId": "acc-TabIndexShouldBeDefinedForInteractiveControl",
+          "ruleIndex": 1
+        },
+        {
+          "locations": [
+            {
+              "logicalLocations": [
+                {
+                  "fullyQualifiedName": "APUESTA_GRUPO_G.Icon8_7.AccessibleLabel"
+                }
+              ],
+              "physicalLocation": {
+                "address": {
+                  "fullyQualifiedName": "APUESTA_GRUPO_G.Icon8_7.AccessibleLabel",
+                  "relativeAddress": 0
+                }
+              },
+              "properties": {
+                "member": "AccessibleLabel",
+                "module": "APUESTA_GRUPO_G",
+                "type": "APUESTA_GRUPO_G.Icon8_7"
+              }
+            }
+          ],
+          "message": {
+            "id": "issue"
+          },
+          "properties": {
+            "level": "Medium"
+          },
+          "ruleId": "acc-AccessibleLabelNeeded",
+          "ruleIndex": 0
+        },
+        {
+          "locations": [
+            {
+              "logicalLocations": [
+                {
+                  "fullyQualifiedName": "APUESTA_GRUPO_G.Icon8_7.TabIndex"
+                }
+              ],
+              "physicalLocation": {
+                "address": {
+                  "fullyQualifiedName": "APUESTA_GRUPO_G.Icon8_7.TabIndex",
+                  "relativeAddress": 0
+                }
+              },
+              "properties": {
+                "member": "TabIndex",
+                "module": "APUESTA_GRUPO_G",
+                "type": "APUESTA_GRUPO_G.Icon8_7"
+              }
+            }
+          ],
+          "message": {
+            "id": "issue"
+          },
+          "properties": {
+            "level": "Medium"
+          },
+          "ruleId": "acc-TabIndexShouldBeDefinedForInteractiveControl",
+          "ruleIndex": 1
+        },
+        {
+          "locations": [
+            {
+              "logicalLocations": [
+                {
+                  "fullyQualifiedName": "APUESTA_GRUPO_H.Icon8_8.AccessibleLabel"
+                }
+              ],
+              "physicalLocation": {
+                "address": {
+                  "fullyQualifiedName": "APUESTA_GRUPO_H.Icon8_8.AccessibleLabel",
+                  "relativeAddress": 0
+                }
+              },
+              "properties": {
+                "member": "AccessibleLabel",
+                "module": "APUESTA_GRUPO_H",
+                "type": "APUESTA_GRUPO_H.Icon8_8"
+              }
+            }
+          ],
+          "message": {
+            "id": "issue"
+          },
+          "properties": {
+            "level": "Medium"
+          },
+          "ruleId": "acc-AccessibleLabelNeeded",
+          "ruleIndex": 0
+        },
+        {
+          "locations": [
+            {
+              "logicalLocations": [
+                {
+                  "fullyQualifiedName": "APUESTA_GRUPO_H.Icon8_8.TabIndex"
+                }
+              ],
+              "physicalLocation": {
+                "address": {
+                  "fullyQualifiedName": "APUESTA_GRUPO_H.Icon8_8.TabIndex",
+                  "relativeAddress": 0
+                }
+              },
+              "properties": {
+                "member": "TabIndex",
+                "module": "APUESTA_GRUPO_H",
+                "type": "APUESTA_GRUPO_H.Icon8_8"
               }
             }
           ],

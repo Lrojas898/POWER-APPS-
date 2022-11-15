@@ -55,7 +55,7 @@ APUESTA_GRUPO_G As screen:
             ="Predice los resultados de los partidos, llena los espacios a continuación y cliquea en guardar: "
         Width: =575
         X: =32
-        Y: =141
+        Y: =103
         ZIndex: =13
 
     Rectangle751536_73 As rectangle:
@@ -761,7 +761,7 @@ APUESTA_GRUPO_G As screen:
         HoverBorderColor: =RGBA(0, 0, 0, 0)
         HoverColor: =RGBA(255, 255, 255, 1)
         HoverFill: =ColorFade(RGBA(0, 120, 212, 1), -10%)
-        OnSelect: =SubmitForm(GRUPOEFORM)
+        OnSelect: =SubmitForm(GRUPOGFORM)
         PressedBorderColor: =ColorFade(RGBA(0, 120, 212, 1), -50%)
         PressedColor: =RGBA(255, 255, 255, 1)
         PressedFill: =ColorFade(RGBA(0, 120, 212, 1), -30%)
@@ -2177,4 +2177,25 @@ APUESTA_GRUPO_G As screen:
                 Wrap: =false
                 Y: =DataCardKey90.Y
                 ZIndex: =4
+
+    Icon8_7 As icon.Reload:
+        BorderColor: =RGBA(166, 166, 166, 1)
+        Color: =RGBA(141, 28, 61, 1)
+        DisabledBorderColor: =RGBA(0, 0, 0, 0)
+        DisabledColor: =RGBA(220, 220, 220, 1)
+        DisabledFill: =RGBA(0, 0, 0, 0)
+        FocusedBorderThickness: =4
+        Height: =42
+        HoverBorderColor: =RGBA(0, 0, 0, 0)
+        HoverColor: =ColorFade(RGBA(0, 120, 212, 1), -30%)
+        HoverFill: =RGBA(0, 0, 0, 0)
+        Icon: =Icon.Reload
+        OnSelect: =NewForm(GRUPOGFORM)
+        PressedBorderColor: =RGBA(0, 0, 0, 0)
+        PressedColor: =ColorFade(RGBA(0, 120, 212, 1), -30%)
+        PressedFill: =RGBA(0, 0, 0, 0)
+        Width: =46
+        X: =32
+        Y: =194
+        ZIndex: =73
 
