@@ -230,7 +230,7 @@ INICIO As screen:
         RadiusTopLeft: =0
         RadiusTopRight: =0
         Size: =24
-        Text: ="Sing In"
+        Text: ="Sign In"
         Width: =242
         X: =322
         Y: =923
