@@ -592,11 +592,11 @@ APUESTA_GRUPO_A As screen:
         DataSource: =Tabla2
         FocusedBorderThickness: |
             =4
-        Height: =882
+        Height: =821
         NumberOfColumns: =2
-        Width: =307
-        X: =166
-        Y: =173
+        Width: =346
+        X: =150
+        Y: =234
         ZIndex: =60
 
         U_GrupoA1_DataCard1 As typedDataCard.textualEditCard:
@@ -611,7 +611,7 @@ APUESTA_GRUPO_A As screen:
             MaxLength: =DataSourceInfo([@Tabla2], DataSourceInfo.MaxLength, "U_GrupoA1")
             Required: =false
             Update: =DataCardValue14.Text
-            Width: =153
+            Width: =173
             X: =0
             Y: =0
             ZIndex: =1
@@ -665,8 +665,8 @@ APUESTA_GRUPO_A As screen:
                 Size: =21
                 Tooltip: =Parent.DisplayName
                 Width: =Parent.Width - 80
-                X: =30
-                Y: =DataCardKey14.Y + DataCardKey14.Height + 5
+                X: =50
+                Y: =30
                 ZIndex: =2
 
             ErrorMessage14 As label:
@@ -727,7 +727,7 @@ APUESTA_GRUPO_A As screen:
             MaxLength: =DataSourceInfo([@Tabla2], DataSourceInfo.MaxLength, "U_GrupoA1_x002e_1")
             Required: =false
             Update: =DataCardValue15.Text
-            Width: =153
+            Width: =173
             X: =1
             Y: =0
             ZIndex: =1
@@ -781,8 +781,8 @@ APUESTA_GRUPO_A As screen:
                 Size: =21
                 Tooltip: =Parent.DisplayName
                 Width: =Parent.Width - 80
-                X: =30
-                Y: =DataCardKey15.Y + DataCardKey15.Height + 5
+                X: =25
+                Y: =30
                 ZIndex: =2
 
             ErrorMessage15 As label:
@@ -843,7 +843,7 @@ APUESTA_GRUPO_A As screen:
             MaxLength: =DataSourceInfo([@Tabla2], DataSourceInfo.MaxLength, "U_GrupoA2")
             Required: =false
             Update: =DataCardValue16.Text
-            Width: =153
+            Width: =173
             X: =0
             Y: =1
             ZIndex: =1
@@ -897,8 +897,8 @@ APUESTA_GRUPO_A As screen:
                 Size: =21
                 Tooltip: =Parent.DisplayName
                 Width: =Parent.Width - 80
-                X: =30
-                Y: =DataCardKey16.Y + DataCardKey16.Height + 5
+                X: =50
+                Y: =45
                 ZIndex: =2
 
             ErrorMessage16 As label:
@@ -959,7 +959,7 @@ APUESTA_GRUPO_A As screen:
             MaxLength: =DataSourceInfo([@Tabla2], DataSourceInfo.MaxLength, "U_GrupoA2_x002e_2")
             Required: =false
             Update: =DataCardValue17.Text
-            Width: =153
+            Width: =173
             X: =1
             Y: =1
             ZIndex: =1
@@ -1015,8 +1015,8 @@ APUESTA_GRUPO_A As screen:
                 Width: |+
                     =Parent.Width - 80
                     
-                X: =30
-                Y: =DataCardKey17.Y + DataCardKey17.Height + 5
+                X: =25
+                Y: =45
                 ZIndex: =2
 
             ErrorMessage17 As label:
@@ -1077,7 +1077,7 @@ APUESTA_GRUPO_A As screen:
             MaxLength: =DataSourceInfo([@Tabla2], DataSourceInfo.MaxLength, "U_GrupoA3")
             Required: =false
             Update: =DataCardValue18.Text
-            Width: =153
+            Width: =173
             X: =0
             Y: =2
             ZIndex: =1
@@ -1131,8 +1131,8 @@ APUESTA_GRUPO_A As screen:
                 Size: =21
                 Tooltip: =Parent.DisplayName
                 Width: =Parent.Width - 80
-                X: =30
-                Y: =DataCardKey18.Y + DataCardKey18.Height + 5
+                X: =50
+                Y: =52
                 ZIndex: =2
 
             ErrorMessage18 As label:
@@ -1193,7 +1193,7 @@ APUESTA_GRUPO_A As screen:
             MaxLength: =DataSourceInfo([@Tabla2], DataSourceInfo.MaxLength, "U_GrupoA3_x002e_3")
             Required: =false
             Update: =DataCardValue19.Text
-            Width: =153
+            Width: =173
             X: =1
             Y: =2
             ZIndex: =1
@@ -1248,7 +1248,7 @@ APUESTA_GRUPO_A As screen:
                 Tooltip: =Parent.DisplayName
                 Width: =Parent.Width - 80
                 X: =30
-                Y: =DataCardKey19.Y + DataCardKey19.Height + 5
+                Y: =52
                 ZIndex: =2
 
             ErrorMessage19 As label:
@@ -1309,7 +1309,7 @@ APUESTA_GRUPO_A As screen:
             MaxLength: =DataSourceInfo([@Tabla2], DataSourceInfo.MaxLength, "U_GrupoA4")
             Required: =false
             Update: =DataCardValue20.Text
-            Width: =153
+            Width: =173
             X: =0
             Y: =3
             ZIndex: =1
@@ -1363,8 +1363,8 @@ APUESTA_GRUPO_A As screen:
                 Size: =21
                 Tooltip: =Parent.DisplayName
                 Width: =Parent.Width - 80
-                X: =30
-                Y: =DataCardKey20.Y + DataCardKey20.Height + 5
+                X: =50
+                Y: =45
                 ZIndex: =2
 
             ErrorMessage20 As label:
@@ -1425,7 +1425,7 @@ APUESTA_GRUPO_A As screen:
             MaxLength: =DataSourceInfo([@Tabla2], DataSourceInfo.MaxLength, "U_GrupoA4_x002e_4")
             Required: =false
             Update: =DataCardValue21.Text
-            Width: =153
+            Width: =173
             X: =1
             Y: =3
             ZIndex: =1
@@ -1480,7 +1480,7 @@ APUESTA_GRUPO_A As screen:
                 Tooltip: =Parent.DisplayName
                 Width: =Parent.Width - 80
                 X: =30
-                Y: =DataCardKey21.Y + DataCardKey21.Height + 5
+                Y: =45
                 ZIndex: =2
 
             ErrorMessage21 As label:
@@ -1541,7 +1541,7 @@ APUESTA_GRUPO_A As screen:
             MaxLength: =DataSourceInfo([@Tabla2], DataSourceInfo.MaxLength, "U_GrupoA5")
             Required: =false
             Update: =DataCardValue22.Text
-            Width: =153
+            Width: =173
             X: =0
             Y: =4
             ZIndex: =1
@@ -1595,8 +1595,8 @@ APUESTA_GRUPO_A As screen:
                 Size: =21
                 Tooltip: =Parent.DisplayName
                 Width: =Parent.Width - 80
-                X: =30
-                Y: =DataCardKey22.Y + DataCardKey22.Height + 5
+                X: =50
+                Y: =35
                 ZIndex: =2
 
             ErrorMessage22 As label:
@@ -1657,7 +1657,7 @@ APUESTA_GRUPO_A As screen:
             MaxLength: =DataSourceInfo([@Tabla2], DataSourceInfo.MaxLength, "U_GrupoA5_x002e_5")
             Required: =false
             Update: =DataCardValue23.Text
-            Width: =153
+            Width: =173
             X: =1
             Y: =4
             ZIndex: =1
@@ -1712,7 +1712,7 @@ APUESTA_GRUPO_A As screen:
                 Tooltip: =Parent.DisplayName
                 Width: =Parent.Width - 80
                 X: =30
-                Y: =DataCardKey23.Y + DataCardKey23.Height + 5
+                Y: =35
                 ZIndex: =2
 
             ErrorMessage23 As label:
@@ -1773,7 +1773,7 @@ APUESTA_GRUPO_A As screen:
             MaxLength: =DataSourceInfo([@Tabla2], DataSourceInfo.MaxLength, "U_GrupoA6")
             Required: =false
             Update: =DataCardValue24.Text
-            Width: =153
+            Width: =173
             X: =0
             Y: =5
             ZIndex: =1
@@ -1827,8 +1827,8 @@ APUESTA_GRUPO_A As screen:
                 Size: =21
                 Tooltip: =Parent.DisplayName
                 Width: =Parent.Width - 80
-                X: =30
-                Y: =DataCardKey24.Y + DataCardKey24.Height + 5
+                X: =50
+                Y: =35
                 ZIndex: =2
 
             ErrorMessage24 As label:
@@ -1889,7 +1889,7 @@ APUESTA_GRUPO_A As screen:
             MaxLength: =DataSourceInfo([@Tabla2], DataSourceInfo.MaxLength, "U_GrupoA6_x002e_6")
             Required: =false
             Update: =DataCardValue25.Text
-            Width: =153
+            Width: =173
             X: =1
             Y: =5
             ZIndex: =1
@@ -1944,7 +1944,7 @@ APUESTA_GRUPO_A As screen:
                 Tooltip: =Parent.DisplayName
                 Width: =Parent.Width - 80
                 X: =30
-                Y: =DataCardKey25.Y + DataCardKey25.Height + 5
+                Y: =35
                 ZIndex: =2
 
             ErrorMessage25 As label:
