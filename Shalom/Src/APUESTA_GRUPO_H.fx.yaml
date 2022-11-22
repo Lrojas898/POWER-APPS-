@@ -745,11 +745,11 @@ APUESTA_GRUPO_H As screen:
     GRUPOHFORM As form:
         BorderColor: =RGBA(166, 166, 166, 1)
         DataSource: =Tabla2
-        Height: =908
+        Height: =734
         NumberOfColumns: =2
         Width: =297
-        X: =171
-        Y: =142
+        X: =170
+        Y: =241
         ZIndex: =71
 
         U_GrupoH1_DataCard1 As typedDataCard.textualEditCard:
@@ -783,7 +783,7 @@ APUESTA_GRUPO_H As screen:
                 Height: =48
                 PaddingLeft: =0
                 Size: =21
-                Text: =Parent.DisplayName
+                Text: =""
                 Width: =Parent.Width - 60
                 Wrap: =false
                 X: =30
@@ -899,7 +899,7 @@ APUESTA_GRUPO_H As screen:
                 Height: =48
                 PaddingLeft: =0
                 Size: =21
-                Text: =Parent.DisplayName
+                Text: =""
                 Width: =Parent.Width - 60
                 Wrap: =false
                 X: =30
@@ -1015,7 +1015,7 @@ APUESTA_GRUPO_H As screen:
                 Height: =48
                 PaddingLeft: =0
                 Size: =21
-                Text: =Parent.DisplayName
+                Text: =""
                 Width: =Parent.Width - 60
                 Wrap: =false
                 X: =30
@@ -1051,7 +1051,7 @@ APUESTA_GRUPO_H As screen:
                 Tooltip: =Parent.DisplayName
                 Width: =Parent.Width - 60
                 X: =30
-                Y: =DataCardKey93.Y + DataCardKey93.Height + 5
+                Y: =40
                 ZIndex: =2
 
             ErrorMessage93 As label:
@@ -1131,7 +1131,7 @@ APUESTA_GRUPO_H As screen:
                 Height: =48
                 PaddingLeft: =0
                 Size: =21
-                Text: =Parent.DisplayName
+                Text: =""
                 Width: =Parent.Width - 60
                 Wrap: =false
                 X: =30
@@ -1167,7 +1167,7 @@ APUESTA_GRUPO_H As screen:
                 Tooltip: =Parent.DisplayName
                 Width: =Parent.Width - 60
                 X: =30
-                Y: =DataCardKey94.Y + DataCardKey94.Height + 5
+                Y: =40
                 ZIndex: =2
 
             ErrorMessage94 As label:
@@ -1247,7 +1247,7 @@ APUESTA_GRUPO_H As screen:
                 Height: =48
                 PaddingLeft: =0
                 Size: =21
-                Text: =Parent.DisplayName
+                Text: =""
                 Width: =Parent.Width - 60
                 Wrap: =false
                 X: =30
@@ -1283,7 +1283,7 @@ APUESTA_GRUPO_H As screen:
                 Tooltip: =Parent.DisplayName
                 Width: =Parent.Width - 60
                 X: =30
-                Y: =DataCardKey95.Y + DataCardKey95.Height + 5
+                Y: =60
                 ZIndex: =2
 
             ErrorMessage95 As label:
@@ -1363,7 +1363,7 @@ APUESTA_GRUPO_H As screen:
                 Height: =48
                 PaddingLeft: =0
                 Size: =21
-                Text: =Parent.DisplayName
+                Text: =""
                 Width: =Parent.Width - 60
                 Wrap: =false
                 X: =30
@@ -1399,7 +1399,7 @@ APUESTA_GRUPO_H As screen:
                 Tooltip: =Parent.DisplayName
                 Width: =Parent.Width - 60
                 X: =30
-                Y: =DataCardKey96.Y + DataCardKey96.Height + 5
+                Y: =60
                 ZIndex: =2
 
             ErrorMessage96 As label:
@@ -1479,7 +1479,7 @@ APUESTA_GRUPO_H As screen:
                 Height: =48
                 PaddingLeft: =0
                 Size: =21
-                Text: =Parent.DisplayName
+                Text: =""
                 Width: =Parent.Width - 60
                 Wrap: =false
                 X: =30
@@ -1515,7 +1515,7 @@ APUESTA_GRUPO_H As screen:
                 Tooltip: =Parent.DisplayName
                 Width: =Parent.Width - 60
                 X: =30
-                Y: =DataCardKey97.Y + DataCardKey97.Height + 5
+                Y: =35
                 ZIndex: =2
 
             ErrorMessage97 As label:
@@ -1595,7 +1595,7 @@ APUESTA_GRUPO_H As screen:
                 Height: =48
                 PaddingLeft: =0
                 Size: =21
-                Text: =Parent.DisplayName
+                Text: =""
                 Width: =Parent.Width - 60
                 Wrap: =false
                 X: =30
@@ -1631,7 +1631,7 @@ APUESTA_GRUPO_H As screen:
                 Tooltip: =Parent.DisplayName
                 Width: =Parent.Width - 60
                 X: =30
-                Y: =DataCardKey98.Y + DataCardKey98.Height + 5
+                Y: =35
                 ZIndex: =2
 
             ErrorMessage98 As label:
@@ -1711,7 +1711,7 @@ APUESTA_GRUPO_H As screen:
                 Height: =48
                 PaddingLeft: =0
                 Size: =21
-                Text: =Parent.DisplayName
+                Text: =""
                 Width: =Parent.Width - 60
                 Wrap: =false
                 X: =30
@@ -1747,7 +1747,7 @@ APUESTA_GRUPO_H As screen:
                 Tooltip: =Parent.DisplayName
                 Width: =Parent.Width - 60
                 X: =30
-                Y: =DataCardKey99.Y + DataCardKey99.Height + 5
+                Y: =50
                 ZIndex: =2
 
             ErrorMessage99 As label:
@@ -1827,7 +1827,7 @@ APUESTA_GRUPO_H As screen:
                 Height: =48
                 PaddingLeft: =0
                 Size: =21
-                Text: =Parent.DisplayName
+                Text: =""
                 Width: =Parent.Width - 60
                 Wrap: =false
                 X: =30
@@ -1863,7 +1863,7 @@ APUESTA_GRUPO_H As screen:
                 Tooltip: =Parent.DisplayName
                 Width: =Parent.Width - 60
                 X: =30
-                Y: =DataCardKey100.Y + DataCardKey100.Height + 5
+                Y: =50
                 ZIndex: =2
 
             ErrorMessage100 As label:
@@ -1943,7 +1943,7 @@ APUESTA_GRUPO_H As screen:
                 Height: =48
                 PaddingLeft: =0
                 Size: =21
-                Text: =Parent.DisplayName
+                Text: =""
                 Width: =Parent.Width - 60
                 Wrap: =false
                 X: =30
@@ -1979,7 +1979,7 @@ APUESTA_GRUPO_H As screen:
                 Tooltip: =Parent.DisplayName
                 Width: =Parent.Width - 60
                 X: =30
-                Y: =DataCardKey101.Y + DataCardKey101.Height + 5
+                Y: =30
                 ZIndex: =2
 
             ErrorMessage101 As label:
@@ -2059,7 +2059,7 @@ APUESTA_GRUPO_H As screen:
                 Height: =48
                 PaddingLeft: =0
                 Size: =21
-                Text: =Parent.DisplayName
+                Text: =""
                 Width: =Parent.Width - 60
                 Wrap: =false
                 X: =30
@@ -2095,7 +2095,7 @@ APUESTA_GRUPO_H As screen:
                 Tooltip: =Parent.DisplayName
                 Width: =Parent.Width - 60
                 X: =30
-                Y: =DataCardKey102.Y + DataCardKey102.Height + 5
+                Y: =30
                 ZIndex: =2
 
             ErrorMessage102 As label:
