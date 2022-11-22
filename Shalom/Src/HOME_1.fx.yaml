@@ -24,7 +24,7 @@ HOME_1 As screen:
             PaddingRight: =0
             PaddingTop: =0
             Size: =20
-            Text: =ThisItem.Gmail
+            Text: =ThisItem.Puesto
             VerticalAlign: =VerticalAlign.Top
             Width: =Parent.TemplateWidth - 104
             X: =32
@@ -42,7 +42,7 @@ HOME_1 As screen:
             PaddingRight: =0
             PaddingTop: =0
             Size: =18
-            Text: =ThisItem.ID
+            Text: =ThisItem.Puntos
             VerticalAlign: =VerticalAlign.Top
             Width: =Parent.TemplateWidth - 104
             X: =32
@@ -60,7 +60,7 @@ HOME_1 As screen:
             PaddingRight: =0
             PaddingTop: =0
             Size: =16
-            Text: =ThisItem.Nombre
+            Text: =ThisItem.Usuario
             VerticalAlign: =VerticalAlign.Top
             Width: =Parent.TemplateWidth - 104
             X: =32
