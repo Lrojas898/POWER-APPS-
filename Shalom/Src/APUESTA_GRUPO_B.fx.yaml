@@ -758,7 +758,7 @@ APUESTA_GRUPO_B As screen:
 
     GRUPOBFORM As form:
         BorderColor: =RGBA(166, 166, 166, 1)
-        DataSource: =Tabla2
+        DataSource: =PUNTAJES
         Height: =824
         NumberOfColumns: =2
         Width: =321
