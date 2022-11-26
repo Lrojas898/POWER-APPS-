@@ -73,7 +73,7 @@ HOME_1 As screen:
             PaddingRight: =0
             PaddingTop: =0
             Size: =16
-            Text: =ThisItem.Usuario
+            Text: =ThisItem.'Puntos Totales'
             VerticalAlign: =VerticalAlign.Top
             Width: =Parent.TemplateWidth - 104
             X: =32

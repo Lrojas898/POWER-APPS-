@@ -8,7 +8,6 @@
     },
     "ConnectedDataSourceInfoNameMapping": {
       "__PowerAppsId__": "Row id",
-      "Column1": "Column1",
       "Puesto": "Puesto",
       "PUNTO_x0020_TOTAL_x0020_A_x0020_": "PUNTO TOTAL A ",
       "PUNTO_x0020_TOTAL_x0020_G": "PUNTO TOTAL G",
@@ -162,7 +161,8 @@
       "U_GrupoH5": "U_GrupoH5",
       "U_GrupoH5_x002e_5": "U_GrupoH5.5",
       "U_GrupoH6": "U_GrupoH6",
-      "U_GrupoH6_x002e_6": "U_GrupoH6.6"
+      "U_GrupoH6_x002e_6": "U_GrupoH6.6",
+      "Usuario": "Usuario"
     },
     "DatasetName": "b!a1xa3RSSfU6ruxcJHjJatB0Gfd-GMXdOrAhQBlPQv2HmA8JJUQBLT71_K2-rM4CE.013FRY3XHDGNDCX76CHBE2N7QYK6IQGLAL",
     "EncodeDataset": true,
