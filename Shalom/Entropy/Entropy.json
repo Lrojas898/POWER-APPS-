@@ -671,7 +671,6 @@
     "nombre_3": 527,
     "nombre_4": 529,
     "nombre_5": 531,
-    "nombre_6": 503,
     "Nombre_DataCard2": 1119,
     "nombrelabel": 500,
     "nombrelabel_1": 522,
@@ -679,7 +678,6 @@
     "nombrelabel_3": 526,
     "nombrelabel_4": 528,
     "nombrelabel_5": 530,
-    "nombrelabel_6": 502,
     "OlvideContraseña": 140,
     "Password_DataCard2": 1129,
     "PERFIL": 510,
@@ -1047,7 +1045,7 @@
   },
   "FunctionParamsInvariantScripts": {},
   "FunctionParamsInvariantScriptsOnInstances": {},
-  "HeaderLastSavedDateTimeUTC": "11/26/2022 18:51:37",
+  "HeaderLastSavedDateTimeUTC": "11/26/2022 19:00:45",
   "IsLegacyComponentAllowGlobalScopeCase": false,
   "LocalConnectionIDReferences": {
     "86339610-381e-46bc-aee5-dff1f22d06d1": "\"/providers/microsoft.powerapps/apis/shared_excel/connections/92a0d8daa56a4db5b86efa07fcc258b1\"",
@@ -2005,7 +2003,6 @@
     "nombre_3": 98,
     "nombre_4": 100,
     "nombre_5": 102,
-    "nombre_6": 21,
     "Nombre_DataCard2": 34,
     "nombrelabel": 18,
     "nombrelabel_1": 93,
@@ -2013,7 +2010,6 @@
     "nombrelabel_3": 97,
     "nombrelabel_4": 99,
     "nombrelabel_5": 101,
-    "nombrelabel_6": 20,
     "OlvideContraseña": 11,
     "Password_DataCard2": 44,
     "PERFIL": 638,
@@ -2505,7 +2501,7 @@
       "typedDataCard": 102
     },
     "DeserializationLoadTime": 12.6281013,
-    "ErrorCount": 384
+    "ErrorCount": 385
   },
   "WasLocalDatabaseReferencesEmpty": false
 }
