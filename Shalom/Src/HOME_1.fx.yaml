@@ -10,14 +10,13 @@ HOME_1 As screen:
         Fill: =RGBA(141, 28, 61, 1)
         FocusedBorderThickness: =4
         Height: =318
-        HoverFill: =RGBA(0, 120, 212, 1)
-        PressedFill: =RGBA(0, 120, 212, 1)
+        HoverFill: =RGBA(141, 28, 61, 1)
+        PressedFill: =RGBA(141, 28, 61, 1)
         Width: =640
         ZIndex: =1
 
     "Gallery1 As gallery.'BrowseLayout_Vertical_ThreeTextVariant_ver4.0'":
         BorderColor: =RGBA(166, 166, 166, 1)
-        Height: =817
         Items: =Tabla2
         Layout: =Layout.Vertical
         TemplatePadding: =0
@@ -25,7 +24,7 @@ HOME_1 As screen:
         Y: =318
         ZIndex: =1
 
-        Title2 As label:
+        Title3 As label:
             Color: =RGBA(51, 51, 51, 1)
             DisabledColor: =RGBA(166, 166, 166, 1)
             Font: =Font.'Segoe UI'
@@ -37,14 +36,14 @@ HOME_1 As screen:
             PaddingRight: =0
             PaddingTop: =0
             Size: =20
-            Text: =ThisItem.Puesto
+            Text: =ThisItem.Gmail
             VerticalAlign: =VerticalAlign.Top
             Width: =Parent.TemplateWidth - 104
             X: =32
             Y: =16
             ZIndex: =1
 
-        Subtitle2 As label:
+        Subtitle3 As label:
             Color: =RGBA(51, 51, 51, 1)
             DisabledColor: =RGBA(166, 166, 166, 1)
             Font: =Font.'Segoe UI'
@@ -55,11 +54,11 @@ HOME_1 As screen:
             PaddingRight: =0
             PaddingTop: =0
             Size: =18
-            Text: =ThisItem.Puntos
+            Text: =ThisItem.ID
             VerticalAlign: =VerticalAlign.Top
             Width: =Parent.TemplateWidth - 104
             X: =32
-            Y: =Title2.Y + Title2.Height + 2
+            Y: =Title3.Y + Title3.Height + 2
             ZIndex: =2
 
         Body1 As label:
@@ -73,14 +72,14 @@ HOME_1 As screen:
             PaddingRight: =0
             PaddingTop: =0
             Size: =16
-            Text: =ThisItem.Usuario
+            Text: =ThisItem.Puntos_TOTAL
             VerticalAlign: =VerticalAlign.Top
             Width: =Parent.TemplateWidth - 104
             X: =32
-            Y: =Subtitle2.Y + Subtitle2.Height + 4
+            Y: =Subtitle3.Y + Subtitle3.Height + 4
             ZIndex: =3
 
-        NextArrow2 As icon.ChevronRight:
+        NextArrow3 As icon.ChevronRight:
             AccessibleLabel: =Self.Tooltip
             BorderColor: =RGBA(166, 166, 166, 1)
             Color: =RGBA(0, 120, 212, 1)
@@ -108,7 +107,7 @@ HOME_1 As screen:
             Y: =(Parent.TemplateHeight / 2) - (Self.Height / 2)
             ZIndex: =4
 
-        Separator2 As rectangle:
+        Separator3 As rectangle:
             BorderColor: =RGBA(0, 0, 0, 0)
             Fill: =ColorFade(RGBA(0, 120, 212, 1), -30%)
             Height: =1
@@ -116,27 +115,6 @@ HOME_1 As screen:
             Width: =Parent.TemplateWidth
             Y: =Parent.TemplateHeight - 1
             ZIndex: =5
-
-    Label411290 As label:
-        BorderColor: =RGBA(0, 0, 0, 0)
-        BorderStyle: =BorderStyle.None
-        Color: =RGBA(255, 255, 255, 1)
-        DisabledBorderColor: =RGBA(0, 0, 0, 0)
-        DisabledColor: =RGBA(166, 166, 166, 1)
-        FocusedBorderThickness: =4
-        Height: =44
-        LineHeight: =1.210227
-        PaddingBottom: =0
-        PaddingLeft: =0
-        PaddingRight: =0
-        PaddingTop: =0
-        Size: =30
-        Text: ="83838 "
-        VerticalAlign: =VerticalAlign.Top
-        Width: =185
-        X: =38
-        Y: =91
-        ZIndex: =8
 
     Label411291 As label:
         BorderColor: =RGBA(0, 0, 0, 0)
