@@ -72,52 +72,6 @@ PERFIL As screen:
         Y: =182
         ZIndex: =20
 
-    Label411256_10 As label:
-        BorderColor: =RGBA(0, 0, 0, 0)
-        BorderStyle: =BorderStyle.None
-        Color: =RGBA(255, 255, 255, 1)
-        DisabledBorderColor: =RGBA(0, 0, 0, 0)
-        DisabledColor: =RGBA(166, 166, 166, 1)
-        DisplayMode: =DisplayMode.View
-        FocusedBorderThickness: =4
-        FontWeight: =FontWeight.Bold
-        Height: =39
-        LineHeight: =1.210227
-        PaddingBottom: =0
-        PaddingLeft: =0
-        PaddingRight: =0
-        PaddingTop: =0
-        Size: =25
-        Text: ="Primer Puesto"
-        VerticalAlign: =VerticalAlign.Top
-        Width: =279
-        X: =59
-        Y: =200
-        ZIndex: =21
-
-    Label411256_11 As label:
-        BorderColor: =RGBA(0, 0, 0, 0)
-        BorderStyle: =BorderStyle.None
-        Color: =RGBA(255, 255, 255, 1)
-        DisabledBorderColor: =RGBA(0, 0, 0, 0)
-        DisabledColor: =RGBA(166, 166, 166, 1)
-        DisplayMode: =DisplayMode.View
-        FocusedBorderThickness: =4
-        Height: =22
-        LineHeight: =1.210227
-        PaddingBottom: =0
-        PaddingLeft: =0
-        PaddingRight: =0
-        PaddingTop: =0
-        Size: =15
-        Text: |
-            =Items.Usuario
-        VerticalAlign: =VerticalAlign.Top
-        Width: =216
-        X: =59
-        Y: =242
-        ZIndex: =22
-
     Label411256_12 As label:
         BorderColor: =RGBA(0, 0, 0, 0)
         BorderStyle: =BorderStyle.None
@@ -488,4 +442,21 @@ PERFIL As screen:
         X: =32
         Y: =31
         ZIndex: =38
+
+    PERFILUSUARIO As label:
+        BorderColor: =RGBA(0, 0, 0, 0)
+        BorderStyle: =BorderStyle.None
+        BorderThickness: =2
+        Color: =RGBA(51, 51, 51, 1)
+        DisabledBorderColor: =RGBA(0, 0, 0, 0)
+        DisabledColor: =RGBA(166, 166, 166, 1)
+        FocusedBorderThickness: =4
+        Font: =Font.'Segoe UI'
+        Height: =70
+        Size: =21
+        Text: =""
+        Width: =560
+        X: =42
+        Y: =205
+        ZIndex: =39
 
