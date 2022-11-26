@@ -13503,10 +13503,10 @@
                   "relativeAddress": 0
                 },
                 "region": {
-                  "charLength": 7,
-                  "charOffset": 19,
+                  "charLength": 14,
+                  "charOffset": 24,
                   "snippet": {
-                    "text": "Newform"
+                    "text": "Newform(Form4)"
                   }
                 }
               },
@@ -13518,49 +13518,15 @@
             }
           ],
           "message": {
+            "arguments": [
+              "Newform"
+            ],
             "id": "issue"
           },
           "properties": {
             "level": "High"
           },
-          "ruleId": "app-ErrOperatorExpected",
-          "ruleIndex": 2
-        },
-        {
-          "locations": [
-            {
-              "logicalLocations": [
-                {
-                  "fullyQualifiedName": "SINGINNEWUSER.SubmitSignIn_1.OnSelect"
-                }
-              ],
-              "physicalLocation": {
-                "address": {
-                  "fullyQualifiedName": "SINGINNEWUSER.SubmitSignIn_1.OnSelect",
-                  "relativeAddress": 0
-                },
-                "region": {
-                  "charLength": 7,
-                  "charOffset": 19,
-                  "snippet": {
-                    "text": "Newform"
-                  }
-                }
-              },
-              "properties": {
-                "member": "OnSelect",
-                "module": "SINGINNEWUSER",
-                "type": "SINGINNEWUSER.SubmitSignIn_1"
-              }
-            }
-          ],
-          "message": {
-            "id": "issue"
-          },
-          "properties": {
-            "level": "High"
-          },
-          "ruleId": "app-ErrOperatorExpected",
+          "ruleId": "app-ErrUnknownFunction",
           "ruleIndex": 2
         },
         {
@@ -39371,17 +39337,14 @@
               }
             },
             {
-              "id": "app-ErrOperatorExpected",
+              "id": "app-ErrUnknownFunction",
               "messageStrings": {
                 "issue": {
-                  "text": "Expected operator. We expect an operator such as +, *, or & at this point in the formula."
+                  "text": "'{0}' is an unknown or unsupported function."
                 }
               },
               "properties": {
                 "componentType": "app",
-                "howToFix": [
-                  "Edit your formula so that it includes an operator between the operands."
-                ],
                 "level": "High",
                 "primaryCategory": "formula",
                 "whyFix": ""

@@ -1066,7 +1066,7 @@
   },
   "FunctionParamsInvariantScripts": {},
   "FunctionParamsInvariantScriptsOnInstances": {},
-  "HeaderLastSavedDateTimeUTC": "11/26/2022 22:16:09",
+  "HeaderLastSavedDateTimeUTC": "11/26/2022 22:16:34",
   "IsLegacyComponentAllowGlobalScopeCase": false,
   "LocalConnectionIDReferences": {
     "3f37be15-50ca-48e9-a708-a498d7fb2c10": "\"/providers/microsoft.powerapps/apis/shared_office365/connections/shared-office365-9b96b75a-f276-4649-ba17-b84cbb5ef485\"",
@@ -2540,7 +2540,7 @@
       "typedDataCard": 102
     },
     "DeserializationLoadTime": 12.2625758,
-    "ErrorCount": 387
+    "ErrorCount": 386
   },
   "WasLocalDatabaseReferencesEmpty": false
 }
