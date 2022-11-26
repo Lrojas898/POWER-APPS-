@@ -169,7 +169,7 @@ SINGINNEWUSER As screen:
     SinInForm As form:
         BorderColor: =RGBA(166, 166, 166, 1)
         DataSource: =USUARIOS
-        Height: =910
+        Height: =899
         Width: =640
         Y: =133
         ZIndex: =52
@@ -180,18 +180,18 @@ SINGINNEWUSER As screen:
             DataField: ="Nombre"
             Default: =ThisItem.Nombre
             DisplayMode: =Parent.DisplayMode
-            DisplayName: =DataSourceInfo([@Tabla2],DataSourceInfo.DisplayName,"Nombre")
+            DisplayName: =DataSourceInfo([@USUARIOS],DataSourceInfo.DisplayName,"Nombre")
             Fill: =RGBA(0, 0, 0, 0)
             Height: =50
-            MaxLength: =DataSourceInfo([@Tabla2], DataSourceInfo.MaxLength, "Nombre")
+            MaxLength: =DataSourceInfo([@USUARIOS], DataSourceInfo.MaxLength, "Nombre")
             Required: =false
-            Update: =DataCardValue8.Text
+            Update: =DataCardValue115.Text
             Width: =640
             X: =0
             Y: =0
             ZIndex: =1
 
-            DataCardKey8 As label:
+            DataCardKey115 As label:
                 AutoHeight: =true
                 BorderColor: =RGBA(0, 0, 0, 0)
                 BorderStyle: =BorderStyle.None
@@ -212,7 +212,7 @@ SINGINNEWUSER As screen:
                 Y: =10
                 ZIndex: =1
 
-            DataCardValue8 As text:
+            DataCardValue115 As text:
                 BorderColor: =If(IsBlank(Parent.Error), Parent.BorderColor, Color.Red)
                 BorderThickness: =2
                 Color: =RGBA(51, 51, 51, 1)
@@ -241,7 +241,7 @@ SINGINNEWUSER As screen:
                 Tooltip: =Parent.DisplayName
                 Width: =Parent.Width - 60
                 X: =30
-                Y: =DataCardKey8.Y + DataCardKey8.Height + 5
+                Y: =DataCardKey115.Y + DataCardKey115.Height + 5
                 ZIndex: =2
 
             ErrorMessage8 As label:
@@ -266,7 +266,7 @@ SINGINNEWUSER As screen:
                 Visible: =Parent.DisplayMode=DisplayMode.Edit
                 Width: =Parent.Width - 60
                 X: =30
-                Y: =DataCardValue8.Y + DataCardValue8.Height
+                Y: =DataCardValue115.Y + DataCardValue115.Height
                 ZIndex: =3
 
             StarVisible8 As label:
@@ -280,34 +280,34 @@ SINGINNEWUSER As screen:
                 FocusedBorderThickness: =4
                 Font: =Font.'Segoe UI'
                 FontWeight: =FontWeight.Semibold
-                Height: =DataCardKey8.Height
+                Height: =DataCardKey115.Height
                 PaddingLeft: =0
                 Size: =21
                 Text: ="*"
                 Visible: =And(Parent.Required, Parent.DisplayMode=DisplayMode.Edit)
                 Width: =30
                 Wrap: =false
-                Y: =DataCardKey8.Y
+                Y: =DataCardKey115.Y
                 ZIndex: =4
 
-        Password_DataCard2 As typedDataCard.textualEditCard:
+        Usuario_DataCard2 As typedDataCard.textualEditCard:
             BorderColor: =RGBA(166, 166, 166, 1)
             BorderStyle: =BorderStyle.Solid
-            DataField: ="Password"
-            Default: =ThisItem.Password
+            DataField: ="Usuario"
+            Default: =ThisItem.Usuario
             DisplayMode: =Parent.DisplayMode
-            DisplayName: =DataSourceInfo([@Tabla2],DataSourceInfo.DisplayName,"Password")
+            DisplayName: =DataSourceInfo([@USUARIOS],DataSourceInfo.DisplayName,"Usuario")
             Fill: =RGBA(0, 0, 0, 0)
             Height: =50
-            MaxLength: =DataSourceInfo([@Tabla2], DataSourceInfo.MaxLength, "Password")
+            MaxLength: =DataSourceInfo([@USUARIOS], DataSourceInfo.MaxLength, "Usuario")
             Required: =false
-            Update: =DataCardValue9.Text
+            Update: =DataCardValue116.Text
             Width: =640
             X: =0
             Y: =1
             ZIndex: =1
 
-            DataCardKey9 As label:
+            DataCardKey116 As label:
                 AutoHeight: =true
                 BorderColor: =RGBA(0, 0, 0, 0)
                 BorderStyle: =BorderStyle.None
@@ -328,7 +328,7 @@ SINGINNEWUSER As screen:
                 Y: =10
                 ZIndex: =1
 
-            DataCardValue9 As text:
+            DataCardValue116 As text:
                 BorderColor: =If(IsBlank(Parent.Error), Parent.BorderColor, Color.Red)
                 BorderThickness: =2
                 Color: =RGBA(51, 51, 51, 1)
@@ -357,7 +357,7 @@ SINGINNEWUSER As screen:
                 Tooltip: =Parent.DisplayName
                 Width: =Parent.Width - 60
                 X: =30
-                Y: =DataCardKey9.Y + DataCardKey9.Height + 5
+                Y: =DataCardKey116.Y + DataCardKey116.Height + 5
                 ZIndex: =2
 
             ErrorMessage9 As label:
@@ -382,7 +382,7 @@ SINGINNEWUSER As screen:
                 Visible: =Parent.DisplayMode=DisplayMode.Edit
                 Width: =Parent.Width - 60
                 X: =30
-                Y: =DataCardValue9.Y + DataCardValue9.Height
+                Y: =DataCardValue116.Y + DataCardValue116.Height
                 ZIndex: =3
 
             StarVisible9 As label:
@@ -396,34 +396,34 @@ SINGINNEWUSER As screen:
                 FocusedBorderThickness: =4
                 Font: =Font.'Segoe UI'
                 FontWeight: =FontWeight.Semibold
-                Height: =DataCardKey9.Height
+                Height: =DataCardKey116.Height
                 PaddingLeft: =0
                 Size: =21
                 Text: ="*"
                 Visible: =And(Parent.Required, Parent.DisplayMode=DisplayMode.Edit)
                 Width: =30
                 Wrap: =false
-                Y: =DataCardKey9.Y
+                Y: =DataCardKey116.Y
                 ZIndex: =4
 
-        Telefono_DataCard2 As typedDataCard.textualEditCard:
+        Password_DataCard2 As typedDataCard.textualEditCard:
             BorderColor: =RGBA(166, 166, 166, 1)
             BorderStyle: =BorderStyle.Solid
-            DataField: ="Telefono"
-            Default: =ThisItem.Telefono
+            DataField: ="Password"
+            Default: =ThisItem.Password
             DisplayMode: =Parent.DisplayMode
-            DisplayName: =DataSourceInfo([@Tabla2],DataSourceInfo.DisplayName,"Telefono")
+            DisplayName: =DataSourceInfo([@USUARIOS],DataSourceInfo.DisplayName,"Password")
             Fill: =RGBA(0, 0, 0, 0)
             Height: =50
-            MaxLength: =DataSourceInfo([@Tabla2], DataSourceInfo.MaxLength, "Telefono")
+            MaxLength: =DataSourceInfo([@USUARIOS], DataSourceInfo.MaxLength, "Password")
             Required: =false
-            Update: =DataCardValue10.Text
+            Update: =DataCardValue117.Text
             Width: =640
             X: =0
             Y: =2
             ZIndex: =1
 
-            DataCardKey10 As label:
+            DataCardKey117 As label:
                 AutoHeight: =true
                 BorderColor: =RGBA(0, 0, 0, 0)
                 BorderStyle: =BorderStyle.None
@@ -444,7 +444,7 @@ SINGINNEWUSER As screen:
                 Y: =10
                 ZIndex: =1
 
-            DataCardValue10 As text:
+            DataCardValue117 As text:
                 BorderColor: =If(IsBlank(Parent.Error), Parent.BorderColor, Color.Red)
                 BorderThickness: =2
                 Color: =RGBA(51, 51, 51, 1)
@@ -473,7 +473,7 @@ SINGINNEWUSER As screen:
                 Tooltip: =Parent.DisplayName
                 Width: =Parent.Width - 60
                 X: =30
-                Y: =DataCardKey10.Y + DataCardKey10.Height + 5
+                Y: =DataCardKey117.Y + DataCardKey117.Height + 5
                 ZIndex: =2
 
             ErrorMessage10 As label:
@@ -498,7 +498,7 @@ SINGINNEWUSER As screen:
                 Visible: =Parent.DisplayMode=DisplayMode.Edit
                 Width: =Parent.Width - 60
                 X: =30
-                Y: =DataCardValue10.Y + DataCardValue10.Height
+                Y: =DataCardValue117.Y + DataCardValue117.Height
                 ZIndex: =3
 
             StarVisible10 As label:
@@ -512,34 +512,34 @@ SINGINNEWUSER As screen:
                 FocusedBorderThickness: =4
                 Font: =Font.'Segoe UI'
                 FontWeight: =FontWeight.Semibold
-                Height: =DataCardKey10.Height
+                Height: =DataCardKey117.Height
                 PaddingLeft: =0
                 Size: =21
                 Text: ="*"
                 Visible: =And(Parent.Required, Parent.DisplayMode=DisplayMode.Edit)
                 Width: =30
                 Wrap: =false
-                Y: =DataCardKey10.Y
+                Y: =DataCardKey117.Y
                 ZIndex: =4
 
-        Usuario_DataCard2 As typedDataCard.textualEditCard:
+        Gmail_DataCard3 As typedDataCard.textualEditCard:
             BorderColor: =RGBA(166, 166, 166, 1)
             BorderStyle: =BorderStyle.Solid
-            DataField: ="Usuario"
-            Default: =ThisItem.Usuario
+            DataField: ="Gmail"
+            Default: =ThisItem.Gmail
             DisplayMode: =Parent.DisplayMode
-            DisplayName: =DataSourceInfo([@Tabla2],DataSourceInfo.DisplayName,"Usuario")
+            DisplayName: =DataSourceInfo([@USUARIOS],DataSourceInfo.DisplayName,"Gmail")
             Fill: =RGBA(0, 0, 0, 0)
             Height: =50
-            MaxLength: =DataSourceInfo([@Tabla2], DataSourceInfo.MaxLength, "Usuario")
+            MaxLength: =DataSourceInfo([@USUARIOS], DataSourceInfo.MaxLength, "Gmail")
             Required: =false
-            Update: =DataCardValue11.Text
+            Update: =DataCardValue118.Text
             Width: =640
             X: =0
             Y: =3
             ZIndex: =1
 
-            DataCardKey11 As label:
+            DataCardKey118 As label:
                 AutoHeight: =true
                 BorderColor: =RGBA(0, 0, 0, 0)
                 BorderStyle: =BorderStyle.None
@@ -560,7 +560,7 @@ SINGINNEWUSER As screen:
                 Y: =10
                 ZIndex: =1
 
-            DataCardValue11 As text:
+            DataCardValue118 As text:
                 BorderColor: =If(IsBlank(Parent.Error), Parent.BorderColor, Color.Red)
                 BorderThickness: =2
                 Color: =RGBA(51, 51, 51, 1)
@@ -589,7 +589,7 @@ SINGINNEWUSER As screen:
                 Tooltip: =Parent.DisplayName
                 Width: =Parent.Width - 60
                 X: =30
-                Y: =DataCardKey11.Y + DataCardKey11.Height + 5
+                Y: =DataCardKey118.Y + DataCardKey118.Height + 5
                 ZIndex: =2
 
             ErrorMessage11 As label:
@@ -614,7 +614,7 @@ SINGINNEWUSER As screen:
                 Visible: =Parent.DisplayMode=DisplayMode.Edit
                 Width: =Parent.Width - 60
                 X: =30
-                Y: =DataCardValue11.Y + DataCardValue11.Height
+                Y: =DataCardValue118.Y + DataCardValue118.Height
                 ZIndex: =3
 
             StarVisible11 As label:
@@ -628,14 +628,14 @@ SINGINNEWUSER As screen:
                 FocusedBorderThickness: =4
                 Font: =Font.'Segoe UI'
                 FontWeight: =FontWeight.Semibold
-                Height: =DataCardKey11.Height
+                Height: =DataCardKey118.Height
                 PaddingLeft: =0
                 Size: =21
                 Text: ="*"
                 Visible: =And(Parent.Required, Parent.DisplayMode=DisplayMode.Edit)
                 Width: =30
                 Wrap: =false
-                Y: =DataCardKey11.Y
+                Y: =DataCardKey118.Y
                 ZIndex: =4
 
         ID_DataCard2 As typedDataCard.textualEditCard:
@@ -644,18 +644,18 @@ SINGINNEWUSER As screen:
             DataField: ="ID"
             Default: =ThisItem.ID
             DisplayMode: =Parent.DisplayMode
-            DisplayName: =DataSourceInfo([@Tabla2],DataSourceInfo.DisplayName,"ID")
+            DisplayName: =DataSourceInfo([@USUARIOS],DataSourceInfo.DisplayName,"ID")
             Fill: =RGBA(0, 0, 0, 0)
             Height: =50
-            MaxLength: =DataSourceInfo([@Tabla2], DataSourceInfo.MaxLength, "ID")
+            MaxLength: =DataSourceInfo([@USUARIOS], DataSourceInfo.MaxLength, "ID")
             Required: =false
-            Update: =DataCardValue12.Text
+            Update: =DataCardValue119.Text
             Width: =640
             X: =0
             Y: =4
             ZIndex: =1
 
-            DataCardKey12 As label:
+            DataCardKey119 As label:
                 AutoHeight: =true
                 BorderColor: =RGBA(0, 0, 0, 0)
                 BorderStyle: =BorderStyle.None
@@ -676,7 +676,7 @@ SINGINNEWUSER As screen:
                 Y: =10
                 ZIndex: =1
 
-            DataCardValue12 As text:
+            DataCardValue119 As text:
                 BorderColor: =If(IsBlank(Parent.Error), Parent.BorderColor, Color.Red)
                 BorderThickness: =2
                 Color: =RGBA(51, 51, 51, 1)
@@ -705,7 +705,7 @@ SINGINNEWUSER As screen:
                 Tooltip: =Parent.DisplayName
                 Width: =Parent.Width - 60
                 X: =30
-                Y: =DataCardKey12.Y + DataCardKey12.Height + 5
+                Y: =DataCardKey119.Y + DataCardKey119.Height + 5
                 ZIndex: =2
 
             ErrorMessage12 As label:
@@ -730,7 +730,7 @@ SINGINNEWUSER As screen:
                 Visible: =Parent.DisplayMode=DisplayMode.Edit
                 Width: =Parent.Width - 60
                 X: =30
-                Y: =DataCardValue12.Y + DataCardValue12.Height
+                Y: =DataCardValue119.Y + DataCardValue119.Height
                 ZIndex: =3
 
             StarVisible12 As label:
@@ -744,34 +744,34 @@ SINGINNEWUSER As screen:
                 FocusedBorderThickness: =4
                 Font: =Font.'Segoe UI'
                 FontWeight: =FontWeight.Semibold
-                Height: =DataCardKey12.Height
+                Height: =DataCardKey119.Height
                 PaddingLeft: =0
                 Size: =21
                 Text: ="*"
                 Visible: =And(Parent.Required, Parent.DisplayMode=DisplayMode.Edit)
                 Width: =30
                 Wrap: =false
-                Y: =DataCardKey12.Y
+                Y: =DataCardKey119.Y
                 ZIndex: =4
 
-        Gmail_DataCard1 As typedDataCard.textualEditCard:
+        Telefono_DataCard1 As typedDataCard.textualEditCard:
             BorderColor: =RGBA(166, 166, 166, 1)
             BorderStyle: =BorderStyle.Solid
-            DataField: ="Gmail"
-            Default: =ThisItem.Gmail
+            DataField: ="Telefono"
+            Default: =ThisItem.Telefono
             DisplayMode: =Parent.DisplayMode
-            DisplayName: =DataSourceInfo([@Tabla2],DataSourceInfo.DisplayName,"Gmail")
+            DisplayName: =DataSourceInfo([@USUARIOS],DataSourceInfo.DisplayName,"Telefono")
             Fill: =RGBA(0, 0, 0, 0)
             Height: =50
-            MaxLength: =DataSourceInfo([@Tabla2], DataSourceInfo.MaxLength, "Gmail")
+            MaxLength: =DataSourceInfo([@USUARIOS], DataSourceInfo.MaxLength, "Telefono")
             Required: =false
-            Update: =DataCardValue13.Text
+            Update: =DataCardValue120.Text
             Width: =640
             X: =0
             Y: =5
             ZIndex: =1
 
-            DataCardKey13 As label:
+            DataCardKey120 As label:
                 AutoHeight: =true
                 BorderColor: =RGBA(0, 0, 0, 0)
                 BorderStyle: =BorderStyle.None
@@ -792,7 +792,7 @@ SINGINNEWUSER As screen:
                 Y: =10
                 ZIndex: =1
 
-            DataCardValue13 As text:
+            DataCardValue120 As text:
                 BorderColor: =If(IsBlank(Parent.Error), Parent.BorderColor, Color.Red)
                 BorderThickness: =2
                 Color: =RGBA(51, 51, 51, 1)
@@ -821,7 +821,7 @@ SINGINNEWUSER As screen:
                 Tooltip: =Parent.DisplayName
                 Width: =Parent.Width - 60
                 X: =30
-                Y: =DataCardKey13.Y + DataCardKey13.Height + 5
+                Y: =DataCardKey120.Y + DataCardKey120.Height + 5
                 ZIndex: =2
 
             ErrorMessage13 As label:
@@ -846,7 +846,7 @@ SINGINNEWUSER As screen:
                 Visible: =Parent.DisplayMode=DisplayMode.Edit
                 Width: =Parent.Width - 60
                 X: =30
-                Y: =DataCardValue13.Y + DataCardValue13.Height
+                Y: =DataCardValue120.Y + DataCardValue120.Height
                 ZIndex: =3
 
             StarVisible13 As label:
@@ -860,13 +860,13 @@ SINGINNEWUSER As screen:
                 FocusedBorderThickness: =4
                 Font: =Font.'Segoe UI'
                 FontWeight: =FontWeight.Semibold
-                Height: =DataCardKey13.Height
+                Height: =DataCardKey120.Height
                 PaddingLeft: =0
                 Size: =21
                 Text: ="*"
                 Visible: =And(Parent.Required, Parent.DisplayMode=DisplayMode.Edit)
                 Width: =30
                 Wrap: =false
-                Y: =DataCardKey13.Y
+                Y: =DataCardKey120.Y
                 ZIndex: =4
 

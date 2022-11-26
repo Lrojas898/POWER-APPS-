@@ -20239,966 +20239,6 @@
             {
               "logicalLocations": [
                 {
-                  "fullyQualifiedName": "SINGINNEWUSER.SinInForm.Nombre_DataCard2.MaxLength"
-                }
-              ],
-              "physicalLocation": {
-                "address": {
-                  "fullyQualifiedName": "SINGINNEWUSER.SinInForm.Nombre_DataCard2.MaxLength",
-                  "relativeAddress": 0
-                },
-                "region": {
-                  "charLength": 6,
-                  "charOffset": 17,
-                  "snippet": {
-                    "text": "Tabla2"
-                  }
-                }
-              },
-              "properties": {
-                "member": "MaxLength",
-                "module": "SINGINNEWUSER",
-                "type": "SINGINNEWUSER.SinInForm.Nombre_DataCard2"
-              }
-            }
-          ],
-          "message": {
-            "arguments": [
-              "Tabla2"
-            ],
-            "id": "issue"
-          },
-          "properties": {
-            "level": "High"
-          },
-          "ruleId": "app-ErrInvalidName",
-          "ruleIndex": 0
-        },
-        {
-          "locations": [
-            {
-              "logicalLocations": [
-                {
-                  "fullyQualifiedName": "SINGINNEWUSER.SinInForm.Nombre_DataCard2.MaxLength"
-                }
-              ],
-              "physicalLocation": {
-                "address": {
-                  "fullyQualifiedName": "SINGINNEWUSER.SinInForm.Nombre_DataCard2.MaxLength",
-                  "relativeAddress": 0
-                },
-                "region": {
-                  "charLength": 61,
-                  "charOffset": 0,
-                  "snippet": {
-                    "text": "DataSourceInfo([@Tabla2], DataSourceInfo.MaxLength, \"Nombre\")"
-                  }
-                }
-              },
-              "properties": {
-                "member": "MaxLength",
-                "module": "SINGINNEWUSER",
-                "type": "SINGINNEWUSER.SinInForm.Nombre_DataCard2"
-              }
-            }
-          ],
-          "message": {
-            "arguments": [
-              "DataSourceInfo"
-            ],
-            "id": "issue"
-          },
-          "properties": {
-            "level": "High"
-          },
-          "ruleId": "app-ErrInvalidArgs-Func",
-          "ruleIndex": 1
-        },
-        {
-          "locations": [
-            {
-              "logicalLocations": [
-                {
-                  "fullyQualifiedName": "SINGINNEWUSER.SinInForm.Nombre_DataCard2.DisplayName"
-                }
-              ],
-              "physicalLocation": {
-                "address": {
-                  "fullyQualifiedName": "SINGINNEWUSER.SinInForm.Nombre_DataCard2.DisplayName",
-                  "relativeAddress": 0
-                },
-                "region": {
-                  "charLength": 6,
-                  "charOffset": 17,
-                  "snippet": {
-                    "text": "Tabla2"
-                  }
-                }
-              },
-              "properties": {
-                "member": "DisplayName",
-                "module": "SINGINNEWUSER",
-                "type": "SINGINNEWUSER.SinInForm.Nombre_DataCard2"
-              }
-            }
-          ],
-          "message": {
-            "arguments": [
-              "Tabla2"
-            ],
-            "id": "issue"
-          },
-          "properties": {
-            "level": "High"
-          },
-          "ruleId": "app-ErrInvalidName",
-          "ruleIndex": 0
-        },
-        {
-          "locations": [
-            {
-              "logicalLocations": [
-                {
-                  "fullyQualifiedName": "SINGINNEWUSER.SinInForm.Nombre_DataCard2.DisplayName"
-                }
-              ],
-              "physicalLocation": {
-                "address": {
-                  "fullyQualifiedName": "SINGINNEWUSER.SinInForm.Nombre_DataCard2.DisplayName",
-                  "relativeAddress": 0
-                },
-                "region": {
-                  "charLength": 61,
-                  "charOffset": 0,
-                  "snippet": {
-                    "text": "DataSourceInfo([@Tabla2],DataSourceInfo.DisplayName,\"Nombre\")"
-                  }
-                }
-              },
-              "properties": {
-                "member": "DisplayName",
-                "module": "SINGINNEWUSER",
-                "type": "SINGINNEWUSER.SinInForm.Nombre_DataCard2"
-              }
-            }
-          ],
-          "message": {
-            "arguments": [
-              "DataSourceInfo"
-            ],
-            "id": "issue"
-          },
-          "properties": {
-            "level": "High"
-          },
-          "ruleId": "app-ErrInvalidArgs-Func",
-          "ruleIndex": 1
-        },
-        {
-          "locations": [
-            {
-              "logicalLocations": [
-                {
-                  "fullyQualifiedName": "SINGINNEWUSER.SinInForm.Password_DataCard2.MaxLength"
-                }
-              ],
-              "physicalLocation": {
-                "address": {
-                  "fullyQualifiedName": "SINGINNEWUSER.SinInForm.Password_DataCard2.MaxLength",
-                  "relativeAddress": 0
-                },
-                "region": {
-                  "charLength": 6,
-                  "charOffset": 17,
-                  "snippet": {
-                    "text": "Tabla2"
-                  }
-                }
-              },
-              "properties": {
-                "member": "MaxLength",
-                "module": "SINGINNEWUSER",
-                "type": "SINGINNEWUSER.SinInForm.Password_DataCard2"
-              }
-            }
-          ],
-          "message": {
-            "arguments": [
-              "Tabla2"
-            ],
-            "id": "issue"
-          },
-          "properties": {
-            "level": "High"
-          },
-          "ruleId": "app-ErrInvalidName",
-          "ruleIndex": 0
-        },
-        {
-          "locations": [
-            {
-              "logicalLocations": [
-                {
-                  "fullyQualifiedName": "SINGINNEWUSER.SinInForm.Password_DataCard2.MaxLength"
-                }
-              ],
-              "physicalLocation": {
-                "address": {
-                  "fullyQualifiedName": "SINGINNEWUSER.SinInForm.Password_DataCard2.MaxLength",
-                  "relativeAddress": 0
-                },
-                "region": {
-                  "charLength": 63,
-                  "charOffset": 0,
-                  "snippet": {
-                    "text": "DataSourceInfo([@Tabla2], DataSourceInfo.MaxLength, \"Password\")"
-                  }
-                }
-              },
-              "properties": {
-                "member": "MaxLength",
-                "module": "SINGINNEWUSER",
-                "type": "SINGINNEWUSER.SinInForm.Password_DataCard2"
-              }
-            }
-          ],
-          "message": {
-            "arguments": [
-              "DataSourceInfo"
-            ],
-            "id": "issue"
-          },
-          "properties": {
-            "level": "High"
-          },
-          "ruleId": "app-ErrInvalidArgs-Func",
-          "ruleIndex": 1
-        },
-        {
-          "locations": [
-            {
-              "logicalLocations": [
-                {
-                  "fullyQualifiedName": "SINGINNEWUSER.SinInForm.Password_DataCard2.DisplayName"
-                }
-              ],
-              "physicalLocation": {
-                "address": {
-                  "fullyQualifiedName": "SINGINNEWUSER.SinInForm.Password_DataCard2.DisplayName",
-                  "relativeAddress": 0
-                },
-                "region": {
-                  "charLength": 6,
-                  "charOffset": 17,
-                  "snippet": {
-                    "text": "Tabla2"
-                  }
-                }
-              },
-              "properties": {
-                "member": "DisplayName",
-                "module": "SINGINNEWUSER",
-                "type": "SINGINNEWUSER.SinInForm.Password_DataCard2"
-              }
-            }
-          ],
-          "message": {
-            "arguments": [
-              "Tabla2"
-            ],
-            "id": "issue"
-          },
-          "properties": {
-            "level": "High"
-          },
-          "ruleId": "app-ErrInvalidName",
-          "ruleIndex": 0
-        },
-        {
-          "locations": [
-            {
-              "logicalLocations": [
-                {
-                  "fullyQualifiedName": "SINGINNEWUSER.SinInForm.Password_DataCard2.DisplayName"
-                }
-              ],
-              "physicalLocation": {
-                "address": {
-                  "fullyQualifiedName": "SINGINNEWUSER.SinInForm.Password_DataCard2.DisplayName",
-                  "relativeAddress": 0
-                },
-                "region": {
-                  "charLength": 63,
-                  "charOffset": 0,
-                  "snippet": {
-                    "text": "DataSourceInfo([@Tabla2],DataSourceInfo.DisplayName,\"Password\")"
-                  }
-                }
-              },
-              "properties": {
-                "member": "DisplayName",
-                "module": "SINGINNEWUSER",
-                "type": "SINGINNEWUSER.SinInForm.Password_DataCard2"
-              }
-            }
-          ],
-          "message": {
-            "arguments": [
-              "DataSourceInfo"
-            ],
-            "id": "issue"
-          },
-          "properties": {
-            "level": "High"
-          },
-          "ruleId": "app-ErrInvalidArgs-Func",
-          "ruleIndex": 1
-        },
-        {
-          "locations": [
-            {
-              "logicalLocations": [
-                {
-                  "fullyQualifiedName": "SINGINNEWUSER.SinInForm.Telefono_DataCard2.MaxLength"
-                }
-              ],
-              "physicalLocation": {
-                "address": {
-                  "fullyQualifiedName": "SINGINNEWUSER.SinInForm.Telefono_DataCard2.MaxLength",
-                  "relativeAddress": 0
-                },
-                "region": {
-                  "charLength": 6,
-                  "charOffset": 17,
-                  "snippet": {
-                    "text": "Tabla2"
-                  }
-                }
-              },
-              "properties": {
-                "member": "MaxLength",
-                "module": "SINGINNEWUSER",
-                "type": "SINGINNEWUSER.SinInForm.Telefono_DataCard2"
-              }
-            }
-          ],
-          "message": {
-            "arguments": [
-              "Tabla2"
-            ],
-            "id": "issue"
-          },
-          "properties": {
-            "level": "High"
-          },
-          "ruleId": "app-ErrInvalidName",
-          "ruleIndex": 0
-        },
-        {
-          "locations": [
-            {
-              "logicalLocations": [
-                {
-                  "fullyQualifiedName": "SINGINNEWUSER.SinInForm.Telefono_DataCard2.MaxLength"
-                }
-              ],
-              "physicalLocation": {
-                "address": {
-                  "fullyQualifiedName": "SINGINNEWUSER.SinInForm.Telefono_DataCard2.MaxLength",
-                  "relativeAddress": 0
-                },
-                "region": {
-                  "charLength": 63,
-                  "charOffset": 0,
-                  "snippet": {
-                    "text": "DataSourceInfo([@Tabla2], DataSourceInfo.MaxLength, \"Telefono\")"
-                  }
-                }
-              },
-              "properties": {
-                "member": "MaxLength",
-                "module": "SINGINNEWUSER",
-                "type": "SINGINNEWUSER.SinInForm.Telefono_DataCard2"
-              }
-            }
-          ],
-          "message": {
-            "arguments": [
-              "DataSourceInfo"
-            ],
-            "id": "issue"
-          },
-          "properties": {
-            "level": "High"
-          },
-          "ruleId": "app-ErrInvalidArgs-Func",
-          "ruleIndex": 1
-        },
-        {
-          "locations": [
-            {
-              "logicalLocations": [
-                {
-                  "fullyQualifiedName": "SINGINNEWUSER.SinInForm.Telefono_DataCard2.DisplayName"
-                }
-              ],
-              "physicalLocation": {
-                "address": {
-                  "fullyQualifiedName": "SINGINNEWUSER.SinInForm.Telefono_DataCard2.DisplayName",
-                  "relativeAddress": 0
-                },
-                "region": {
-                  "charLength": 6,
-                  "charOffset": 17,
-                  "snippet": {
-                    "text": "Tabla2"
-                  }
-                }
-              },
-              "properties": {
-                "member": "DisplayName",
-                "module": "SINGINNEWUSER",
-                "type": "SINGINNEWUSER.SinInForm.Telefono_DataCard2"
-              }
-            }
-          ],
-          "message": {
-            "arguments": [
-              "Tabla2"
-            ],
-            "id": "issue"
-          },
-          "properties": {
-            "level": "High"
-          },
-          "ruleId": "app-ErrInvalidName",
-          "ruleIndex": 0
-        },
-        {
-          "locations": [
-            {
-              "logicalLocations": [
-                {
-                  "fullyQualifiedName": "SINGINNEWUSER.SinInForm.Telefono_DataCard2.DisplayName"
-                }
-              ],
-              "physicalLocation": {
-                "address": {
-                  "fullyQualifiedName": "SINGINNEWUSER.SinInForm.Telefono_DataCard2.DisplayName",
-                  "relativeAddress": 0
-                },
-                "region": {
-                  "charLength": 63,
-                  "charOffset": 0,
-                  "snippet": {
-                    "text": "DataSourceInfo([@Tabla2],DataSourceInfo.DisplayName,\"Telefono\")"
-                  }
-                }
-              },
-              "properties": {
-                "member": "DisplayName",
-                "module": "SINGINNEWUSER",
-                "type": "SINGINNEWUSER.SinInForm.Telefono_DataCard2"
-              }
-            }
-          ],
-          "message": {
-            "arguments": [
-              "DataSourceInfo"
-            ],
-            "id": "issue"
-          },
-          "properties": {
-            "level": "High"
-          },
-          "ruleId": "app-ErrInvalidArgs-Func",
-          "ruleIndex": 1
-        },
-        {
-          "locations": [
-            {
-              "logicalLocations": [
-                {
-                  "fullyQualifiedName": "SINGINNEWUSER.SinInForm.Usuario_DataCard2.MaxLength"
-                }
-              ],
-              "physicalLocation": {
-                "address": {
-                  "fullyQualifiedName": "SINGINNEWUSER.SinInForm.Usuario_DataCard2.MaxLength",
-                  "relativeAddress": 0
-                },
-                "region": {
-                  "charLength": 6,
-                  "charOffset": 17,
-                  "snippet": {
-                    "text": "Tabla2"
-                  }
-                }
-              },
-              "properties": {
-                "member": "MaxLength",
-                "module": "SINGINNEWUSER",
-                "type": "SINGINNEWUSER.SinInForm.Usuario_DataCard2"
-              }
-            }
-          ],
-          "message": {
-            "arguments": [
-              "Tabla2"
-            ],
-            "id": "issue"
-          },
-          "properties": {
-            "level": "High"
-          },
-          "ruleId": "app-ErrInvalidName",
-          "ruleIndex": 0
-        },
-        {
-          "locations": [
-            {
-              "logicalLocations": [
-                {
-                  "fullyQualifiedName": "SINGINNEWUSER.SinInForm.Usuario_DataCard2.MaxLength"
-                }
-              ],
-              "physicalLocation": {
-                "address": {
-                  "fullyQualifiedName": "SINGINNEWUSER.SinInForm.Usuario_DataCard2.MaxLength",
-                  "relativeAddress": 0
-                },
-                "region": {
-                  "charLength": 62,
-                  "charOffset": 0,
-                  "snippet": {
-                    "text": "DataSourceInfo([@Tabla2], DataSourceInfo.MaxLength, \"Usuario\")"
-                  }
-                }
-              },
-              "properties": {
-                "member": "MaxLength",
-                "module": "SINGINNEWUSER",
-                "type": "SINGINNEWUSER.SinInForm.Usuario_DataCard2"
-              }
-            }
-          ],
-          "message": {
-            "arguments": [
-              "DataSourceInfo"
-            ],
-            "id": "issue"
-          },
-          "properties": {
-            "level": "High"
-          },
-          "ruleId": "app-ErrInvalidArgs-Func",
-          "ruleIndex": 1
-        },
-        {
-          "locations": [
-            {
-              "logicalLocations": [
-                {
-                  "fullyQualifiedName": "SINGINNEWUSER.SinInForm.Usuario_DataCard2.DisplayName"
-                }
-              ],
-              "physicalLocation": {
-                "address": {
-                  "fullyQualifiedName": "SINGINNEWUSER.SinInForm.Usuario_DataCard2.DisplayName",
-                  "relativeAddress": 0
-                },
-                "region": {
-                  "charLength": 6,
-                  "charOffset": 17,
-                  "snippet": {
-                    "text": "Tabla2"
-                  }
-                }
-              },
-              "properties": {
-                "member": "DisplayName",
-                "module": "SINGINNEWUSER",
-                "type": "SINGINNEWUSER.SinInForm.Usuario_DataCard2"
-              }
-            }
-          ],
-          "message": {
-            "arguments": [
-              "Tabla2"
-            ],
-            "id": "issue"
-          },
-          "properties": {
-            "level": "High"
-          },
-          "ruleId": "app-ErrInvalidName",
-          "ruleIndex": 0
-        },
-        {
-          "locations": [
-            {
-              "logicalLocations": [
-                {
-                  "fullyQualifiedName": "SINGINNEWUSER.SinInForm.Usuario_DataCard2.DisplayName"
-                }
-              ],
-              "physicalLocation": {
-                "address": {
-                  "fullyQualifiedName": "SINGINNEWUSER.SinInForm.Usuario_DataCard2.DisplayName",
-                  "relativeAddress": 0
-                },
-                "region": {
-                  "charLength": 62,
-                  "charOffset": 0,
-                  "snippet": {
-                    "text": "DataSourceInfo([@Tabla2],DataSourceInfo.DisplayName,\"Usuario\")"
-                  }
-                }
-              },
-              "properties": {
-                "member": "DisplayName",
-                "module": "SINGINNEWUSER",
-                "type": "SINGINNEWUSER.SinInForm.Usuario_DataCard2"
-              }
-            }
-          ],
-          "message": {
-            "arguments": [
-              "DataSourceInfo"
-            ],
-            "id": "issue"
-          },
-          "properties": {
-            "level": "High"
-          },
-          "ruleId": "app-ErrInvalidArgs-Func",
-          "ruleIndex": 1
-        },
-        {
-          "locations": [
-            {
-              "logicalLocations": [
-                {
-                  "fullyQualifiedName": "SINGINNEWUSER.SinInForm.ID_DataCard2.MaxLength"
-                }
-              ],
-              "physicalLocation": {
-                "address": {
-                  "fullyQualifiedName": "SINGINNEWUSER.SinInForm.ID_DataCard2.MaxLength",
-                  "relativeAddress": 0
-                },
-                "region": {
-                  "charLength": 6,
-                  "charOffset": 17,
-                  "snippet": {
-                    "text": "Tabla2"
-                  }
-                }
-              },
-              "properties": {
-                "member": "MaxLength",
-                "module": "SINGINNEWUSER",
-                "type": "SINGINNEWUSER.SinInForm.ID_DataCard2"
-              }
-            }
-          ],
-          "message": {
-            "arguments": [
-              "Tabla2"
-            ],
-            "id": "issue"
-          },
-          "properties": {
-            "level": "High"
-          },
-          "ruleId": "app-ErrInvalidName",
-          "ruleIndex": 0
-        },
-        {
-          "locations": [
-            {
-              "logicalLocations": [
-                {
-                  "fullyQualifiedName": "SINGINNEWUSER.SinInForm.ID_DataCard2.MaxLength"
-                }
-              ],
-              "physicalLocation": {
-                "address": {
-                  "fullyQualifiedName": "SINGINNEWUSER.SinInForm.ID_DataCard2.MaxLength",
-                  "relativeAddress": 0
-                },
-                "region": {
-                  "charLength": 57,
-                  "charOffset": 0,
-                  "snippet": {
-                    "text": "DataSourceInfo([@Tabla2], DataSourceInfo.MaxLength, \"ID\")"
-                  }
-                }
-              },
-              "properties": {
-                "member": "MaxLength",
-                "module": "SINGINNEWUSER",
-                "type": "SINGINNEWUSER.SinInForm.ID_DataCard2"
-              }
-            }
-          ],
-          "message": {
-            "arguments": [
-              "DataSourceInfo"
-            ],
-            "id": "issue"
-          },
-          "properties": {
-            "level": "High"
-          },
-          "ruleId": "app-ErrInvalidArgs-Func",
-          "ruleIndex": 1
-        },
-        {
-          "locations": [
-            {
-              "logicalLocations": [
-                {
-                  "fullyQualifiedName": "SINGINNEWUSER.SinInForm.ID_DataCard2.DisplayName"
-                }
-              ],
-              "physicalLocation": {
-                "address": {
-                  "fullyQualifiedName": "SINGINNEWUSER.SinInForm.ID_DataCard2.DisplayName",
-                  "relativeAddress": 0
-                },
-                "region": {
-                  "charLength": 6,
-                  "charOffset": 17,
-                  "snippet": {
-                    "text": "Tabla2"
-                  }
-                }
-              },
-              "properties": {
-                "member": "DisplayName",
-                "module": "SINGINNEWUSER",
-                "type": "SINGINNEWUSER.SinInForm.ID_DataCard2"
-              }
-            }
-          ],
-          "message": {
-            "arguments": [
-              "Tabla2"
-            ],
-            "id": "issue"
-          },
-          "properties": {
-            "level": "High"
-          },
-          "ruleId": "app-ErrInvalidName",
-          "ruleIndex": 0
-        },
-        {
-          "locations": [
-            {
-              "logicalLocations": [
-                {
-                  "fullyQualifiedName": "SINGINNEWUSER.SinInForm.ID_DataCard2.DisplayName"
-                }
-              ],
-              "physicalLocation": {
-                "address": {
-                  "fullyQualifiedName": "SINGINNEWUSER.SinInForm.ID_DataCard2.DisplayName",
-                  "relativeAddress": 0
-                },
-                "region": {
-                  "charLength": 57,
-                  "charOffset": 0,
-                  "snippet": {
-                    "text": "DataSourceInfo([@Tabla2],DataSourceInfo.DisplayName,\"ID\")"
-                  }
-                }
-              },
-              "properties": {
-                "member": "DisplayName",
-                "module": "SINGINNEWUSER",
-                "type": "SINGINNEWUSER.SinInForm.ID_DataCard2"
-              }
-            }
-          ],
-          "message": {
-            "arguments": [
-              "DataSourceInfo"
-            ],
-            "id": "issue"
-          },
-          "properties": {
-            "level": "High"
-          },
-          "ruleId": "app-ErrInvalidArgs-Func",
-          "ruleIndex": 1
-        },
-        {
-          "locations": [
-            {
-              "logicalLocations": [
-                {
-                  "fullyQualifiedName": "SINGINNEWUSER.SinInForm.Gmail_DataCard1.MaxLength"
-                }
-              ],
-              "physicalLocation": {
-                "address": {
-                  "fullyQualifiedName": "SINGINNEWUSER.SinInForm.Gmail_DataCard1.MaxLength",
-                  "relativeAddress": 0
-                },
-                "region": {
-                  "charLength": 6,
-                  "charOffset": 17,
-                  "snippet": {
-                    "text": "Tabla2"
-                  }
-                }
-              },
-              "properties": {
-                "member": "MaxLength",
-                "module": "SINGINNEWUSER",
-                "type": "SINGINNEWUSER.SinInForm.Gmail_DataCard1"
-              }
-            }
-          ],
-          "message": {
-            "arguments": [
-              "Tabla2"
-            ],
-            "id": "issue"
-          },
-          "properties": {
-            "level": "High"
-          },
-          "ruleId": "app-ErrInvalidName",
-          "ruleIndex": 0
-        },
-        {
-          "locations": [
-            {
-              "logicalLocations": [
-                {
-                  "fullyQualifiedName": "SINGINNEWUSER.SinInForm.Gmail_DataCard1.MaxLength"
-                }
-              ],
-              "physicalLocation": {
-                "address": {
-                  "fullyQualifiedName": "SINGINNEWUSER.SinInForm.Gmail_DataCard1.MaxLength",
-                  "relativeAddress": 0
-                },
-                "region": {
-                  "charLength": 60,
-                  "charOffset": 0,
-                  "snippet": {
-                    "text": "DataSourceInfo([@Tabla2], DataSourceInfo.MaxLength, \"Gmail\")"
-                  }
-                }
-              },
-              "properties": {
-                "member": "MaxLength",
-                "module": "SINGINNEWUSER",
-                "type": "SINGINNEWUSER.SinInForm.Gmail_DataCard1"
-              }
-            }
-          ],
-          "message": {
-            "arguments": [
-              "DataSourceInfo"
-            ],
-            "id": "issue"
-          },
-          "properties": {
-            "level": "High"
-          },
-          "ruleId": "app-ErrInvalidArgs-Func",
-          "ruleIndex": 1
-        },
-        {
-          "locations": [
-            {
-              "logicalLocations": [
-                {
-                  "fullyQualifiedName": "SINGINNEWUSER.SinInForm.Gmail_DataCard1.DisplayName"
-                }
-              ],
-              "physicalLocation": {
-                "address": {
-                  "fullyQualifiedName": "SINGINNEWUSER.SinInForm.Gmail_DataCard1.DisplayName",
-                  "relativeAddress": 0
-                },
-                "region": {
-                  "charLength": 6,
-                  "charOffset": 17,
-                  "snippet": {
-                    "text": "Tabla2"
-                  }
-                }
-              },
-              "properties": {
-                "member": "DisplayName",
-                "module": "SINGINNEWUSER",
-                "type": "SINGINNEWUSER.SinInForm.Gmail_DataCard1"
-              }
-            }
-          ],
-          "message": {
-            "arguments": [
-              "Tabla2"
-            ],
-            "id": "issue"
-          },
-          "properties": {
-            "level": "High"
-          },
-          "ruleId": "app-ErrInvalidName",
-          "ruleIndex": 0
-        },
-        {
-          "locations": [
-            {
-              "logicalLocations": [
-                {
-                  "fullyQualifiedName": "SINGINNEWUSER.SinInForm.Gmail_DataCard1.DisplayName"
-                }
-              ],
-              "physicalLocation": {
-                "address": {
-                  "fullyQualifiedName": "SINGINNEWUSER.SinInForm.Gmail_DataCard1.DisplayName",
-                  "relativeAddress": 0
-                },
-                "region": {
-                  "charLength": 60,
-                  "charOffset": 0,
-                  "snippet": {
-                    "text": "DataSourceInfo([@Tabla2],DataSourceInfo.DisplayName,\"Gmail\")"
-                  }
-                }
-              },
-              "properties": {
-                "member": "DisplayName",
-                "module": "SINGINNEWUSER",
-                "type": "SINGINNEWUSER.SinInForm.Gmail_DataCard1"
-              }
-            }
-          ],
-          "message": {
-            "arguments": [
-              "DataSourceInfo"
-            ],
-            "id": "issue"
-          },
-          "properties": {
-            "level": "High"
-          },
-          "ruleId": "app-ErrInvalidArgs-Func",
-          "ruleIndex": 1
-        },
-        {
-          "locations": [
-            {
-              "logicalLocations": [
-                {
                   "fullyQualifiedName": "APUESTA_GRUPO_F.GRUPOFFORM.DataSource"
                 }
               ],
@@ -41213,19 +40253,19 @@
             {
               "logicalLocations": [
                 {
-                  "fullyQualifiedName": "SINGINNEWUSER.SinInForm.Nombre_DataCard2.DataCardValue8.AccessibleLabel"
+                  "fullyQualifiedName": "SINGINNEWUSER.SinInForm.Telefono_DataCard1.DataCardValue120.AccessibleLabel"
                 }
               ],
               "physicalLocation": {
                 "address": {
-                  "fullyQualifiedName": "SINGINNEWUSER.SinInForm.Nombre_DataCard2.DataCardValue8.AccessibleLabel",
+                  "fullyQualifiedName": "SINGINNEWUSER.SinInForm.Telefono_DataCard1.DataCardValue120.AccessibleLabel",
                   "relativeAddress": 0
                 }
               },
               "properties": {
                 "member": "AccessibleLabel",
                 "module": "SINGINNEWUSER",
-                "type": "SINGINNEWUSER.SinInForm.Nombre_DataCard2.DataCardValue8"
+                "type": "SINGINNEWUSER.SinInForm.Telefono_DataCard1.DataCardValue120"
               }
             }
           ],
@@ -41243,19 +40283,19 @@
             {
               "logicalLocations": [
                 {
-                  "fullyQualifiedName": "SINGINNEWUSER.SinInForm.Password_DataCard2.DataCardValue9.AccessibleLabel"
+                  "fullyQualifiedName": "SINGINNEWUSER.SinInForm.ID_DataCard2.DataCardValue119.AccessibleLabel"
                 }
               ],
               "physicalLocation": {
                 "address": {
-                  "fullyQualifiedName": "SINGINNEWUSER.SinInForm.Password_DataCard2.DataCardValue9.AccessibleLabel",
+                  "fullyQualifiedName": "SINGINNEWUSER.SinInForm.ID_DataCard2.DataCardValue119.AccessibleLabel",
                   "relativeAddress": 0
                 }
               },
               "properties": {
                 "member": "AccessibleLabel",
                 "module": "SINGINNEWUSER",
-                "type": "SINGINNEWUSER.SinInForm.Password_DataCard2.DataCardValue9"
+                "type": "SINGINNEWUSER.SinInForm.ID_DataCard2.DataCardValue119"
               }
             }
           ],
@@ -41273,19 +40313,19 @@
             {
               "logicalLocations": [
                 {
-                  "fullyQualifiedName": "SINGINNEWUSER.SinInForm.Telefono_DataCard2.DataCardValue10.AccessibleLabel"
+                  "fullyQualifiedName": "SINGINNEWUSER.SinInForm.Gmail_DataCard3.DataCardValue118.AccessibleLabel"
                 }
               ],
               "physicalLocation": {
                 "address": {
-                  "fullyQualifiedName": "SINGINNEWUSER.SinInForm.Telefono_DataCard2.DataCardValue10.AccessibleLabel",
+                  "fullyQualifiedName": "SINGINNEWUSER.SinInForm.Gmail_DataCard3.DataCardValue118.AccessibleLabel",
                   "relativeAddress": 0
                 }
               },
               "properties": {
                 "member": "AccessibleLabel",
                 "module": "SINGINNEWUSER",
-                "type": "SINGINNEWUSER.SinInForm.Telefono_DataCard2.DataCardValue10"
+                "type": "SINGINNEWUSER.SinInForm.Gmail_DataCard3.DataCardValue118"
               }
             }
           ],
@@ -41303,19 +40343,19 @@
             {
               "logicalLocations": [
                 {
-                  "fullyQualifiedName": "SINGINNEWUSER.SinInForm.Usuario_DataCard2.DataCardValue11.AccessibleLabel"
+                  "fullyQualifiedName": "SINGINNEWUSER.SinInForm.Password_DataCard2.DataCardValue117.AccessibleLabel"
                 }
               ],
               "physicalLocation": {
                 "address": {
-                  "fullyQualifiedName": "SINGINNEWUSER.SinInForm.Usuario_DataCard2.DataCardValue11.AccessibleLabel",
+                  "fullyQualifiedName": "SINGINNEWUSER.SinInForm.Password_DataCard2.DataCardValue117.AccessibleLabel",
                   "relativeAddress": 0
                 }
               },
               "properties": {
                 "member": "AccessibleLabel",
                 "module": "SINGINNEWUSER",
-                "type": "SINGINNEWUSER.SinInForm.Usuario_DataCard2.DataCardValue11"
+                "type": "SINGINNEWUSER.SinInForm.Password_DataCard2.DataCardValue117"
               }
             }
           ],
@@ -41333,19 +40373,19 @@
             {
               "logicalLocations": [
                 {
-                  "fullyQualifiedName": "SINGINNEWUSER.SinInForm.ID_DataCard2.DataCardValue12.AccessibleLabel"
+                  "fullyQualifiedName": "SINGINNEWUSER.SinInForm.Usuario_DataCard2.DataCardValue116.AccessibleLabel"
                 }
               ],
               "physicalLocation": {
                 "address": {
-                  "fullyQualifiedName": "SINGINNEWUSER.SinInForm.ID_DataCard2.DataCardValue12.AccessibleLabel",
+                  "fullyQualifiedName": "SINGINNEWUSER.SinInForm.Usuario_DataCard2.DataCardValue116.AccessibleLabel",
                   "relativeAddress": 0
                 }
               },
               "properties": {
                 "member": "AccessibleLabel",
                 "module": "SINGINNEWUSER",
-                "type": "SINGINNEWUSER.SinInForm.ID_DataCard2.DataCardValue12"
+                "type": "SINGINNEWUSER.SinInForm.Usuario_DataCard2.DataCardValue116"
               }
             }
           ],
@@ -41363,19 +40403,19 @@
             {
               "logicalLocations": [
                 {
-                  "fullyQualifiedName": "SINGINNEWUSER.SinInForm.Gmail_DataCard1.DataCardValue13.AccessibleLabel"
+                  "fullyQualifiedName": "SINGINNEWUSER.SinInForm.Nombre_DataCard2.DataCardValue115.AccessibleLabel"
                 }
               ],
               "physicalLocation": {
                 "address": {
-                  "fullyQualifiedName": "SINGINNEWUSER.SinInForm.Gmail_DataCard1.DataCardValue13.AccessibleLabel",
+                  "fullyQualifiedName": "SINGINNEWUSER.SinInForm.Nombre_DataCard2.DataCardValue115.AccessibleLabel",
                   "relativeAddress": 0
                 }
               },
               "properties": {
                 "member": "AccessibleLabel",
                 "module": "SINGINNEWUSER",
-                "type": "SINGINNEWUSER.SinInForm.Gmail_DataCard1.DataCardValue13"
+                "type": "SINGINNEWUSER.SinInForm.Nombre_DataCard2.DataCardValue115"
               }
             }
           ],
