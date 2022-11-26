@@ -122,7 +122,7 @@ SINGINNEWUSER As screen:
         HoverColor: =RGBA(255, 255, 255, 1)
         HoverFill: =ColorFade(RGBA(0, 120, 212, 1), -10%)
         OnSelect: |+
-            =SubmitForm(SinInForm) And Navigate(HOME_1)
+            =SubmitForm(SinInForm) And SubmitForm(SinInPuntajes) And Navigate(HOME_1)
             
         PressedBorderColor: =ColorFade(RGBA(0, 120, 212, 1), -50%)
         PressedColor: =RGBA(255, 255, 255, 1)
