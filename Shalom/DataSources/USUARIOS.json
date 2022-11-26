@@ -12,6 +12,7 @@
       "ID": "ID",
       "Nombre": "Nombre",
       "Password": "Password",
+      "Puesto": "Puesto",
       "Puntos_x0020_Totales": "Puntos Totales",
       "Telefono": "Telefono",
       "Usuario": "Usuario"
@@ -20,7 +21,7 @@
     "EncodeDataset": true,
     "IsSampleData": false,
     "IsWritable": true,
-    "Name": "Table1_1",
+    "Name": "USUARIOS",
     "Type": "ConnectedDataSourceInfo"
   }
 ]

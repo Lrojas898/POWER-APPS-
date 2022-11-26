@@ -21,20 +21,16 @@
           "PUNTAJES": {
             "tableName": "PUNTAJES"
           },
-          "Tabla2": {
-            "tableName": "Tabla2"
-          },
-          "Table1_1": {
-            "tableName": "Table1"
+          "USUARIOS": {
+            "tableName": "USUARIOS"
           }
         }
       }
     },
     "dataSources": [
       "Table1",
-      "Tabla2",
       "PUNTAJES",
-      "Table1_1"
+      "USUARIOS"
     ],
     "dependencies": {
       "fileSource": "de7e7649-6084-4d7a-a2d3-4d2d9fcd30ea"
