@@ -15,8 +15,9 @@ HOME_1 As screen:
         Width: =640
         ZIndex: =1
 
-    "Gallery2 As gallery.'BrowseLayout_Vertical_ThreeTextVariant_ver4.0'":
-        BorderColor: =RGBA(166, 166, 166, 1)
+    "'JUGADORES RANKING' As gallery.'BrowseLayout_Vertical_ThreeTextVariant_ver4.0'":
+        BorderColor: =RGBA(141, 28, 61, 1)
+        DisplayMode: =DisplayMode.View
         Height: =707
         Items: =USUARIOS
         Layout: =Layout.Vertical
@@ -45,9 +46,10 @@ HOME_1 As screen:
             ZIndex: =1
 
         Subtitle5 As label:
-            Color: =RGBA(51, 51, 51, 1)
+            Color: =RGBA(141, 28, 61, 1)
             DisabledColor: =RGBA(166, 166, 166, 1)
             Font: =Font.'Segoe UI'
+            FontWeight: =FontWeight.Bold
             Height: =Self.Size * 1.8
             OnSelect: =Select(Parent)
             PaddingBottom: =0
@@ -99,7 +101,7 @@ HOME_1 As screen:
             HoverFill: =RGBA(0, 120, 212, 1)
             PressedFill: =RGBA(0, 120, 212, 1)
             Width: =217
-            X: =385
+            X: =335
             Y: =63
             ZIndex: =6
 
@@ -119,7 +121,7 @@ HOME_1 As screen:
             Size: =25
             Text: ="Shalom"
             Width: =160
-            X: =385
+            X: =335
             Y: =63
             ZIndex: =7
 
@@ -140,7 +142,7 @@ HOME_1 As screen:
             Size: =30
             Text: ="Bet!"
             Width: =92
-            X: =510
+            X: =465
             Y: =62
             ZIndex: =8
 

@@ -24304,19 +24304,19 @@
             {
               "logicalLocations": [
                 {
-                  "fullyQualifiedName": "HOME_1.Gallery2.AccessibleLabel"
+                  "fullyQualifiedName": "HOME_1.'JUGADORES RANKING'.AccessibleLabel"
                 }
               ],
               "physicalLocation": {
                 "address": {
-                  "fullyQualifiedName": "HOME_1.Gallery2.AccessibleLabel",
+                  "fullyQualifiedName": "HOME_1.'JUGADORES RANKING'.AccessibleLabel",
                   "relativeAddress": 0
                 }
               },
               "properties": {
                 "member": "AccessibleLabel",
                 "module": "HOME_1",
-                "type": "HOME_1.Gallery2"
+                "type": "HOME_1.'JUGADORES RANKING'"
               }
             }
           ],
@@ -24334,19 +24334,19 @@
             {
               "logicalLocations": [
                 {
-                  "fullyQualifiedName": "HOME_1.Gallery2.TabIndex"
+                  "fullyQualifiedName": "HOME_1.'JUGADORES RANKING'.TabIndex"
                 }
               ],
               "physicalLocation": {
                 "address": {
-                  "fullyQualifiedName": "HOME_1.Gallery2.TabIndex",
+                  "fullyQualifiedName": "HOME_1.'JUGADORES RANKING'.TabIndex",
                   "relativeAddress": 0
                 }
               },
               "properties": {
                 "member": "TabIndex",
                 "module": "HOME_1",
-                "type": "HOME_1.Gallery2"
+                "type": "HOME_1.'JUGADORES RANKING'"
               }
             }
           ],
@@ -24364,19 +24364,19 @@
             {
               "logicalLocations": [
                 {
-                  "fullyQualifiedName": "HOME_1.Gallery2.Rectangle241114_1.AccessibleLabel"
+                  "fullyQualifiedName": "HOME_1.'JUGADORES RANKING'.Rectangle241114_1.AccessibleLabel"
                 }
               ],
               "physicalLocation": {
                 "address": {
-                  "fullyQualifiedName": "HOME_1.Gallery2.Rectangle241114_1.AccessibleLabel",
+                  "fullyQualifiedName": "HOME_1.'JUGADORES RANKING'.Rectangle241114_1.AccessibleLabel",
                   "relativeAddress": 0
                 }
               },
               "properties": {
                 "member": "AccessibleLabel",
                 "module": "HOME_1",
-                "type": "HOME_1.Gallery2.Rectangle241114_1"
+                "type": "HOME_1.'JUGADORES RANKING'.Rectangle241114_1"
               }
             }
           ],
@@ -24394,19 +24394,19 @@
             {
               "logicalLocations": [
                 {
-                  "fullyQualifiedName": "HOME_1.Gallery2.Rectangle241114_1.TabIndex"
+                  "fullyQualifiedName": "HOME_1.'JUGADORES RANKING'.Rectangle241114_1.TabIndex"
                 }
               ],
               "physicalLocation": {
                 "address": {
-                  "fullyQualifiedName": "HOME_1.Gallery2.Rectangle241114_1.TabIndex",
+                  "fullyQualifiedName": "HOME_1.'JUGADORES RANKING'.Rectangle241114_1.TabIndex",
                   "relativeAddress": 0
                 }
               },
               "properties": {
                 "member": "TabIndex",
                 "module": "HOME_1",
-                "type": "HOME_1.Gallery2.Rectangle241114_1"
+                "type": "HOME_1.'JUGADORES RANKING'.Rectangle241114_1"
               }
             }
           ],
@@ -24424,19 +24424,19 @@
             {
               "logicalLocations": [
                 {
-                  "fullyQualifiedName": "HOME_1.Gallery2.shalombet_2.TabIndex"
+                  "fullyQualifiedName": "HOME_1.'JUGADORES RANKING'.shalombet_2.TabIndex"
                 }
               ],
               "physicalLocation": {
                 "address": {
-                  "fullyQualifiedName": "HOME_1.Gallery2.shalombet_2.TabIndex",
+                  "fullyQualifiedName": "HOME_1.'JUGADORES RANKING'.shalombet_2.TabIndex",
                   "relativeAddress": 0
                 }
               },
               "properties": {
                 "member": "TabIndex",
                 "module": "HOME_1",
-                "type": "HOME_1.Gallery2.shalombet_2"
+                "type": "HOME_1.'JUGADORES RANKING'.shalombet_2"
               }
             }
           ],
@@ -24454,19 +24454,19 @@
             {
               "logicalLocations": [
                 {
-                  "fullyQualifiedName": "HOME_1.Gallery2.shalombet_3.TabIndex"
+                  "fullyQualifiedName": "HOME_1.'JUGADORES RANKING'.shalombet_3.TabIndex"
                 }
               ],
               "physicalLocation": {
                 "address": {
-                  "fullyQualifiedName": "HOME_1.Gallery2.shalombet_3.TabIndex",
+                  "fullyQualifiedName": "HOME_1.'JUGADORES RANKING'.shalombet_3.TabIndex",
                   "relativeAddress": 0
                 }
               },
               "properties": {
                 "member": "TabIndex",
                 "module": "HOME_1",
-                "type": "HOME_1.Gallery2.shalombet_3"
+                "type": "HOME_1.'JUGADORES RANKING'.shalombet_3"
               }
             }
           ],
