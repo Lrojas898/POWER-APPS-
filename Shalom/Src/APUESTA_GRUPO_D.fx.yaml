@@ -808,14 +808,14 @@ APUESTA_GRUPO_D As screen:
     GRUPODFORM As form:
         BorderColor: =RGBA(166, 166, 166, 1)
         DataSource: =PUNTAJES
-        Height: =789
+        Height: =722
         NumberOfColumns: =2
         Width: =302
         X: =169
-        Y: =2435
+        Y: =245
         ZIndex: =74
 
-        U_GrupoD1_DataCard1 As typedDataCard.textualEditCard:
+        U_GrupoD1_DataCard2 As typedDataCard.textualEditCard:
             BorderColor: =RGBA(166, 166, 166, 1)
             BorderStyle: =BorderStyle.Solid
             DataField: ="U_GrupoD1"
@@ -826,13 +826,13 @@ APUESTA_GRUPO_D As screen:
             Height: =50
             MaxLength: =DataSourceInfo([@PUNTAJES], DataSourceInfo.MaxLength, "U_GrupoD1")
             Required: =false
-            Update: =DataCardValue38.Text
-            Width: =150
+            Update: =DataCardValue98.Text
+            Width: =151
             X: =0
             Y: =0
             ZIndex: =1
 
-            DataCardKey38 As label:
+            DataCardKey98 As label:
                 AutoHeight: =true
                 BorderColor: =RGBA(0, 0, 0, 0)
                 BorderStyle: =BorderStyle.None
@@ -853,7 +853,7 @@ APUESTA_GRUPO_D As screen:
                 Y: =10
                 ZIndex: =1
 
-            DataCardValue38 As text:
+            DataCardValue98 As text:
                 BorderColor: =If(IsBlank(Parent.Error), Parent.BorderColor, Color.Red)
                 BorderThickness: =2
                 Color: =RGBA(51, 51, 51, 1)
@@ -882,10 +882,10 @@ APUESTA_GRUPO_D As screen:
                 Tooltip: =Parent.DisplayName
                 Width: =Parent.Width - 60
                 X: =30
-                Y: =DataCardKey38.Y + DataCardKey38.Height + 5
+                Y: =DataCardKey98.Y + DataCardKey98.Height + 5
                 ZIndex: =2
 
-            ErrorMessage31 As label:
+            ErrorMessage91 As label:
                 AutoHeight: =true
                 BorderColor: =RGBA(0, 0, 0, 0)
                 BorderStyle: =BorderStyle.None
@@ -907,10 +907,10 @@ APUESTA_GRUPO_D As screen:
                 Visible: =Parent.DisplayMode=DisplayMode.Edit
                 Width: =Parent.Width - 60
                 X: =30
-                Y: =DataCardValue38.Y + DataCardValue38.Height
+                Y: =DataCardValue98.Y + DataCardValue98.Height
                 ZIndex: =3
 
-            StarVisible31 As label:
+            StarVisible91 As label:
                 Align: =Align.Center
                 BorderColor: =RGBA(0, 0, 0, 0)
                 BorderStyle: =BorderStyle.None
@@ -921,17 +921,17 @@ APUESTA_GRUPO_D As screen:
                 FocusedBorderThickness: =4
                 Font: =Font.'Segoe UI'
                 FontWeight: =FontWeight.Semibold
-                Height: =DataCardKey38.Height
+                Height: =DataCardKey98.Height
                 PaddingLeft: =0
                 Size: =21
                 Text: ="*"
                 Visible: =And(Parent.Required, Parent.DisplayMode=DisplayMode.Edit)
                 Width: =30
                 Wrap: =false
-                Y: =DataCardKey38.Y
+                Y: =DataCardKey98.Y
                 ZIndex: =4
 
-        "'U_GrupoD1.1_DataCard1' As typedDataCard.textualEditCard":
+        "'U_GrupoD1.1_DataCard2' As typedDataCard.textualEditCard":
             BorderColor: =RGBA(166, 166, 166, 1)
             BorderStyle: =BorderStyle.Solid
             DataField: ="U_GrupoD1_x002e_1"
@@ -942,13 +942,13 @@ APUESTA_GRUPO_D As screen:
             Height: =50
             MaxLength: =DataSourceInfo([@PUNTAJES], DataSourceInfo.MaxLength, "U_GrupoD1_x002e_1")
             Required: =false
-            Update: =DataCardValue39.Text
-            Width: =150
+            Update: =DataCardValue99.Text
+            Width: =151
             X: =1
             Y: =0
             ZIndex: =1
 
-            DataCardKey39 As label:
+            DataCardKey99 As label:
                 AutoHeight: =true
                 BorderColor: =RGBA(0, 0, 0, 0)
                 BorderStyle: =BorderStyle.None
@@ -969,7 +969,7 @@ APUESTA_GRUPO_D As screen:
                 Y: =10
                 ZIndex: =1
 
-            DataCardValue39 As text:
+            DataCardValue99 As text:
                 BorderColor: =If(IsBlank(Parent.Error), Parent.BorderColor, Color.Red)
                 BorderThickness: =2
                 Color: =RGBA(51, 51, 51, 1)
@@ -998,10 +998,10 @@ APUESTA_GRUPO_D As screen:
                 Tooltip: =Parent.DisplayName
                 Width: =Parent.Width - 60
                 X: =30
-                Y: =DataCardKey39.Y + DataCardKey39.Height + 5
+                Y: =DataCardKey99.Y + DataCardKey99.Height + 5
                 ZIndex: =2
 
-            ErrorMessage32 As label:
+            ErrorMessage92 As label:
                 AutoHeight: =true
                 BorderColor: =RGBA(0, 0, 0, 0)
                 BorderStyle: =BorderStyle.None
@@ -1023,10 +1023,10 @@ APUESTA_GRUPO_D As screen:
                 Visible: =Parent.DisplayMode=DisplayMode.Edit
                 Width: =Parent.Width - 60
                 X: =30
-                Y: =DataCardValue39.Y + DataCardValue39.Height
+                Y: =DataCardValue99.Y + DataCardValue99.Height
                 ZIndex: =3
 
-            StarVisible32 As label:
+            StarVisible92 As label:
                 Align: =Align.Center
                 BorderColor: =RGBA(0, 0, 0, 0)
                 BorderStyle: =BorderStyle.None
@@ -1037,17 +1037,17 @@ APUESTA_GRUPO_D As screen:
                 FocusedBorderThickness: =4
                 Font: =Font.'Segoe UI'
                 FontWeight: =FontWeight.Semibold
-                Height: =DataCardKey39.Height
+                Height: =DataCardKey99.Height
                 PaddingLeft: =0
                 Size: =21
                 Text: ="*"
                 Visible: =And(Parent.Required, Parent.DisplayMode=DisplayMode.Edit)
                 Width: =30
                 Wrap: =false
-                Y: =DataCardKey39.Y
+                Y: =DataCardKey99.Y
                 ZIndex: =4
 
-        U_GrupoD2_DataCard1 As typedDataCard.textualEditCard:
+        U_GrupoD2_DataCard2 As typedDataCard.textualEditCard:
             BorderColor: =RGBA(166, 166, 166, 1)
             BorderStyle: =BorderStyle.Solid
             DataField: ="U_GrupoD2"
@@ -1058,13 +1058,13 @@ APUESTA_GRUPO_D As screen:
             Height: =50
             MaxLength: =DataSourceInfo([@PUNTAJES], DataSourceInfo.MaxLength, "U_GrupoD2")
             Required: =false
-            Update: =DataCardValue40.Text
-            Width: =150
+            Update: =DataCardValue100.Text
+            Width: =151
             X: =0
             Y: =1
             ZIndex: =1
 
-            DataCardKey40 As label:
+            DataCardKey100 As label:
                 AutoHeight: =true
                 BorderColor: =RGBA(0, 0, 0, 0)
                 BorderStyle: =BorderStyle.None
@@ -1085,7 +1085,7 @@ APUESTA_GRUPO_D As screen:
                 Y: =10
                 ZIndex: =1
 
-            DataCardValue40 As text:
+            DataCardValue100 As text:
                 BorderColor: =If(IsBlank(Parent.Error), Parent.BorderColor, Color.Red)
                 BorderThickness: =2
                 Color: =RGBA(51, 51, 51, 1)
@@ -1114,10 +1114,10 @@ APUESTA_GRUPO_D As screen:
                 Tooltip: =Parent.DisplayName
                 Width: =Parent.Width - 60
                 X: =30
-                Y: =DataCardKey40.Y + DataCardKey40.Height + 5
+                Y: =35
                 ZIndex: =2
 
-            ErrorMessage33 As label:
+            ErrorMessage93 As label:
                 AutoHeight: =true
                 BorderColor: =RGBA(0, 0, 0, 0)
                 BorderStyle: =BorderStyle.None
@@ -1139,10 +1139,10 @@ APUESTA_GRUPO_D As screen:
                 Visible: =Parent.DisplayMode=DisplayMode.Edit
                 Width: =Parent.Width - 60
                 X: =30
-                Y: =DataCardValue40.Y + DataCardValue40.Height
+                Y: =DataCardValue100.Y + DataCardValue100.Height
                 ZIndex: =3
 
-            StarVisible33 As label:
+            StarVisible93 As label:
                 Align: =Align.Center
                 BorderColor: =RGBA(0, 0, 0, 0)
                 BorderStyle: =BorderStyle.None
@@ -1153,17 +1153,17 @@ APUESTA_GRUPO_D As screen:
                 FocusedBorderThickness: =4
                 Font: =Font.'Segoe UI'
                 FontWeight: =FontWeight.Semibold
-                Height: =DataCardKey40.Height
+                Height: =DataCardKey100.Height
                 PaddingLeft: =0
                 Size: =21
                 Text: ="*"
                 Visible: =And(Parent.Required, Parent.DisplayMode=DisplayMode.Edit)
                 Width: =30
                 Wrap: =false
-                Y: =DataCardKey40.Y
+                Y: =DataCardKey100.Y
                 ZIndex: =4
 
-        "'U_GrupoD2.2_DataCard1' As typedDataCard.textualEditCard":
+        "'U_GrupoD2.2_DataCard2' As typedDataCard.textualEditCard":
             BorderColor: =RGBA(166, 166, 166, 1)
             BorderStyle: =BorderStyle.Solid
             DataField: ="U_GrupoD2_x002e_2"
@@ -1174,13 +1174,13 @@ APUESTA_GRUPO_D As screen:
             Height: =50
             MaxLength: =DataSourceInfo([@PUNTAJES], DataSourceInfo.MaxLength, "U_GrupoD2_x002e_2")
             Required: =false
-            Update: =DataCardValue41.Text
-            Width: =150
+            Update: =DataCardValue101.Text
+            Width: =151
             X: =1
             Y: =1
             ZIndex: =1
 
-            DataCardKey41 As label:
+            DataCardKey101 As label:
                 AutoHeight: =true
                 BorderColor: =RGBA(0, 0, 0, 0)
                 BorderStyle: =BorderStyle.None
@@ -1201,7 +1201,7 @@ APUESTA_GRUPO_D As screen:
                 Y: =10
                 ZIndex: =1
 
-            DataCardValue41 As text:
+            DataCardValue101 As text:
                 BorderColor: =If(IsBlank(Parent.Error), Parent.BorderColor, Color.Red)
                 BorderThickness: =2
                 Color: =RGBA(51, 51, 51, 1)
@@ -1230,10 +1230,10 @@ APUESTA_GRUPO_D As screen:
                 Tooltip: =Parent.DisplayName
                 Width: =Parent.Width - 60
                 X: =30
-                Y: =DataCardKey41.Y + DataCardKey41.Height + 5
+                Y: =35
                 ZIndex: =2
 
-            ErrorMessage34 As label:
+            ErrorMessage94 As label:
                 AutoHeight: =true
                 BorderColor: =RGBA(0, 0, 0, 0)
                 BorderStyle: =BorderStyle.None
@@ -1255,10 +1255,10 @@ APUESTA_GRUPO_D As screen:
                 Visible: =Parent.DisplayMode=DisplayMode.Edit
                 Width: =Parent.Width - 60
                 X: =30
-                Y: =DataCardValue41.Y + DataCardValue41.Height
+                Y: =DataCardValue101.Y + DataCardValue101.Height
                 ZIndex: =3
 
-            StarVisible34 As label:
+            StarVisible94 As label:
                 Align: =Align.Center
                 BorderColor: =RGBA(0, 0, 0, 0)
                 BorderStyle: =BorderStyle.None
@@ -1269,17 +1269,17 @@ APUESTA_GRUPO_D As screen:
                 FocusedBorderThickness: =4
                 Font: =Font.'Segoe UI'
                 FontWeight: =FontWeight.Semibold
-                Height: =DataCardKey41.Height
+                Height: =DataCardKey101.Height
                 PaddingLeft: =0
                 Size: =21
                 Text: ="*"
                 Visible: =And(Parent.Required, Parent.DisplayMode=DisplayMode.Edit)
                 Width: =30
                 Wrap: =false
-                Y: =DataCardKey41.Y
+                Y: =DataCardKey101.Y
                 ZIndex: =4
 
-        U_GrupoD3_DataCard1 As typedDataCard.textualEditCard:
+        U_GrupoD3_DataCard2 As typedDataCard.textualEditCard:
             BorderColor: =RGBA(166, 166, 166, 1)
             BorderStyle: =BorderStyle.Solid
             DataField: ="U_GrupoD3"
@@ -1290,13 +1290,13 @@ APUESTA_GRUPO_D As screen:
             Height: =50
             MaxLength: =DataSourceInfo([@PUNTAJES], DataSourceInfo.MaxLength, "U_GrupoD3")
             Required: =false
-            Update: =DataCardValue42.Text
-            Width: =150
+            Update: =DataCardValue102.Text
+            Width: =151
             X: =0
             Y: =2
             ZIndex: =1
 
-            DataCardKey42 As label:
+            DataCardKey102 As label:
                 AutoHeight: =true
                 BorderColor: =RGBA(0, 0, 0, 0)
                 BorderStyle: =BorderStyle.None
@@ -1317,7 +1317,7 @@ APUESTA_GRUPO_D As screen:
                 Y: =10
                 ZIndex: =1
 
-            DataCardValue42 As text:
+            DataCardValue102 As text:
                 BorderColor: =If(IsBlank(Parent.Error), Parent.BorderColor, Color.Red)
                 BorderThickness: =2
                 Color: =RGBA(51, 51, 51, 1)
@@ -1346,10 +1346,10 @@ APUESTA_GRUPO_D As screen:
                 Tooltip: =Parent.DisplayName
                 Width: =Parent.Width - 60
                 X: =30
-                Y: =DataCardKey42.Y + DataCardKey42.Height + 5
+                Y: =55
                 ZIndex: =2
 
-            ErrorMessage35 As label:
+            ErrorMessage95 As label:
                 AutoHeight: =true
                 BorderColor: =RGBA(0, 0, 0, 0)
                 BorderStyle: =BorderStyle.None
@@ -1371,10 +1371,10 @@ APUESTA_GRUPO_D As screen:
                 Visible: =Parent.DisplayMode=DisplayMode.Edit
                 Width: =Parent.Width - 60
                 X: =30
-                Y: =DataCardValue42.Y + DataCardValue42.Height
+                Y: =DataCardValue102.Y + DataCardValue102.Height
                 ZIndex: =3
 
-            StarVisible35 As label:
+            StarVisible95 As label:
                 Align: =Align.Center
                 BorderColor: =RGBA(0, 0, 0, 0)
                 BorderStyle: =BorderStyle.None
@@ -1385,17 +1385,17 @@ APUESTA_GRUPO_D As screen:
                 FocusedBorderThickness: =4
                 Font: =Font.'Segoe UI'
                 FontWeight: =FontWeight.Semibold
-                Height: =DataCardKey42.Height
+                Height: =DataCardKey102.Height
                 PaddingLeft: =0
                 Size: =21
                 Text: ="*"
                 Visible: =And(Parent.Required, Parent.DisplayMode=DisplayMode.Edit)
                 Width: =30
                 Wrap: =false
-                Y: =DataCardKey42.Y
+                Y: =DataCardKey102.Y
                 ZIndex: =4
 
-        "'U_GrupoD3.3_DataCard1' As typedDataCard.textualEditCard":
+        "'U_GrupoD3.3_DataCard2' As typedDataCard.textualEditCard":
             BorderColor: =RGBA(166, 166, 166, 1)
             BorderStyle: =BorderStyle.Solid
             DataField: ="U_GrupoD3_x002e_3"
@@ -1406,13 +1406,13 @@ APUESTA_GRUPO_D As screen:
             Height: =50
             MaxLength: =DataSourceInfo([@PUNTAJES], DataSourceInfo.MaxLength, "U_GrupoD3_x002e_3")
             Required: =false
-            Update: =DataCardValue43.Text
-            Width: =150
+            Update: =DataCardValue103.Text
+            Width: =151
             X: =1
             Y: =2
             ZIndex: =1
 
-            DataCardKey43 As label:
+            DataCardKey103 As label:
                 AutoHeight: =true
                 BorderColor: =RGBA(0, 0, 0, 0)
                 BorderStyle: =BorderStyle.None
@@ -1433,7 +1433,7 @@ APUESTA_GRUPO_D As screen:
                 Y: =10
                 ZIndex: =1
 
-            DataCardValue43 As text:
+            DataCardValue103 As text:
                 BorderColor: =If(IsBlank(Parent.Error), Parent.BorderColor, Color.Red)
                 BorderThickness: =2
                 Color: =RGBA(51, 51, 51, 1)
@@ -1462,10 +1462,10 @@ APUESTA_GRUPO_D As screen:
                 Tooltip: =Parent.DisplayName
                 Width: =Parent.Width - 60
                 X: =30
-                Y: =DataCardKey43.Y + DataCardKey43.Height + 5
+                Y: =55
                 ZIndex: =2
 
-            ErrorMessage36 As label:
+            ErrorMessage96 As label:
                 AutoHeight: =true
                 BorderColor: =RGBA(0, 0, 0, 0)
                 BorderStyle: =BorderStyle.None
@@ -1487,10 +1487,10 @@ APUESTA_GRUPO_D As screen:
                 Visible: =Parent.DisplayMode=DisplayMode.Edit
                 Width: =Parent.Width - 60
                 X: =30
-                Y: =DataCardValue43.Y + DataCardValue43.Height
+                Y: =DataCardValue103.Y + DataCardValue103.Height
                 ZIndex: =3
 
-            StarVisible36 As label:
+            StarVisible96 As label:
                 Align: =Align.Center
                 BorderColor: =RGBA(0, 0, 0, 0)
                 BorderStyle: =BorderStyle.None
@@ -1501,17 +1501,17 @@ APUESTA_GRUPO_D As screen:
                 FocusedBorderThickness: =4
                 Font: =Font.'Segoe UI'
                 FontWeight: =FontWeight.Semibold
-                Height: =DataCardKey43.Height
+                Height: =DataCardKey103.Height
                 PaddingLeft: =0
                 Size: =21
                 Text: ="*"
                 Visible: =And(Parent.Required, Parent.DisplayMode=DisplayMode.Edit)
                 Width: =30
                 Wrap: =false
-                Y: =DataCardKey43.Y
+                Y: =DataCardKey103.Y
                 ZIndex: =4
 
-        U_GrupoD4_DataCard1 As typedDataCard.textualEditCard:
+        U_GrupoD4_DataCard2 As typedDataCard.textualEditCard:
             BorderColor: =RGBA(166, 166, 166, 1)
             BorderStyle: =BorderStyle.Solid
             DataField: ="U_GrupoD4"
@@ -1522,13 +1522,13 @@ APUESTA_GRUPO_D As screen:
             Height: =50
             MaxLength: =DataSourceInfo([@PUNTAJES], DataSourceInfo.MaxLength, "U_GrupoD4")
             Required: =false
-            Update: =DataCardValue44.Text
-            Width: =150
+            Update: =DataCardValue104.Text
+            Width: =151
             X: =0
             Y: =3
             ZIndex: =1
 
-            DataCardKey44 As label:
+            DataCardKey104 As label:
                 AutoHeight: =true
                 BorderColor: =RGBA(0, 0, 0, 0)
                 BorderStyle: =BorderStyle.None
@@ -1549,7 +1549,7 @@ APUESTA_GRUPO_D As screen:
                 Y: =10
                 ZIndex: =1
 
-            DataCardValue44 As text:
+            DataCardValue104 As text:
                 BorderColor: =If(IsBlank(Parent.Error), Parent.BorderColor, Color.Red)
                 BorderThickness: =2
                 Color: =RGBA(51, 51, 51, 1)
@@ -1578,10 +1578,10 @@ APUESTA_GRUPO_D As screen:
                 Tooltip: =Parent.DisplayName
                 Width: =Parent.Width - 60
                 X: =30
-                Y: =DataCardKey44.Y + DataCardKey44.Height + 5
+                Y: =42
                 ZIndex: =2
 
-            ErrorMessage37 As label:
+            ErrorMessage97 As label:
                 AutoHeight: =true
                 BorderColor: =RGBA(0, 0, 0, 0)
                 BorderStyle: =BorderStyle.None
@@ -1603,10 +1603,10 @@ APUESTA_GRUPO_D As screen:
                 Visible: =Parent.DisplayMode=DisplayMode.Edit
                 Width: =Parent.Width - 60
                 X: =30
-                Y: =DataCardValue44.Y + DataCardValue44.Height
+                Y: =DataCardValue104.Y + DataCardValue104.Height
                 ZIndex: =3
 
-            StarVisible37 As label:
+            StarVisible97 As label:
                 Align: =Align.Center
                 BorderColor: =RGBA(0, 0, 0, 0)
                 BorderStyle: =BorderStyle.None
@@ -1617,17 +1617,17 @@ APUESTA_GRUPO_D As screen:
                 FocusedBorderThickness: =4
                 Font: =Font.'Segoe UI'
                 FontWeight: =FontWeight.Semibold
-                Height: =DataCardKey44.Height
+                Height: =DataCardKey104.Height
                 PaddingLeft: =0
                 Size: =21
                 Text: ="*"
                 Visible: =And(Parent.Required, Parent.DisplayMode=DisplayMode.Edit)
                 Width: =30
                 Wrap: =false
-                Y: =DataCardKey44.Y
+                Y: =DataCardKey104.Y
                 ZIndex: =4
 
-        "'U_GrupoD4.4_DataCard1' As typedDataCard.textualEditCard":
+        "'U_GrupoD4.4_DataCard2' As typedDataCard.textualEditCard":
             BorderColor: =RGBA(166, 166, 166, 1)
             BorderStyle: =BorderStyle.Solid
             DataField: ="U_GrupoD4_x002e_4"
@@ -1638,13 +1638,13 @@ APUESTA_GRUPO_D As screen:
             Height: =50
             MaxLength: =DataSourceInfo([@PUNTAJES], DataSourceInfo.MaxLength, "U_GrupoD4_x002e_4")
             Required: =false
-            Update: =DataCardValue45.Text
-            Width: =150
+            Update: =DataCardValue105.Text
+            Width: =151
             X: =1
             Y: =3
             ZIndex: =1
 
-            DataCardKey45 As label:
+            DataCardKey105 As label:
                 AutoHeight: =true
                 BorderColor: =RGBA(0, 0, 0, 0)
                 BorderStyle: =BorderStyle.None
@@ -1665,7 +1665,7 @@ APUESTA_GRUPO_D As screen:
                 Y: =10
                 ZIndex: =1
 
-            DataCardValue45 As text:
+            DataCardValue105 As text:
                 BorderColor: =If(IsBlank(Parent.Error), Parent.BorderColor, Color.Red)
                 BorderThickness: =2
                 Color: =RGBA(51, 51, 51, 1)
@@ -1694,10 +1694,10 @@ APUESTA_GRUPO_D As screen:
                 Tooltip: =Parent.DisplayName
                 Width: =Parent.Width - 60
                 X: =30
-                Y: =DataCardKey45.Y + DataCardKey45.Height + 5
+                Y: =42
                 ZIndex: =2
 
-            ErrorMessage38 As label:
+            ErrorMessage98 As label:
                 AutoHeight: =true
                 BorderColor: =RGBA(0, 0, 0, 0)
                 BorderStyle: =BorderStyle.None
@@ -1719,10 +1719,10 @@ APUESTA_GRUPO_D As screen:
                 Visible: =Parent.DisplayMode=DisplayMode.Edit
                 Width: =Parent.Width - 60
                 X: =30
-                Y: =DataCardValue45.Y + DataCardValue45.Height
+                Y: =DataCardValue105.Y + DataCardValue105.Height
                 ZIndex: =3
 
-            StarVisible38 As label:
+            StarVisible98 As label:
                 Align: =Align.Center
                 BorderColor: =RGBA(0, 0, 0, 0)
                 BorderStyle: =BorderStyle.None
@@ -1733,17 +1733,17 @@ APUESTA_GRUPO_D As screen:
                 FocusedBorderThickness: =4
                 Font: =Font.'Segoe UI'
                 FontWeight: =FontWeight.Semibold
-                Height: =DataCardKey45.Height
+                Height: =DataCardKey105.Height
                 PaddingLeft: =0
                 Size: =21
                 Text: ="*"
                 Visible: =And(Parent.Required, Parent.DisplayMode=DisplayMode.Edit)
                 Width: =30
                 Wrap: =false
-                Y: =DataCardKey45.Y
+                Y: =DataCardKey105.Y
                 ZIndex: =4
 
-        U_GrupoD5_DataCard1 As typedDataCard.textualEditCard:
+        U_GrupoD5_DataCard2 As typedDataCard.textualEditCard:
             BorderColor: =RGBA(166, 166, 166, 1)
             BorderStyle: =BorderStyle.Solid
             DataField: ="U_GrupoD5"
@@ -1754,13 +1754,13 @@ APUESTA_GRUPO_D As screen:
             Height: =50
             MaxLength: =DataSourceInfo([@PUNTAJES], DataSourceInfo.MaxLength, "U_GrupoD5")
             Required: =false
-            Update: =DataCardValue46.Text
-            Width: =150
+            Update: =DataCardValue106.Text
+            Width: =151
             X: =0
             Y: =4
             ZIndex: =1
 
-            DataCardKey46 As label:
+            DataCardKey106 As label:
                 AutoHeight: =true
                 BorderColor: =RGBA(0, 0, 0, 0)
                 BorderStyle: =BorderStyle.None
@@ -1781,7 +1781,7 @@ APUESTA_GRUPO_D As screen:
                 Y: =10
                 ZIndex: =1
 
-            DataCardValue46 As text:
+            DataCardValue106 As text:
                 BorderColor: =If(IsBlank(Parent.Error), Parent.BorderColor, Color.Red)
                 BorderThickness: =2
                 Color: =RGBA(51, 51, 51, 1)
@@ -1810,10 +1810,10 @@ APUESTA_GRUPO_D As screen:
                 Tooltip: =Parent.DisplayName
                 Width: =Parent.Width - 60
                 X: =30
-                Y: =DataCardKey46.Y + DataCardKey46.Height + 5
+                Y: =35
                 ZIndex: =2
 
-            ErrorMessage39 As label:
+            ErrorMessage99 As label:
                 AutoHeight: =true
                 BorderColor: =RGBA(0, 0, 0, 0)
                 BorderStyle: =BorderStyle.None
@@ -1835,10 +1835,10 @@ APUESTA_GRUPO_D As screen:
                 Visible: =Parent.DisplayMode=DisplayMode.Edit
                 Width: =Parent.Width - 60
                 X: =30
-                Y: =DataCardValue46.Y + DataCardValue46.Height
+                Y: =DataCardValue106.Y + DataCardValue106.Height
                 ZIndex: =3
 
-            StarVisible39 As label:
+            StarVisible99 As label:
                 Align: =Align.Center
                 BorderColor: =RGBA(0, 0, 0, 0)
                 BorderStyle: =BorderStyle.None
@@ -1849,17 +1849,17 @@ APUESTA_GRUPO_D As screen:
                 FocusedBorderThickness: =4
                 Font: =Font.'Segoe UI'
                 FontWeight: =FontWeight.Semibold
-                Height: =DataCardKey46.Height
+                Height: =DataCardKey106.Height
                 PaddingLeft: =0
                 Size: =21
                 Text: ="*"
                 Visible: =And(Parent.Required, Parent.DisplayMode=DisplayMode.Edit)
                 Width: =30
                 Wrap: =false
-                Y: =DataCardKey46.Y
+                Y: =DataCardKey106.Y
                 ZIndex: =4
 
-        "'U_GrupoD5.5_DataCard1' As typedDataCard.textualEditCard":
+        "'U_GrupoD5.5_DataCard2' As typedDataCard.textualEditCard":
             BorderColor: =RGBA(166, 166, 166, 1)
             BorderStyle: =BorderStyle.Solid
             DataField: ="U_GrupoD5_x002e_5"
@@ -1870,13 +1870,13 @@ APUESTA_GRUPO_D As screen:
             Height: =50
             MaxLength: =DataSourceInfo([@PUNTAJES], DataSourceInfo.MaxLength, "U_GrupoD5_x002e_5")
             Required: =false
-            Update: =DataCardValue47.Text
-            Width: =150
+            Update: =DataCardValue107.Text
+            Width: =151
             X: =1
             Y: =4
             ZIndex: =1
 
-            DataCardKey47 As label:
+            DataCardKey107 As label:
                 AutoHeight: =true
                 BorderColor: =RGBA(0, 0, 0, 0)
                 BorderStyle: =BorderStyle.None
@@ -1897,7 +1897,7 @@ APUESTA_GRUPO_D As screen:
                 Y: =10
                 ZIndex: =1
 
-            DataCardValue47 As text:
+            DataCardValue107 As text:
                 BorderColor: =If(IsBlank(Parent.Error), Parent.BorderColor, Color.Red)
                 BorderThickness: =2
                 Color: =RGBA(51, 51, 51, 1)
@@ -1926,10 +1926,10 @@ APUESTA_GRUPO_D As screen:
                 Tooltip: =Parent.DisplayName
                 Width: =Parent.Width - 60
                 X: =30
-                Y: =DataCardKey47.Y + DataCardKey47.Height + 5
+                Y: =35
                 ZIndex: =2
 
-            ErrorMessage40 As label:
+            ErrorMessage100 As label:
                 AutoHeight: =true
                 BorderColor: =RGBA(0, 0, 0, 0)
                 BorderStyle: =BorderStyle.None
@@ -1951,10 +1951,10 @@ APUESTA_GRUPO_D As screen:
                 Visible: =Parent.DisplayMode=DisplayMode.Edit
                 Width: =Parent.Width - 60
                 X: =30
-                Y: =DataCardValue47.Y + DataCardValue47.Height
+                Y: =DataCardValue107.Y + DataCardValue107.Height
                 ZIndex: =3
 
-            StarVisible40 As label:
+            StarVisible100 As label:
                 Align: =Align.Center
                 BorderColor: =RGBA(0, 0, 0, 0)
                 BorderStyle: =BorderStyle.None
@@ -1965,17 +1965,17 @@ APUESTA_GRUPO_D As screen:
                 FocusedBorderThickness: =4
                 Font: =Font.'Segoe UI'
                 FontWeight: =FontWeight.Semibold
-                Height: =DataCardKey47.Height
+                Height: =DataCardKey107.Height
                 PaddingLeft: =0
                 Size: =21
                 Text: ="*"
                 Visible: =And(Parent.Required, Parent.DisplayMode=DisplayMode.Edit)
                 Width: =30
                 Wrap: =false
-                Y: =DataCardKey47.Y
+                Y: =DataCardKey107.Y
                 ZIndex: =4
 
-        U_GrupoD6_DataCard1 As typedDataCard.textualEditCard:
+        U_GrupoD6_DataCard2 As typedDataCard.textualEditCard:
             BorderColor: =RGBA(166, 166, 166, 1)
             BorderStyle: =BorderStyle.Solid
             DataField: ="U_GrupoD6"
@@ -1986,13 +1986,13 @@ APUESTA_GRUPO_D As screen:
             Height: =50
             MaxLength: =DataSourceInfo([@PUNTAJES], DataSourceInfo.MaxLength, "U_GrupoD6")
             Required: =false
-            Update: =DataCardValue48.Text
-            Width: =150
+            Update: =DataCardValue108.Text
+            Width: =151
             X: =0
             Y: =5
             ZIndex: =1
 
-            DataCardKey48 As label:
+            DataCardKey108 As label:
                 AutoHeight: =true
                 BorderColor: =RGBA(0, 0, 0, 0)
                 BorderStyle: =BorderStyle.None
@@ -2013,7 +2013,7 @@ APUESTA_GRUPO_D As screen:
                 Y: =10
                 ZIndex: =1
 
-            DataCardValue48 As text:
+            DataCardValue108 As text:
                 BorderColor: =If(IsBlank(Parent.Error), Parent.BorderColor, Color.Red)
                 BorderThickness: =2
                 Color: =RGBA(51, 51, 51, 1)
@@ -2042,10 +2042,10 @@ APUESTA_GRUPO_D As screen:
                 Tooltip: =Parent.DisplayName
                 Width: =Parent.Width - 60
                 X: =30
-                Y: =DataCardKey48.Y + DataCardKey48.Height + 5
+                Y: =45
                 ZIndex: =2
 
-            ErrorMessage41 As label:
+            ErrorMessage101 As label:
                 AutoHeight: =true
                 BorderColor: =RGBA(0, 0, 0, 0)
                 BorderStyle: =BorderStyle.None
@@ -2067,10 +2067,10 @@ APUESTA_GRUPO_D As screen:
                 Visible: =Parent.DisplayMode=DisplayMode.Edit
                 Width: =Parent.Width - 60
                 X: =30
-                Y: =DataCardValue48.Y + DataCardValue48.Height
+                Y: =DataCardValue108.Y + DataCardValue108.Height
                 ZIndex: =3
 
-            StarVisible41 As label:
+            StarVisible101 As label:
                 Align: =Align.Center
                 BorderColor: =RGBA(0, 0, 0, 0)
                 BorderStyle: =BorderStyle.None
@@ -2081,17 +2081,17 @@ APUESTA_GRUPO_D As screen:
                 FocusedBorderThickness: =4
                 Font: =Font.'Segoe UI'
                 FontWeight: =FontWeight.Semibold
-                Height: =DataCardKey48.Height
+                Height: =DataCardKey108.Height
                 PaddingLeft: =0
                 Size: =21
                 Text: ="*"
                 Visible: =And(Parent.Required, Parent.DisplayMode=DisplayMode.Edit)
                 Width: =30
                 Wrap: =false
-                Y: =DataCardKey48.Y
+                Y: =DataCardKey108.Y
                 ZIndex: =4
 
-        "'U_GrupoD6.6_DataCard1' As typedDataCard.textualEditCard":
+        "'U_GrupoD6.6_DataCard2' As typedDataCard.textualEditCard":
             BorderColor: =RGBA(166, 166, 166, 1)
             BorderStyle: =BorderStyle.Solid
             DataField: ="U_GrupoD6_x002e_6"
@@ -2102,13 +2102,13 @@ APUESTA_GRUPO_D As screen:
             Height: =50
             MaxLength: =DataSourceInfo([@PUNTAJES], DataSourceInfo.MaxLength, "U_GrupoD6_x002e_6")
             Required: =false
-            Update: =DataCardValue49.Text
-            Width: =150
+            Update: =DataCardValue109.Text
+            Width: =151
             X: =1
             Y: =5
             ZIndex: =1
 
-            DataCardKey49 As label:
+            DataCardKey109 As label:
                 AutoHeight: =true
                 BorderColor: =RGBA(0, 0, 0, 0)
                 BorderStyle: =BorderStyle.None
@@ -2129,7 +2129,7 @@ APUESTA_GRUPO_D As screen:
                 Y: =10
                 ZIndex: =1
 
-            DataCardValue49 As text:
+            DataCardValue109 As text:
                 BorderColor: =If(IsBlank(Parent.Error), Parent.BorderColor, Color.Red)
                 BorderThickness: =2
                 Color: =RGBA(51, 51, 51, 1)
@@ -2158,10 +2158,10 @@ APUESTA_GRUPO_D As screen:
                 Tooltip: =Parent.DisplayName
                 Width: =Parent.Width - 60
                 X: =30
-                Y: =DataCardKey49.Y + DataCardKey49.Height + 5
+                Y: =45
                 ZIndex: =2
 
-            ErrorMessage42 As label:
+            ErrorMessage102 As label:
                 AutoHeight: =true
                 BorderColor: =RGBA(0, 0, 0, 0)
                 BorderStyle: =BorderStyle.None
@@ -2183,10 +2183,10 @@ APUESTA_GRUPO_D As screen:
                 Visible: =Parent.DisplayMode=DisplayMode.Edit
                 Width: =Parent.Width - 60
                 X: =30
-                Y: =DataCardValue49.Y + DataCardValue49.Height
+                Y: =DataCardValue109.Y + DataCardValue109.Height
                 ZIndex: =3
 
-            StarVisible42 As label:
+            StarVisible102 As label:
                 Align: =Align.Center
                 BorderColor: =RGBA(0, 0, 0, 0)
                 BorderStyle: =BorderStyle.None
@@ -2197,13 +2197,13 @@ APUESTA_GRUPO_D As screen:
                 FocusedBorderThickness: =4
                 Font: =Font.'Segoe UI'
                 FontWeight: =FontWeight.Semibold
-                Height: =DataCardKey49.Height
+                Height: =DataCardKey109.Height
                 PaddingLeft: =0
                 Size: =21
                 Text: ="*"
                 Visible: =And(Parent.Required, Parent.DisplayMode=DisplayMode.Edit)
                 Width: =30
                 Wrap: =false
-                Y: =DataCardKey49.Y
+                Y: =DataCardKey109.Y
                 ZIndex: =4
 
