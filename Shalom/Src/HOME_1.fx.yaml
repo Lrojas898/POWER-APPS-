@@ -164,7 +164,7 @@ HOME_1 As screen:
         FocusedBorderColor: =ColorFade(Self.Fill, -75%)
         Font: =Font.'Segoe UI'
         FontWeight: =FontWeight.Bold
-        Height: =100
+        Height: =117
         HoverBorderColor: =RGBA(0, 0, 0, 0)
         HoverColor: =RGBA(255, 255, 255, 1)
         HoverFill: =ColorFade(RGBA(0, 120, 212, 1), -10%)
@@ -198,8 +198,8 @@ HOME_1 As screen:
         PressedBorderColor: =RGBA(0, 0, 0, 0)
         PressedColor: =ColorFade(RGBA(0, 120, 212, 1), -30%)
         PressedFill: =RGBA(0, 0, 0, 0)
-        X: =84
-        Y: =163
+        X: =69
+        Y: =171
         ZIndex: =13
 
     Icon7 As icon.Leave:
