@@ -1133,7 +1133,7 @@ APUESTA_GRUPO_A As screen:
                 Tooltip: =Parent.DisplayName
                 Width: =Parent.Width - 60
                 X: =30
-                Y: =DataCardKey12.Y + DataCardKey12.Height + 5
+                Y: =35
                 ZIndex: =2
 
             ErrorMessage107 As label:
@@ -1249,7 +1249,7 @@ APUESTA_GRUPO_A As screen:
                 Tooltip: =Parent.DisplayName
                 Width: =Parent.Width - 60
                 X: =30
-                Y: =DataCardKey13.Y + DataCardKey13.Height + 5
+                Y: =35
                 ZIndex: =2
 
             ErrorMessage108 As label:
@@ -1365,7 +1365,7 @@ APUESTA_GRUPO_A As screen:
                 Tooltip: =Parent.DisplayName
                 Width: =Parent.Width - 60
                 X: =30
-                Y: =DataCardKey14.Y + DataCardKey14.Height + 5
+                Y: =55
                 ZIndex: =2
 
             ErrorMessage109 As label:
@@ -1481,7 +1481,7 @@ APUESTA_GRUPO_A As screen:
                 Tooltip: =Parent.DisplayName
                 Width: =Parent.Width - 60
                 X: =30
-                Y: =DataCardKey15.Y + DataCardKey15.Height + 5
+                Y: =55
                 ZIndex: =2
 
             ErrorMessage110 As label:

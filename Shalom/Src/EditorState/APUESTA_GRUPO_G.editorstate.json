@@ -10629,7 +10629,7 @@
       "LayoutName": "vertical",
       "MetaDataIDKey": "",
       "Name": "GRUPOGFORM",
-      "ParentIndex": 7,
+      "ParentIndex": 6,
       "PersistMetaDataIDKey": false,
       "Properties": [
         {
@@ -19189,7 +19189,7 @@
       "LayoutName": "",
       "MetaDataIDKey": "",
       "Name": "Rectangle751536_73",
-      "ParentIndex": 6,
+      "ParentIndex": 7,
       "PersistMetaDataIDKey": false,
       "Properties": [
         {
