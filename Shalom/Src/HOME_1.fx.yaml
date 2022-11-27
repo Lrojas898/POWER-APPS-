@@ -2,6 +2,19 @@ HOME_1 As screen:
     Fill: =RGBA(237, 237, 237, 1)
     LoadingSpinnerColor: =RGBA(0, 120, 212, 1)
 
+    Rectangle411270 As rectangle:
+        BorderColor: =RGBA(0, 0, 0, 0)
+        BorderStyle: =BorderStyle.None
+        DisabledFill: =RGBA(166, 166, 166, 1)
+        DisplayMode: =DisplayMode.View
+        Fill: =RGBA(141, 28, 61, 1)
+        FocusedBorderThickness: =4
+        Height: =318
+        HoverFill: =RGBA(141, 28, 61, 1)
+        PressedFill: =RGBA(141, 28, 61, 1)
+        Width: =640
+        ZIndex: =1
+
     "Gallery2 As gallery.'BrowseLayout_Vertical_ThreeTextVariant_ver4.0'":
         BorderColor: =RGBA(166, 166, 166, 1)
         Items: =USUARIOS
@@ -102,19 +115,6 @@ HOME_1 As screen:
             Width: =Parent.TemplateWidth
             Y: =Parent.TemplateHeight - 1
             ZIndex: =5
-
-    Rectangle411270 As rectangle:
-        BorderColor: =RGBA(0, 0, 0, 0)
-        BorderStyle: =BorderStyle.None
-        DisabledFill: =RGBA(166, 166, 166, 1)
-        DisplayMode: =DisplayMode.View
-        Fill: =RGBA(141, 28, 61, 1)
-        FocusedBorderThickness: =4
-        Height: =318
-        HoverFill: =RGBA(141, 28, 61, 1)
-        PressedFill: =RGBA(141, 28, 61, 1)
-        Width: =640
-        ZIndex: =1
 
     Label411291 As label:
         BorderColor: =RGBA(0, 0, 0, 0)
