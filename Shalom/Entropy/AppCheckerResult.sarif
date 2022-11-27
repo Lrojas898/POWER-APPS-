@@ -24364,49 +24364,19 @@
             {
               "logicalLocations": [
                 {
-                  "fullyQualifiedName": "HOME_1.'JUGADORES RANKING'.Rectangle241114_1.AccessibleLabel"
+                  "fullyQualifiedName": "HOME_1.'JUGADORES RANKING'.shalombet_3.TabIndex"
                 }
               ],
               "physicalLocation": {
                 "address": {
-                  "fullyQualifiedName": "HOME_1.'JUGADORES RANKING'.Rectangle241114_1.AccessibleLabel",
-                  "relativeAddress": 0
-                }
-              },
-              "properties": {
-                "member": "AccessibleLabel",
-                "module": "HOME_1",
-                "type": "HOME_1.'JUGADORES RANKING'.Rectangle241114_1"
-              }
-            }
-          ],
-          "message": {
-            "id": "issue"
-          },
-          "properties": {
-            "level": "Medium"
-          },
-          "ruleId": "acc-AccessibleLabelNeeded",
-          "ruleIndex": 2
-        },
-        {
-          "locations": [
-            {
-              "logicalLocations": [
-                {
-                  "fullyQualifiedName": "HOME_1.'JUGADORES RANKING'.Rectangle241114_1.TabIndex"
-                }
-              ],
-              "physicalLocation": {
-                "address": {
-                  "fullyQualifiedName": "HOME_1.'JUGADORES RANKING'.Rectangle241114_1.TabIndex",
+                  "fullyQualifiedName": "HOME_1.'JUGADORES RANKING'.shalombet_3.TabIndex",
                   "relativeAddress": 0
                 }
               },
               "properties": {
                 "member": "TabIndex",
                 "module": "HOME_1",
-                "type": "HOME_1.'JUGADORES RANKING'.Rectangle241114_1"
+                "type": "HOME_1.'JUGADORES RANKING'.shalombet_3"
               }
             }
           ],
@@ -24437,36 +24407,6 @@
                 "member": "TabIndex",
                 "module": "HOME_1",
                 "type": "HOME_1.'JUGADORES RANKING'.shalombet_2"
-              }
-            }
-          ],
-          "message": {
-            "id": "issue"
-          },
-          "properties": {
-            "level": "Medium"
-          },
-          "ruleId": "acc-TabIndexShouldBeDefinedForInteractiveControl",
-          "ruleIndex": 3
-        },
-        {
-          "locations": [
-            {
-              "logicalLocations": [
-                {
-                  "fullyQualifiedName": "HOME_1.'JUGADORES RANKING'.shalombet_3.TabIndex"
-                }
-              ],
-              "physicalLocation": {
-                "address": {
-                  "fullyQualifiedName": "HOME_1.'JUGADORES RANKING'.shalombet_3.TabIndex",
-                  "relativeAddress": 0
-                }
-              },
-              "properties": {
-                "member": "TabIndex",
-                "module": "HOME_1",
-                "type": "HOME_1.'JUGADORES RANKING'.shalombet_3"
               }
             }
           ],
