@@ -20,7 +20,7 @@ SINGINNEWUSER As screen:
         Text: ="Sign-in Information"
         Width: =523
         X: =57
-        Y: =77
+        Y: =89
         ZIndex: =19
 
     encabezado_1 As group:
@@ -104,8 +104,8 @@ SINGINNEWUSER As screen:
             PressedColor: =ColorFade(RGBA(0, 120, 212, 1), -30%)
             PressedFill: =RGBA(0, 0, 0, 0)
             Width: =66
-            X: =508
-            Y: =31
+            X: =514
+            Y: =20
             ZIndex: =36
 
     SubmitSignIn As button:
