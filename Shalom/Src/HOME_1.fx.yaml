@@ -9,7 +9,7 @@ HOME_1 As screen:
         DisplayMode: =DisplayMode.View
         Fill: =RGBA(141, 28, 61, 1)
         FocusedBorderThickness: =4
-        Height: =158
+        Height: =103
         HoverFill: =RGBA(141, 28, 61, 1)
         PressedFill: =RGBA(141, 28, 61, 1)
         Width: =640
@@ -152,14 +152,14 @@ HOME_1 As screen:
         DisabledBorderColor: =RGBA(0, 0, 0, 0)
         DisabledColor: =RGBA(166, 166, 166, 1)
         FocusedBorderThickness: =4
-        FontWeight: =FontWeight.Lighter
+        FontWeight: =FontWeight.Bold
         Height: =43
         LineHeight: =1.210227
         PaddingBottom: =0
         PaddingLeft: =0
         PaddingRight: =0
         PaddingTop: =0
-        Size: =20
+        Size: =40
         Text: ="Inicio"
         Width: =267
         X: =186
@@ -194,7 +194,7 @@ HOME_1 As screen:
         Text: ="Nueva Apuesta"
         Width: =547
         X: =38
-        Y: =172
+        Y: =145
         ZIndex: =11
 
     Icon4 As icon.Money:
@@ -212,7 +212,7 @@ HOME_1 As screen:
         PressedColor: =ColorFade(RGBA(0, 120, 212, 1), -30%)
         PressedFill: =RGBA(0, 0, 0, 0)
         X: =84
-        Y: =190
+        Y: =163
         ZIndex: =13
 
     Icon7 As icon.Leave:

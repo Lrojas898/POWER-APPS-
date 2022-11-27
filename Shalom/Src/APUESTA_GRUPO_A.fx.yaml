@@ -827,11 +827,11 @@ APUESTA_GRUPO_A As screen:
     TOTALGRUPOA As form:
         BorderColor: =RGBA(166, 166, 166, 1)
         DataSource: =PUNTAJES
-        Height: =854
+        Height: =637
         NumberOfColumns: =2
-        Width: =396
-        X: =143
-        Y: =159
+        Width: =409
+        X: =122
+        Y: =282
         ZIndex: =74
 
         U_GrupoA1_DataCard1 As typedDataCard.textualEditCard:
@@ -846,7 +846,7 @@ APUESTA_GRUPO_A As screen:
             MaxLength: =DataSourceInfo([@PUNTAJES], DataSourceInfo.MaxLength, "U_GrupoA1")
             Required: =false
             Update: =DataCardValue10.Text
-            Width: =198
+            Width: =204
             X: =0
             Y: =0
             ZIndex: =1
@@ -962,7 +962,7 @@ APUESTA_GRUPO_A As screen:
             MaxLength: =DataSourceInfo([@PUNTAJES], DataSourceInfo.MaxLength, "U_GrupoA1_x002e_1")
             Required: =false
             Update: =DataCardValue11.Text
-            Width: =198
+            Width: =204
             X: =1
             Y: =0
             ZIndex: =1
@@ -1078,7 +1078,7 @@ APUESTA_GRUPO_A As screen:
             MaxLength: =DataSourceInfo([@PUNTAJES], DataSourceInfo.MaxLength, "U_GrupoA2")
             Required: =false
             Update: =DataCardValue12.Text
-            Width: =198
+            Width: =204
             X: =0
             Y: =1
             ZIndex: =1
@@ -1194,7 +1194,7 @@ APUESTA_GRUPO_A As screen:
             MaxLength: =DataSourceInfo([@PUNTAJES], DataSourceInfo.MaxLength, "U_GrupoA2_x002e_2")
             Required: =false
             Update: =DataCardValue13.Text
-            Width: =198
+            Width: =204
             X: =1
             Y: =1
             ZIndex: =1
@@ -1310,7 +1310,7 @@ APUESTA_GRUPO_A As screen:
             MaxLength: =DataSourceInfo([@PUNTAJES], DataSourceInfo.MaxLength, "U_GrupoA3")
             Required: =false
             Update: =DataCardValue14.Text
-            Width: =198
+            Width: =204
             X: =0
             Y: =2
             ZIndex: =1
@@ -1426,7 +1426,7 @@ APUESTA_GRUPO_A As screen:
             MaxLength: =DataSourceInfo([@PUNTAJES], DataSourceInfo.MaxLength, "U_GrupoA3_x002e_3")
             Required: =false
             Update: =DataCardValue15.Text
-            Width: =198
+            Width: =204
             X: =1
             Y: =2
             ZIndex: =1
@@ -1542,7 +1542,7 @@ APUESTA_GRUPO_A As screen:
             MaxLength: =DataSourceInfo([@PUNTAJES], DataSourceInfo.MaxLength, "U_GrupoA4")
             Required: =false
             Update: =DataCardValue16.Text
-            Width: =198
+            Width: =204
             X: =0
             Y: =3
             ZIndex: =1
@@ -1658,7 +1658,7 @@ APUESTA_GRUPO_A As screen:
             MaxLength: =DataSourceInfo([@PUNTAJES], DataSourceInfo.MaxLength, "U_GrupoA4_x002e_4")
             Required: =false
             Update: =DataCardValue17.Text
-            Width: =198
+            Width: =204
             X: =1
             Y: =3
             ZIndex: =1
@@ -1774,7 +1774,7 @@ APUESTA_GRUPO_A As screen:
             MaxLength: =DataSourceInfo([@PUNTAJES], DataSourceInfo.MaxLength, "U_GrupoA5")
             Required: =false
             Update: =DataCardValue18.Text
-            Width: =198
+            Width: =204
             X: =0
             Y: =4
             ZIndex: =1
@@ -1890,7 +1890,7 @@ APUESTA_GRUPO_A As screen:
             MaxLength: =DataSourceInfo([@PUNTAJES], DataSourceInfo.MaxLength, "U_GrupoA5_x002e_5")
             Required: =false
             Update: =DataCardValue19.Text
-            Width: =198
+            Width: =204
             X: =1
             Y: =4
             ZIndex: =1
@@ -2006,7 +2006,7 @@ APUESTA_GRUPO_A As screen:
             MaxLength: =DataSourceInfo([@PUNTAJES], DataSourceInfo.MaxLength, "U_GrupoA6")
             Required: =false
             Update: =DataCardValue20.Text
-            Width: =198
+            Width: =204
             X: =0
             Y: =5
             ZIndex: =1
@@ -2122,7 +2122,7 @@ APUESTA_GRUPO_A As screen:
             MaxLength: =DataSourceInfo([@PUNTAJES], DataSourceInfo.MaxLength, "U_GrupoA6_x002e_6")
             Required: =false
             Update: =DataCardValue21.Text
-            Width: =198
+            Width: =204
             X: =1
             Y: =5
             ZIndex: =1
