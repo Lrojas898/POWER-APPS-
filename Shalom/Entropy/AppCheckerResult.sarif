@@ -239,7 +239,7 @@
           ],
           "message": {
             "arguments": [
-              "\"PUNTOGCP1\", \"PUNTOGCP2\", \"PUNTOSGCP3\", \"PUNTOSGCP4\", \"PUNTOSGCP5\", \"PUNTOS_x0020_TOTAL_x0020_C\", \"U_GruPoB6_x002e_6\", \"U_GruPoC1\", \"U_GruPoC1_x002e_1\", \"U_GruPoC2\", \"U_GruPoC2_x002e_2\", \"U_GruPoC3\", \"U_GruPoC3_x002e_3\", \"U_GruPoC4\", \"U_GruPoC4_x002e_4\", \"U_GruPoC5\", \"U_GruPoC5_x002e_5\", \"__PowerAppsId__2\""
+              "\"Column1\", \"PUNTOGCP1\", \"PUNTOGCP2\", \"PUNTOSGCP3\", \"PUNTOSGCP4\", \"PUNTOSGCP5\", \"PUNTOSGCP6\", \"PUNTOS_x0020_TOTAL_x0020_C\", \"U_GruPoB6_x002e_6\", \"U_GruPoC1\", \"U_GruPoC1_x002e_1\", \"U_GruPoC2\", \"U_GruPoC2_x002e_2\", \"U_GruPoC3\", \"U_GruPoC3_x002e_3\", \"U_GruPoC4\", \"U_GruPoC4_x002e_4\", \"U_GruPoC5\", \"U_GruPoC5_x002e_5\""
             ],
             "id": "issue"
           },
@@ -359,7 +359,7 @@
           ],
           "message": {
             "arguments": [
-              "\"PUNTOGCP1\", \"PUNTOGCP2\", \"PUNTOSGCP3\", \"PUNTOSGCP4\", \"PUNTOSGCP5\", \"PUNTOS_x0020_TOTAL_x0020_C\", \"U_GruPoB6_x002e_6\", \"U_GruPoC1\", \"U_GruPoC1_x002e_1\", \"U_GruPoC2\", \"U_GruPoC2_x002e_2\", \"U_GruPoC3\", \"U_GruPoC3_x002e_3\", \"U_GruPoC4\", \"U_GruPoC4_x002e_4\", \"U_GruPoC5\", \"U_GruPoC5_x002e_5\", \"__PowerAppsId__2\""
+              "\"Column1\", \"PUNTOGCP1\", \"PUNTOGCP2\", \"PUNTOSGCP3\", \"PUNTOSGCP4\", \"PUNTOSGCP5\", \"PUNTOSGCP6\", \"PUNTOS_x0020_TOTAL_x0020_C\", \"U_GruPoB6_x002e_6\", \"U_GruPoC1\", \"U_GruPoC1_x002e_1\", \"U_GruPoC2\", \"U_GruPoC2_x002e_2\", \"U_GruPoC3\", \"U_GruPoC3_x002e_3\", \"U_GruPoC4\", \"U_GruPoC4_x002e_4\", \"U_GruPoC5\", \"U_GruPoC5_x002e_5\""
             ],
             "id": "issue"
           },
@@ -439,7 +439,7 @@
           ],
           "message": {
             "arguments": [
-              "\"PUNTOGCP1\", \"PUNTOGCP2\", \"PUNTOSGCP3\", \"PUNTOSGCP4\", \"PUNTOSGCP5\", \"PUNTOS_x0020_TOTAL_x0020_C\", \"U_GruPoB6_x002e_6\", \"U_GruPoC1\", \"U_GruPoC1_x002e_1\", \"U_GruPoC2\", \"U_GruPoC2_x002e_2\", \"U_GruPoC3\", \"U_GruPoC3_x002e_3\", \"U_GruPoC4\", \"U_GruPoC4_x002e_4\", \"U_GruPoC5\", \"U_GruPoC5_x002e_5\", \"__PowerAppsId__2\""
+              "\"Column1\", \"PUNTOGCP1\", \"PUNTOGCP2\", \"PUNTOSGCP3\", \"PUNTOSGCP4\", \"PUNTOSGCP5\", \"PUNTOSGCP6\", \"PUNTOS_x0020_TOTAL_x0020_C\", \"U_GruPoB6_x002e_6\", \"U_GruPoC1\", \"U_GruPoC1_x002e_1\", \"U_GruPoC2\", \"U_GruPoC2_x002e_2\", \"U_GruPoC3\", \"U_GruPoC3_x002e_3\", \"U_GruPoC4\", \"U_GruPoC4_x002e_4\", \"U_GruPoC5\", \"U_GruPoC5_x002e_5\""
             ],
             "id": "issue"
           },
@@ -559,7 +559,7 @@
           ],
           "message": {
             "arguments": [
-              "\"PUNTOGCP1\", \"PUNTOGCP2\", \"PUNTOSGCP3\", \"PUNTOSGCP4\", \"PUNTOSGCP5\", \"PUNTOS_x0020_TOTAL_x0020_C\", \"U_GruPoB6_x002e_6\", \"U_GruPoC1\", \"U_GruPoC1_x002e_1\", \"U_GruPoC2\", \"U_GruPoC2_x002e_2\", \"U_GruPoC3\", \"U_GruPoC3_x002e_3\", \"U_GruPoC4\", \"U_GruPoC4_x002e_4\", \"U_GruPoC5\", \"U_GruPoC5_x002e_5\", \"__PowerAppsId__2\""
+              "\"Column1\", \"PUNTOGCP1\", \"PUNTOGCP2\", \"PUNTOSGCP3\", \"PUNTOSGCP4\", \"PUNTOSGCP5\", \"PUNTOSGCP6\", \"PUNTOS_x0020_TOTAL_x0020_C\", \"U_GruPoB6_x002e_6\", \"U_GruPoC1\", \"U_GruPoC1_x002e_1\", \"U_GruPoC2\", \"U_GruPoC2_x002e_2\", \"U_GruPoC3\", \"U_GruPoC3_x002e_3\", \"U_GruPoC4\", \"U_GruPoC4_x002e_4\", \"U_GruPoC5\", \"U_GruPoC5_x002e_5\""
             ],
             "id": "issue"
           },
@@ -25167,6 +25167,66 @@
                 "member": "TabIndex",
                 "module": "APUESTA_GRUPO_C",
                 "type": "APUESTA_GRUPO_C.Icon8_3"
+              }
+            }
+          ],
+          "message": {
+            "id": "issue"
+          },
+          "properties": {
+            "level": "Medium"
+          },
+          "ruleId": "acc-TabIndexShouldBeDefinedForInteractiveControl",
+          "ruleIndex": 4
+        },
+        {
+          "locations": [
+            {
+              "logicalLocations": [
+                {
+                  "fullyQualifiedName": "APUESTA_GRUPO_D.Icon8_4.AccessibleLabel"
+                }
+              ],
+              "physicalLocation": {
+                "address": {
+                  "fullyQualifiedName": "APUESTA_GRUPO_D.Icon8_4.AccessibleLabel",
+                  "relativeAddress": 0
+                }
+              },
+              "properties": {
+                "member": "AccessibleLabel",
+                "module": "APUESTA_GRUPO_D",
+                "type": "APUESTA_GRUPO_D.Icon8_4"
+              }
+            }
+          ],
+          "message": {
+            "id": "issue"
+          },
+          "properties": {
+            "level": "Medium"
+          },
+          "ruleId": "acc-AccessibleLabelNeeded",
+          "ruleIndex": 3
+        },
+        {
+          "locations": [
+            {
+              "logicalLocations": [
+                {
+                  "fullyQualifiedName": "APUESTA_GRUPO_D.Icon8_4.TabIndex"
+                }
+              ],
+              "physicalLocation": {
+                "address": {
+                  "fullyQualifiedName": "APUESTA_GRUPO_D.Icon8_4.TabIndex",
+                  "relativeAddress": 0
+                }
+              },
+              "properties": {
+                "member": "TabIndex",
+                "module": "APUESTA_GRUPO_D",
+                "type": "APUESTA_GRUPO_D.Icon8_4"
               }
             }
           ],
