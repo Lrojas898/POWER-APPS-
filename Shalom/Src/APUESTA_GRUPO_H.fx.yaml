@@ -758,7 +758,7 @@ APUESTA_GRUPO_H As screen:
         HoverColor: =RGBA(255, 255, 255, 1)
         HoverFill: =ColorFade(RGBA(0, 120, 212, 1), -10%)
         OnSelect: |
-            =SubmitForm(GRUPOHFORM)
+            =SubmitForm(GRUPOHFORM) And SubmitForm(GRUPOAFORM) And SubmitForm(GRUPOBFORM) And SubmitForm(GRUPOCFORM) And SubmitForm(GRUPODFORM) And SubmitForm(GRUPOEFORM) And SubmitForm(GRUPOFFORM) And SubmitForm(GRUPOGFORM)
         PressedBorderColor: =ColorFade(RGBA(0, 120, 212, 1), -50%)
         PressedColor: =RGBA(255, 255, 255, 1)
         PressedFill: =ColorFade(RGBA(0, 120, 212, 1), -30%)
