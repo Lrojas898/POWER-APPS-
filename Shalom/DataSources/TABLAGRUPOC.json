@@ -8,7 +8,6 @@
     },
     "ConnectedDataSourceInfoNameMapping": {
       "__PowerAppsId__": "Row id",
-      "Column1": "Column1",
       "PUNTOGCP1": "PUNTOGCP1",
       "PUNTOGCP2": "PUNTOGCP2",
       "PUNTOS_x0020_TOTAL_x0020_C": "PUNTOS TOTAL C",
