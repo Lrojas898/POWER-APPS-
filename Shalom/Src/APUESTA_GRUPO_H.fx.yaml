@@ -2299,3 +2299,22 @@ APUESTA_GRUPO_H As screen:
                 Y: =DataCardKey8.Y
                 ZIndex: =4
 
+    Icon3_16 As icon.ArrowLeft:
+        BorderColor: =RGBA(166, 166, 166, 1)
+        Color: =RGBA(141, 28, 61, 1)
+        DisabledBorderColor: =RGBA(0, 0, 0, 0)
+        DisabledColor: =RGBA(220, 220, 220, 1)
+        DisabledFill: =RGBA(0, 0, 0, 0)
+        FocusedBorderThickness: =4
+        HoverBorderColor: =RGBA(0, 0, 0, 0)
+        HoverColor: =ColorFade(RGBA(0, 120, 212, 1), -30%)
+        HoverFill: =RGBA(0, 0, 0, 0)
+        Icon: =Icon.ArrowLeft
+        OnSelect: =Navigate(APUESTA_GRUPO_G)
+        PressedBorderColor: =RGBA(0, 0, 0, 0)
+        PressedColor: =ColorFade(RGBA(0, 120, 212, 1), -30%)
+        PressedFill: =RGBA(0, 0, 0, 0)
+        X: =72
+        Y: =1055
+        ZIndex: =76
+
