@@ -35,10 +35,43 @@
       },
       "b!a1xa3RSSfU6ruxcJHjJatB0Gfd-GMXdOrAhQBlPQv2HmA8JJUQBLT71_K2-rM4CE.013FRY3XHDGNDCX76CHBE2N7QYK6IQGLAL": {
         "dataSources": {
+          "FINALES": {
+            "tableName": "FINALES"
+          },
           "PUNTAJES": {
             "tableName": "PUNTAJES"
           },
+          "PUNTAJES_1": {
+            "tableName": "PUNTAJES"
+          },
+          "TABLAGRUPOA": {
+            "tableName": "TABLAGRUPOA"
+          },
+          "TABLAGRUPOB": {
+            "tableName": "TABLAGRUPOB"
+          },
+          "TABLAGRUPOC": {
+            "tableName": "TABLAGRUPOC"
+          },
+          "TABLAGRUPOD": {
+            "tableName": "TABLAGRUPOD"
+          },
+          "TABLAGRUPOE": {
+            "tableName": "TABLAGRUPOE"
+          },
+          "TABLAGRUPOF": {
+            "tableName": "TABLAGRUPOF"
+          },
+          "TABLAGRUPOG": {
+            "tableName": "TABLAGRUPOG"
+          },
+          "TABLAGRUPOH": {
+            "tableName": "TABLAGRUPOH"
+          },
           "USUARIOS": {
+            "tableName": "USUARIOS"
+          },
+          "USUARIOS_1": {
             "tableName": "USUARIOS"
           }
         }
@@ -47,7 +80,18 @@
     "dataSources": [
       "Table1",
       "PUNTAJES",
-      "USUARIOS"
+      "USUARIOS",
+      "TABLAGRUPOA",
+      "TABLAGRUPOC",
+      "TABLAGRUPOB",
+      "TABLAGRUPOD",
+      "TABLAGRUPOE",
+      "TABLAGRUPOF",
+      "TABLAGRUPOG",
+      "TABLAGRUPOH",
+      "FINALES",
+      "PUNTAJES_1",
+      "USUARIOS_1"
     ],
     "dependencies": {
       "fileSource": "de7e7649-6084-4d7a-a2d3-4d2d9fcd30ea"

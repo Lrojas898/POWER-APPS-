@@ -1,0 +1,38 @@
+[
+  {
+    "ApiId": "/providers/microsoft.powerapps/apis/shared_excel",
+    "CdpRevision": {
+      "BaseUrl": "/",
+      "LastChangedTimeString": "2022-09-26T19:44:14.5210000Z",
+      "RevisionNumber": 1
+    },
+    "ConnectedDataSourceInfoNameMapping": {
+      "__PowerAppsId__": "Row id",
+      "PUNTOGAP1": "PUNTOGAP1",
+      "PUNTOGAP2": "PUNTOGAP2",
+      "PUNTOGAP3": "PUNTOGAP3",
+      "PUNTOGAP4": "PUNTOGAP4",
+      "PUNTOGAP5": "PUNTOGAP5",
+      "PUNTOGAP6": "PUNTOGAP6",
+      "PUNTOTOTALA": "PUNTOTOTALA",
+      "U_GruPoA1": "U_GruPoA1",
+      "U_GruPoA1_x002e_1": "U_GruPoA1.1",
+      "U_GruPoA2": "U_GruPoA2",
+      "U_GruPoA2_x002e_2": "U_GruPoA2.2",
+      "U_GruPoA3": "U_GruPoA3",
+      "U_GruPoA3_x002e_3": "U_GruPoA3.3",
+      "U_GruPoA4": "U_GruPoA4",
+      "U_GruPoA4_x002e_4": "U_GruPoA4.4",
+      "U_GruPoA5": "U_GruPoA5",
+      "U_GruPoA5_x002e_5": "U_GruPoA5.5",
+      "U_GruPoA6": "U_GruPoA6",
+      "U_GruPoA6_x002e_6": "U_GruPoA6.6"
+    },
+    "DatasetName": "b!a1xa3RSSfU6ruxcJHjJatB0Gfd-GMXdOrAhQBlPQv2HmA8JJUQBLT71_K2-rM4CE.013FRY3XHDGNDCX76CHBE2N7QYK6IQGLAL",
+    "EncodeDataset": true,
+    "IsSampleData": false,
+    "IsWritable": true,
+    "Name": "TABLAGRUPOA",
+    "Type": "ConnectedDataSourceInfo"
+  }
+]

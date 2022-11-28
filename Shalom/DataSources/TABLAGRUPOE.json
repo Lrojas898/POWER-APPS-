@@ -1,0 +1,38 @@
+[
+  {
+    "ApiId": "/providers/microsoft.powerapps/apis/shared_excel",
+    "CdpRevision": {
+      "BaseUrl": "/",
+      "LastChangedTimeString": "2022-09-26T19:44:14.5210000Z",
+      "RevisionNumber": 1
+    },
+    "ConnectedDataSourceInfoNameMapping": {
+      "__PowerAppsId__": "Row id",
+      "PUNTOGEP1": "PUNTOGEP1",
+      "PUNTOS_x0020_TOTAL_x0020_E": "PUNTOS TOTAL E",
+      "PUNTOSGEP2": "PUNTOSGEP2",
+      "PUNTOSGEP3": "PUNTOSGEP3",
+      "PUNTOSGEP4": "PUNTOSGEP4",
+      "PUNTOSGEP5": "PUNTOSGEP5",
+      "PUNTOSGEP6": "PUNTOSGEP6",
+      "U_GruPoE1": "U_GruPoE1",
+      "U_GruPoE1_x002e_1": "U_GruPoE1.1",
+      "U_GruPoE2": "U_GruPoE2",
+      "U_GruPoE2_x002e_2": "U_GruPoE2.2",
+      "U_GruPoE3": "U_GruPoE3",
+      "U_GruPoE3_x002e_3": "U_GruPoE3.3",
+      "U_GruPoE4": "U_GruPoE4",
+      "U_GruPoE4_x002e_4": "U_GruPoE4.4",
+      "U_GruPoE5": "U_GruPoE5",
+      "U_GruPoE5_x002e_5": "U_GruPoE5.5",
+      "U_GruPoE6": "U_GruPoE6",
+      "U_GruPoE6_x002e_6": "U_GruPoE6.6"
+    },
+    "DatasetName": "b!a1xa3RSSfU6ruxcJHjJatB0Gfd-GMXdOrAhQBlPQv2HmA8JJUQBLT71_K2-rM4CE.013FRY3XHDGNDCX76CHBE2N7QYK6IQGLAL",
+    "EncodeDataset": true,
+    "IsSampleData": false,
+    "IsWritable": true,
+    "Name": "TABLAGRUPOE",
+    "Type": "ConnectedDataSourceInfo"
+  }
+]
