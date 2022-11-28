@@ -1808,7 +1808,7 @@ APUESTA_GRUPO_G As screen:
             BorderColor: =RGBA(166, 166, 166, 1)
             BorderStyle: =BorderStyle.Solid
             DataField: ="U_GruPoG5_x002e_5"
-            Default: =ThisItem.'U_GruPoG5.5'
+            Default: =ThisItem.U_GruPoG5_x002e_5
             DisplayMode: =Parent.DisplayMode
             DisplayName: =DataSourceInfo([@TABLAGRUPOG],DataSourceInfo.DisplayName,"U_GruPoG5_x002e_5")
             Fill: =RGBA(0, 0, 0, 0)
@@ -2040,7 +2040,7 @@ APUESTA_GRUPO_G As screen:
             BorderColor: =RGBA(166, 166, 166, 1)
             BorderStyle: =BorderStyle.Solid
             DataField: ="U_GruPoG6_x002e_6"
-            Default: =ThisItem.'U_GruPoG6.6'
+            Default: =ThisItem.U_GruPoG6_x002e_6
             DisplayMode: =Parent.DisplayMode
             DisplayName: =DataSourceInfo([@TABLAGRUPOG],DataSourceInfo.DisplayName,"U_GruPoG6_x002e_6")
             Fill: =RGBA(0, 0, 0, 0)
