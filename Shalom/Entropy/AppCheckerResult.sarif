@@ -172,486 +172,6 @@
             {
               "logicalLocations": [
                 {
-                  "fullyQualifiedName": "APUESTA_GRUPO_A.GRUPOAFORM.U_GrupoA1_DataCard1.Default"
-                }
-              ],
-              "physicalLocation": {
-                "address": {
-                  "fullyQualifiedName": "APUESTA_GRUPO_A.GRUPOAFORM.U_GrupoA1_DataCard1.Default",
-                  "relativeAddress": 0
-                },
-                "region": {
-                  "charLength": 10,
-                  "charOffset": 8,
-                  "snippet": {
-                    "text": ".U_GrupoA1"
-                  }
-                }
-              },
-              "properties": {
-                "member": "Default",
-                "module": "APUESTA_GRUPO_A",
-                "type": "APUESTA_GRUPO_A.GRUPOAFORM.U_GrupoA1_DataCard1"
-              }
-            }
-          ],
-          "message": {
-            "arguments": [
-              "U_GrupoA1"
-            ],
-            "id": "issue"
-          },
-          "properties": {
-            "level": "High"
-          },
-          "ruleId": "app-ErrInvalidName",
-          "ruleIndex": 2
-        },
-        {
-          "locations": [
-            {
-              "logicalLocations": [
-                {
-                  "fullyQualifiedName": "APUESTA_GRUPO_A.GRUPOAFORM.'U_GrupoA1.1_DataCard1'.Default"
-                }
-              ],
-              "physicalLocation": {
-                "address": {
-                  "fullyQualifiedName": "APUESTA_GRUPO_A.GRUPOAFORM.'U_GrupoA1.1_DataCard1'.Default",
-                  "relativeAddress": 0
-                },
-                "region": {
-                  "charLength": 14,
-                  "charOffset": 8,
-                  "snippet": {
-                    "text": ".'U_GrupoA1.1'"
-                  }
-                }
-              },
-              "properties": {
-                "member": "Default",
-                "module": "APUESTA_GRUPO_A",
-                "type": "APUESTA_GRUPO_A.GRUPOAFORM.'U_GrupoA1.1_DataCard1'"
-              }
-            }
-          ],
-          "message": {
-            "arguments": [
-              "U_GrupoA1.1"
-            ],
-            "id": "issue"
-          },
-          "properties": {
-            "level": "High"
-          },
-          "ruleId": "app-ErrInvalidName",
-          "ruleIndex": 2
-        },
-        {
-          "locations": [
-            {
-              "logicalLocations": [
-                {
-                  "fullyQualifiedName": "APUESTA_GRUPO_A.GRUPOAFORM.U_GrupoA2_DataCard1.Default"
-                }
-              ],
-              "physicalLocation": {
-                "address": {
-                  "fullyQualifiedName": "APUESTA_GRUPO_A.GRUPOAFORM.U_GrupoA2_DataCard1.Default",
-                  "relativeAddress": 0
-                },
-                "region": {
-                  "charLength": 10,
-                  "charOffset": 8,
-                  "snippet": {
-                    "text": ".U_GrupoA2"
-                  }
-                }
-              },
-              "properties": {
-                "member": "Default",
-                "module": "APUESTA_GRUPO_A",
-                "type": "APUESTA_GRUPO_A.GRUPOAFORM.U_GrupoA2_DataCard1"
-              }
-            }
-          ],
-          "message": {
-            "arguments": [
-              "U_GrupoA2"
-            ],
-            "id": "issue"
-          },
-          "properties": {
-            "level": "High"
-          },
-          "ruleId": "app-ErrInvalidName",
-          "ruleIndex": 2
-        },
-        {
-          "locations": [
-            {
-              "logicalLocations": [
-                {
-                  "fullyQualifiedName": "APUESTA_GRUPO_A.GRUPOAFORM.'U_GrupoA2.2_DataCard1'.Default"
-                }
-              ],
-              "physicalLocation": {
-                "address": {
-                  "fullyQualifiedName": "APUESTA_GRUPO_A.GRUPOAFORM.'U_GrupoA2.2_DataCard1'.Default",
-                  "relativeAddress": 0
-                },
-                "region": {
-                  "charLength": 14,
-                  "charOffset": 8,
-                  "snippet": {
-                    "text": ".'U_GrupoA2.2'"
-                  }
-                }
-              },
-              "properties": {
-                "member": "Default",
-                "module": "APUESTA_GRUPO_A",
-                "type": "APUESTA_GRUPO_A.GRUPOAFORM.'U_GrupoA2.2_DataCard1'"
-              }
-            }
-          ],
-          "message": {
-            "arguments": [
-              "U_GrupoA2.2"
-            ],
-            "id": "issue"
-          },
-          "properties": {
-            "level": "High"
-          },
-          "ruleId": "app-ErrInvalidName",
-          "ruleIndex": 2
-        },
-        {
-          "locations": [
-            {
-              "logicalLocations": [
-                {
-                  "fullyQualifiedName": "APUESTA_GRUPO_A.GRUPOAFORM.U_GrupoA3_DataCard1.Default"
-                }
-              ],
-              "physicalLocation": {
-                "address": {
-                  "fullyQualifiedName": "APUESTA_GRUPO_A.GRUPOAFORM.U_GrupoA3_DataCard1.Default",
-                  "relativeAddress": 0
-                },
-                "region": {
-                  "charLength": 10,
-                  "charOffset": 8,
-                  "snippet": {
-                    "text": ".U_GrupoA3"
-                  }
-                }
-              },
-              "properties": {
-                "member": "Default",
-                "module": "APUESTA_GRUPO_A",
-                "type": "APUESTA_GRUPO_A.GRUPOAFORM.U_GrupoA3_DataCard1"
-              }
-            }
-          ],
-          "message": {
-            "arguments": [
-              "U_GrupoA3"
-            ],
-            "id": "issue"
-          },
-          "properties": {
-            "level": "High"
-          },
-          "ruleId": "app-ErrInvalidName",
-          "ruleIndex": 2
-        },
-        {
-          "locations": [
-            {
-              "logicalLocations": [
-                {
-                  "fullyQualifiedName": "APUESTA_GRUPO_A.GRUPOAFORM.'U_GrupoA3.3_DataCard1'.Default"
-                }
-              ],
-              "physicalLocation": {
-                "address": {
-                  "fullyQualifiedName": "APUESTA_GRUPO_A.GRUPOAFORM.'U_GrupoA3.3_DataCard1'.Default",
-                  "relativeAddress": 0
-                },
-                "region": {
-                  "charLength": 14,
-                  "charOffset": 8,
-                  "snippet": {
-                    "text": ".'U_GrupoA3.3'"
-                  }
-                }
-              },
-              "properties": {
-                "member": "Default",
-                "module": "APUESTA_GRUPO_A",
-                "type": "APUESTA_GRUPO_A.GRUPOAFORM.'U_GrupoA3.3_DataCard1'"
-              }
-            }
-          ],
-          "message": {
-            "arguments": [
-              "U_GrupoA3.3"
-            ],
-            "id": "issue"
-          },
-          "properties": {
-            "level": "High"
-          },
-          "ruleId": "app-ErrInvalidName",
-          "ruleIndex": 2
-        },
-        {
-          "locations": [
-            {
-              "logicalLocations": [
-                {
-                  "fullyQualifiedName": "APUESTA_GRUPO_A.GRUPOAFORM.U_GrupoA4_DataCard1.Default"
-                }
-              ],
-              "physicalLocation": {
-                "address": {
-                  "fullyQualifiedName": "APUESTA_GRUPO_A.GRUPOAFORM.U_GrupoA4_DataCard1.Default",
-                  "relativeAddress": 0
-                },
-                "region": {
-                  "charLength": 10,
-                  "charOffset": 8,
-                  "snippet": {
-                    "text": ".U_GrupoA4"
-                  }
-                }
-              },
-              "properties": {
-                "member": "Default",
-                "module": "APUESTA_GRUPO_A",
-                "type": "APUESTA_GRUPO_A.GRUPOAFORM.U_GrupoA4_DataCard1"
-              }
-            }
-          ],
-          "message": {
-            "arguments": [
-              "U_GrupoA4"
-            ],
-            "id": "issue"
-          },
-          "properties": {
-            "level": "High"
-          },
-          "ruleId": "app-ErrInvalidName",
-          "ruleIndex": 2
-        },
-        {
-          "locations": [
-            {
-              "logicalLocations": [
-                {
-                  "fullyQualifiedName": "APUESTA_GRUPO_A.GRUPOAFORM.'U_GrupoA4.4_DataCard1'.Default"
-                }
-              ],
-              "physicalLocation": {
-                "address": {
-                  "fullyQualifiedName": "APUESTA_GRUPO_A.GRUPOAFORM.'U_GrupoA4.4_DataCard1'.Default",
-                  "relativeAddress": 0
-                },
-                "region": {
-                  "charLength": 14,
-                  "charOffset": 8,
-                  "snippet": {
-                    "text": ".'U_GrupoA4.4'"
-                  }
-                }
-              },
-              "properties": {
-                "member": "Default",
-                "module": "APUESTA_GRUPO_A",
-                "type": "APUESTA_GRUPO_A.GRUPOAFORM.'U_GrupoA4.4_DataCard1'"
-              }
-            }
-          ],
-          "message": {
-            "arguments": [
-              "U_GrupoA4.4"
-            ],
-            "id": "issue"
-          },
-          "properties": {
-            "level": "High"
-          },
-          "ruleId": "app-ErrInvalidName",
-          "ruleIndex": 2
-        },
-        {
-          "locations": [
-            {
-              "logicalLocations": [
-                {
-                  "fullyQualifiedName": "APUESTA_GRUPO_A.GRUPOAFORM.U_GrupoA5_DataCard1.Default"
-                }
-              ],
-              "physicalLocation": {
-                "address": {
-                  "fullyQualifiedName": "APUESTA_GRUPO_A.GRUPOAFORM.U_GrupoA5_DataCard1.Default",
-                  "relativeAddress": 0
-                },
-                "region": {
-                  "charLength": 10,
-                  "charOffset": 8,
-                  "snippet": {
-                    "text": ".U_GrupoA5"
-                  }
-                }
-              },
-              "properties": {
-                "member": "Default",
-                "module": "APUESTA_GRUPO_A",
-                "type": "APUESTA_GRUPO_A.GRUPOAFORM.U_GrupoA5_DataCard1"
-              }
-            }
-          ],
-          "message": {
-            "arguments": [
-              "U_GrupoA5"
-            ],
-            "id": "issue"
-          },
-          "properties": {
-            "level": "High"
-          },
-          "ruleId": "app-ErrInvalidName",
-          "ruleIndex": 2
-        },
-        {
-          "locations": [
-            {
-              "logicalLocations": [
-                {
-                  "fullyQualifiedName": "APUESTA_GRUPO_A.GRUPOAFORM.'U_GrupoA5.5_DataCard1'.Default"
-                }
-              ],
-              "physicalLocation": {
-                "address": {
-                  "fullyQualifiedName": "APUESTA_GRUPO_A.GRUPOAFORM.'U_GrupoA5.5_DataCard1'.Default",
-                  "relativeAddress": 0
-                },
-                "region": {
-                  "charLength": 14,
-                  "charOffset": 8,
-                  "snippet": {
-                    "text": ".'U_GrupoA5.5'"
-                  }
-                }
-              },
-              "properties": {
-                "member": "Default",
-                "module": "APUESTA_GRUPO_A",
-                "type": "APUESTA_GRUPO_A.GRUPOAFORM.'U_GrupoA5.5_DataCard1'"
-              }
-            }
-          ],
-          "message": {
-            "arguments": [
-              "U_GrupoA5.5"
-            ],
-            "id": "issue"
-          },
-          "properties": {
-            "level": "High"
-          },
-          "ruleId": "app-ErrInvalidName",
-          "ruleIndex": 2
-        },
-        {
-          "locations": [
-            {
-              "logicalLocations": [
-                {
-                  "fullyQualifiedName": "APUESTA_GRUPO_A.GRUPOAFORM.U_GrupoA6_DataCard1.Default"
-                }
-              ],
-              "physicalLocation": {
-                "address": {
-                  "fullyQualifiedName": "APUESTA_GRUPO_A.GRUPOAFORM.U_GrupoA6_DataCard1.Default",
-                  "relativeAddress": 0
-                },
-                "region": {
-                  "charLength": 10,
-                  "charOffset": 8,
-                  "snippet": {
-                    "text": ".U_GrupoA6"
-                  }
-                }
-              },
-              "properties": {
-                "member": "Default",
-                "module": "APUESTA_GRUPO_A",
-                "type": "APUESTA_GRUPO_A.GRUPOAFORM.U_GrupoA6_DataCard1"
-              }
-            }
-          ],
-          "message": {
-            "arguments": [
-              "U_GrupoA6"
-            ],
-            "id": "issue"
-          },
-          "properties": {
-            "level": "High"
-          },
-          "ruleId": "app-ErrInvalidName",
-          "ruleIndex": 2
-        },
-        {
-          "locations": [
-            {
-              "logicalLocations": [
-                {
-                  "fullyQualifiedName": "APUESTA_GRUPO_A.GRUPOAFORM.'U_GrupoA6.6_DataCard1'.Default"
-                }
-              ],
-              "physicalLocation": {
-                "address": {
-                  "fullyQualifiedName": "APUESTA_GRUPO_A.GRUPOAFORM.'U_GrupoA6.6_DataCard1'.Default",
-                  "relativeAddress": 0
-                },
-                "region": {
-                  "charLength": 14,
-                  "charOffset": 8,
-                  "snippet": {
-                    "text": ".'U_GrupoA6.6'"
-                  }
-                }
-              },
-              "properties": {
-                "member": "Default",
-                "module": "APUESTA_GRUPO_A",
-                "type": "APUESTA_GRUPO_A.GRUPOAFORM.'U_GrupoA6.6_DataCard1'"
-              }
-            }
-          ],
-          "message": {
-            "arguments": [
-              "U_GrupoA6.6"
-            ],
-            "id": "issue"
-          },
-          "properties": {
-            "level": "High"
-          },
-          "ruleId": "app-ErrInvalidName",
-          "ruleIndex": 2
-        },
-        {
-          "locations": [
-            {
-              "logicalLocations": [
-                {
                   "fullyQualifiedName": "APUESTA_GRUPO_E.Rectangle291409_5.AccessibleLabel"
                 }
               ],
@@ -11812,19 +11332,19 @@
             {
               "logicalLocations": [
                 {
-                  "fullyQualifiedName": "APUESTA_GRUPO_A.GRUPOAFORM.U_GrupoA1_DataCard1.DataCardValue10.AccessibleLabel"
+                  "fullyQualifiedName": "APUESTA_GRUPO_A.GRUPOAFORM.'U_GruPoA6.6_DataCard1'.DataCardValue21.AccessibleLabel"
                 }
               ],
               "physicalLocation": {
                 "address": {
-                  "fullyQualifiedName": "APUESTA_GRUPO_A.GRUPOAFORM.U_GrupoA1_DataCard1.DataCardValue10.AccessibleLabel",
+                  "fullyQualifiedName": "APUESTA_GRUPO_A.GRUPOAFORM.'U_GruPoA6.6_DataCard1'.DataCardValue21.AccessibleLabel",
                   "relativeAddress": 0
                 }
               },
               "properties": {
                 "member": "AccessibleLabel",
                 "module": "APUESTA_GRUPO_A",
-                "type": "APUESTA_GRUPO_A.GRUPOAFORM.U_GrupoA1_DataCard1.DataCardValue10"
+                "type": "APUESTA_GRUPO_A.GRUPOAFORM.'U_GruPoA6.6_DataCard1'.DataCardValue21"
               }
             }
           ],
@@ -11842,19 +11362,19 @@
             {
               "logicalLocations": [
                 {
-                  "fullyQualifiedName": "APUESTA_GRUPO_A.GRUPOAFORM.'U_GrupoA1.1_DataCard1'.DataCardValue11.AccessibleLabel"
+                  "fullyQualifiedName": "APUESTA_GRUPO_A.GRUPOAFORM.U_GruPoA6_DataCard1.DataCardValue20.AccessibleLabel"
                 }
               ],
               "physicalLocation": {
                 "address": {
-                  "fullyQualifiedName": "APUESTA_GRUPO_A.GRUPOAFORM.'U_GrupoA1.1_DataCard1'.DataCardValue11.AccessibleLabel",
+                  "fullyQualifiedName": "APUESTA_GRUPO_A.GRUPOAFORM.U_GruPoA6_DataCard1.DataCardValue20.AccessibleLabel",
                   "relativeAddress": 0
                 }
               },
               "properties": {
                 "member": "AccessibleLabel",
                 "module": "APUESTA_GRUPO_A",
-                "type": "APUESTA_GRUPO_A.GRUPOAFORM.'U_GrupoA1.1_DataCard1'.DataCardValue11"
+                "type": "APUESTA_GRUPO_A.GRUPOAFORM.U_GruPoA6_DataCard1.DataCardValue20"
               }
             }
           ],
@@ -11872,19 +11392,19 @@
             {
               "logicalLocations": [
                 {
-                  "fullyQualifiedName": "APUESTA_GRUPO_A.GRUPOAFORM.U_GrupoA2_DataCard1.DataCardValue12.AccessibleLabel"
+                  "fullyQualifiedName": "APUESTA_GRUPO_A.GRUPOAFORM.'U_GruPoA5.5_DataCard1'.DataCardValue19.AccessibleLabel"
                 }
               ],
               "physicalLocation": {
                 "address": {
-                  "fullyQualifiedName": "APUESTA_GRUPO_A.GRUPOAFORM.U_GrupoA2_DataCard1.DataCardValue12.AccessibleLabel",
+                  "fullyQualifiedName": "APUESTA_GRUPO_A.GRUPOAFORM.'U_GruPoA5.5_DataCard1'.DataCardValue19.AccessibleLabel",
                   "relativeAddress": 0
                 }
               },
               "properties": {
                 "member": "AccessibleLabel",
                 "module": "APUESTA_GRUPO_A",
-                "type": "APUESTA_GRUPO_A.GRUPOAFORM.U_GrupoA2_DataCard1.DataCardValue12"
+                "type": "APUESTA_GRUPO_A.GRUPOAFORM.'U_GruPoA5.5_DataCard1'.DataCardValue19"
               }
             }
           ],
@@ -11902,19 +11422,19 @@
             {
               "logicalLocations": [
                 {
-                  "fullyQualifiedName": "APUESTA_GRUPO_A.GRUPOAFORM.'U_GrupoA2.2_DataCard1'.DataCardValue13.AccessibleLabel"
+                  "fullyQualifiedName": "APUESTA_GRUPO_A.GRUPOAFORM.U_GruPoA5_DataCard1.DataCardValue18.AccessibleLabel"
                 }
               ],
               "physicalLocation": {
                 "address": {
-                  "fullyQualifiedName": "APUESTA_GRUPO_A.GRUPOAFORM.'U_GrupoA2.2_DataCard1'.DataCardValue13.AccessibleLabel",
+                  "fullyQualifiedName": "APUESTA_GRUPO_A.GRUPOAFORM.U_GruPoA5_DataCard1.DataCardValue18.AccessibleLabel",
                   "relativeAddress": 0
                 }
               },
               "properties": {
                 "member": "AccessibleLabel",
                 "module": "APUESTA_GRUPO_A",
-                "type": "APUESTA_GRUPO_A.GRUPOAFORM.'U_GrupoA2.2_DataCard1'.DataCardValue13"
+                "type": "APUESTA_GRUPO_A.GRUPOAFORM.U_GruPoA5_DataCard1.DataCardValue18"
               }
             }
           ],
@@ -11932,19 +11452,19 @@
             {
               "logicalLocations": [
                 {
-                  "fullyQualifiedName": "APUESTA_GRUPO_A.GRUPOAFORM.U_GrupoA3_DataCard1.DataCardValue14.AccessibleLabel"
+                  "fullyQualifiedName": "APUESTA_GRUPO_A.GRUPOAFORM.'U_GruPoA4.4_DataCard1'.DataCardValue17.AccessibleLabel"
                 }
               ],
               "physicalLocation": {
                 "address": {
-                  "fullyQualifiedName": "APUESTA_GRUPO_A.GRUPOAFORM.U_GrupoA3_DataCard1.DataCardValue14.AccessibleLabel",
+                  "fullyQualifiedName": "APUESTA_GRUPO_A.GRUPOAFORM.'U_GruPoA4.4_DataCard1'.DataCardValue17.AccessibleLabel",
                   "relativeAddress": 0
                 }
               },
               "properties": {
                 "member": "AccessibleLabel",
                 "module": "APUESTA_GRUPO_A",
-                "type": "APUESTA_GRUPO_A.GRUPOAFORM.U_GrupoA3_DataCard1.DataCardValue14"
+                "type": "APUESTA_GRUPO_A.GRUPOAFORM.'U_GruPoA4.4_DataCard1'.DataCardValue17"
               }
             }
           ],
@@ -11962,19 +11482,19 @@
             {
               "logicalLocations": [
                 {
-                  "fullyQualifiedName": "APUESTA_GRUPO_A.GRUPOAFORM.'U_GrupoA3.3_DataCard1'.DataCardValue15.AccessibleLabel"
+                  "fullyQualifiedName": "APUESTA_GRUPO_A.GRUPOAFORM.U_GruPoA4_DataCard1.DataCardValue16.AccessibleLabel"
                 }
               ],
               "physicalLocation": {
                 "address": {
-                  "fullyQualifiedName": "APUESTA_GRUPO_A.GRUPOAFORM.'U_GrupoA3.3_DataCard1'.DataCardValue15.AccessibleLabel",
+                  "fullyQualifiedName": "APUESTA_GRUPO_A.GRUPOAFORM.U_GruPoA4_DataCard1.DataCardValue16.AccessibleLabel",
                   "relativeAddress": 0
                 }
               },
               "properties": {
                 "member": "AccessibleLabel",
                 "module": "APUESTA_GRUPO_A",
-                "type": "APUESTA_GRUPO_A.GRUPOAFORM.'U_GrupoA3.3_DataCard1'.DataCardValue15"
+                "type": "APUESTA_GRUPO_A.GRUPOAFORM.U_GruPoA4_DataCard1.DataCardValue16"
               }
             }
           ],
@@ -11992,19 +11512,19 @@
             {
               "logicalLocations": [
                 {
-                  "fullyQualifiedName": "APUESTA_GRUPO_A.GRUPOAFORM.U_GrupoA4_DataCard1.DataCardValue16.AccessibleLabel"
+                  "fullyQualifiedName": "APUESTA_GRUPO_A.GRUPOAFORM.'U_GruPoA3.3_DataCard1'.DataCardValue15.AccessibleLabel"
                 }
               ],
               "physicalLocation": {
                 "address": {
-                  "fullyQualifiedName": "APUESTA_GRUPO_A.GRUPOAFORM.U_GrupoA4_DataCard1.DataCardValue16.AccessibleLabel",
+                  "fullyQualifiedName": "APUESTA_GRUPO_A.GRUPOAFORM.'U_GruPoA3.3_DataCard1'.DataCardValue15.AccessibleLabel",
                   "relativeAddress": 0
                 }
               },
               "properties": {
                 "member": "AccessibleLabel",
                 "module": "APUESTA_GRUPO_A",
-                "type": "APUESTA_GRUPO_A.GRUPOAFORM.U_GrupoA4_DataCard1.DataCardValue16"
+                "type": "APUESTA_GRUPO_A.GRUPOAFORM.'U_GruPoA3.3_DataCard1'.DataCardValue15"
               }
             }
           ],
@@ -12022,19 +11542,19 @@
             {
               "logicalLocations": [
                 {
-                  "fullyQualifiedName": "APUESTA_GRUPO_A.GRUPOAFORM.'U_GrupoA4.4_DataCard1'.DataCardValue17.AccessibleLabel"
+                  "fullyQualifiedName": "APUESTA_GRUPO_A.GRUPOAFORM.U_GruPoA3_DataCard1.DataCardValue14.AccessibleLabel"
                 }
               ],
               "physicalLocation": {
                 "address": {
-                  "fullyQualifiedName": "APUESTA_GRUPO_A.GRUPOAFORM.'U_GrupoA4.4_DataCard1'.DataCardValue17.AccessibleLabel",
+                  "fullyQualifiedName": "APUESTA_GRUPO_A.GRUPOAFORM.U_GruPoA3_DataCard1.DataCardValue14.AccessibleLabel",
                   "relativeAddress": 0
                 }
               },
               "properties": {
                 "member": "AccessibleLabel",
                 "module": "APUESTA_GRUPO_A",
-                "type": "APUESTA_GRUPO_A.GRUPOAFORM.'U_GrupoA4.4_DataCard1'.DataCardValue17"
+                "type": "APUESTA_GRUPO_A.GRUPOAFORM.U_GruPoA3_DataCard1.DataCardValue14"
               }
             }
           ],
@@ -12052,19 +11572,19 @@
             {
               "logicalLocations": [
                 {
-                  "fullyQualifiedName": "APUESTA_GRUPO_A.GRUPOAFORM.U_GrupoA5_DataCard1.DataCardValue18.AccessibleLabel"
+                  "fullyQualifiedName": "APUESTA_GRUPO_A.GRUPOAFORM.'U_GruPoA2.2_DataCard1'.DataCardValue13.AccessibleLabel"
                 }
               ],
               "physicalLocation": {
                 "address": {
-                  "fullyQualifiedName": "APUESTA_GRUPO_A.GRUPOAFORM.U_GrupoA5_DataCard1.DataCardValue18.AccessibleLabel",
+                  "fullyQualifiedName": "APUESTA_GRUPO_A.GRUPOAFORM.'U_GruPoA2.2_DataCard1'.DataCardValue13.AccessibleLabel",
                   "relativeAddress": 0
                 }
               },
               "properties": {
                 "member": "AccessibleLabel",
                 "module": "APUESTA_GRUPO_A",
-                "type": "APUESTA_GRUPO_A.GRUPOAFORM.U_GrupoA5_DataCard1.DataCardValue18"
+                "type": "APUESTA_GRUPO_A.GRUPOAFORM.'U_GruPoA2.2_DataCard1'.DataCardValue13"
               }
             }
           ],
@@ -12082,19 +11602,19 @@
             {
               "logicalLocations": [
                 {
-                  "fullyQualifiedName": "APUESTA_GRUPO_A.GRUPOAFORM.'U_GrupoA5.5_DataCard1'.DataCardValue19.AccessibleLabel"
+                  "fullyQualifiedName": "APUESTA_GRUPO_A.GRUPOAFORM.U_GruPoA2_DataCard1.DataCardValue12.AccessibleLabel"
                 }
               ],
               "physicalLocation": {
                 "address": {
-                  "fullyQualifiedName": "APUESTA_GRUPO_A.GRUPOAFORM.'U_GrupoA5.5_DataCard1'.DataCardValue19.AccessibleLabel",
+                  "fullyQualifiedName": "APUESTA_GRUPO_A.GRUPOAFORM.U_GruPoA2_DataCard1.DataCardValue12.AccessibleLabel",
                   "relativeAddress": 0
                 }
               },
               "properties": {
                 "member": "AccessibleLabel",
                 "module": "APUESTA_GRUPO_A",
-                "type": "APUESTA_GRUPO_A.GRUPOAFORM.'U_GrupoA5.5_DataCard1'.DataCardValue19"
+                "type": "APUESTA_GRUPO_A.GRUPOAFORM.U_GruPoA2_DataCard1.DataCardValue12"
               }
             }
           ],
@@ -12112,19 +11632,19 @@
             {
               "logicalLocations": [
                 {
-                  "fullyQualifiedName": "APUESTA_GRUPO_A.GRUPOAFORM.U_GrupoA6_DataCard1.DataCardValue20.AccessibleLabel"
+                  "fullyQualifiedName": "APUESTA_GRUPO_A.GRUPOAFORM.'U_GruPoA1.1_DataCard1'.DataCardValue11.AccessibleLabel"
                 }
               ],
               "physicalLocation": {
                 "address": {
-                  "fullyQualifiedName": "APUESTA_GRUPO_A.GRUPOAFORM.U_GrupoA6_DataCard1.DataCardValue20.AccessibleLabel",
+                  "fullyQualifiedName": "APUESTA_GRUPO_A.GRUPOAFORM.'U_GruPoA1.1_DataCard1'.DataCardValue11.AccessibleLabel",
                   "relativeAddress": 0
                 }
               },
               "properties": {
                 "member": "AccessibleLabel",
                 "module": "APUESTA_GRUPO_A",
-                "type": "APUESTA_GRUPO_A.GRUPOAFORM.U_GrupoA6_DataCard1.DataCardValue20"
+                "type": "APUESTA_GRUPO_A.GRUPOAFORM.'U_GruPoA1.1_DataCard1'.DataCardValue11"
               }
             }
           ],
@@ -12142,19 +11662,19 @@
             {
               "logicalLocations": [
                 {
-                  "fullyQualifiedName": "APUESTA_GRUPO_A.GRUPOAFORM.'U_GrupoA6.6_DataCard1'.DataCardValue21.AccessibleLabel"
+                  "fullyQualifiedName": "APUESTA_GRUPO_A.GRUPOAFORM.U_GruPoA1_DataCard1.DataCardValue10.AccessibleLabel"
                 }
               ],
               "physicalLocation": {
                 "address": {
-                  "fullyQualifiedName": "APUESTA_GRUPO_A.GRUPOAFORM.'U_GrupoA6.6_DataCard1'.DataCardValue21.AccessibleLabel",
+                  "fullyQualifiedName": "APUESTA_GRUPO_A.GRUPOAFORM.U_GruPoA1_DataCard1.DataCardValue10.AccessibleLabel",
                   "relativeAddress": 0
                 }
               },
               "properties": {
                 "member": "AccessibleLabel",
                 "module": "APUESTA_GRUPO_A",
-                "type": "APUESTA_GRUPO_A.GRUPOAFORM.'U_GrupoA6.6_DataCard1'.DataCardValue21"
+                "type": "APUESTA_GRUPO_A.GRUPOAFORM.U_GruPoA1_DataCard1.DataCardValue10"
               }
             }
           ],
