@@ -8,6 +8,7 @@
     },
     "ConnectedDataSourceInfoNameMapping": {
       "__PowerAppsId__": "Row id",
+      "Column1": "Column1",
       "PUNTOGBP1": "PUNTOGBP1",
       "PUNTOGBP2": "PUNTOGBP2",
       "PUNTOGBP3": "PUNTOGBP3",
@@ -25,8 +26,7 @@
       "U_GruPoB4_x002e_4": "U_GruPoB4.4",
       "U_GruPoB5": "U_GruPoB5",
       "U_GruPoB5_x002e_5": "U_GruPoB5.5",
-      "U_GruPoB6": "U_GruPoB6",
-      "U_GruPoB6_x002e_6": "U_GruPoB6.6"
+      "U_GruPoB6": "U_GruPoB6"
     },
     "DatasetName": "b!a1xa3RSSfU6ruxcJHjJatB0Gfd-GMXdOrAhQBlPQv2HmA8JJUQBLT71_K2-rM4CE.013FRY3XHDGNDCX76CHBE2N7QYK6IQGLAL",
     "EncodeDataset": true,
