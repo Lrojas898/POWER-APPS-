@@ -3,7 +3,7 @@
     "ApiId": "/providers/microsoft.powerapps/apis/shared_excel",
     "CdpRevision": {
       "BaseUrl": "/",
-      "LastChangedTimeString": "2022-09-26T19:44:16.4010000Z",
+      "LastChangedTimeString": "2022-09-26T19:44:14.5210000Z",
       "RevisionNumber": 1
     },
     "ConnectedDataSourceInfoNameMapping": {
@@ -15,7 +15,6 @@
       "PUNTOSGCP4": "PUNTOSGCP4",
       "PUNTOSGCP5": "PUNTOSGCP5",
       "PUNTOSGCP6": "PUNTOSGCP6",
-      "U_GruPoB6_x002e_6": "U_GruPoB6.6",
       "U_GruPoC1": "U_GruPoC1",
       "U_GruPoC1_x002e_1": "U_GruPoC1.1",
       "U_GruPoC2": "U_GruPoC2",
@@ -25,7 +24,9 @@
       "U_GruPoC4": "U_GruPoC4",
       "U_GruPoC4_x002e_4": "U_GruPoC4.4",
       "U_GruPoC5": "U_GruPoC5",
-      "U_GruPoC5_x002e_5": "U_GruPoC5.5"
+      "U_GruPoC5_x002e_5": "U_GruPoC5.5",
+      "U_GruPoC6": "U_GruPoC6",
+      "U_GruPoC6_x002e_6": "U_GruPoC6.6"
     },
     "DatasetName": "b!a1xa3RSSfU6ruxcJHjJatB0Gfd-GMXdOrAhQBlPQv2HmA8JJUQBLT71_K2-rM4CE.013FRY3XHDGNDCX76CHBE2N7QYK6IQGLAL",
     "EncodeDataset": true,
