@@ -1743,7 +1743,7 @@ APUESTA_GRUPO_H As screen:
             BorderColor: =RGBA(166, 166, 166, 1)
             BorderStyle: =BorderStyle.Solid
             DataField: ="U_GruPoH4_x002e_4"
-            Default: =ThisItem.'U_GruPoH4.4'
+            Default: =ThisItem.U_GruPoH4_x002e_4
             DisplayMode: =Parent.DisplayMode
             DisplayName: =DataSourceInfo([@TABLAGRUPOH],DataSourceInfo.DisplayName,"U_GruPoH4_x002e_4")
             Fill: =RGBA(0, 0, 0, 0)

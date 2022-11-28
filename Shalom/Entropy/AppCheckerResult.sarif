@@ -14,6 +14,406 @@
             {
               "logicalLocations": [
                 {
+                  "fullyQualifiedName": "APUESTA_GRUPO_H.GRUPOHFORM.U_GruPoH4_DataCard1.MaxLength"
+                }
+              ],
+              "physicalLocation": {
+                "address": {
+                  "fullyQualifiedName": "APUESTA_GRUPO_H.GRUPOHFORM.U_GruPoH4_DataCard1.MaxLength",
+                  "relativeAddress": 0
+                },
+                "region": {
+                  "charLength": 11,
+                  "charOffset": 57,
+                  "snippet": {
+                    "text": "\"U_GruPoH4\""
+                  }
+                }
+              },
+              "properties": {
+                "member": "MaxLength",
+                "module": "APUESTA_GRUPO_H",
+                "type": "APUESTA_GRUPO_H.GRUPOHFORM.U_GruPoH4_DataCard1"
+              }
+            }
+          ],
+          "message": {
+            "arguments": [
+              "\"PUNTOGGP5\", \"PUNTOGGP6\", \"PUNTOGHP1\", \"PUNTOGHP2\", \"PUNTOGHP3\", \"PUNTOGHP4\", \"PUNTO_x0020_TOTAL_x0020_H\", \"U_GruPoG4\", \"U_GruPoG4_x002e_4\", \"U_GruPoG5\", \"U_GruPoG5_x002e_5\", \"U_GruPoG6\", \"U_GruPoG6_x002e_6\", \"U_GruPoH1\", \"U_GruPoH1_x002e_1\", \"U_GruPoH2\", \"U_GruPoH2_x002e_2\", \"U_GruPoH3\", \"U_GruPoH3_x002e_3\""
+            ],
+            "id": "issue"
+          },
+          "properties": {
+            "level": "High"
+          },
+          "ruleId": "app-ErrBadType-ExpectedTypesCSV",
+          "ruleIndex": 0
+        },
+        {
+          "locations": [
+            {
+              "logicalLocations": [
+                {
+                  "fullyQualifiedName": "APUESTA_GRUPO_H.GRUPOHFORM.U_GruPoH4_DataCard1.MaxLength"
+                }
+              ],
+              "physicalLocation": {
+                "address": {
+                  "fullyQualifiedName": "APUESTA_GRUPO_H.GRUPOHFORM.U_GruPoH4_DataCard1.MaxLength",
+                  "relativeAddress": 0
+                },
+                "region": {
+                  "charLength": 69,
+                  "charOffset": 0,
+                  "snippet": {
+                    "text": "DataSourceInfo([@TABLAGRUPOH], DataSourceInfo.MaxLength, \"U_GruPoH4\")"
+                  }
+                }
+              },
+              "properties": {
+                "member": "MaxLength",
+                "module": "APUESTA_GRUPO_H",
+                "type": "APUESTA_GRUPO_H.GRUPOHFORM.U_GruPoH4_DataCard1"
+              }
+            }
+          ],
+          "message": {
+            "arguments": [
+              "DataSourceInfo"
+            ],
+            "id": "issue"
+          },
+          "properties": {
+            "level": "High"
+          },
+          "ruleId": "app-ErrInvalidArgs-Func",
+          "ruleIndex": 1
+        },
+        {
+          "locations": [
+            {
+              "logicalLocations": [
+                {
+                  "fullyQualifiedName": "APUESTA_GRUPO_H.GRUPOHFORM.U_GruPoH4_DataCard1.Default"
+                }
+              ],
+              "physicalLocation": {
+                "address": {
+                  "fullyQualifiedName": "APUESTA_GRUPO_H.GRUPOHFORM.U_GruPoH4_DataCard1.Default",
+                  "relativeAddress": 0
+                },
+                "region": {
+                  "charLength": 10,
+                  "charOffset": 8,
+                  "snippet": {
+                    "text": ".U_GruPoH4"
+                  }
+                }
+              },
+              "properties": {
+                "member": "Default",
+                "module": "APUESTA_GRUPO_H",
+                "type": "APUESTA_GRUPO_H.GRUPOHFORM.U_GruPoH4_DataCard1"
+              }
+            }
+          ],
+          "message": {
+            "arguments": [
+              "U_GruPoH4"
+            ],
+            "id": "issue"
+          },
+          "properties": {
+            "level": "High"
+          },
+          "ruleId": "app-ErrInvalidName",
+          "ruleIndex": 2
+        },
+        {
+          "locations": [
+            {
+              "logicalLocations": [
+                {
+                  "fullyQualifiedName": "APUESTA_GRUPO_H.GRUPOHFORM.U_GruPoH4_DataCard1.DisplayName"
+                }
+              ],
+              "physicalLocation": {
+                "address": {
+                  "fullyQualifiedName": "APUESTA_GRUPO_H.GRUPOHFORM.U_GruPoH4_DataCard1.DisplayName",
+                  "relativeAddress": 0
+                },
+                "region": {
+                  "charLength": 11,
+                  "charOffset": 57,
+                  "snippet": {
+                    "text": "\"U_GruPoH4\""
+                  }
+                }
+              },
+              "properties": {
+                "member": "DisplayName",
+                "module": "APUESTA_GRUPO_H",
+                "type": "APUESTA_GRUPO_H.GRUPOHFORM.U_GruPoH4_DataCard1"
+              }
+            }
+          ],
+          "message": {
+            "arguments": [
+              "\"PUNTOGGP5\", \"PUNTOGGP6\", \"PUNTOGHP1\", \"PUNTOGHP2\", \"PUNTOGHP3\", \"PUNTOGHP4\", \"PUNTO_x0020_TOTAL_x0020_H\", \"U_GruPoG4\", \"U_GruPoG4_x002e_4\", \"U_GruPoG5\", \"U_GruPoG5_x002e_5\", \"U_GruPoG6\", \"U_GruPoG6_x002e_6\", \"U_GruPoH1\", \"U_GruPoH1_x002e_1\", \"U_GruPoH2\", \"U_GruPoH2_x002e_2\", \"U_GruPoH3\", \"U_GruPoH3_x002e_3\""
+            ],
+            "id": "issue"
+          },
+          "properties": {
+            "level": "High"
+          },
+          "ruleId": "app-ErrBadType-ExpectedTypesCSV",
+          "ruleIndex": 0
+        },
+        {
+          "locations": [
+            {
+              "logicalLocations": [
+                {
+                  "fullyQualifiedName": "APUESTA_GRUPO_H.GRUPOHFORM.U_GruPoH4_DataCard1.DisplayName"
+                }
+              ],
+              "physicalLocation": {
+                "address": {
+                  "fullyQualifiedName": "APUESTA_GRUPO_H.GRUPOHFORM.U_GruPoH4_DataCard1.DisplayName",
+                  "relativeAddress": 0
+                },
+                "region": {
+                  "charLength": 69,
+                  "charOffset": 0,
+                  "snippet": {
+                    "text": "DataSourceInfo([@TABLAGRUPOH],DataSourceInfo.DisplayName,\"U_GruPoH4\")"
+                  }
+                }
+              },
+              "properties": {
+                "member": "DisplayName",
+                "module": "APUESTA_GRUPO_H",
+                "type": "APUESTA_GRUPO_H.GRUPOHFORM.U_GruPoH4_DataCard1"
+              }
+            }
+          ],
+          "message": {
+            "arguments": [
+              "DataSourceInfo"
+            ],
+            "id": "issue"
+          },
+          "properties": {
+            "level": "High"
+          },
+          "ruleId": "app-ErrInvalidArgs-Func",
+          "ruleIndex": 1
+        },
+        {
+          "locations": [
+            {
+              "logicalLocations": [
+                {
+                  "fullyQualifiedName": "APUESTA_GRUPO_H.GRUPOHFORM.'U_GruPoH4.4_DataCard1'.MaxLength"
+                }
+              ],
+              "physicalLocation": {
+                "address": {
+                  "fullyQualifiedName": "APUESTA_GRUPO_H.GRUPOHFORM.'U_GruPoH4.4_DataCard1'.MaxLength",
+                  "relativeAddress": 0
+                },
+                "region": {
+                  "charLength": 19,
+                  "charOffset": 57,
+                  "snippet": {
+                    "text": "\"U_GruPoH4_x002e_4\""
+                  }
+                }
+              },
+              "properties": {
+                "member": "MaxLength",
+                "module": "APUESTA_GRUPO_H",
+                "type": "APUESTA_GRUPO_H.GRUPOHFORM.'U_GruPoH4.4_DataCard1'"
+              }
+            }
+          ],
+          "message": {
+            "arguments": [
+              "\"PUNTOGGP5\", \"PUNTOGGP6\", \"PUNTOGHP1\", \"PUNTOGHP2\", \"PUNTOGHP3\", \"PUNTOGHP4\", \"PUNTO_x0020_TOTAL_x0020_H\", \"U_GruPoG4\", \"U_GruPoG4_x002e_4\", \"U_GruPoG5\", \"U_GruPoG5_x002e_5\", \"U_GruPoG6\", \"U_GruPoG6_x002e_6\", \"U_GruPoH1\", \"U_GruPoH1_x002e_1\", \"U_GruPoH2\", \"U_GruPoH2_x002e_2\", \"U_GruPoH3\", \"U_GruPoH3_x002e_3\""
+            ],
+            "id": "issue"
+          },
+          "properties": {
+            "level": "High"
+          },
+          "ruleId": "app-ErrBadType-ExpectedTypesCSV",
+          "ruleIndex": 0
+        },
+        {
+          "locations": [
+            {
+              "logicalLocations": [
+                {
+                  "fullyQualifiedName": "APUESTA_GRUPO_H.GRUPOHFORM.'U_GruPoH4.4_DataCard1'.MaxLength"
+                }
+              ],
+              "physicalLocation": {
+                "address": {
+                  "fullyQualifiedName": "APUESTA_GRUPO_H.GRUPOHFORM.'U_GruPoH4.4_DataCard1'.MaxLength",
+                  "relativeAddress": 0
+                },
+                "region": {
+                  "charLength": 77,
+                  "charOffset": 0,
+                  "snippet": {
+                    "text": "DataSourceInfo([@TABLAGRUPOH], DataSourceInfo.MaxLength, \"U_GruPoH4_x002e_4\")"
+                  }
+                }
+              },
+              "properties": {
+                "member": "MaxLength",
+                "module": "APUESTA_GRUPO_H",
+                "type": "APUESTA_GRUPO_H.GRUPOHFORM.'U_GruPoH4.4_DataCard1'"
+              }
+            }
+          ],
+          "message": {
+            "arguments": [
+              "DataSourceInfo"
+            ],
+            "id": "issue"
+          },
+          "properties": {
+            "level": "High"
+          },
+          "ruleId": "app-ErrInvalidArgs-Func",
+          "ruleIndex": 1
+        },
+        {
+          "locations": [
+            {
+              "logicalLocations": [
+                {
+                  "fullyQualifiedName": "APUESTA_GRUPO_H.GRUPOHFORM.'U_GruPoH4.4_DataCard1'.Default"
+                }
+              ],
+              "physicalLocation": {
+                "address": {
+                  "fullyQualifiedName": "APUESTA_GRUPO_H.GRUPOHFORM.'U_GruPoH4.4_DataCard1'.Default",
+                  "relativeAddress": 0
+                },
+                "region": {
+                  "charLength": 18,
+                  "charOffset": 8,
+                  "snippet": {
+                    "text": ".U_GruPoH4_x002e_4"
+                  }
+                }
+              },
+              "properties": {
+                "member": "Default",
+                "module": "APUESTA_GRUPO_H",
+                "type": "APUESTA_GRUPO_H.GRUPOHFORM.'U_GruPoH4.4_DataCard1'"
+              }
+            }
+          ],
+          "message": {
+            "arguments": [
+              "U_GruPoH4_x002e_4"
+            ],
+            "id": "issue"
+          },
+          "properties": {
+            "level": "High"
+          },
+          "ruleId": "app-ErrInvalidName",
+          "ruleIndex": 2
+        },
+        {
+          "locations": [
+            {
+              "logicalLocations": [
+                {
+                  "fullyQualifiedName": "APUESTA_GRUPO_H.GRUPOHFORM.'U_GruPoH4.4_DataCard1'.DisplayName"
+                }
+              ],
+              "physicalLocation": {
+                "address": {
+                  "fullyQualifiedName": "APUESTA_GRUPO_H.GRUPOHFORM.'U_GruPoH4.4_DataCard1'.DisplayName",
+                  "relativeAddress": 0
+                },
+                "region": {
+                  "charLength": 19,
+                  "charOffset": 57,
+                  "snippet": {
+                    "text": "\"U_GruPoH4_x002e_4\""
+                  }
+                }
+              },
+              "properties": {
+                "member": "DisplayName",
+                "module": "APUESTA_GRUPO_H",
+                "type": "APUESTA_GRUPO_H.GRUPOHFORM.'U_GruPoH4.4_DataCard1'"
+              }
+            }
+          ],
+          "message": {
+            "arguments": [
+              "\"PUNTOGGP5\", \"PUNTOGGP6\", \"PUNTOGHP1\", \"PUNTOGHP2\", \"PUNTOGHP3\", \"PUNTOGHP4\", \"PUNTO_x0020_TOTAL_x0020_H\", \"U_GruPoG4\", \"U_GruPoG4_x002e_4\", \"U_GruPoG5\", \"U_GruPoG5_x002e_5\", \"U_GruPoG6\", \"U_GruPoG6_x002e_6\", \"U_GruPoH1\", \"U_GruPoH1_x002e_1\", \"U_GruPoH2\", \"U_GruPoH2_x002e_2\", \"U_GruPoH3\", \"U_GruPoH3_x002e_3\""
+            ],
+            "id": "issue"
+          },
+          "properties": {
+            "level": "High"
+          },
+          "ruleId": "app-ErrBadType-ExpectedTypesCSV",
+          "ruleIndex": 0
+        },
+        {
+          "locations": [
+            {
+              "logicalLocations": [
+                {
+                  "fullyQualifiedName": "APUESTA_GRUPO_H.GRUPOHFORM.'U_GruPoH4.4_DataCard1'.DisplayName"
+                }
+              ],
+              "physicalLocation": {
+                "address": {
+                  "fullyQualifiedName": "APUESTA_GRUPO_H.GRUPOHFORM.'U_GruPoH4.4_DataCard1'.DisplayName",
+                  "relativeAddress": 0
+                },
+                "region": {
+                  "charLength": 77,
+                  "charOffset": 0,
+                  "snippet": {
+                    "text": "DataSourceInfo([@TABLAGRUPOH],DataSourceInfo.DisplayName,\"U_GruPoH4_x002e_4\")"
+                  }
+                }
+              },
+              "properties": {
+                "member": "DisplayName",
+                "module": "APUESTA_GRUPO_H",
+                "type": "APUESTA_GRUPO_H.GRUPOHFORM.'U_GruPoH4.4_DataCard1'"
+              }
+            }
+          ],
+          "message": {
+            "arguments": [
+              "DataSourceInfo"
+            ],
+            "id": "issue"
+          },
+          "properties": {
+            "level": "High"
+          },
+          "ruleId": "app-ErrInvalidArgs-Func",
+          "ruleIndex": 1
+        },
+        {
+          "locations": [
+            {
+              "logicalLocations": [
+                {
                   "fullyQualifiedName": "APUESTA_GRUPO_H.GRUPOHFORM.U_GruPoH5_DataCard1.MaxLength"
                 }
               ],
@@ -39,7 +439,7 @@
           ],
           "message": {
             "arguments": [
-              "\"Column1\", \"PUNTOGGP5\", \"PUNTOGGP6\", \"PUNTOGHP1\", \"PUNTOGHP2\", \"PUNTOGHP3\", \"PUNTOGHP4\", \"PUNTO_x0020_TOTAL_x0020_H\", \"U_GruPoG5\", \"U_GruPoG5_x002e_5\", \"U_GruPoG6\", \"U_GruPoG6_x002e_6\", \"U_GruPoH1\", \"U_GruPoH1_x002e_1\", \"U_GruPoH2\", \"U_GruPoH2_x002e_2\", \"U_GruPoH3\", \"U_GruPoH3_x002e_3\", \"U_GruPoH4\", \"U_GruPoH4_x002e_4\""
+              "\"PUNTOGGP5\", \"PUNTOGGP6\", \"PUNTOGHP1\", \"PUNTOGHP2\", \"PUNTOGHP3\", \"PUNTOGHP4\", \"PUNTO_x0020_TOTAL_x0020_H\", \"U_GruPoG4\", \"U_GruPoG4_x002e_4\", \"U_GruPoG5\", \"U_GruPoG5_x002e_5\", \"U_GruPoG6\", \"U_GruPoG6_x002e_6\", \"U_GruPoH1\", \"U_GruPoH1_x002e_1\", \"U_GruPoH2\", \"U_GruPoH2_x002e_2\", \"U_GruPoH3\", \"U_GruPoH3_x002e_3\""
             ],
             "id": "issue"
           },
@@ -159,7 +559,7 @@
           ],
           "message": {
             "arguments": [
-              "\"Column1\", \"PUNTOGGP5\", \"PUNTOGGP6\", \"PUNTOGHP1\", \"PUNTOGHP2\", \"PUNTOGHP3\", \"PUNTOGHP4\", \"PUNTO_x0020_TOTAL_x0020_H\", \"U_GruPoG5\", \"U_GruPoG5_x002e_5\", \"U_GruPoG6\", \"U_GruPoG6_x002e_6\", \"U_GruPoH1\", \"U_GruPoH1_x002e_1\", \"U_GruPoH2\", \"U_GruPoH2_x002e_2\", \"U_GruPoH3\", \"U_GruPoH3_x002e_3\", \"U_GruPoH4\", \"U_GruPoH4_x002e_4\""
+              "\"PUNTOGGP5\", \"PUNTOGGP6\", \"PUNTOGHP1\", \"PUNTOGHP2\", \"PUNTOGHP3\", \"PUNTOGHP4\", \"PUNTO_x0020_TOTAL_x0020_H\", \"U_GruPoG4\", \"U_GruPoG4_x002e_4\", \"U_GruPoG5\", \"U_GruPoG5_x002e_5\", \"U_GruPoG6\", \"U_GruPoG6_x002e_6\", \"U_GruPoH1\", \"U_GruPoH1_x002e_1\", \"U_GruPoH2\", \"U_GruPoH2_x002e_2\", \"U_GruPoH3\", \"U_GruPoH3_x002e_3\""
             ],
             "id": "issue"
           },
@@ -239,7 +639,7 @@
           ],
           "message": {
             "arguments": [
-              "\"Column1\", \"PUNTOGGP5\", \"PUNTOGGP6\", \"PUNTOGHP1\", \"PUNTOGHP2\", \"PUNTOGHP3\", \"PUNTOGHP4\", \"PUNTO_x0020_TOTAL_x0020_H\", \"U_GruPoG5\", \"U_GruPoG5_x002e_5\", \"U_GruPoG6\", \"U_GruPoG6_x002e_6\", \"U_GruPoH1\", \"U_GruPoH1_x002e_1\", \"U_GruPoH2\", \"U_GruPoH2_x002e_2\", \"U_GruPoH3\", \"U_GruPoH3_x002e_3\", \"U_GruPoH4\", \"U_GruPoH4_x002e_4\""
+              "\"PUNTOGGP5\", \"PUNTOGGP6\", \"PUNTOGHP1\", \"PUNTOGHP2\", \"PUNTOGHP3\", \"PUNTOGHP4\", \"PUNTO_x0020_TOTAL_x0020_H\", \"U_GruPoG4\", \"U_GruPoG4_x002e_4\", \"U_GruPoG5\", \"U_GruPoG5_x002e_5\", \"U_GruPoG6\", \"U_GruPoG6_x002e_6\", \"U_GruPoH1\", \"U_GruPoH1_x002e_1\", \"U_GruPoH2\", \"U_GruPoH2_x002e_2\", \"U_GruPoH3\", \"U_GruPoH3_x002e_3\""
             ],
             "id": "issue"
           },
@@ -359,7 +759,7 @@
           ],
           "message": {
             "arguments": [
-              "\"Column1\", \"PUNTOGGP5\", \"PUNTOGGP6\", \"PUNTOGHP1\", \"PUNTOGHP2\", \"PUNTOGHP3\", \"PUNTOGHP4\", \"PUNTO_x0020_TOTAL_x0020_H\", \"U_GruPoG5\", \"U_GruPoG5_x002e_5\", \"U_GruPoG6\", \"U_GruPoG6_x002e_6\", \"U_GruPoH1\", \"U_GruPoH1_x002e_1\", \"U_GruPoH2\", \"U_GruPoH2_x002e_2\", \"U_GruPoH3\", \"U_GruPoH3_x002e_3\", \"U_GruPoH4\", \"U_GruPoH4_x002e_4\""
+              "\"PUNTOGGP5\", \"PUNTOGGP6\", \"PUNTOGHP1\", \"PUNTOGHP2\", \"PUNTOGHP3\", \"PUNTOGHP4\", \"PUNTO_x0020_TOTAL_x0020_H\", \"U_GruPoG4\", \"U_GruPoG4_x002e_4\", \"U_GruPoG5\", \"U_GruPoG5_x002e_5\", \"U_GruPoG6\", \"U_GruPoG6_x002e_6\", \"U_GruPoH1\", \"U_GruPoH1_x002e_1\", \"U_GruPoH2\", \"U_GruPoH2_x002e_2\", \"U_GruPoH3\", \"U_GruPoH3_x002e_3\""
             ],
             "id": "issue"
           },
@@ -439,7 +839,7 @@
           ],
           "message": {
             "arguments": [
-              "\"Column1\", \"PUNTOGGP5\", \"PUNTOGGP6\", \"PUNTOGHP1\", \"PUNTOGHP2\", \"PUNTOGHP3\", \"PUNTOGHP4\", \"PUNTO_x0020_TOTAL_x0020_H\", \"U_GruPoG5\", \"U_GruPoG5_x002e_5\", \"U_GruPoG6\", \"U_GruPoG6_x002e_6\", \"U_GruPoH1\", \"U_GruPoH1_x002e_1\", \"U_GruPoH2\", \"U_GruPoH2_x002e_2\", \"U_GruPoH3\", \"U_GruPoH3_x002e_3\", \"U_GruPoH4\", \"U_GruPoH4_x002e_4\""
+              "\"PUNTOGGP5\", \"PUNTOGGP6\", \"PUNTOGHP1\", \"PUNTOGHP2\", \"PUNTOGHP3\", \"PUNTOGHP4\", \"PUNTO_x0020_TOTAL_x0020_H\", \"U_GruPoG4\", \"U_GruPoG4_x002e_4\", \"U_GruPoG5\", \"U_GruPoG5_x002e_5\", \"U_GruPoG6\", \"U_GruPoG6_x002e_6\", \"U_GruPoH1\", \"U_GruPoH1_x002e_1\", \"U_GruPoH2\", \"U_GruPoH2_x002e_2\", \"U_GruPoH3\", \"U_GruPoH3_x002e_3\""
             ],
             "id": "issue"
           },
@@ -559,7 +959,7 @@
           ],
           "message": {
             "arguments": [
-              "\"Column1\", \"PUNTOGGP5\", \"PUNTOGGP6\", \"PUNTOGHP1\", \"PUNTOGHP2\", \"PUNTOGHP3\", \"PUNTOGHP4\", \"PUNTO_x0020_TOTAL_x0020_H\", \"U_GruPoG5\", \"U_GruPoG5_x002e_5\", \"U_GruPoG6\", \"U_GruPoG6_x002e_6\", \"U_GruPoH1\", \"U_GruPoH1_x002e_1\", \"U_GruPoH2\", \"U_GruPoH2_x002e_2\", \"U_GruPoH3\", \"U_GruPoH3_x002e_3\", \"U_GruPoH4\", \"U_GruPoH4_x002e_4\""
+              "\"PUNTOGGP5\", \"PUNTOGGP6\", \"PUNTOGHP1\", \"PUNTOGHP2\", \"PUNTOGHP3\", \"PUNTOGHP4\", \"PUNTO_x0020_TOTAL_x0020_H\", \"U_GruPoG4\", \"U_GruPoG4_x002e_4\", \"U_GruPoG5\", \"U_GruPoG5_x002e_5\", \"U_GruPoG6\", \"U_GruPoG6_x002e_6\", \"U_GruPoH1\", \"U_GruPoH1_x002e_1\", \"U_GruPoH2\", \"U_GruPoH2_x002e_2\", \"U_GruPoH3\", \"U_GruPoH3_x002e_3\""
             ],
             "id": "issue"
           },
@@ -639,7 +1039,7 @@
           ],
           "message": {
             "arguments": [
-              "\"Column1\", \"PUNTOGGP5\", \"PUNTOGGP6\", \"PUNTOGHP1\", \"PUNTOGHP2\", \"PUNTOGHP3\", \"PUNTOGHP4\", \"PUNTO_x0020_TOTAL_x0020_H\", \"U_GruPoG5\", \"U_GruPoG5_x002e_5\", \"U_GruPoG6\", \"U_GruPoG6_x002e_6\", \"U_GruPoH1\", \"U_GruPoH1_x002e_1\", \"U_GruPoH2\", \"U_GruPoH2_x002e_2\", \"U_GruPoH3\", \"U_GruPoH3_x002e_3\", \"U_GruPoH4\", \"U_GruPoH4_x002e_4\""
+              "\"PUNTOGGP5\", \"PUNTOGGP6\", \"PUNTOGHP1\", \"PUNTOGHP2\", \"PUNTOGHP3\", \"PUNTOGHP4\", \"PUNTO_x0020_TOTAL_x0020_H\", \"U_GruPoG4\", \"U_GruPoG4_x002e_4\", \"U_GruPoG5\", \"U_GruPoG5_x002e_5\", \"U_GruPoG6\", \"U_GruPoG6_x002e_6\", \"U_GruPoH1\", \"U_GruPoH1_x002e_1\", \"U_GruPoH2\", \"U_GruPoH2_x002e_2\", \"U_GruPoH3\", \"U_GruPoH3_x002e_3\""
             ],
             "id": "issue"
           },
@@ -759,7 +1159,7 @@
           ],
           "message": {
             "arguments": [
-              "\"Column1\", \"PUNTOGGP5\", \"PUNTOGGP6\", \"PUNTOGHP1\", \"PUNTOGHP2\", \"PUNTOGHP3\", \"PUNTOGHP4\", \"PUNTO_x0020_TOTAL_x0020_H\", \"U_GruPoG5\", \"U_GruPoG5_x002e_5\", \"U_GruPoG6\", \"U_GruPoG6_x002e_6\", \"U_GruPoH1\", \"U_GruPoH1_x002e_1\", \"U_GruPoH2\", \"U_GruPoH2_x002e_2\", \"U_GruPoH3\", \"U_GruPoH3_x002e_3\", \"U_GruPoH4\", \"U_GruPoH4_x002e_4\""
+              "\"PUNTOGGP5\", \"PUNTOGGP6\", \"PUNTOGHP1\", \"PUNTOGHP2\", \"PUNTOGHP3\", \"PUNTOGHP4\", \"PUNTO_x0020_TOTAL_x0020_H\", \"U_GruPoG4\", \"U_GruPoG4_x002e_4\", \"U_GruPoG5\", \"U_GruPoG5_x002e_5\", \"U_GruPoG6\", \"U_GruPoG6_x002e_6\", \"U_GruPoH1\", \"U_GruPoH1_x002e_1\", \"U_GruPoH2\", \"U_GruPoH2_x002e_2\", \"U_GruPoH3\", \"U_GruPoH3_x002e_3\""
             ],
             "id": "issue"
           },
@@ -1814,6 +2214,206 @@
             {
               "logicalLocations": [
                 {
+                  "fullyQualifiedName": "APUESTA_GRUPO_E.GRUPOEFORM.U_GruPoE5_DataCard1.MaxLength"
+                }
+              ],
+              "physicalLocation": {
+                "address": {
+                  "fullyQualifiedName": "APUESTA_GRUPO_E.GRUPOEFORM.U_GruPoE5_DataCard1.MaxLength",
+                  "relativeAddress": 0
+                },
+                "region": {
+                  "charLength": 11,
+                  "charOffset": 57,
+                  "snippet": {
+                    "text": "\"U_GruPoE5\""
+                  }
+                }
+              },
+              "properties": {
+                "member": "MaxLength",
+                "module": "APUESTA_GRUPO_E",
+                "type": "APUESTA_GRUPO_E.GRUPOEFORM.U_GruPoE5_DataCard1"
+              }
+            }
+          ],
+          "message": {
+            "arguments": [
+              "\"PUNTOGEP1\", \"PUNTOSGDP6\", \"PUNTOSGEP2\", \"PUNTOSGEP3\", \"PUNTOSGEP4\", \"PUNTOSGEP5\", \"PUNTOS_x0020_TOTAL_x0020_E\", \"U_GruPoD5_x002e_5\", \"U_GruPoD6\", \"U_GruPoD6_x002e_6\", \"U_GruPoE1\", \"U_GruPoE1_x002e_1\", \"U_GruPoE2\", \"U_GruPoE2_x002e_2\", \"U_GruPoE3\", \"U_GruPoE3_x002e_3\", \"U_GruPoE4\", \"U_GruPoE4_x002e_4\", \"__PowerAppsId__2\""
+            ],
+            "id": "issue"
+          },
+          "properties": {
+            "level": "High"
+          },
+          "ruleId": "app-ErrBadType-ExpectedTypesCSV",
+          "ruleIndex": 0
+        },
+        {
+          "locations": [
+            {
+              "logicalLocations": [
+                {
+                  "fullyQualifiedName": "APUESTA_GRUPO_E.GRUPOEFORM.U_GruPoE5_DataCard1.MaxLength"
+                }
+              ],
+              "physicalLocation": {
+                "address": {
+                  "fullyQualifiedName": "APUESTA_GRUPO_E.GRUPOEFORM.U_GruPoE5_DataCard1.MaxLength",
+                  "relativeAddress": 0
+                },
+                "region": {
+                  "charLength": 69,
+                  "charOffset": 0,
+                  "snippet": {
+                    "text": "DataSourceInfo([@TABLAGRUPOE], DataSourceInfo.MaxLength, \"U_GruPoE5\")"
+                  }
+                }
+              },
+              "properties": {
+                "member": "MaxLength",
+                "module": "APUESTA_GRUPO_E",
+                "type": "APUESTA_GRUPO_E.GRUPOEFORM.U_GruPoE5_DataCard1"
+              }
+            }
+          ],
+          "message": {
+            "arguments": [
+              "DataSourceInfo"
+            ],
+            "id": "issue"
+          },
+          "properties": {
+            "level": "High"
+          },
+          "ruleId": "app-ErrInvalidArgs-Func",
+          "ruleIndex": 1
+        },
+        {
+          "locations": [
+            {
+              "logicalLocations": [
+                {
+                  "fullyQualifiedName": "APUESTA_GRUPO_E.GRUPOEFORM.U_GruPoE5_DataCard1.Default"
+                }
+              ],
+              "physicalLocation": {
+                "address": {
+                  "fullyQualifiedName": "APUESTA_GRUPO_E.GRUPOEFORM.U_GruPoE5_DataCard1.Default",
+                  "relativeAddress": 0
+                },
+                "region": {
+                  "charLength": 10,
+                  "charOffset": 8,
+                  "snippet": {
+                    "text": ".U_GruPoE5"
+                  }
+                }
+              },
+              "properties": {
+                "member": "Default",
+                "module": "APUESTA_GRUPO_E",
+                "type": "APUESTA_GRUPO_E.GRUPOEFORM.U_GruPoE5_DataCard1"
+              }
+            }
+          ],
+          "message": {
+            "arguments": [
+              "U_GruPoE5"
+            ],
+            "id": "issue"
+          },
+          "properties": {
+            "level": "High"
+          },
+          "ruleId": "app-ErrInvalidName",
+          "ruleIndex": 2
+        },
+        {
+          "locations": [
+            {
+              "logicalLocations": [
+                {
+                  "fullyQualifiedName": "APUESTA_GRUPO_E.GRUPOEFORM.U_GruPoE5_DataCard1.DisplayName"
+                }
+              ],
+              "physicalLocation": {
+                "address": {
+                  "fullyQualifiedName": "APUESTA_GRUPO_E.GRUPOEFORM.U_GruPoE5_DataCard1.DisplayName",
+                  "relativeAddress": 0
+                },
+                "region": {
+                  "charLength": 11,
+                  "charOffset": 57,
+                  "snippet": {
+                    "text": "\"U_GruPoE5\""
+                  }
+                }
+              },
+              "properties": {
+                "member": "DisplayName",
+                "module": "APUESTA_GRUPO_E",
+                "type": "APUESTA_GRUPO_E.GRUPOEFORM.U_GruPoE5_DataCard1"
+              }
+            }
+          ],
+          "message": {
+            "arguments": [
+              "\"PUNTOGEP1\", \"PUNTOSGDP6\", \"PUNTOSGEP2\", \"PUNTOSGEP3\", \"PUNTOSGEP4\", \"PUNTOSGEP5\", \"PUNTOS_x0020_TOTAL_x0020_E\", \"U_GruPoD5_x002e_5\", \"U_GruPoD6\", \"U_GruPoD6_x002e_6\", \"U_GruPoE1\", \"U_GruPoE1_x002e_1\", \"U_GruPoE2\", \"U_GruPoE2_x002e_2\", \"U_GruPoE3\", \"U_GruPoE3_x002e_3\", \"U_GruPoE4\", \"U_GruPoE4_x002e_4\", \"__PowerAppsId__2\""
+            ],
+            "id": "issue"
+          },
+          "properties": {
+            "level": "High"
+          },
+          "ruleId": "app-ErrBadType-ExpectedTypesCSV",
+          "ruleIndex": 0
+        },
+        {
+          "locations": [
+            {
+              "logicalLocations": [
+                {
+                  "fullyQualifiedName": "APUESTA_GRUPO_E.GRUPOEFORM.U_GruPoE5_DataCard1.DisplayName"
+                }
+              ],
+              "physicalLocation": {
+                "address": {
+                  "fullyQualifiedName": "APUESTA_GRUPO_E.GRUPOEFORM.U_GruPoE5_DataCard1.DisplayName",
+                  "relativeAddress": 0
+                },
+                "region": {
+                  "charLength": 69,
+                  "charOffset": 0,
+                  "snippet": {
+                    "text": "DataSourceInfo([@TABLAGRUPOE],DataSourceInfo.DisplayName,\"U_GruPoE5\")"
+                  }
+                }
+              },
+              "properties": {
+                "member": "DisplayName",
+                "module": "APUESTA_GRUPO_E",
+                "type": "APUESTA_GRUPO_E.GRUPOEFORM.U_GruPoE5_DataCard1"
+              }
+            }
+          ],
+          "message": {
+            "arguments": [
+              "DataSourceInfo"
+            ],
+            "id": "issue"
+          },
+          "properties": {
+            "level": "High"
+          },
+          "ruleId": "app-ErrInvalidArgs-Func",
+          "ruleIndex": 1
+        },
+        {
+          "locations": [
+            {
+              "logicalLocations": [
+                {
                   "fullyQualifiedName": "APUESTA_GRUPO_E.GRUPOEFORM.'U_GruPoE5.5_DataCard1'.MaxLength"
                 }
               ],
@@ -1839,7 +2439,7 @@
           ],
           "message": {
             "arguments": [
-              "\"Column1\", \"PUNTOGEP1\", \"PUNTOSGDP6\", \"PUNTOSGEP2\", \"PUNTOSGEP3\", \"PUNTOSGEP4\", \"PUNTOSGEP5\", \"PUNTOS_x0020_TOTAL_x0020_E\", \"U_GruPoD6\", \"U_GruPoD6_x002e_6\", \"U_GruPoE1\", \"U_GruPoE1_x002e_1\", \"U_GruPoE2\", \"U_GruPoE2_x002e_2\", \"U_GruPoE3\", \"U_GruPoE3_x002e_3\", \"U_GruPoE4\", \"U_GruPoE4_x002e_4\", \"U_GruPoE5\""
+              "\"PUNTOGEP1\", \"PUNTOSGDP6\", \"PUNTOSGEP2\", \"PUNTOSGEP3\", \"PUNTOSGEP4\", \"PUNTOSGEP5\", \"PUNTOS_x0020_TOTAL_x0020_E\", \"U_GruPoD5_x002e_5\", \"U_GruPoD6\", \"U_GruPoD6_x002e_6\", \"U_GruPoE1\", \"U_GruPoE1_x002e_1\", \"U_GruPoE2\", \"U_GruPoE2_x002e_2\", \"U_GruPoE3\", \"U_GruPoE3_x002e_3\", \"U_GruPoE4\", \"U_GruPoE4_x002e_4\", \"__PowerAppsId__2\""
             ],
             "id": "issue"
           },
@@ -1959,7 +2559,7 @@
           ],
           "message": {
             "arguments": [
-              "\"Column1\", \"PUNTOGEP1\", \"PUNTOSGDP6\", \"PUNTOSGEP2\", \"PUNTOSGEP3\", \"PUNTOSGEP4\", \"PUNTOSGEP5\", \"PUNTOS_x0020_TOTAL_x0020_E\", \"U_GruPoD6\", \"U_GruPoD6_x002e_6\", \"U_GruPoE1\", \"U_GruPoE1_x002e_1\", \"U_GruPoE2\", \"U_GruPoE2_x002e_2\", \"U_GruPoE3\", \"U_GruPoE3_x002e_3\", \"U_GruPoE4\", \"U_GruPoE4_x002e_4\", \"U_GruPoE5\""
+              "\"PUNTOGEP1\", \"PUNTOSGDP6\", \"PUNTOSGEP2\", \"PUNTOSGEP3\", \"PUNTOSGEP4\", \"PUNTOSGEP5\", \"PUNTOS_x0020_TOTAL_x0020_E\", \"U_GruPoD5_x002e_5\", \"U_GruPoD6\", \"U_GruPoD6_x002e_6\", \"U_GruPoE1\", \"U_GruPoE1_x002e_1\", \"U_GruPoE2\", \"U_GruPoE2_x002e_2\", \"U_GruPoE3\", \"U_GruPoE3_x002e_3\", \"U_GruPoE4\", \"U_GruPoE4_x002e_4\", \"__PowerAppsId__2\""
             ],
             "id": "issue"
           },
@@ -2039,7 +2639,7 @@
           ],
           "message": {
             "arguments": [
-              "\"Column1\", \"PUNTOGEP1\", \"PUNTOSGDP6\", \"PUNTOSGEP2\", \"PUNTOSGEP3\", \"PUNTOSGEP4\", \"PUNTOSGEP5\", \"PUNTOS_x0020_TOTAL_x0020_E\", \"U_GruPoD6\", \"U_GruPoD6_x002e_6\", \"U_GruPoE1\", \"U_GruPoE1_x002e_1\", \"U_GruPoE2\", \"U_GruPoE2_x002e_2\", \"U_GruPoE3\", \"U_GruPoE3_x002e_3\", \"U_GruPoE4\", \"U_GruPoE4_x002e_4\", \"U_GruPoE5\""
+              "\"PUNTOGEP1\", \"PUNTOSGDP6\", \"PUNTOSGEP2\", \"PUNTOSGEP3\", \"PUNTOSGEP4\", \"PUNTOSGEP5\", \"PUNTOS_x0020_TOTAL_x0020_E\", \"U_GruPoD5_x002e_5\", \"U_GruPoD6\", \"U_GruPoD6_x002e_6\", \"U_GruPoE1\", \"U_GruPoE1_x002e_1\", \"U_GruPoE2\", \"U_GruPoE2_x002e_2\", \"U_GruPoE3\", \"U_GruPoE3_x002e_3\", \"U_GruPoE4\", \"U_GruPoE4_x002e_4\", \"__PowerAppsId__2\""
             ],
             "id": "issue"
           },
@@ -2159,7 +2759,7 @@
           ],
           "message": {
             "arguments": [
-              "\"Column1\", \"PUNTOGEP1\", \"PUNTOSGDP6\", \"PUNTOSGEP2\", \"PUNTOSGEP3\", \"PUNTOSGEP4\", \"PUNTOSGEP5\", \"PUNTOS_x0020_TOTAL_x0020_E\", \"U_GruPoD6\", \"U_GruPoD6_x002e_6\", \"U_GruPoE1\", \"U_GruPoE1_x002e_1\", \"U_GruPoE2\", \"U_GruPoE2_x002e_2\", \"U_GruPoE3\", \"U_GruPoE3_x002e_3\", \"U_GruPoE4\", \"U_GruPoE4_x002e_4\", \"U_GruPoE5\""
+              "\"PUNTOGEP1\", \"PUNTOSGDP6\", \"PUNTOSGEP2\", \"PUNTOSGEP3\", \"PUNTOSGEP4\", \"PUNTOSGEP5\", \"PUNTOS_x0020_TOTAL_x0020_E\", \"U_GruPoD5_x002e_5\", \"U_GruPoD6\", \"U_GruPoD6_x002e_6\", \"U_GruPoE1\", \"U_GruPoE1_x002e_1\", \"U_GruPoE2\", \"U_GruPoE2_x002e_2\", \"U_GruPoE3\", \"U_GruPoE3_x002e_3\", \"U_GruPoE4\", \"U_GruPoE4_x002e_4\", \"__PowerAppsId__2\""
             ],
             "id": "issue"
           },
@@ -2239,7 +2839,7 @@
           ],
           "message": {
             "arguments": [
-              "\"Column1\", \"PUNTOGEP1\", \"PUNTOSGDP6\", \"PUNTOSGEP2\", \"PUNTOSGEP3\", \"PUNTOSGEP4\", \"PUNTOSGEP5\", \"PUNTOS_x0020_TOTAL_x0020_E\", \"U_GruPoD6\", \"U_GruPoD6_x002e_6\", \"U_GruPoE1\", \"U_GruPoE1_x002e_1\", \"U_GruPoE2\", \"U_GruPoE2_x002e_2\", \"U_GruPoE3\", \"U_GruPoE3_x002e_3\", \"U_GruPoE4\", \"U_GruPoE4_x002e_4\", \"U_GruPoE5\""
+              "\"PUNTOGEP1\", \"PUNTOSGDP6\", \"PUNTOSGEP2\", \"PUNTOSGEP3\", \"PUNTOSGEP4\", \"PUNTOSGEP5\", \"PUNTOS_x0020_TOTAL_x0020_E\", \"U_GruPoD5_x002e_5\", \"U_GruPoD6\", \"U_GruPoD6_x002e_6\", \"U_GruPoE1\", \"U_GruPoE1_x002e_1\", \"U_GruPoE2\", \"U_GruPoE2_x002e_2\", \"U_GruPoE3\", \"U_GruPoE3_x002e_3\", \"U_GruPoE4\", \"U_GruPoE4_x002e_4\", \"__PowerAppsId__2\""
             ],
             "id": "issue"
           },
@@ -2359,7 +2959,7 @@
           ],
           "message": {
             "arguments": [
-              "\"Column1\", \"PUNTOGEP1\", \"PUNTOSGDP6\", \"PUNTOSGEP2\", \"PUNTOSGEP3\", \"PUNTOSGEP4\", \"PUNTOSGEP5\", \"PUNTOS_x0020_TOTAL_x0020_E\", \"U_GruPoD6\", \"U_GruPoD6_x002e_6\", \"U_GruPoE1\", \"U_GruPoE1_x002e_1\", \"U_GruPoE2\", \"U_GruPoE2_x002e_2\", \"U_GruPoE3\", \"U_GruPoE3_x002e_3\", \"U_GruPoE4\", \"U_GruPoE4_x002e_4\", \"U_GruPoE5\""
+              "\"PUNTOGEP1\", \"PUNTOSGDP6\", \"PUNTOSGEP2\", \"PUNTOSGEP3\", \"PUNTOSGEP4\", \"PUNTOSGEP5\", \"PUNTOS_x0020_TOTAL_x0020_E\", \"U_GruPoD5_x002e_5\", \"U_GruPoD6\", \"U_GruPoD6_x002e_6\", \"U_GruPoE1\", \"U_GruPoE1_x002e_1\", \"U_GruPoE2\", \"U_GruPoE2_x002e_2\", \"U_GruPoE3\", \"U_GruPoE3_x002e_3\", \"U_GruPoE4\", \"U_GruPoE4_x002e_4\", \"__PowerAppsId__2\""
             ],
             "id": "issue"
           },
@@ -2439,7 +3039,7 @@
           ],
           "message": {
             "arguments": [
-              "\"Column1\", \"PUNTOSGEP6\", \"PUNTOSGPP1\", \"PUNTOSGPP2\", \"PUNTOSGPP3\", \"PUNTOSGPP4\", \"PUNTOSGPP5\", \"PUNTOS_x0020_TOTAL_x0020_P\", \"U_GruPoE5_x002e_5\", \"U_GruPoE6\", \"U_GruPoE6_x002e_6\", \"U_GruPoP1\", \"U_GruPoP1_x002e_1\", \"U_GruPoP2\", \"U_GruPoP2_x002e_2\", \"U_GruPoP3\", \"U_GruPoP3_x002e_3\", \"U_GruPoP4\", \"U_GruPoP4_x002e_4\""
+              "\"PUNTOSGEP6\", \"PUNTOSGPP1\", \"PUNTOSGPP2\", \"PUNTOSGPP3\", \"PUNTOSGPP4\", \"PUNTOS_x0020_TOTAL_x0020_P\", \"U_GruPoE5\", \"U_GruPoE5_x002e_5\", \"U_GruPoE6\", \"U_GruPoE6_x002e_6\", \"U_GruPoP1\", \"U_GruPoP1_x002e_1\", \"U_GruPoP2\", \"U_GruPoP2_x002e_2\", \"U_GruPoP3\", \"U_GruPoP3_x002e_3\", \"U_GruPoP4\", \"U_GruPoP4_x002e_4\""
             ],
             "id": "issue"
           },
@@ -2559,7 +3159,7 @@
           ],
           "message": {
             "arguments": [
-              "\"Column1\", \"PUNTOSGEP6\", \"PUNTOSGPP1\", \"PUNTOSGPP2\", \"PUNTOSGPP3\", \"PUNTOSGPP4\", \"PUNTOSGPP5\", \"PUNTOS_x0020_TOTAL_x0020_P\", \"U_GruPoE5_x002e_5\", \"U_GruPoE6\", \"U_GruPoE6_x002e_6\", \"U_GruPoP1\", \"U_GruPoP1_x002e_1\", \"U_GruPoP2\", \"U_GruPoP2_x002e_2\", \"U_GruPoP3\", \"U_GruPoP3_x002e_3\", \"U_GruPoP4\", \"U_GruPoP4_x002e_4\""
+              "\"PUNTOSGEP6\", \"PUNTOSGPP1\", \"PUNTOSGPP2\", \"PUNTOSGPP3\", \"PUNTOSGPP4\", \"PUNTOS_x0020_TOTAL_x0020_P\", \"U_GruPoE5\", \"U_GruPoE5_x002e_5\", \"U_GruPoE6\", \"U_GruPoE6_x002e_6\", \"U_GruPoP1\", \"U_GruPoP1_x002e_1\", \"U_GruPoP2\", \"U_GruPoP2_x002e_2\", \"U_GruPoP3\", \"U_GruPoP3_x002e_3\", \"U_GruPoP4\", \"U_GruPoP4_x002e_4\""
             ],
             "id": "issue"
           },
@@ -2639,7 +3239,7 @@
           ],
           "message": {
             "arguments": [
-              "\"Column1\", \"PUNTOSGEP6\", \"PUNTOSGPP1\", \"PUNTOSGPP2\", \"PUNTOSGPP3\", \"PUNTOSGPP4\", \"PUNTOSGPP5\", \"PUNTOS_x0020_TOTAL_x0020_P\", \"U_GruPoE5_x002e_5\", \"U_GruPoE6\", \"U_GruPoE6_x002e_6\", \"U_GruPoP1\", \"U_GruPoP1_x002e_1\", \"U_GruPoP2\", \"U_GruPoP2_x002e_2\", \"U_GruPoP3\", \"U_GruPoP3_x002e_3\", \"U_GruPoP4\", \"U_GruPoP4_x002e_4\""
+              "\"PUNTOSGEP6\", \"PUNTOSGPP1\", \"PUNTOSGPP2\", \"PUNTOSGPP3\", \"PUNTOSGPP4\", \"PUNTOS_x0020_TOTAL_x0020_P\", \"U_GruPoE5\", \"U_GruPoE5_x002e_5\", \"U_GruPoE6\", \"U_GruPoE6_x002e_6\", \"U_GruPoP1\", \"U_GruPoP1_x002e_1\", \"U_GruPoP2\", \"U_GruPoP2_x002e_2\", \"U_GruPoP3\", \"U_GruPoP3_x002e_3\", \"U_GruPoP4\", \"U_GruPoP4_x002e_4\""
             ],
             "id": "issue"
           },
@@ -2759,7 +3359,7 @@
           ],
           "message": {
             "arguments": [
-              "\"Column1\", \"PUNTOSGEP6\", \"PUNTOSGPP1\", \"PUNTOSGPP2\", \"PUNTOSGPP3\", \"PUNTOSGPP4\", \"PUNTOSGPP5\", \"PUNTOS_x0020_TOTAL_x0020_P\", \"U_GruPoE5_x002e_5\", \"U_GruPoE6\", \"U_GruPoE6_x002e_6\", \"U_GruPoP1\", \"U_GruPoP1_x002e_1\", \"U_GruPoP2\", \"U_GruPoP2_x002e_2\", \"U_GruPoP3\", \"U_GruPoP3_x002e_3\", \"U_GruPoP4\", \"U_GruPoP4_x002e_4\""
+              "\"PUNTOSGEP6\", \"PUNTOSGPP1\", \"PUNTOSGPP2\", \"PUNTOSGPP3\", \"PUNTOSGPP4\", \"PUNTOS_x0020_TOTAL_x0020_P\", \"U_GruPoE5\", \"U_GruPoE5_x002e_5\", \"U_GruPoE6\", \"U_GruPoE6_x002e_6\", \"U_GruPoP1\", \"U_GruPoP1_x002e_1\", \"U_GruPoP2\", \"U_GruPoP2_x002e_2\", \"U_GruPoP3\", \"U_GruPoP3_x002e_3\", \"U_GruPoP4\", \"U_GruPoP4_x002e_4\""
             ],
             "id": "issue"
           },
@@ -2839,7 +3439,7 @@
           ],
           "message": {
             "arguments": [
-              "\"Column1\", \"PUNTOSGEP6\", \"PUNTOSGPP1\", \"PUNTOSGPP2\", \"PUNTOSGPP3\", \"PUNTOSGPP4\", \"PUNTOSGPP5\", \"PUNTOS_x0020_TOTAL_x0020_P\", \"U_GruPoE5_x002e_5\", \"U_GruPoE6\", \"U_GruPoE6_x002e_6\", \"U_GruPoP1\", \"U_GruPoP1_x002e_1\", \"U_GruPoP2\", \"U_GruPoP2_x002e_2\", \"U_GruPoP3\", \"U_GruPoP3_x002e_3\", \"U_GruPoP4\", \"U_GruPoP4_x002e_4\""
+              "\"PUNTOSGEP6\", \"PUNTOSGPP1\", \"PUNTOSGPP2\", \"PUNTOSGPP3\", \"PUNTOSGPP4\", \"PUNTOS_x0020_TOTAL_x0020_P\", \"U_GruPoE5\", \"U_GruPoE5_x002e_5\", \"U_GruPoE6\", \"U_GruPoE6_x002e_6\", \"U_GruPoP1\", \"U_GruPoP1_x002e_1\", \"U_GruPoP2\", \"U_GruPoP2_x002e_2\", \"U_GruPoP3\", \"U_GruPoP3_x002e_3\", \"U_GruPoP4\", \"U_GruPoP4_x002e_4\""
             ],
             "id": "issue"
           },
@@ -2959,7 +3559,7 @@
           ],
           "message": {
             "arguments": [
-              "\"Column1\", \"PUNTOSGEP6\", \"PUNTOSGPP1\", \"PUNTOSGPP2\", \"PUNTOSGPP3\", \"PUNTOSGPP4\", \"PUNTOSGPP5\", \"PUNTOS_x0020_TOTAL_x0020_P\", \"U_GruPoE5_x002e_5\", \"U_GruPoE6\", \"U_GruPoE6_x002e_6\", \"U_GruPoP1\", \"U_GruPoP1_x002e_1\", \"U_GruPoP2\", \"U_GruPoP2_x002e_2\", \"U_GruPoP3\", \"U_GruPoP3_x002e_3\", \"U_GruPoP4\", \"U_GruPoP4_x002e_4\""
+              "\"PUNTOSGEP6\", \"PUNTOSGPP1\", \"PUNTOSGPP2\", \"PUNTOSGPP3\", \"PUNTOSGPP4\", \"PUNTOS_x0020_TOTAL_x0020_P\", \"U_GruPoE5\", \"U_GruPoE5_x002e_5\", \"U_GruPoE6\", \"U_GruPoE6_x002e_6\", \"U_GruPoP1\", \"U_GruPoP1_x002e_1\", \"U_GruPoP2\", \"U_GruPoP2_x002e_2\", \"U_GruPoP3\", \"U_GruPoP3_x002e_3\", \"U_GruPoP4\", \"U_GruPoP4_x002e_4\""
             ],
             "id": "issue"
           },
@@ -3039,7 +3639,7 @@
           ],
           "message": {
             "arguments": [
-              "\"Column1\", \"PUNTOSGEP6\", \"PUNTOSGPP1\", \"PUNTOSGPP2\", \"PUNTOSGPP3\", \"PUNTOSGPP4\", \"PUNTOSGPP5\", \"PUNTOS_x0020_TOTAL_x0020_P\", \"U_GruPoE5_x002e_5\", \"U_GruPoE6\", \"U_GruPoE6_x002e_6\", \"U_GruPoP1\", \"U_GruPoP1_x002e_1\", \"U_GruPoP2\", \"U_GruPoP2_x002e_2\", \"U_GruPoP3\", \"U_GruPoP3_x002e_3\", \"U_GruPoP4\", \"U_GruPoP4_x002e_4\""
+              "\"PUNTOSGEP6\", \"PUNTOSGPP1\", \"PUNTOSGPP2\", \"PUNTOSGPP3\", \"PUNTOSGPP4\", \"PUNTOS_x0020_TOTAL_x0020_P\", \"U_GruPoE5\", \"U_GruPoE5_x002e_5\", \"U_GruPoE6\", \"U_GruPoE6_x002e_6\", \"U_GruPoP1\", \"U_GruPoP1_x002e_1\", \"U_GruPoP2\", \"U_GruPoP2_x002e_2\", \"U_GruPoP3\", \"U_GruPoP3_x002e_3\", \"U_GruPoP4\", \"U_GruPoP4_x002e_4\""
             ],
             "id": "issue"
           },
@@ -3159,7 +3759,7 @@
           ],
           "message": {
             "arguments": [
-              "\"Column1\", \"PUNTOSGEP6\", \"PUNTOSGPP1\", \"PUNTOSGPP2\", \"PUNTOSGPP3\", \"PUNTOSGPP4\", \"PUNTOSGPP5\", \"PUNTOS_x0020_TOTAL_x0020_P\", \"U_GruPoE5_x002e_5\", \"U_GruPoE6\", \"U_GruPoE6_x002e_6\", \"U_GruPoP1\", \"U_GruPoP1_x002e_1\", \"U_GruPoP2\", \"U_GruPoP2_x002e_2\", \"U_GruPoP3\", \"U_GruPoP3_x002e_3\", \"U_GruPoP4\", \"U_GruPoP4_x002e_4\""
+              "\"PUNTOSGEP6\", \"PUNTOSGPP1\", \"PUNTOSGPP2\", \"PUNTOSGPP3\", \"PUNTOSGPP4\", \"PUNTOS_x0020_TOTAL_x0020_P\", \"U_GruPoE5\", \"U_GruPoE5_x002e_5\", \"U_GruPoE6\", \"U_GruPoE6_x002e_6\", \"U_GruPoP1\", \"U_GruPoP1_x002e_1\", \"U_GruPoP2\", \"U_GruPoP2_x002e_2\", \"U_GruPoP3\", \"U_GruPoP3_x002e_3\", \"U_GruPoP4\", \"U_GruPoP4_x002e_4\""
             ],
             "id": "issue"
           },
@@ -3214,6 +3814,406 @@
             {
               "logicalLocations": [
                 {
+                  "fullyQualifiedName": "APUESTA_GRUPO_G.GRUPOGFORM.U_GruPoG4_DataCard1.MaxLength"
+                }
+              ],
+              "physicalLocation": {
+                "address": {
+                  "fullyQualifiedName": "APUESTA_GRUPO_G.GRUPOGFORM.U_GruPoG4_DataCard1.MaxLength",
+                  "relativeAddress": 0
+                },
+                "region": {
+                  "charLength": 11,
+                  "charOffset": 57,
+                  "snippet": {
+                    "text": "\"U_GruPoG4\""
+                  }
+                }
+              },
+              "properties": {
+                "member": "MaxLength",
+                "module": "APUESTA_GRUPO_G",
+                "type": "APUESTA_GRUPO_G.GRUPOGFORM.U_GruPoG4_DataCard1"
+              }
+            }
+          ],
+          "message": {
+            "arguments": [
+              "\"PUNTOGGP1\", \"PUNTOGGP2\", \"PUNTOGGP3\", \"PUNTOGGP4\", \"PUNTOSGPP5\", \"PUNTOSGPP6\", \"PUNTO_x0020_TOTAL_x0020_G\", \"U_GruPoG1\", \"U_GruPoG1_x002e_1\", \"U_GruPoG2\", \"U_GruPoG2_x002e_2\", \"U_GruPoG3\", \"U_GruPoG3_x002e_3\", \"U_GruPoP4_x002e_4\", \"U_GruPoP5\", \"U_GruPoP5_x002e_5\", \"U_GruPoP6\", \"U_GruPoP6_x002e_6\", \"__PowerAppsId__2\""
+            ],
+            "id": "issue"
+          },
+          "properties": {
+            "level": "High"
+          },
+          "ruleId": "app-ErrBadType-ExpectedTypesCSV",
+          "ruleIndex": 0
+        },
+        {
+          "locations": [
+            {
+              "logicalLocations": [
+                {
+                  "fullyQualifiedName": "APUESTA_GRUPO_G.GRUPOGFORM.U_GruPoG4_DataCard1.MaxLength"
+                }
+              ],
+              "physicalLocation": {
+                "address": {
+                  "fullyQualifiedName": "APUESTA_GRUPO_G.GRUPOGFORM.U_GruPoG4_DataCard1.MaxLength",
+                  "relativeAddress": 0
+                },
+                "region": {
+                  "charLength": 69,
+                  "charOffset": 0,
+                  "snippet": {
+                    "text": "DataSourceInfo([@TABLAGRUPOG], DataSourceInfo.MaxLength, \"U_GruPoG4\")"
+                  }
+                }
+              },
+              "properties": {
+                "member": "MaxLength",
+                "module": "APUESTA_GRUPO_G",
+                "type": "APUESTA_GRUPO_G.GRUPOGFORM.U_GruPoG4_DataCard1"
+              }
+            }
+          ],
+          "message": {
+            "arguments": [
+              "DataSourceInfo"
+            ],
+            "id": "issue"
+          },
+          "properties": {
+            "level": "High"
+          },
+          "ruleId": "app-ErrInvalidArgs-Func",
+          "ruleIndex": 1
+        },
+        {
+          "locations": [
+            {
+              "logicalLocations": [
+                {
+                  "fullyQualifiedName": "APUESTA_GRUPO_G.GRUPOGFORM.U_GruPoG4_DataCard1.Default"
+                }
+              ],
+              "physicalLocation": {
+                "address": {
+                  "fullyQualifiedName": "APUESTA_GRUPO_G.GRUPOGFORM.U_GruPoG4_DataCard1.Default",
+                  "relativeAddress": 0
+                },
+                "region": {
+                  "charLength": 10,
+                  "charOffset": 8,
+                  "snippet": {
+                    "text": ".U_GruPoG4"
+                  }
+                }
+              },
+              "properties": {
+                "member": "Default",
+                "module": "APUESTA_GRUPO_G",
+                "type": "APUESTA_GRUPO_G.GRUPOGFORM.U_GruPoG4_DataCard1"
+              }
+            }
+          ],
+          "message": {
+            "arguments": [
+              "U_GruPoG4"
+            ],
+            "id": "issue"
+          },
+          "properties": {
+            "level": "High"
+          },
+          "ruleId": "app-ErrInvalidName",
+          "ruleIndex": 2
+        },
+        {
+          "locations": [
+            {
+              "logicalLocations": [
+                {
+                  "fullyQualifiedName": "APUESTA_GRUPO_G.GRUPOGFORM.U_GruPoG4_DataCard1.DisplayName"
+                }
+              ],
+              "physicalLocation": {
+                "address": {
+                  "fullyQualifiedName": "APUESTA_GRUPO_G.GRUPOGFORM.U_GruPoG4_DataCard1.DisplayName",
+                  "relativeAddress": 0
+                },
+                "region": {
+                  "charLength": 11,
+                  "charOffset": 57,
+                  "snippet": {
+                    "text": "\"U_GruPoG4\""
+                  }
+                }
+              },
+              "properties": {
+                "member": "DisplayName",
+                "module": "APUESTA_GRUPO_G",
+                "type": "APUESTA_GRUPO_G.GRUPOGFORM.U_GruPoG4_DataCard1"
+              }
+            }
+          ],
+          "message": {
+            "arguments": [
+              "\"PUNTOGGP1\", \"PUNTOGGP2\", \"PUNTOGGP3\", \"PUNTOGGP4\", \"PUNTOSGPP5\", \"PUNTOSGPP6\", \"PUNTO_x0020_TOTAL_x0020_G\", \"U_GruPoG1\", \"U_GruPoG1_x002e_1\", \"U_GruPoG2\", \"U_GruPoG2_x002e_2\", \"U_GruPoG3\", \"U_GruPoG3_x002e_3\", \"U_GruPoP4_x002e_4\", \"U_GruPoP5\", \"U_GruPoP5_x002e_5\", \"U_GruPoP6\", \"U_GruPoP6_x002e_6\", \"__PowerAppsId__2\""
+            ],
+            "id": "issue"
+          },
+          "properties": {
+            "level": "High"
+          },
+          "ruleId": "app-ErrBadType-ExpectedTypesCSV",
+          "ruleIndex": 0
+        },
+        {
+          "locations": [
+            {
+              "logicalLocations": [
+                {
+                  "fullyQualifiedName": "APUESTA_GRUPO_G.GRUPOGFORM.U_GruPoG4_DataCard1.DisplayName"
+                }
+              ],
+              "physicalLocation": {
+                "address": {
+                  "fullyQualifiedName": "APUESTA_GRUPO_G.GRUPOGFORM.U_GruPoG4_DataCard1.DisplayName",
+                  "relativeAddress": 0
+                },
+                "region": {
+                  "charLength": 69,
+                  "charOffset": 0,
+                  "snippet": {
+                    "text": "DataSourceInfo([@TABLAGRUPOG],DataSourceInfo.DisplayName,\"U_GruPoG4\")"
+                  }
+                }
+              },
+              "properties": {
+                "member": "DisplayName",
+                "module": "APUESTA_GRUPO_G",
+                "type": "APUESTA_GRUPO_G.GRUPOGFORM.U_GruPoG4_DataCard1"
+              }
+            }
+          ],
+          "message": {
+            "arguments": [
+              "DataSourceInfo"
+            ],
+            "id": "issue"
+          },
+          "properties": {
+            "level": "High"
+          },
+          "ruleId": "app-ErrInvalidArgs-Func",
+          "ruleIndex": 1
+        },
+        {
+          "locations": [
+            {
+              "logicalLocations": [
+                {
+                  "fullyQualifiedName": "APUESTA_GRUPO_G.GRUPOGFORM.'U_GruPoG4.4_DataCard1'.MaxLength"
+                }
+              ],
+              "physicalLocation": {
+                "address": {
+                  "fullyQualifiedName": "APUESTA_GRUPO_G.GRUPOGFORM.'U_GruPoG4.4_DataCard1'.MaxLength",
+                  "relativeAddress": 0
+                },
+                "region": {
+                  "charLength": 19,
+                  "charOffset": 57,
+                  "snippet": {
+                    "text": "\"U_GruPoG4_x002e_4\""
+                  }
+                }
+              },
+              "properties": {
+                "member": "MaxLength",
+                "module": "APUESTA_GRUPO_G",
+                "type": "APUESTA_GRUPO_G.GRUPOGFORM.'U_GruPoG4.4_DataCard1'"
+              }
+            }
+          ],
+          "message": {
+            "arguments": [
+              "\"PUNTOGGP1\", \"PUNTOGGP2\", \"PUNTOGGP3\", \"PUNTOGGP4\", \"PUNTOSGPP5\", \"PUNTOSGPP6\", \"PUNTO_x0020_TOTAL_x0020_G\", \"U_GruPoG1\", \"U_GruPoG1_x002e_1\", \"U_GruPoG2\", \"U_GruPoG2_x002e_2\", \"U_GruPoG3\", \"U_GruPoG3_x002e_3\", \"U_GruPoP4_x002e_4\", \"U_GruPoP5\", \"U_GruPoP5_x002e_5\", \"U_GruPoP6\", \"U_GruPoP6_x002e_6\", \"__PowerAppsId__2\""
+            ],
+            "id": "issue"
+          },
+          "properties": {
+            "level": "High"
+          },
+          "ruleId": "app-ErrBadType-ExpectedTypesCSV",
+          "ruleIndex": 0
+        },
+        {
+          "locations": [
+            {
+              "logicalLocations": [
+                {
+                  "fullyQualifiedName": "APUESTA_GRUPO_G.GRUPOGFORM.'U_GruPoG4.4_DataCard1'.MaxLength"
+                }
+              ],
+              "physicalLocation": {
+                "address": {
+                  "fullyQualifiedName": "APUESTA_GRUPO_G.GRUPOGFORM.'U_GruPoG4.4_DataCard1'.MaxLength",
+                  "relativeAddress": 0
+                },
+                "region": {
+                  "charLength": 77,
+                  "charOffset": 0,
+                  "snippet": {
+                    "text": "DataSourceInfo([@TABLAGRUPOG], DataSourceInfo.MaxLength, \"U_GruPoG4_x002e_4\")"
+                  }
+                }
+              },
+              "properties": {
+                "member": "MaxLength",
+                "module": "APUESTA_GRUPO_G",
+                "type": "APUESTA_GRUPO_G.GRUPOGFORM.'U_GruPoG4.4_DataCard1'"
+              }
+            }
+          ],
+          "message": {
+            "arguments": [
+              "DataSourceInfo"
+            ],
+            "id": "issue"
+          },
+          "properties": {
+            "level": "High"
+          },
+          "ruleId": "app-ErrInvalidArgs-Func",
+          "ruleIndex": 1
+        },
+        {
+          "locations": [
+            {
+              "logicalLocations": [
+                {
+                  "fullyQualifiedName": "APUESTA_GRUPO_G.GRUPOGFORM.'U_GruPoG4.4_DataCard1'.Default"
+                }
+              ],
+              "physicalLocation": {
+                "address": {
+                  "fullyQualifiedName": "APUESTA_GRUPO_G.GRUPOGFORM.'U_GruPoG4.4_DataCard1'.Default",
+                  "relativeAddress": 0
+                },
+                "region": {
+                  "charLength": 18,
+                  "charOffset": 8,
+                  "snippet": {
+                    "text": ".U_GruPoG4_x002e_4"
+                  }
+                }
+              },
+              "properties": {
+                "member": "Default",
+                "module": "APUESTA_GRUPO_G",
+                "type": "APUESTA_GRUPO_G.GRUPOGFORM.'U_GruPoG4.4_DataCard1'"
+              }
+            }
+          ],
+          "message": {
+            "arguments": [
+              "U_GruPoG4_x002e_4"
+            ],
+            "id": "issue"
+          },
+          "properties": {
+            "level": "High"
+          },
+          "ruleId": "app-ErrInvalidName",
+          "ruleIndex": 2
+        },
+        {
+          "locations": [
+            {
+              "logicalLocations": [
+                {
+                  "fullyQualifiedName": "APUESTA_GRUPO_G.GRUPOGFORM.'U_GruPoG4.4_DataCard1'.DisplayName"
+                }
+              ],
+              "physicalLocation": {
+                "address": {
+                  "fullyQualifiedName": "APUESTA_GRUPO_G.GRUPOGFORM.'U_GruPoG4.4_DataCard1'.DisplayName",
+                  "relativeAddress": 0
+                },
+                "region": {
+                  "charLength": 19,
+                  "charOffset": 57,
+                  "snippet": {
+                    "text": "\"U_GruPoG4_x002e_4\""
+                  }
+                }
+              },
+              "properties": {
+                "member": "DisplayName",
+                "module": "APUESTA_GRUPO_G",
+                "type": "APUESTA_GRUPO_G.GRUPOGFORM.'U_GruPoG4.4_DataCard1'"
+              }
+            }
+          ],
+          "message": {
+            "arguments": [
+              "\"PUNTOGGP1\", \"PUNTOGGP2\", \"PUNTOGGP3\", \"PUNTOGGP4\", \"PUNTOSGPP5\", \"PUNTOSGPP6\", \"PUNTO_x0020_TOTAL_x0020_G\", \"U_GruPoG1\", \"U_GruPoG1_x002e_1\", \"U_GruPoG2\", \"U_GruPoG2_x002e_2\", \"U_GruPoG3\", \"U_GruPoG3_x002e_3\", \"U_GruPoP4_x002e_4\", \"U_GruPoP5\", \"U_GruPoP5_x002e_5\", \"U_GruPoP6\", \"U_GruPoP6_x002e_6\", \"__PowerAppsId__2\""
+            ],
+            "id": "issue"
+          },
+          "properties": {
+            "level": "High"
+          },
+          "ruleId": "app-ErrBadType-ExpectedTypesCSV",
+          "ruleIndex": 0
+        },
+        {
+          "locations": [
+            {
+              "logicalLocations": [
+                {
+                  "fullyQualifiedName": "APUESTA_GRUPO_G.GRUPOGFORM.'U_GruPoG4.4_DataCard1'.DisplayName"
+                }
+              ],
+              "physicalLocation": {
+                "address": {
+                  "fullyQualifiedName": "APUESTA_GRUPO_G.GRUPOGFORM.'U_GruPoG4.4_DataCard1'.DisplayName",
+                  "relativeAddress": 0
+                },
+                "region": {
+                  "charLength": 77,
+                  "charOffset": 0,
+                  "snippet": {
+                    "text": "DataSourceInfo([@TABLAGRUPOG],DataSourceInfo.DisplayName,\"U_GruPoG4_x002e_4\")"
+                  }
+                }
+              },
+              "properties": {
+                "member": "DisplayName",
+                "module": "APUESTA_GRUPO_G",
+                "type": "APUESTA_GRUPO_G.GRUPOGFORM.'U_GruPoG4.4_DataCard1'"
+              }
+            }
+          ],
+          "message": {
+            "arguments": [
+              "DataSourceInfo"
+            ],
+            "id": "issue"
+          },
+          "properties": {
+            "level": "High"
+          },
+          "ruleId": "app-ErrInvalidArgs-Func",
+          "ruleIndex": 1
+        },
+        {
+          "locations": [
+            {
+              "logicalLocations": [
+                {
                   "fullyQualifiedName": "APUESTA_GRUPO_G.GRUPOGFORM.U_GruPoG5_DataCard1.MaxLength"
                 }
               ],
@@ -3239,7 +4239,7 @@
           ],
           "message": {
             "arguments": [
-              "\"Column1\", \"PUNTOGGP1\", \"PUNTOGGP2\", \"PUNTOGGP3\", \"PUNTOGGP4\", \"PUNTOSGPP6\", \"PUNTO_x0020_TOTAL_x0020_G\", \"U_GruPoG1\", \"U_GruPoG1_x002e_1\", \"U_GruPoG2\", \"U_GruPoG2_x002e_2\", \"U_GruPoG3\", \"U_GruPoG3_x002e_3\", \"U_GruPoG4\", \"U_GruPoG4_x002e_4\", \"U_GruPoP5\", \"U_GruPoP5_x002e_5\", \"U_GruPoP6\", \"U_GruPoP6_x002e_6\""
+              "\"PUNTOGGP1\", \"PUNTOGGP2\", \"PUNTOGGP3\", \"PUNTOGGP4\", \"PUNTOSGPP5\", \"PUNTOSGPP6\", \"PUNTO_x0020_TOTAL_x0020_G\", \"U_GruPoG1\", \"U_GruPoG1_x002e_1\", \"U_GruPoG2\", \"U_GruPoG2_x002e_2\", \"U_GruPoG3\", \"U_GruPoG3_x002e_3\", \"U_GruPoP4_x002e_4\", \"U_GruPoP5\", \"U_GruPoP5_x002e_5\", \"U_GruPoP6\", \"U_GruPoP6_x002e_6\", \"__PowerAppsId__2\""
             ],
             "id": "issue"
           },
@@ -3359,7 +4359,7 @@
           ],
           "message": {
             "arguments": [
-              "\"Column1\", \"PUNTOGGP1\", \"PUNTOGGP2\", \"PUNTOGGP3\", \"PUNTOGGP4\", \"PUNTOSGPP6\", \"PUNTO_x0020_TOTAL_x0020_G\", \"U_GruPoG1\", \"U_GruPoG1_x002e_1\", \"U_GruPoG2\", \"U_GruPoG2_x002e_2\", \"U_GruPoG3\", \"U_GruPoG3_x002e_3\", \"U_GruPoG4\", \"U_GruPoG4_x002e_4\", \"U_GruPoP5\", \"U_GruPoP5_x002e_5\", \"U_GruPoP6\", \"U_GruPoP6_x002e_6\""
+              "\"PUNTOGGP1\", \"PUNTOGGP2\", \"PUNTOGGP3\", \"PUNTOGGP4\", \"PUNTOSGPP5\", \"PUNTOSGPP6\", \"PUNTO_x0020_TOTAL_x0020_G\", \"U_GruPoG1\", \"U_GruPoG1_x002e_1\", \"U_GruPoG2\", \"U_GruPoG2_x002e_2\", \"U_GruPoG3\", \"U_GruPoG3_x002e_3\", \"U_GruPoP4_x002e_4\", \"U_GruPoP5\", \"U_GruPoP5_x002e_5\", \"U_GruPoP6\", \"U_GruPoP6_x002e_6\", \"__PowerAppsId__2\""
             ],
             "id": "issue"
           },
@@ -3439,7 +4439,7 @@
           ],
           "message": {
             "arguments": [
-              "\"Column1\", \"PUNTOGGP1\", \"PUNTOGGP2\", \"PUNTOGGP3\", \"PUNTOGGP4\", \"PUNTOSGPP6\", \"PUNTO_x0020_TOTAL_x0020_G\", \"U_GruPoG1\", \"U_GruPoG1_x002e_1\", \"U_GruPoG2\", \"U_GruPoG2_x002e_2\", \"U_GruPoG3\", \"U_GruPoG3_x002e_3\", \"U_GruPoG4\", \"U_GruPoG4_x002e_4\", \"U_GruPoP5\", \"U_GruPoP5_x002e_5\", \"U_GruPoP6\", \"U_GruPoP6_x002e_6\""
+              "\"PUNTOGGP1\", \"PUNTOGGP2\", \"PUNTOGGP3\", \"PUNTOGGP4\", \"PUNTOSGPP5\", \"PUNTOSGPP6\", \"PUNTO_x0020_TOTAL_x0020_G\", \"U_GruPoG1\", \"U_GruPoG1_x002e_1\", \"U_GruPoG2\", \"U_GruPoG2_x002e_2\", \"U_GruPoG3\", \"U_GruPoG3_x002e_3\", \"U_GruPoP4_x002e_4\", \"U_GruPoP5\", \"U_GruPoP5_x002e_5\", \"U_GruPoP6\", \"U_GruPoP6_x002e_6\", \"__PowerAppsId__2\""
             ],
             "id": "issue"
           },
@@ -3559,7 +4559,7 @@
           ],
           "message": {
             "arguments": [
-              "\"Column1\", \"PUNTOGGP1\", \"PUNTOGGP2\", \"PUNTOGGP3\", \"PUNTOGGP4\", \"PUNTOSGPP6\", \"PUNTO_x0020_TOTAL_x0020_G\", \"U_GruPoG1\", \"U_GruPoG1_x002e_1\", \"U_GruPoG2\", \"U_GruPoG2_x002e_2\", \"U_GruPoG3\", \"U_GruPoG3_x002e_3\", \"U_GruPoG4\", \"U_GruPoG4_x002e_4\", \"U_GruPoP5\", \"U_GruPoP5_x002e_5\", \"U_GruPoP6\", \"U_GruPoP6_x002e_6\""
+              "\"PUNTOGGP1\", \"PUNTOGGP2\", \"PUNTOGGP3\", \"PUNTOGGP4\", \"PUNTOSGPP5\", \"PUNTOSGPP6\", \"PUNTO_x0020_TOTAL_x0020_G\", \"U_GruPoG1\", \"U_GruPoG1_x002e_1\", \"U_GruPoG2\", \"U_GruPoG2_x002e_2\", \"U_GruPoG3\", \"U_GruPoG3_x002e_3\", \"U_GruPoP4_x002e_4\", \"U_GruPoP5\", \"U_GruPoP5_x002e_5\", \"U_GruPoP6\", \"U_GruPoP6_x002e_6\", \"__PowerAppsId__2\""
             ],
             "id": "issue"
           },
@@ -3639,7 +4639,7 @@
           ],
           "message": {
             "arguments": [
-              "\"Column1\", \"PUNTOGGP1\", \"PUNTOGGP2\", \"PUNTOGGP3\", \"PUNTOGGP4\", \"PUNTOSGPP6\", \"PUNTO_x0020_TOTAL_x0020_G\", \"U_GruPoG1\", \"U_GruPoG1_x002e_1\", \"U_GruPoG2\", \"U_GruPoG2_x002e_2\", \"U_GruPoG3\", \"U_GruPoG3_x002e_3\", \"U_GruPoG4\", \"U_GruPoG4_x002e_4\", \"U_GruPoP5\", \"U_GruPoP5_x002e_5\", \"U_GruPoP6\", \"U_GruPoP6_x002e_6\""
+              "\"PUNTOGGP1\", \"PUNTOGGP2\", \"PUNTOGGP3\", \"PUNTOGGP4\", \"PUNTOSGPP5\", \"PUNTOSGPP6\", \"PUNTO_x0020_TOTAL_x0020_G\", \"U_GruPoG1\", \"U_GruPoG1_x002e_1\", \"U_GruPoG2\", \"U_GruPoG2_x002e_2\", \"U_GruPoG3\", \"U_GruPoG3_x002e_3\", \"U_GruPoP4_x002e_4\", \"U_GruPoP5\", \"U_GruPoP5_x002e_5\", \"U_GruPoP6\", \"U_GruPoP6_x002e_6\", \"__PowerAppsId__2\""
             ],
             "id": "issue"
           },
@@ -3759,7 +4759,7 @@
           ],
           "message": {
             "arguments": [
-              "\"Column1\", \"PUNTOGGP1\", \"PUNTOGGP2\", \"PUNTOGGP3\", \"PUNTOGGP4\", \"PUNTOSGPP6\", \"PUNTO_x0020_TOTAL_x0020_G\", \"U_GruPoG1\", \"U_GruPoG1_x002e_1\", \"U_GruPoG2\", \"U_GruPoG2_x002e_2\", \"U_GruPoG3\", \"U_GruPoG3_x002e_3\", \"U_GruPoG4\", \"U_GruPoG4_x002e_4\", \"U_GruPoP5\", \"U_GruPoP5_x002e_5\", \"U_GruPoP6\", \"U_GruPoP6_x002e_6\""
+              "\"PUNTOGGP1\", \"PUNTOGGP2\", \"PUNTOGGP3\", \"PUNTOGGP4\", \"PUNTOSGPP5\", \"PUNTOSGPP6\", \"PUNTO_x0020_TOTAL_x0020_G\", \"U_GruPoG1\", \"U_GruPoG1_x002e_1\", \"U_GruPoG2\", \"U_GruPoG2_x002e_2\", \"U_GruPoG3\", \"U_GruPoG3_x002e_3\", \"U_GruPoP4_x002e_4\", \"U_GruPoP5\", \"U_GruPoP5_x002e_5\", \"U_GruPoP6\", \"U_GruPoP6_x002e_6\", \"__PowerAppsId__2\""
             ],
             "id": "issue"
           },
@@ -3839,7 +4839,7 @@
           ],
           "message": {
             "arguments": [
-              "\"Column1\", \"PUNTOGGP1\", \"PUNTOGGP2\", \"PUNTOGGP3\", \"PUNTOGGP4\", \"PUNTOSGPP6\", \"PUNTO_x0020_TOTAL_x0020_G\", \"U_GruPoG1\", \"U_GruPoG1_x002e_1\", \"U_GruPoG2\", \"U_GruPoG2_x002e_2\", \"U_GruPoG3\", \"U_GruPoG3_x002e_3\", \"U_GruPoG4\", \"U_GruPoG4_x002e_4\", \"U_GruPoP5\", \"U_GruPoP5_x002e_5\", \"U_GruPoP6\", \"U_GruPoP6_x002e_6\""
+              "\"PUNTOGGP1\", \"PUNTOGGP2\", \"PUNTOGGP3\", \"PUNTOGGP4\", \"PUNTOSGPP5\", \"PUNTOSGPP6\", \"PUNTO_x0020_TOTAL_x0020_G\", \"U_GruPoG1\", \"U_GruPoG1_x002e_1\", \"U_GruPoG2\", \"U_GruPoG2_x002e_2\", \"U_GruPoG3\", \"U_GruPoG3_x002e_3\", \"U_GruPoP4_x002e_4\", \"U_GruPoP5\", \"U_GruPoP5_x002e_5\", \"U_GruPoP6\", \"U_GruPoP6_x002e_6\", \"__PowerAppsId__2\""
             ],
             "id": "issue"
           },
@@ -3959,7 +4959,7 @@
           ],
           "message": {
             "arguments": [
-              "\"Column1\", \"PUNTOGGP1\", \"PUNTOGGP2\", \"PUNTOGGP3\", \"PUNTOGGP4\", \"PUNTOSGPP6\", \"PUNTO_x0020_TOTAL_x0020_G\", \"U_GruPoG1\", \"U_GruPoG1_x002e_1\", \"U_GruPoG2\", \"U_GruPoG2_x002e_2\", \"U_GruPoG3\", \"U_GruPoG3_x002e_3\", \"U_GruPoG4\", \"U_GruPoG4_x002e_4\", \"U_GruPoP5\", \"U_GruPoP5_x002e_5\", \"U_GruPoP6\", \"U_GruPoP6_x002e_6\""
+              "\"PUNTOGGP1\", \"PUNTOGGP2\", \"PUNTOGGP3\", \"PUNTOGGP4\", \"PUNTOSGPP5\", \"PUNTOSGPP6\", \"PUNTO_x0020_TOTAL_x0020_G\", \"U_GruPoG1\", \"U_GruPoG1_x002e_1\", \"U_GruPoG2\", \"U_GruPoG2_x002e_2\", \"U_GruPoG3\", \"U_GruPoG3_x002e_3\", \"U_GruPoP4_x002e_4\", \"U_GruPoP5\", \"U_GruPoP5_x002e_5\", \"U_GruPoP6\", \"U_GruPoP6_x002e_6\", \"__PowerAppsId__2\""
             ],
             "id": "issue"
           },

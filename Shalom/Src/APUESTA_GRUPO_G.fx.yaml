@@ -1576,7 +1576,7 @@ APUESTA_GRUPO_G As screen:
             BorderColor: =RGBA(166, 166, 166, 1)
             BorderStyle: =BorderStyle.Solid
             DataField: ="U_GruPoG4_x002e_4"
-            Default: =ThisItem.'U_GruPoG4.4'
+            Default: =ThisItem.U_GruPoG4_x002e_4
             DisplayMode: =Parent.DisplayMode
             DisplayName: =DataSourceInfo([@TABLAGRUPOG],DataSourceInfo.DisplayName,"U_GruPoG4_x002e_4")
             Fill: =RGBA(0, 0, 0, 0)

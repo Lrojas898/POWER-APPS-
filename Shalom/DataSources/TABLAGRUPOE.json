@@ -8,7 +8,7 @@
     },
     "ConnectedDataSourceInfoNameMapping": {
       "__PowerAppsId__": "Row id",
-      "Column1": "Column1",
+      "__PowerAppsId__2": "__PowerAppsId__2",
       "PUNTOGEP1": "PUNTOGEP1",
       "PUNTOS_x0020_TOTAL_x0020_E": "PUNTOS TOTAL E",
       "PUNTOSGDP6": "PUNTOSGDP6",
@@ -16,6 +16,7 @@
       "PUNTOSGEP3": "PUNTOSGEP3",
       "PUNTOSGEP4": "PUNTOSGEP4",
       "PUNTOSGEP5": "PUNTOSGEP5",
+      "U_GruPoD5_x002e_5": "U_GruPoD5.5",
       "U_GruPoD6": "U_GruPoD6",
       "U_GruPoD6_x002e_6": "U_GruPoD6.6",
       "U_GruPoE1": "U_GruPoE1",
@@ -25,8 +26,7 @@
       "U_GruPoE3": "U_GruPoE3",
       "U_GruPoE3_x002e_3": "U_GruPoE3.3",
       "U_GruPoE4": "U_GruPoE4",
-      "U_GruPoE4_x002e_4": "U_GruPoE4.4",
-      "U_GruPoE5": "U_GruPoE5"
+      "U_GruPoE4_x002e_4": "U_GruPoE4.4"
     },
     "DatasetName": "b!a1xa3RSSfU6ruxcJHjJatB0Gfd-GMXdOrAhQBlPQv2HmA8JJUQBLT71_K2-rM4CE.013FRY3XHDGNDCX76CHBE2N7QYK6IQGLAL",
     "EncodeDataset": true,
