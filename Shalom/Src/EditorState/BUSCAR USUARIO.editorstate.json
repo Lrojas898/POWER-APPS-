@@ -954,7 +954,7 @@
       "LayoutName": "",
       "MetaDataIDKey": "",
       "Name": "Icon1_1",
-      "ParentIndex": 0,
+      "ParentIndex": 7,
       "PersistMetaDataIDKey": false,
       "Properties": [
         {
@@ -1128,7 +1128,7 @@
       "LayoutName": "",
       "MetaDataIDKey": "",
       "Name": "Icon3_12",
-      "ParentIndex": 8,
+      "ParentIndex": 1,
       "PersistMetaDataIDKey": false,
       "Properties": [
         {
@@ -1682,7 +1682,7 @@
       "LayoutName": "",
       "MetaDataIDKey": "",
       "Name": "JUGADORES RANKING_1",
-      "ParentIndex": 7,
+      "ParentIndex": 8,
       "PersistMetaDataIDKey": false,
       "Properties": [
         {
@@ -2237,7 +2237,7 @@
       "LayoutName": "",
       "MetaDataIDKey": "",
       "Name": "Rectangle411270_1",
-      "ParentIndex": 1,
+      "ParentIndex": 0,
       "PersistMetaDataIDKey": false,
       "Properties": [
         {

@@ -744,27 +744,6 @@ APUESTA_GRUPO_F As screen:
         Y: =887
         ZIndex: =70
 
-    Icon8_6 As icon.Reload:
-        BorderColor: =RGBA(166, 166, 166, 1)
-        Color: =RGBA(141, 28, 61, 1)
-        DisabledBorderColor: =RGBA(0, 0, 0, 0)
-        DisabledColor: =RGBA(220, 220, 220, 1)
-        DisabledFill: =RGBA(0, 0, 0, 0)
-        FocusedBorderThickness: =4
-        Height: =42
-        HoverBorderColor: =RGBA(0, 0, 0, 0)
-        HoverColor: =ColorFade(RGBA(0, 120, 212, 1), -30%)
-        HoverFill: =RGBA(0, 0, 0, 0)
-        Icon: =Icon.Reload
-        OnSelect: =NewForm(GRUPOFFORM)
-        PressedBorderColor: =RGBA(0, 0, 0, 0)
-        PressedColor: =ColorFade(RGBA(0, 120, 212, 1), -30%)
-        PressedFill: =RGBA(0, 0, 0, 0)
-        Width: =46
-        X: =32
-        Y: =197
-        ZIndex: =73
-
     GRUPOFFORM As form:
         BorderColor: =RGBA(166, 166, 166, 1)
         DataSource: =PUNTAJES

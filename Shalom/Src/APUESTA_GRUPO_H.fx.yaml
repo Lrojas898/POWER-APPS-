@@ -1,5 +1,5 @@
 APUESTA_GRUPO_H As screen:
-    Fill: =RGBA(237, 237, 237, 1)
+    Fill: =RGBA(237, 237, 237, 1) 
     LoadingSpinnerColor: =RGBA(0, 120, 212, 1)
 
     Rectangle291409_8 As rectangle:
@@ -772,27 +772,6 @@ APUESTA_GRUPO_H As screen:
         X: =227
         Y: =1055
         ZIndex: =72
-
-    Icon8_8 As icon.Reload:
-        BorderColor: =RGBA(166, 166, 166, 1)
-        Color: =RGBA(141, 28, 61, 1)
-        DisabledBorderColor: =RGBA(0, 0, 0, 0)
-        DisabledColor: =RGBA(220, 220, 220, 1)
-        DisabledFill: =RGBA(0, 0, 0, 0)
-        FocusedBorderThickness: =4
-        Height: =42
-        HoverBorderColor: =RGBA(0, 0, 0, 0)
-        HoverColor: =ColorFade(RGBA(0, 120, 212, 1), -30%)
-        HoverFill: =RGBA(0, 0, 0, 0)
-        Icon: =Icon.Reload
-        OnSelect: =NewForm(GRUPOHFORM)
-        PressedBorderColor: =RGBA(0, 0, 0, 0)
-        PressedColor: =ColorFade(RGBA(0, 120, 212, 1), -30%)
-        PressedFill: =RGBA(0, 0, 0, 0)
-        Width: =46
-        X: =26
-        Y: =117
-        ZIndex: =73
 
     GRUPOHFORM As form:
         BorderColor: =RGBA(166, 166, 166, 1)
