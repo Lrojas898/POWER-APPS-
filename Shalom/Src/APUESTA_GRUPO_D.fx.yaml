@@ -55,7 +55,7 @@ APUESTA_GRUPO_D As screen:
             ="Predice los resultados de los partidos, llena los espacios a continuación y cliquea en guardar: "
         Width: =575
         X: =32
-        Y: =103
+        Y: =129
         ZIndex: =13
 
     Rectangle751536_37 As rectangle:
