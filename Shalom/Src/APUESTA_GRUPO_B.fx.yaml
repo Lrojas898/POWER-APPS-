@@ -778,9 +778,9 @@ APUESTA_GRUPO_B As screen:
             MaxLength: =DataSourceInfo([@PUNTAJES], DataSourceInfo.MaxLength, "U_GrupoB1")
             Required: =false
             Update: =DataCardValue1.Text
-            Width: =149
-            X: =0
-            Y: =0
+            Width: =151
+            X: =1
+            Y: =5
             ZIndex: =1
 
             DataCardKey1 As label:
@@ -894,9 +894,9 @@ APUESTA_GRUPO_B As screen:
             MaxLength: =DataSourceInfo([@PUNTAJES], DataSourceInfo.MaxLength, "U_GrupoB1_x002e_1")
             Required: =false
             Update: =DataCardValue2.Text
-            Width: =149
-            X: =1
-            Y: =0
+            Width: =151
+            X: =0
+            Y: =5
             ZIndex: =1
 
             DataCardKey2 As label:
@@ -1010,9 +1010,9 @@ APUESTA_GRUPO_B As screen:
             MaxLength: =DataSourceInfo([@PUNTAJES], DataSourceInfo.MaxLength, "U_GrupoB2")
             Required: =false
             Update: =DataCardValue3.Text
-            Width: =149
-            X: =0
-            Y: =1
+            Width: =151
+            X: =1
+            Y: =4
             ZIndex: =1
 
             DataCardKey3 As label:
@@ -1126,9 +1126,9 @@ APUESTA_GRUPO_B As screen:
             MaxLength: =DataSourceInfo([@PUNTAJES], DataSourceInfo.MaxLength, "U_GrupoB2_x002e_2")
             Required: =false
             Update: =DataCardValue4.Text
-            Width: =149
-            X: =1
-            Y: =1
+            Width: =151
+            X: =0
+            Y: =4
             ZIndex: =1
 
             DataCardKey4 As label:
@@ -1242,9 +1242,9 @@ APUESTA_GRUPO_B As screen:
             MaxLength: =DataSourceInfo([@PUNTAJES], DataSourceInfo.MaxLength, "U_GrupoB3")
             Required: =false
             Update: =DataCardValue5.Text
-            Width: =149
-            X: =0
-            Y: =2
+            Width: =151
+            X: =1
+            Y: =3
             ZIndex: =1
 
             DataCardKey5 As label:
@@ -1358,9 +1358,9 @@ APUESTA_GRUPO_B As screen:
             MaxLength: =DataSourceInfo([@PUNTAJES], DataSourceInfo.MaxLength, "U_GrupoB3_x002e_3")
             Required: =false
             Update: =DataCardValue6.Text
-            Width: =149
-            X: =1
-            Y: =2
+            Width: =151
+            X: =0
+            Y: =3
             ZIndex: =1
 
             DataCardKey6 As label:
@@ -1474,9 +1474,9 @@ APUESTA_GRUPO_B As screen:
             MaxLength: =DataSourceInfo([@PUNTAJES], DataSourceInfo.MaxLength, "U_GrupoB4")
             Required: =false
             Update: =DataCardValue7.Text
-            Width: =149
-            X: =0
-            Y: =3
+            Width: =151
+            X: =1
+            Y: =2
             ZIndex: =1
 
             DataCardKey7 As label:
@@ -1590,9 +1590,9 @@ APUESTA_GRUPO_B As screen:
             MaxLength: =DataSourceInfo([@PUNTAJES], DataSourceInfo.MaxLength, "U_GrupoB4_x002e_4")
             Required: =false
             Update: =DataCardValue9.Text
-            Width: =149
-            X: =1
-            Y: =3
+            Width: =151
+            X: =0
+            Y: =2
             ZIndex: =1
 
             DataCardKey9 As label:
@@ -1706,9 +1706,9 @@ APUESTA_GRUPO_B As screen:
             MaxLength: =DataSourceInfo([@PUNTAJES], DataSourceInfo.MaxLength, "U_GrupoB5")
             Required: =false
             Update: =DataCardValue22.Text
-            Width: =149
-            X: =0
-            Y: =4
+            Width: =151
+            X: =1
+            Y: =1
             ZIndex: =1
 
             DataCardKey22 As label:
@@ -1822,9 +1822,9 @@ APUESTA_GRUPO_B As screen:
             MaxLength: =DataSourceInfo([@PUNTAJES], DataSourceInfo.MaxLength, "U_GrupoB5_x002e_5")
             Required: =false
             Update: =DataCardValue23.Text
-            Width: =149
-            X: =1
-            Y: =4
+            Width: =151
+            X: =0
+            Y: =1
             ZIndex: =1
 
             DataCardKey23 As label:
@@ -1938,9 +1938,9 @@ APUESTA_GRUPO_B As screen:
             MaxLength: =DataSourceInfo([@PUNTAJES], DataSourceInfo.MaxLength, "U_GrupoB6")
             Required: =false
             Update: =DataCardValue24.Text
-            Width: =149
-            X: =0
-            Y: =5
+            Width: =151
+            X: =1
+            Y: =0
             ZIndex: =1
 
             DataCardKey24 As label:
@@ -2054,9 +2054,9 @@ APUESTA_GRUPO_B As screen:
             MaxLength: =DataSourceInfo([@PUNTAJES], DataSourceInfo.MaxLength, "U_GrupoB6_x002e_6")
             Required: =false
             Update: =DataCardValue25.Text
-            Width: =149
-            X: =1
-            Y: =5
+            Width: =151
+            X: =0
+            Y: =0
             ZIndex: =1
 
             DataCardKey25 As label:
