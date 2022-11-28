@@ -1,8 +1,8 @@
-HOME_1 As screen:
+HOME_2 As screen:
     Fill: =RGBA(237, 237, 237, 1)
     LoadingSpinnerColor: =RGBA(0, 120, 212, 1)
 
-    Rectangle411270 As rectangle:
+    Rectangle411270_1 As rectangle:
         BorderColor: =RGBA(0, 0, 0, 0)
         BorderStyle: =BorderStyle.None
         DisabledFill: =RGBA(166, 166, 166, 1)
@@ -15,18 +15,20 @@ HOME_1 As screen:
         Width: =640
         ZIndex: =1
 
-    "'JUGADORES RANKING' As gallery.'BrowseLayout_Vertical_ThreeTextVariant_ver4.0'":
+    "'JUGADORES RANKING_1' As gallery.'BrowseLayout_Vertical_ThreeTextVariant_ver4.0'":
         BorderColor: =RGBA(141, 28, 61, 1)
         DisplayMode: =DisplayMode.View
         Height: =707
-        Items: =USUARIOS
+        Items: |+
+            =Search(USUARIOS, BUSQUEDA.Text,"Usuario","Puesto")
+            
         Layout: =Layout.Vertical
         TemplatePadding: =0
         TemplateSize: =Min(168, Self.Height - 60)
         Y: =429
         ZIndex: =1
 
-        Title5 As label:
+        Title5_1 As label:
             Color: =RGBA(51, 51, 51, 1)
             DisabledColor: =RGBA(166, 166, 166, 1)
             Font: =Font.'Segoe UI'
@@ -45,7 +47,7 @@ HOME_1 As screen:
             Y: =50
             ZIndex: =1
 
-        Subtitle5 As label:
+        Subtitle5_1 As label:
             Color: =RGBA(141, 28, 61, 1)
             DisabledColor: =RGBA(166, 166, 166, 1)
             Font: =Font.'Segoe UI'
@@ -64,7 +66,7 @@ HOME_1 As screen:
             Y: =89
             ZIndex: =2
 
-        Body2 As label:
+        Body2_1 As label:
             Color: =RGBA(51, 51, 51, 1)
             DisabledColor: =RGBA(166, 166, 166, 1)
             Font: =Font.'Segoe UI'
@@ -82,7 +84,7 @@ HOME_1 As screen:
             Y: =55
             ZIndex: =3
 
-        Separator5 As rectangle:
+        Separator5_1 As rectangle:
             BorderColor: =RGBA(0, 0, 0, 0)
             Fill: =ColorFade(RGBA(0, 120, 212, 1), -30%)
             Height: =1
@@ -91,7 +93,7 @@ HOME_1 As screen:
             Y: =Parent.TemplateHeight - 1
             ZIndex: =5
 
-        shalombet_2 As label:
+        shalombet_6 As label:
             BorderColor: =RGBA(0, 0, 0, 0)
             BorderStyle: =BorderStyle.None
             Color: =RGBA(35, 179, 113, 1)
@@ -111,7 +113,7 @@ HOME_1 As screen:
             Y: =78
             ZIndex: =7
 
-        shalombet_3 As label:
+        shalombet_7 As label:
             BorderColor: =RGBA(0, 0, 0, 0)
             BorderStyle: =BorderStyle.None
             Color: =RGBA(153, 153, 153, 1)
@@ -131,7 +133,7 @@ HOME_1 As screen:
             Y: =86
             ZIndex: =8
 
-    Label411297 As label:
+    Label411297_2 As label:
         Align: =Align.Center
         BorderColor: =RGBA(0, 0, 0, 0)
         BorderStyle: =BorderStyle.None
@@ -153,7 +155,7 @@ HOME_1 As screen:
         Y: =29
         ZIndex: =10
 
-    Button3 As button:
+    Button3_1 As button:
         Align: =Align.Right
         BorderColor: =RGBA(0, 0, 0, 0)
         Color: =RGBA(141, 28, 61, 1)
@@ -184,7 +186,7 @@ HOME_1 As screen:
         Y: =145
         ZIndex: =11
 
-    Icon4 As icon.Money:
+    Icon4_1 As icon.Money:
         BorderColor: =RGBA(166, 166, 166, 1)
         Color: =RGBA(141, 28, 61, 1)
         DisabledBorderColor: =RGBA(0, 0, 0, 0)
@@ -202,7 +204,7 @@ HOME_1 As screen:
         Y: =171
         ZIndex: =13
 
-    Icon7 As icon.Leave:
+    Icon7_1 As icon.Leave:
         BorderColor: =RGBA(166, 166, 166, 1)
         Color: =RGBA(255, 255, 255, 1)
         DisabledBorderColor: =RGBA(0, 0, 0, 0)
@@ -222,7 +224,7 @@ HOME_1 As screen:
         Y: =29
         ZIndex: =15
 
-    Icon8 As icon.Reload:
+    Icon8_9 As icon.Reload:
         BorderColor: =RGBA(166, 166, 166, 1)
         Color: =RGBA(255, 255, 255, 1)
         DisabledBorderColor: =RGBA(0, 0, 0, 0)
@@ -243,7 +245,7 @@ HOME_1 As screen:
         Y: =30
         ZIndex: =16
 
-    TextInput1 As text:
+    BUSQUEDA As text:
         BorderColor: =RGBA(166, 166, 166, 1)
         BorderThickness: =2
         Color: =RGBA(51, 51, 51, 1)

@@ -106,12 +106,13 @@
     "PublishDataLocally": false,
     "PublishResourcesLocally": false,
     "PublishTarget": "player",
-    "UserLocale": "es-ES"
+    "UserLocale": "en-US"
   },
   "ScreenOrder": [
     "INICIO",
     "SINGINNEWUSER",
     "HOME_1",
+    "HOME_2",
     "GRUPOS_4",
     "GRUPOS_3",
     "GRUPOS",
