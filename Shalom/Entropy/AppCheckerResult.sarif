@@ -17174,19 +17174,19 @@
             {
               "logicalLocations": [
                 {
-                  "fullyQualifiedName": "SINGINNEWUSER.SinInPuntajes.'Confirme Usuario_DataCard1'.DataCardValue8.AccessibleLabel"
+                  "fullyQualifiedName": "APUESTA_GRUPO_H.SinInPuntajes.'Confirme Usuario_DataCard1'.DataCardValue8.AccessibleLabel"
                 }
               ],
               "physicalLocation": {
                 "address": {
-                  "fullyQualifiedName": "SINGINNEWUSER.SinInPuntajes.'Confirme Usuario_DataCard1'.DataCardValue8.AccessibleLabel",
+                  "fullyQualifiedName": "APUESTA_GRUPO_H.SinInPuntajes.'Confirme Usuario_DataCard1'.DataCardValue8.AccessibleLabel",
                   "relativeAddress": 0
                 }
               },
               "properties": {
                 "member": "AccessibleLabel",
-                "module": "SINGINNEWUSER",
-                "type": "SINGINNEWUSER.SinInPuntajes.'Confirme Usuario_DataCard1'.DataCardValue8"
+                "module": "APUESTA_GRUPO_H",
+                "type": "APUESTA_GRUPO_H.SinInPuntajes.'Confirme Usuario_DataCard1'.DataCardValue8"
               }
             }
           ],

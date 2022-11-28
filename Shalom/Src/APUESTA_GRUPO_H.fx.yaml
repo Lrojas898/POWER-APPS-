@@ -53,8 +53,8 @@ APUESTA_GRUPO_H As screen:
         Size: =15
         Text: |-
             ="Predice los resultados de los partidos, llena los espacios a continuación y cliquea en guardar: "
-        Width: =575
-        X: =32
+        Width: =495
+        X: =112
         Y: =103
         ZIndex: =13
 
@@ -69,7 +69,7 @@ APUESTA_GRUPO_H As screen:
         PressedFill: =RGBA(0, 120, 212, 1)
         Width: =167
         X: =32
-        Y: =253
+        Y: =185
         ZIndex: =15
 
     Label751537_85 As label:
@@ -92,7 +92,7 @@ APUESTA_GRUPO_H As screen:
         VerticalAlign: =VerticalAlign.Top
         Width: =135
         X: =48
-        Y: =328
+        Y: =260
         ZIndex: =16
 
     Rectangle751536_87 As rectangle:
@@ -106,7 +106,7 @@ APUESTA_GRUPO_H As screen:
         PressedFill: =RGBA(0, 120, 212, 1)
         Width: =167
         X: =32
-        Y: =375
+        Y: =307
         ZIndex: =17
 
     Label751537_87 As label:
@@ -129,7 +129,7 @@ APUESTA_GRUPO_H As screen:
         VerticalAlign: =VerticalAlign.Top
         Width: =135
         X: =48
-        Y: =450
+        Y: =382
         ZIndex: =18
 
     Rectangle751536_89 As rectangle:
@@ -143,7 +143,7 @@ APUESTA_GRUPO_H As screen:
         PressedFill: =RGBA(0, 120, 212, 1)
         Width: =167
         X: =32
-        Y: =506
+        Y: =438
         ZIndex: =19
 
     Label751537_89 As label:
@@ -166,7 +166,7 @@ APUESTA_GRUPO_H As screen:
         VerticalAlign: =VerticalAlign.Top
         Width: =135
         X: =48
-        Y: =581
+        Y: =513
         ZIndex: =20
 
     Rectangle751536_91 As rectangle:
@@ -180,7 +180,7 @@ APUESTA_GRUPO_H As screen:
         PressedFill: =RGBA(0, 120, 212, 1)
         Width: =167
         X: =32
-        Y: =628
+        Y: =560
         ZIndex: =21
 
     Label751537_91 As label:
@@ -203,7 +203,7 @@ APUESTA_GRUPO_H As screen:
         VerticalAlign: =VerticalAlign.Top
         Width: =135
         X: =48
-        Y: =703
+        Y: =635
         ZIndex: =22
 
     Rectangle751536_93 As rectangle:
@@ -217,7 +217,7 @@ APUESTA_GRUPO_H As screen:
         PressedFill: =RGBA(0, 120, 212, 1)
         Width: =167
         X: =32
-        Y: =747
+        Y: =679
         ZIndex: =23
 
     Label751537_93 As label:
@@ -240,7 +240,7 @@ APUESTA_GRUPO_H As screen:
         VerticalAlign: =VerticalAlign.Top
         Width: =135
         X: =48
-        Y: =822
+        Y: =754
         ZIndex: =24
 
     Rectangle751536_95 As rectangle:
@@ -254,7 +254,7 @@ APUESTA_GRUPO_H As screen:
         PressedFill: =RGBA(0, 120, 212, 1)
         Width: =167
         X: =32
-        Y: =869
+        Y: =801
         ZIndex: =25
 
     Label751537_95 As label:
@@ -277,7 +277,7 @@ APUESTA_GRUPO_H As screen:
         VerticalAlign: =VerticalAlign.Top
         Width: =135
         X: =48
-        Y: =944
+        Y: =876
         ZIndex: =26
 
     Rectangle751536_86 As rectangle:
@@ -291,7 +291,7 @@ APUESTA_GRUPO_H As screen:
         PressedFill: =RGBA(0, 120, 212, 1)
         Width: =167
         X: =440
-        Y: =253
+        Y: =185
         ZIndex: =27
 
     Label751537_86 As label:
@@ -314,7 +314,7 @@ APUESTA_GRUPO_H As screen:
         VerticalAlign: =VerticalAlign.Top
         Width: =135
         X: =456
-        Y: =328
+        Y: =260
         ZIndex: =28
 
     Rectangle751536_88 As rectangle:
@@ -328,7 +328,7 @@ APUESTA_GRUPO_H As screen:
         PressedFill: =RGBA(0, 120, 212, 1)
         Width: =167
         X: =440
-        Y: =375
+        Y: =307
         ZIndex: =29
 
     Label751537_88 As label:
@@ -351,7 +351,7 @@ APUESTA_GRUPO_H As screen:
         VerticalAlign: =VerticalAlign.Top
         Width: =135
         X: =456
-        Y: =450
+        Y: =382
         ZIndex: =30
 
     Rectangle751536_90 As rectangle:
@@ -365,7 +365,7 @@ APUESTA_GRUPO_H As screen:
         PressedFill: =RGBA(0, 120, 212, 1)
         Width: =167
         X: =440
-        Y: =506
+        Y: =438
         ZIndex: =31
 
     Label751537_90 As label:
@@ -388,7 +388,7 @@ APUESTA_GRUPO_H As screen:
         VerticalAlign: =VerticalAlign.Top
         Width: =135
         X: =456
-        Y: =581
+        Y: =513
         ZIndex: =32
 
     Rectangle751536_92 As rectangle:
@@ -402,7 +402,7 @@ APUESTA_GRUPO_H As screen:
         PressedFill: =RGBA(0, 120, 212, 1)
         Width: =167
         X: =440
-        Y: =628
+        Y: =560
         ZIndex: =33
 
     Label751537_92 As label:
@@ -425,7 +425,7 @@ APUESTA_GRUPO_H As screen:
         VerticalAlign: =VerticalAlign.Top
         Width: =135
         X: =456
-        Y: =703
+        Y: =635
         ZIndex: =34
 
     Rectangle751536_94 As rectangle:
@@ -439,7 +439,7 @@ APUESTA_GRUPO_H As screen:
         PressedFill: =RGBA(0, 120, 212, 1)
         Width: =167
         X: =440
-        Y: =747
+        Y: =679
         ZIndex: =35
 
     Label751537_94 As label:
@@ -462,7 +462,7 @@ APUESTA_GRUPO_H As screen:
         VerticalAlign: =VerticalAlign.Top
         Width: =135
         X: =456
-        Y: =822
+        Y: =754
         ZIndex: =36
 
     Rectangle751536_96 As rectangle:
@@ -476,7 +476,7 @@ APUESTA_GRUPO_H As screen:
         PressedFill: =RGBA(0, 120, 212, 1)
         Width: =167
         X: =440
-        Y: =869
+        Y: =801
         ZIndex: =37
 
     Label751537_96 As label:
@@ -499,7 +499,7 @@ APUESTA_GRUPO_H As screen:
         VerticalAlign: =VerticalAlign.Top
         Width: =135
         X: =456
-        Y: =944
+        Y: =876
         ZIndex: =38
 
     Icon3_10 As icon.Home:
@@ -554,7 +554,7 @@ APUESTA_GRUPO_H As screen:
         PressedFill: =RGBA(0, 0, 0, 0)
         Width: =86
         X: =480
-        Y: =274
+        Y: =206
         ZIndex: =59
 
     Image601123_2 As image:
@@ -571,7 +571,7 @@ APUESTA_GRUPO_H As screen:
         PressedFill: =RGBA(0, 0, 0, 0)
         Width: =86
         X: =72
-        Y: =646
+        Y: =578
         ZIndex: =60
 
     Image601123_3 As image:
@@ -588,7 +588,7 @@ APUESTA_GRUPO_H As screen:
         PressedFill: =RGBA(0, 0, 0, 0)
         Width: =86
         X: =72
-        Y: =887
+        Y: =819
         ZIndex: =61
 
     Image601158_1 As image:
@@ -605,7 +605,7 @@ APUESTA_GRUPO_H As screen:
         PressedFill: =RGBA(0, 0, 0, 0)
         Width: =86
         X: =72
-        Y: =271
+        Y: =203
         ZIndex: =62
 
     Image601158_2 As image:
@@ -622,7 +622,7 @@ APUESTA_GRUPO_H As screen:
         PressedFill: =RGBA(0, 0, 0, 0)
         Width: =86
         X: =72
-        Y: =524
+        Y: =456
         ZIndex: =63
 
     Image601158_3 As image:
@@ -639,7 +639,7 @@ APUESTA_GRUPO_H As screen:
         PressedFill: =RGBA(0, 0, 0, 0)
         Width: =86
         X: =72
-        Y: =769
+        Y: =701
         ZIndex: =64
 
     Image651141_1 As image:
@@ -656,7 +656,7 @@ APUESTA_GRUPO_H As screen:
         PressedFill: =RGBA(0, 0, 0, 0)
         Width: =86
         X: =72
-        Y: =397
+        Y: =329
         ZIndex: =65
 
     Image651141_2 As image:
@@ -673,7 +673,7 @@ APUESTA_GRUPO_H As screen:
         PressedFill: =RGBA(0, 0, 0, 0)
         Width: =86
         X: =480
-        Y: =524
+        Y: =456
         ZIndex: =66
 
     Image651141_3 As image:
@@ -690,7 +690,7 @@ APUESTA_GRUPO_H As screen:
         PressedFill: =RGBA(0, 0, 0, 0)
         Width: =86
         X: =480
-        Y: =887
+        Y: =819
         ZIndex: =67
 
     Image601186_1 As image:
@@ -707,7 +707,7 @@ APUESTA_GRUPO_H As screen:
         PressedFill: =RGBA(0, 0, 0, 0)
         Width: =86
         X: =480
-        Y: =396
+        Y: =328
         ZIndex: =68
 
     Image601186_2 As image:
@@ -724,7 +724,7 @@ APUESTA_GRUPO_H As screen:
         PressedFill: =RGBA(0, 0, 0, 0)
         Width: =86
         X: =480
-        Y: =646
+        Y: =578
         ZIndex: =69
 
     Image601186_3 As image:
@@ -741,7 +741,7 @@ APUESTA_GRUPO_H As screen:
         PressedFill: =RGBA(0, 0, 0, 0)
         Width: =86
         X: =480
-        Y: =763
+        Y: =695
         ZIndex: =70
 
     Submit_9 As button:
@@ -758,7 +758,7 @@ APUESTA_GRUPO_H As screen:
         HoverColor: =RGBA(255, 255, 255, 1)
         HoverFill: =ColorFade(RGBA(0, 120, 212, 1), -10%)
         OnSelect: |
-            =SubmitForm(GRUPOHFORM) And SubmitForm(GRUPOAFORM) And SubmitForm(GRUPOBFORM) And SubmitForm(GRUPOCFORM) And SubmitForm(GRUPODFORM) And SubmitForm(GRUPOEFORM) And SubmitForm(GRUPOFFORM) And SubmitForm(GRUPOGFORM)
+            =SubmitForm(SinInPuntajes) And SubmitForm(GRUPOHFORM) And SubmitForm(GRUPOAFORM) And SubmitForm(GRUPOBFORM) And SubmitForm(GRUPOCFORM) And SubmitForm(GRUPODFORM) And SubmitForm(GRUPOEFORM) And SubmitForm(GRUPOFFORM) And SubmitForm(GRUPOGFORM)
         PressedBorderColor: =ColorFade(RGBA(0, 120, 212, 1), -50%)
         PressedColor: =RGBA(255, 255, 255, 1)
         PressedFill: =ColorFade(RGBA(0, 120, 212, 1), -30%)
@@ -790,8 +790,8 @@ APUESTA_GRUPO_H As screen:
         PressedColor: =ColorFade(RGBA(0, 120, 212, 1), -30%)
         PressedFill: =RGBA(0, 0, 0, 0)
         Width: =46
-        X: =32
-        Y: =195
+        X: =26
+        Y: =117
         ZIndex: =73
 
     GRUPOHFORM As form:
@@ -801,7 +801,7 @@ APUESTA_GRUPO_H As screen:
         NumberOfColumns: =2
         Width: =302
         X: =169
-        Y: =245
+        Y: =177
         ZIndex: =74
 
         U_GrupoH1_DataCard1 As typedDataCard.textualEditCard:
@@ -2194,5 +2194,129 @@ APUESTA_GRUPO_H As screen:
                 Width: =30
                 Wrap: =false
                 Y: =DataCardKey85.Y
+                ZIndex: =4
+
+    SinInPuntajes As form:
+        BorderColor: =RGBA(166, 166, 166, 1)
+        DataSource: =PUNTAJES
+        Height: =161
+        Width: =640
+        Y: =904
+        ZIndex: =75
+
+        "'Confirme Usuario_DataCard1' As typedDataCard.textualEditCard":
+            BorderColor: =RGBA(166, 166, 166, 1)
+            BorderStyle: =BorderStyle.Solid
+            DataField: ="Confirme_x0020_Usuario"
+            Default: =ThisItem.'Confirme Usuario'
+            DisplayMode: =Parent.DisplayMode
+            DisplayName: =DataSourceInfo([@PUNTAJES],DataSourceInfo.DisplayName,"Confirme_x0020_Usuario")
+            Fill: =RGBA(0, 0, 0, 0)
+            Height: =50
+            MaxLength: =DataSourceInfo([@PUNTAJES], DataSourceInfo.MaxLength, "Confirme_x0020_Usuario")
+            Required: =false
+            Update: =DataCardValue8.Text
+            Width: =640
+            X: =0
+            Y: =0
+            ZIndex: =1
+
+            DataCardKey8 As label:
+                AutoHeight: =true
+                BorderColor: =RGBA(0, 0, 0, 0)
+                BorderStyle: =BorderStyle.None
+                BorderThickness: =2
+                Color: =RGBA(51, 51, 51, 1)
+                DisabledBorderColor: =RGBA(0, 0, 0, 0)
+                DisabledColor: =RGBA(166, 166, 166, 1)
+                FocusedBorderThickness: =4
+                Font: =Font.'Segoe UI'
+                FontWeight: =FontWeight.Semibold
+                Height: =48
+                PaddingLeft: =0
+                Size: =21
+                Text: =Parent.DisplayName
+                Width: =Parent.Width - 60
+                Wrap: =false
+                X: =30
+                Y: =10
+                ZIndex: =1
+
+            DataCardValue8 As text:
+                BorderColor: =If(IsBlank(Parent.Error), Parent.BorderColor, Color.Red)
+                BorderThickness: =2
+                Color: =RGBA(51, 51, 51, 1)
+                Default: =Parent.Default
+                DelayOutput: =true
+                DisabledBorderColor: =RGBA(0, 0, 0, 0)
+                DisabledColor: =RGBA(166, 166, 166, 1)
+                DisabledFill: =RGBA(244, 244, 244, 1)
+                DisplayMode: =Parent.DisplayMode
+                FocusedBorderThickness: =4
+                Font: =Font.'Segoe UI'
+                Height: =70
+                HoverBorderColor: =ColorFade(RGBA(0, 120, 212, 1), -30%)
+                HoverColor: =RGBA(51, 51, 51, 1)
+                HoverFill: =RGBA(255, 255, 255, 1)
+                MaxLength: =Parent.MaxLength
+                PaddingLeft: =5
+                PressedBorderColor: =RGBA(0, 120, 212, 1)
+                PressedColor: =RGBA(51, 51, 51, 1)
+                PressedFill: =RGBA(255, 255, 255, 1)
+                RadiusBottomLeft: =0
+                RadiusBottomRight: =0
+                RadiusTopLeft: =0
+                RadiusTopRight: =0
+                Size: =21
+                Tooltip: =Parent.DisplayName
+                Width: =Parent.Width - 60
+                X: =30
+                Y: =DataCardKey8.Y + DataCardKey8.Height + 5
+                ZIndex: =2
+
+            ErrorMessage103 As label:
+                AutoHeight: =true
+                BorderColor: =RGBA(0, 0, 0, 0)
+                BorderStyle: =BorderStyle.None
+                BorderThickness: =2
+                Color: =RGBA(168, 0, 0, 1)
+                DisabledBorderColor: =RGBA(0, 0, 0, 0)
+                DisabledColor: =RGBA(168, 0, 0, 1)
+                FocusedBorderThickness: =4
+                Font: =Font.'Segoe UI'
+                FontWeight: =FontWeight.Semibold
+                Height: =10
+                Live: =Live.Assertive
+                PaddingBottom: =0
+                PaddingLeft: =0
+                PaddingRight: =0
+                PaddingTop: =0
+                Size: =21
+                Text: =Parent.Error
+                Visible: =Parent.DisplayMode=DisplayMode.Edit
+                Width: =Parent.Width - 60
+                X: =30
+                Y: =DataCardValue8.Y + DataCardValue8.Height
+                ZIndex: =3
+
+            StarVisible103 As label:
+                Align: =Align.Center
+                BorderColor: =RGBA(0, 0, 0, 0)
+                BorderStyle: =BorderStyle.None
+                BorderThickness: =2
+                Color: =RGBA(51, 51, 51, 1)
+                DisabledBorderColor: =RGBA(0, 0, 0, 0)
+                DisabledColor: =RGBA(166, 166, 166, 1)
+                FocusedBorderThickness: =4
+                Font: =Font.'Segoe UI'
+                FontWeight: =FontWeight.Semibold
+                Height: =DataCardKey8.Height
+                PaddingLeft: =0
+                Size: =21
+                Text: ="*"
+                Visible: =And(Parent.Required, Parent.DisplayMode=DisplayMode.Edit)
+                Width: =30
+                Wrap: =false
+                Y: =DataCardKey8.Y
                 ZIndex: =4
 
