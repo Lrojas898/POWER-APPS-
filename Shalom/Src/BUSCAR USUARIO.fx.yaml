@@ -1,4 +1,4 @@
-HOME_2 As screen:
+"'BUSCAR USUARIO' As screen":
     Fill: =RGBA(237, 237, 237, 1)
     LoadingSpinnerColor: =RGBA(0, 120, 212, 1)
 
