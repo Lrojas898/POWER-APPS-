@@ -21613,49 +21613,19 @@
             {
               "logicalLocations": [
                 {
-                  "fullyQualifiedName": "'BUSCAR USUARIO'.Icon7_1.AccessibleLabel"
+                  "fullyQualifiedName": "'BUSCAR USUARIO'.Icon3_12.TabIndex"
                 }
               ],
               "physicalLocation": {
                 "address": {
-                  "fullyQualifiedName": "'BUSCAR USUARIO'.Icon7_1.AccessibleLabel",
-                  "relativeAddress": 0
-                }
-              },
-              "properties": {
-                "member": "AccessibleLabel",
-                "module": "BUSCAR USUARIO",
-                "type": "'BUSCAR USUARIO'.Icon7_1"
-              }
-            }
-          ],
-          "message": {
-            "id": "issue"
-          },
-          "properties": {
-            "level": "Medium"
-          },
-          "ruleId": "acc-AccessibleLabelNeeded",
-          "ruleIndex": 1
-        },
-        {
-          "locations": [
-            {
-              "logicalLocations": [
-                {
-                  "fullyQualifiedName": "'BUSCAR USUARIO'.Icon7_1.TabIndex"
-                }
-              ],
-              "physicalLocation": {
-                "address": {
-                  "fullyQualifiedName": "'BUSCAR USUARIO'.Icon7_1.TabIndex",
+                  "fullyQualifiedName": "'BUSCAR USUARIO'.Icon3_12.TabIndex",
                   "relativeAddress": 0
                 }
               },
               "properties": {
                 "member": "TabIndex",
                 "module": "BUSCAR USUARIO",
-                "type": "'BUSCAR USUARIO'.Icon7_1"
+                "type": "'BUSCAR USUARIO'.Icon3_12"
               }
             }
           ],
@@ -21667,6 +21637,36 @@
           },
           "ruleId": "acc-TabIndexShouldBeDefinedForInteractiveControl",
           "ruleIndex": 2
+        },
+        {
+          "locations": [
+            {
+              "logicalLocations": [
+                {
+                  "fullyQualifiedName": "'BUSCAR USUARIO'.Icon3_12.AccessibleLabel"
+                }
+              ],
+              "physicalLocation": {
+                "address": {
+                  "fullyQualifiedName": "'BUSCAR USUARIO'.Icon3_12.AccessibleLabel",
+                  "relativeAddress": 0
+                }
+              },
+              "properties": {
+                "member": "AccessibleLabel",
+                "module": "BUSCAR USUARIO",
+                "type": "'BUSCAR USUARIO'.Icon3_12"
+              }
+            }
+          ],
+          "message": {
+            "id": "issue"
+          },
+          "properties": {
+            "level": "Medium"
+          },
+          "ruleId": "acc-AccessibleLabelNeeded",
+          "ruleIndex": 1
         },
         {
           "locations": [
