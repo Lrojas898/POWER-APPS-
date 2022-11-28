@@ -757,7 +757,9 @@ APUESTA_GRUPO_H As screen:
         HoverBorderColor: =RGBA(0, 0, 0, 0)
         HoverColor: =RGBA(255, 255, 255, 1)
         HoverFill: =ColorFade(RGBA(0, 120, 212, 1), -10%)
-        OnSelect: =SubmitForm(SinInPuntajes) And SubmitForm(GRUPOHFORM) And SubmitForm(GRUPOAFORM) And SubmitForm(GRUPOBFORM) And SubmitForm(GRUPOCFORM) And SubmitForm(GRUPODFORM) And SubmitForm(GRUPOEFORM) And SubmitForm(GRUPOFFORM) And SubmitForm(GRUPOGFORM) And ResetForm(SinInPuntajes) And ResetForm(GRUPOAFORM) And ResetForm(GRUPOBFORM) And ResetForm(GRUPOCFORM) And ResetForm(GRUPODFORM) And ResetForm(GRUPOEFORM) And  ResetForm(GRUPOHFORM) And ResetForm(GRUPOGFORM) And ResetForm(GRUPOHFORM) 
+        OnSelect: |
+            =SubmitForm(SinInPuntajes) And SubmitForm(GRUPOHFORM) And SubmitForm(GRUPOAFORM) And SubmitForm(GRUPOBFORM) And SubmitForm(GRUPOCFORM) And SubmitForm(GRUPODFORM) And SubmitForm(GRUPOEFORM) And SubmitForm(GRUPOFFORM) And SubmitForm(GRUPOGFORM)
+             
         PressedBorderColor: =ColorFade(RGBA(0, 120, 212, 1), -50%)
         PressedColor: =RGBA(255, 255, 255, 1)
         PressedFill: =ColorFade(RGBA(0, 120, 212, 1), -30%)
@@ -1973,7 +1975,7 @@ APUESTA_GRUPO_H As screen:
             BorderColor: =RGBA(166, 166, 166, 1)
             BorderStyle: =BorderStyle.Solid
             DataField: ="U_GruPoH5_x002e_5"
-            Default: =ThisItem.'U_GruPoH5.5'
+            Default: =ThisItem.U_GruPoH5_x002e_5
             DisplayMode: =Parent.DisplayMode
             DisplayName: =DataSourceInfo([@TABLAGRUPOH],DataSourceInfo.DisplayName,"U_GruPoH5_x002e_5")
             Fill: =RGBA(0, 0, 0, 0)
@@ -2205,7 +2207,7 @@ APUESTA_GRUPO_H As screen:
             BorderColor: =RGBA(166, 166, 166, 1)
             BorderStyle: =BorderStyle.Solid
             DataField: ="U_GruPoH6_x002e_6"
-            Default: =ThisItem.'U_GruPoH6.6'
+            Default: =ThisItem.U_GruPoH6_x002e_6
             DisplayMode: =Parent.DisplayMode
             DisplayName: =DataSourceInfo([@TABLAGRUPOH],DataSourceInfo.DisplayName,"U_GruPoH6_x002e_6")
             Fill: =RGBA(0, 0, 0, 0)

@@ -1843,7 +1843,7 @@ APUESTA_GRUPO_E As screen:
             BorderColor: =RGBA(166, 166, 166, 1)
             BorderStyle: =BorderStyle.Solid
             DataField: ="U_GruPoE5_x002e_5"
-            Default: =ThisItem.'U_GruPoE5.5'
+            Default: =ThisItem.U_GruPoE5_x002e_5
             DisplayMode: =Parent.DisplayMode
             DisplayName: =DataSourceInfo([@TABLAGRUPOE],DataSourceInfo.DisplayName,"U_GruPoE5_x002e_5")
             Fill: =RGBA(0, 0, 0, 0)
@@ -2075,7 +2075,7 @@ APUESTA_GRUPO_E As screen:
             BorderColor: =RGBA(166, 166, 166, 1)
             BorderStyle: =BorderStyle.Solid
             DataField: ="U_GruPoE6_x002e_6"
-            Default: =ThisItem.'U_GruPoE6.6'
+            Default: =ThisItem.U_GruPoE6_x002e_6
             DisplayMode: =Parent.DisplayMode
             DisplayName: =DataSourceInfo([@TABLAGRUPOE],DataSourceInfo.DisplayName,"U_GruPoE6_x002e_6")
             Fill: =RGBA(0, 0, 0, 0)
