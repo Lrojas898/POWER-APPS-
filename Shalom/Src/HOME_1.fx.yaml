@@ -23,7 +23,7 @@ HOME_1 As screen:
         Layout: =Layout.Vertical
         TemplatePadding: =0
         TemplateSize: =Min(168, Self.Height - 60)
-        Y: =429
+        Y: =359
         ZIndex: =1
 
         Title5 As label:

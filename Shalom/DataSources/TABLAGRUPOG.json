@@ -3,18 +3,18 @@
     "ApiId": "/providers/microsoft.powerapps/apis/shared_excel",
     "CdpRevision": {
       "BaseUrl": "/",
-      "LastChangedTimeString": "2022-09-26T19:44:14.5210000Z",
+      "LastChangedTimeString": "2022-09-26T19:44:16.4010000Z",
       "RevisionNumber": 1
     },
     "ConnectedDataSourceInfoNameMapping": {
       "__PowerAppsId__": "Row id",
+      "Column1": "Column1",
       "PUNTO_x0020_TOTAL_x0020_G": "PUNTO TOTAL G",
       "PUNTOGGP1": "PUNTOGGP1",
       "PUNTOGGP2": "PUNTOGGP2",
       "PUNTOGGP3": "PUNTOGGP3",
       "PUNTOGGP4": "PUNTOGGP4",
-      "PUNTOGGP5": "PUNTOGGP5",
-      "PUNTOGGP6": "PUNTOGGP6",
+      "PUNTOSGPP6": "PUNTOSGPP6",
       "U_GruPoG1": "U_GruPoG1",
       "U_GruPoG1_x002e_1": "U_GruPoG1.1",
       "U_GruPoG2": "U_GruPoG2",
@@ -23,10 +23,10 @@
       "U_GruPoG3_x002e_3": "U_GruPoG3.3",
       "U_GruPoG4": "U_GruPoG4",
       "U_GruPoG4_x002e_4": "U_GruPoG4.4",
-      "U_GruPoG5": "U_GruPoG5",
-      "U_GruPoG5_x002e_5": "U_GruPoG5.5",
-      "U_GruPoG6": "U_GruPoG6",
-      "U_GruPoG6_x002e_6": "U_GruPoG6.6"
+      "U_GruPoP5": "U_GruPoP5",
+      "U_GruPoP5_x002e_5": "U_GruPoP5.5",
+      "U_GruPoP6": "U_GruPoP6",
+      "U_GruPoP6_x002e_6": "U_GruPoP6.6"
     },
     "DatasetName": "b!a1xa3RSSfU6ruxcJHjJatB0Gfd-GMXdOrAhQBlPQv2HmA8JJUQBLT71_K2-rM4CE.013FRY3XHDGNDCX76CHBE2N7QYK6IQGLAL",
     "EncodeDataset": true,
