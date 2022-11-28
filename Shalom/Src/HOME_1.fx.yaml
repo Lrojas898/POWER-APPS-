@@ -258,7 +258,7 @@ HOME_1 As screen:
         HoverBorderColor: =RGBA(0, 0, 0, 0)
         HoverColor: =RGBA(255, 255, 255, 1)
         HoverFill: =ColorFade(RGBA(0, 120, 212, 1), -10%)
-        OnSelect: =Navigate(GRUPOS)
+        OnSelect: =Navigate(HOME_2)
         PaddingRight: =20
         PressedBorderColor: =ColorFade(RGBA(0, 120, 212, 1), -50%)
         PressedColor: =RGBA(255, 255, 255, 1)
@@ -272,7 +272,7 @@ HOME_1 As screen:
             ="Buscar Usuario
             "
         Width: =270
-        X: =334
+        X: =350
         Y: =144
         ZIndex: =17
 
@@ -290,7 +290,7 @@ HOME_1 As screen:
         PressedBorderColor: =RGBA(0, 0, 0, 0)
         PressedColor: =ColorFade(RGBA(0, 120, 212, 1), -30%)
         PressedFill: =RGBA(0, 0, 0, 0)
-        X: =357
-        Y: =170
+        X: =389
+        Y: =171
         ZIndex: =18
 
